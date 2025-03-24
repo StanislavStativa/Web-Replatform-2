@@ -1,0 +1,204 @@
+﻿---
+ID: "8588cbd2-d004-45cc-847e-71b661c6bec5"
+Parent: "5089c88e-ceb4-47b8-b70b-47d0206931b9"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{487E051E-06C5-4212-97AE-6F922CB6C343}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A315F0C4-B218-43CB-894A-2108A305F928}"
+          p:before="*"
+          s:ds="local:/Data/Heading"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7B1D9C0A2A-2FA4-434F-BB3C-014E228C611C%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B0C1496D-02B2-4B0F-85C5-E9C116EA18AF}"
+          p:after="r[@uid='{A315F0C4-B218-43CB-894A-2108A305F928}']"
+          s:ds="{18DC30EE-90AC-497B-A938-DC4B80B09462}"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBFF1AEF7-7C71-4FC3-9D0C-4ABD1B94F778%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-5-1" />
+        <r
+          uid="{A175B3C9-1526-4CC7-B954-1F46D040A26E}"
+          p:after="r[@uid='{B0C1496D-02B2-4B0F-85C5-E9C116EA18AF}']"
+          s:ds="local:/Data/KITCHEN"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBFF1AEF7-7C71-4FC3-9D0C-4ABD1B94F778%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-1" />
+        <r
+          uid="{DB328EDC-783C-43DE-B4E0-A73091C024E6}"
+          p:after="r[@uid='{A175B3C9-1526-4CC7-B954-1F46D040A26E}']"
+          s:ds="local:/Data/BATHROOM FLOORS"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBFF1AEF7-7C71-4FC3-9D0C-4ABD1B94F778%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-1" />
+        <r
+          uid="{104F83D3-BF3B-4B4E-820B-CC56421B1543}"
+          p:after="r[@uid='{DB328EDC-783C-43DE-B4E0-A73091C024E6}']"
+          s:ds="local:/Data/SHOWER"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBFF1AEF7-7C71-4FC3-9D0C-4ABD1B94F778%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-1" />
+        <r
+          uid="{FE7BF5C1-0956-4DBC-AAF1-03BB76B0C9A7}"
+          p:after="r[@uid='{104F83D3-BF3B-4B4E-820B-CC56421B1543}']"
+          s:ds="local:/Data/BATHROOM"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBFF1AEF7-7C71-4FC3-9D0C-4ABD1B94F778%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-1" />
+        <r
+          uid="{41B523F5-3625-4E09-BA0E-3FCBE640AE9F}"
+          p:after="r[@uid='{FE7BF5C1-0956-4DBC-AAF1-03BB76B0C9A7}']"
+          s:ds="{B778E0EA-8D43-4410-9748-90A33A0D3F0B}"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-6-1" />
+        <r
+          uid="{6282E8F5-0FCD-4C01-8458-7C5B50A1F11D}"
+          p:after="r[@uid='{41B523F5-3625-4E09-BA0E-3FCBE640AE9F}']"
+          s:ds="local:/Data/LIVING ROOM"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-10" />
+        <r
+          uid="{0D6BC5EE-0A05-4207-9BD5-AC6EAAFDE36A}"
+          p:after="r[@uid='{6282E8F5-0FCD-4C01-8458-7C5B50A1F11D}']"
+          s:ds="local:/Data/FIREPLACE"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-10" />
+        <r
+          uid="{6DCFBB77-AB67-4BF1-AEC4-7D7F4339A190}"
+          p:after="r[@uid='{0D6BC5EE-0A05-4207-9BD5-AC6EAAFDE36A}']"
+          s:ds="local:/Data/LAUNDRY ROOM"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-10" />
+        <r
+          uid="{0168C6A1-8F6B-4D00-82DC-73DE0BF29551}"
+          p:after="r[@uid='{6DCFBB77-AB67-4BF1-AEC4-7D7F4339A190}']"
+          s:ds="local:/Data/ENTRYWAY"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-10" />
+        <r
+          uid="{715261BE-4998-4871-A859-BFBD53A3D8C0}"
+          p:after="r[@uid='{0168C6A1-8F6B-4D00-82DC-73DE0BF29551}']"
+          s:ds="local:/Data/OUTDOOR"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-5-10" />
+        <r
+          uid="{286EEDB3-FF55-4F09-AF06-878B6F4F22BA}"
+          p:after="r[@uid='{715261BE-4998-4871-A859-BFBD53A3D8C0}']"
+          s:ds="local:/Data/EDGE AND TRIM"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-6-10" />
+        <r
+          uid="{3CBEC7EC-7645-4E1F-94B9-E0086BE9794A}"
+          p:after="r[@uid='{286EEDB3-FF55-4F09-AF06-878B6F4F22BA}']"
+          s:ds="local:/Data/WALL"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-7-10" />
+        <r
+          uid="{2BCE2428-E08C-4FA0-9761-D768CEC6BE2C}"
+          p:after="r[@uid='{3CBEC7EC-7645-4E1F-94B9-E0086BE9794A}']"
+          s:ds="local:/Data/FLOORS"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-8-10" />
+        <r
+          uid="{1EA66690-EC23-4F5C-99CD-FD2F1669A731}"
+          p:after="r[@uid='{2BCE2428-E08C-4FA0-9761-D768CEC6BE2C}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth5=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth6=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{3314F75F-CB64-47D0-8E0F-D89202F653F1}"
+          p:after="r[@uid='{1EA66690-EC23-4F5C-99CD-FD2F1669A731}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth5=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth6=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth7=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth8=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4B2DEC62-0D82-4AB5-BBCB-D138AE2838D2%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{8173EE85-6662-4174-92C9-30E82EACA5BE}"
+          p:after="r[@uid='{3314F75F-CB64-47D0-8E0F-D89202F653F1}']"
+          s:ds="d9962646-ddc3-432e-9b9d-38f9ce69ca54"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B671F3D62-F530-4459-8778-CA258A7BCD36%7D&amp;Styles=%7C%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{285EB388-096B-434C-9266-ECA4AE8A80D1}"
+          p:after="r[@uid='{8173EE85-6662-4174-92C9-30E82EACA5BE}']"
+          s:ds="local:/Data/Tile Options"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7C%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{4BAACC75-DFE3-4647-A4A0-6BEC1723E3CD}"
+          p:after="*[1=2]"
+          s:ds="{3EDFD351-BA02-43CC-92A9-17BD4BC35680}"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames=%7B440E1C89-4DA9-4421-A36E-A8D9BDC13F8F%7D&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Bottom&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Center&amp;CTAColor=OutlineWhite&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T073449Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: "tile-ideas"
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Tile Ideas & Designs for 2024 | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "329cc10d-08cd-4387-8f1e-1d4e194f9dfb"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: "tile-ideas"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Get inspired by fresh tile ideas and designs at The Tile Shop. Explore new tile styles, industry trends, and more room by room.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T104523Z

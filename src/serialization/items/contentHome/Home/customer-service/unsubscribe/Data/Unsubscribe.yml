@@ -1,0 +1,51 @@
+﻿---
+ID: "f31b4cd2-7980-4251-a68d-08a078087a01"
+Parent: "07f12f06-d0b9-44ca-89e9-f9209b1c0103"
+Template: "81968c8b-fcd7-4a70-97ba-208e1630dd96"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/unsubscribe/Data/Unsubscribe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T061518Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: UNSUBSCRIBE FROM EMAILS
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0124750-5933-40ca-b652-08811816e991"
+    - ID: "a68229e1-a063-4ea5-9582-9692095a06c5"
+      Hint: EmarsysDetails
+      Value: "{971573B8-E81A-4CE2-B14A-DC9250F34DD5}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: "TO REMOVE YOUR NAME FROM OUR MAILING LIST TYPE IN YOUR EMAIL ADDRESS AND CLICK SUBMIT:"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T094404Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SUBMIT" anchor="" linktype="internal" class="" title="confirmation" target="" querystring="" id="{2A9F860C-05F3-4C83-AE50-493B64CE2ACB}" />
+    - ID: "fea3c018-6967-43df-82aa-7c8e17249f90"
+      Hint: RegistrationConfirmationCTA
+      Value: |
+        <link text="Continue Shopping" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2A9F860C-05F3-4C83-AE50-493B64CE2ACB}" />

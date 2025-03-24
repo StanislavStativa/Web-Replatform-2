@@ -1,0 +1,60 @@
+﻿---
+ID: "a1f6edee-a8f2-4e16-9110-b4aecef46c83"
+Parent: "ff304094-19f9-47c6-a5d0-fa78fdc533b0"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/TTS/TileShop/Presentation/Page Designs/Account
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{8BA63347-BE32-4406-9F4A-5D3399793EC1}|{EBF0B197-C459-45C2-B9B5-6A209B82A512}|{75D1E5C4-ED3A-4AAC-BE5B-32D467496E2E}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{47FD62DD-61B5-4330-93B9-DB8A31DAEEAA}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DB5C28B5-6C99-4AB2-AD6C-F67217E2BAD7}"
+          p:before="*"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{ED78CF7E-253F-480C-9095-6FCAD620DE29}"
+          p:after="*[1=2]"
+          s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240418T180653Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87dee8bc-ee44-4e9c-8893-009f928115c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T104705Z

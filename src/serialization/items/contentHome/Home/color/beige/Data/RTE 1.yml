@@ -1,0 +1,48 @@
+﻿---
+ID: "748148ce-f3d1-4fa4-ad87-e96cc814a5f3"
+Parent: "71978d1c-85e8-4d0b-9124-f102d4095f99"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/beige/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h1 class="extra-small-bottom-margin">Create Timeless Spaces with Beige Tiles</h1>
+        <p class="extra-small-bottom-margin">
+        <span>Beige has gotten a reputation for being a “safe” color, but to us, beige is anything but boring. This beautiful neutral color can incorporate a variety of undertones across the color spectrum and fit in with any design style. So while some people might call that “safe,” we prefer: Restrained. Timeless. Neutral. Versatile. Tasteful. Elegant.&nbsp;</span>
+        </p>
+        
+        <p>
+        <span>Our selection of beige tiles includes delicious-sounding shades like “cream,” “almond,” “cappuccino,” “café au lait” and “honey,” and materials including marble, travertine, ceramic, porcelain, glass and more. This sheer variety means that whatever look you’re trying to achieve in your home, there is a style of beige tile that can help bring that vision to life.&nbsp;&nbsp;</span>
+        </p>
+        
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d846a761-b57b-44d3-b3cd-f3bd7b09c79c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T072311Z

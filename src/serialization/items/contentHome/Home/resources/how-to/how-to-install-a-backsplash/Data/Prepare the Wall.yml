@@ -1,0 +1,45 @@
+﻿---
+ID: "ba86dcd0-5eb3-4fcc-812b-fe7628865fdc"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Prepare the Wall"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Prepare the Wall
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>
+        If you're replacing an existing backsplash, carefully remove it using a pry bar and hammer. Patch any holes or cracks in the wall with spackle and sand smooth. For uneven surfaces, consider using joint compound to create a level base for the new tiles.</p>
+        <p>
+        Next, thoroughly clean the surface where the backsplash will be installed. Any grease, dust, other or residues should be removed so the adhesive can properly bond to the wall.</p>
+        <p>If your tile backsplash is being installed over a particularly uneven surface or somewhere with a lot of moisture, such as a bathroom, consider installing a backer board. This thin backing creates a smooth, even surface for the tile to adhere to and protects the wall from moisture.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af925558-f7ea-4b6d-bc70-a9d8225bb9b3"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T101304Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 2

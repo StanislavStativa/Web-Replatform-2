@@ -1,0 +1,33 @@
+﻿---
+ID: "de1683b2-4264-4b86-b9bc-1de56ade9c83"
+Parent: "4f1a487c-dcca-49b2-8b01-d12d2da06cc4"
+Template: "4f1a487c-dcca-49b2-8b01-d12d2da06cc4"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Inspiration Banner/Folder Templates/InspirationBanner Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {10D1687C-E7F3-44F9-B592-D8C99CF4DEFD}
+    {4F1A487C-DCCA-49B2-8B01-D12D2DA06CC4}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9eab8ef4-4fa3-49e5-a5e1-26211cd54f3b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T084501Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "fe8c6fa7-8212-479e-b46e-1e390f9b2978"
+Parent: "9ea896b5-4e44-4fda-b550-3be69ae9cd19"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/annie-selke/glam/Data/Secondary Banner/All Annie Selke Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240711T125223Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3634b394-043a-4160-b79a-d9759c782796"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T055127Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{461DA844-E6E8-4267-A860-CD5D31368AE5}" querystring="" anchor="" target="" title="" linktype="internal" text="All Annie Selke Tile" url="/TTS/TileShop/Home/tile/collection/annie-selke" />

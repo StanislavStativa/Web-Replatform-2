@@ -1,0 +1,38 @@
+﻿---
+ID: "e400a257-c08f-498d-bb93-69130a841c42"
+Parent: "0f6f0a6d-f48d-4224-9dce-e66622e70709"
+Template: "352cec54-86a2-46bb-b6b5-938f4c7875c2"
+Path: /sitecore/content/TTS/TileShop/Data/RegisterCards/Register
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T072008Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Create an Account
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f98adf6-1238-480d-8d26-9c583a3092f4"
+    - ID: "95564745-ebc0-4ea0-8a53-81b27127d237"
+      Hint: RegistrationCards
+      Value: |
+        {A8F99EF9-5328-4F92-8F03-B7C861EA5FCC}
+        {1E217BDC-76E4-4D25-83B9-A60BB8E0ED21}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "cca9581d-0250-4c0d-8a88-dcf8b100695d"
+      Hint: SubTitle
+      Value: Select the type of account that best suits your needs. 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T172211Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" querystring="" id="{8AC42EC7-1C15-4DCB-AE69-3B91850E8CBE}" anchor="" target="|Custom" title="" linktype="internal" text="Create Pro Account with customerId" url="/TTS/TileShop/Home/Register/pro-user-with-customerId" />

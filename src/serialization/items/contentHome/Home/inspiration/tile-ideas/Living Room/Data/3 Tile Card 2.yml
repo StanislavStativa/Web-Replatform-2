@@ -1,0 +1,40 @@
+﻿---
+ID: "b437b8f3-69b5-4480-b7ea-3a8dfcd59480"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/3 Tile Card 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T192224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Installing polished white tile is a very effective way to keep your living room bright.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a6ed2c7-b89c-461b-820c-c4a597983d94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T104417Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Screen-Shot-2018-04-26-at-2.08.00-PM-2_2C:2_Column_All"

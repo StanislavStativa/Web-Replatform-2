@@ -1,0 +1,65 @@
+﻿---
+ID: "6d45d160-c1a6-4873-82b1-834c505eb22e"
+Parent: "e31ad910-7446-45d8-bc6d-14e373ab44db"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/style/scandinavian-chic/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Scandinavian Chic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Establish feelings of warmth in your tiled spaces. By incorporating elements of hygge, you can create a space made for relaxation. Hygge (pronounced “hoo-gah”) is the Scandinavian word for coziness and well-being. Honed marble, wood tile and soft tones of white, blush, grey and green complete Scandinavian Chic.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56b21c28-6537-42ab-ac05-92bec3ba9ce4"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T174912Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Hygge_towel_KJ_Cat%3aCategory_Intro_Image
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Learn More About Scandinavian Chic" linktype="external" url="/blog/five-elements-of-hygge" anchor="" target="" />
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {0BF76B23-64DD-45FC-AED8-28877E397FD3}
+        {1E4AB28B-A90F-4036-88F4-304F5D1D18CC}
+        {04D71B68-BDA3-4646-AF00-E6C2A0FB3241}
+        {65FB6B36-DFD1-4732-95D8-77156A586269}
+        {6B9A5C0C-9780-4EDB-B8A4-B571F691CEA8}
+        {BB7598CC-082D-4C29-ADAF-E68C5B4EC5E1}
+        {9A48297F-D1C9-4386-89D8-BDB85569D7B4}
+        {B55EC2D1-F499-46ED-BCAF-D00EF4F409E2}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

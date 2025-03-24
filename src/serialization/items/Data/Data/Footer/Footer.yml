@@ -1,0 +1,92 @@
+﻿---
+ID: "fcdd231d-a18d-4fcf-8931-4deada292ed5"
+Parent: "8f707840-9016-4e47-bb80-8c4c7a258c0a"
+Template: "085100c7-cb5c-49ca-bfd2-25b332aada51"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0A967081-7D6B-476A-A360-B256249CED0D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "144d0d30-de9d-4d5d-a137-dc3a8365f959"
+      Hint: QuickLinks
+      Value: |
+        {A66EA5F7-0932-430C-8260-44F69C04EC6C}
+        {6ACEE021-725B-4774-8E78-4536D2B0F9F3}
+        {C6022B98-3F2B-4AA1-862B-926E822B8026}
+        {B79A34FE-18C0-40C5-B8F1-E9A65195ADFA}
+        {43FB7BE1-BA9E-49A9-8282-6F171C0B26E0}
+    - ID: "16810b19-d7f5-4c75-b97f-6d9de4eca67c"
+      Hint: FormPlaceholderText
+      Value: Your Email Address
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T081037Z
+    - ID: "46bf6280-511a-4f72-a613-c58e77c6d1d8"
+      Hint: SocialLinks
+      Value: |
+        {4781C0E5-A1EA-4338-BB1E-61596A9D3D9B}
+        {9D134680-2860-479A-B4E9-BDE2FAC5C062}
+        {04935417-11A9-47DC-B18C-1F1B420845F8}
+        {E975ABAC-BCFF-4E78-BBE9-A6A92C89A618}
+        {AC53F855-9261-427A-86DB-465B51E5853C}
+        {CD9871F9-C610-46DF-AFF5-215E5183BFF5}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b65720bf-034c-4eb7-a1d4-0b05de47841b"
+    - ID: "99898c24-518d-4cbd-b3df-93b5a34e911c"
+      Hint: RightDescription
+      Value: |
+        <p>
+                            Tile Shop Financing<br />
+        <a href="/financing">LEARN MORE&gt;</a></p>
+    - ID: "a495914d-77d2-496d-afeb-d6edfa463391"
+      Hint: CopyrightText
+      Value: "© {COPYRIGHT_YEAR} The Tile Shop All Rights Reserved."
+    - ID: "ac965ef2-9996-4ae2-9270-631a16ece8ae"
+      Hint: LeftDescription
+      Value: |
+        <p> STAY CONNECTED<br />
+                                Design - Trends - Events</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c885efc6-b1cc-4d96-969b-58e35f333fcf"
+      Hint: FooterLinks
+      Value: |
+        {19904664-10E9-43DB-8118-02E151091790}
+        {C084CF08-92C5-4531-838F-10C5E2BA3C3B}
+        {84B0F724-5DD2-44FD-9A79-8FDF36F2DDE0}
+        {0B260DEF-DFD5-4943-B3EC-106A0242EDE9}
+        {8C3934CD-A1C2-4497-80FA-279C343D57D4}
+        {851393D9-94F1-4277-9281-2E7CE1332365}
+        {14A2FB45-9E72-495D-8E15-2762CA559B7A}
+    - ID: "cca7e6c8-f867-4117-ade2-4d680e40cc96"
+      Hint: SocialTitle
+      Value: STAY Connected
+    - ID: "d06ead8d-65a2-44d0-88a5-5878fcf2b094"
+      Hint: AssociationLogo
+      Value: Association_Logos
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T053352Z
+    - ID: "de6f596a-fdee-4603-b07d-20e5ca20eb12"
+      Hint: UpdateTimings
+      Value: 20240420T093700Z
+    - ID: "f8c5f546-cfe7-496e-8003-d9a435d0141d"
+      Hint: FormBoxLink
+      Value: |
+        <link text="SUBSCRIBE" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{83EF1C6A-5779-4BFF-B7EF-2A4611C9B3FF}" />

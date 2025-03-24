@@ -1,0 +1,58 @@
+﻿---
+ID: "ab70a196-32fe-4dc2-8f5d-010f3bc846c7"
+Parent: "1b0c38fa-e4de-4936-8de4-6eef5b01a1c6"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-limestone-tile-floors/Data/How to Clean Limestone Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T051847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Limestone Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <img src="https://s7d1.scene7.com/is/image/TileShop/TimberTrails_ChefsDelight_Mudroom_004%3aImage_Caption_Hero_V2" alt="" title="" />
+        <br />
+        <p>Cleaning <a class="font-bold" href="/material/limestone/floor">limestone floor tiles</a> requires a gentle approach to prevent damage and maintain their natural beauty. In this article we will go over each step of the cleaning process as well as other tips for how to keep your limestone tile looking its best.
+        <br />
+        <br />
+        </p><h2>What You'll Need<br />
+        <br />
+        </h2>
+        <ul>
+            <li>Bucket</li>
+            <li>Soft bristle broom or vacuum with soft brush attachment</li>
+            <li>Dish soap or stone cleaner</li>
+            <li>Microfiber cloth</li>
+            <li>Soft towels</li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc6aa2e9-1192-4a9a-815c-fc159c015f69"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T134957Z

@@ -1,0 +1,163 @@
+﻿---
+ID: "0a5edbeb-e878-4450-b0e4-5c0065486a70"
+Parent: "ceb155fe-f9ee-45ce-bdd8-6cf81a745b79"
+Template: "9fba7db0-0937-453e-8801-2684a4239b3e"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material"
+BranchID: "ee937ac9-1add-4fe2-ae28-b3d4d63770c7"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9FE859D3-0919-43DD-A538-44E5AAF4D37B}"
+          p:before="*"
+          s:ds="local:/Data/View All"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/column-1-3" />
+        <r
+          uid="{7B6F8399-DD99-4999-B735-C3CAF0890396}"
+          p:after="r[@uid='{9FE859D3-0919-43DD-A538-44E5AAF4D37B}']"
+          s:ds="local:/Data/glass"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/column-8-2" />
+        <r
+          uid="{41C92351-E2B4-4CFE-8E0E-CC7B38466BFD}"
+          p:after="r[@uid='{7B6F8399-DD99-4999-B735-C3CAF0890396}']"
+          s:ds="local:/Data/metal"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/column-7-2" />
+        <r
+          uid="{8192CC37-2AEA-4055-9396-E9F9D87BC4A8}"
+          p:after="r[@uid='{41C92351-E2B4-4CFE-8E0E-CC7B38466BFD}']"
+          s:ds="local:/Data/porcelain"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/column-6-2" />
+        <r
+          uid="{E2703E5B-4BAA-4AD8-BC2D-0DE087B49007}"
+          p:after="r[@uid='{8192CC37-2AEA-4055-9396-E9F9D87BC4A8}']"
+          s:ds="local:/Data/ceramic"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/column-5-2" />
+        <r
+          uid="{4A74ACF3-CC87-4E92-BA7C-65B1D8F4D1B7}"
+          p:after="r[@uid='{E2703E5B-4BAA-4AD8-BC2D-0DE087B49007}']"
+          s:ds="local:/Data/onyx"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/column-4-2" />
+        <r
+          uid="{717BC5B4-3F7A-455C-B23C-263EDA7D7B38}"
+          p:after="r[@uid='{4A74ACF3-CC87-4E92-BA7C-65B1D8F4D1B7}']"
+          s:ds="local:/Data/travertine"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/column-3-2" />
+        <r
+          uid="{103DA8CB-D072-4296-9244-193A8E2A8205}"
+          p:after="r[@uid='{717BC5B4-3F7A-455C-B23C-263EDA7D7B38}']"
+          s:ds="local:/Data/slate"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/column-2-2" />
+        <r
+          uid="{9422FADF-D8F2-4F77-8106-20FD08C660B1}"
+          p:after="r[@uid='{103DA8CB-D072-4296-9244-193A8E2A8205}']"
+          s:ds="local:/Data/marble"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/column-1-2" />
+        <r
+          uid="{94FFBFEC-0145-468C-9D9A-C48EEBE76054}"
+          p:after="r[@uid='{9422FADF-D8F2-4F77-8106-20FD08C660B1}']"
+          s:ds=""
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{932A647C-A21D-4F2A-A9C1-55D7ED6FE960}"
+          p:after="r[@uid='{94FFBFEC-0145-468C-9D9A-C48EEBE76054}']"
+          s:ds="local:/Data/Title"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D&amp;HeadingSize=h5&amp;HeadingTag=h5&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{D87F7FBE-31D6-4135-9252-D9016D351338}"
+          p:after="r[@uid='{932A647C-A21D-4F2A-A9C1-55D7ED6FE960}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth6=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth7=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth8=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{D9FEF6C1-418A-49DC-9E02-7BBAF6675CEC}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T145656Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jimg
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Material
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Finishing Pieces by Material - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d950426-ffc8-4c1a-a225-3d4c3888168c"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Material
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Browse our finishing pieces by material to find the perfect match for your tile project. Enhance every detail effortlessly.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193437Z

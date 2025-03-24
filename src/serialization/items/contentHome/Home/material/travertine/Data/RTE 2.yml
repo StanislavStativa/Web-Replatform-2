@@ -1,0 +1,47 @@
+﻿---
+ID: "5823892c-5a24-477d-b43f-c9969bfc9302"
+Parent: "f15708cc-ce9e-4ab4-a012-3036b6024124"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <p><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">&nbsp;</strong></p>
+        <p><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Tumbled Travertine:&nbsp;</strong><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Because of how it forms in the earth, travertine naturally contains holes and other negative space that lends even newly cut slabs a textured, time-worn look. This is most evident in tumbled travertine tile, which is made by literally tumbling newly cut tiles in a machine with other rocks. Tumbling ever-so-slightly distresses the surface and softens the sharpness of the tiles&rsquo; cut edges.&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><strong style="color: #323338;">Brushed Travertine</strong><span style="color: #323338;">: This finish is created by lightly smoothing the surface with a rotating wire brush. The surface still contains holes and troughs, but they are less pronounced than in pieces of tumbled stone. Although slightly more refined in appearance than their tumbled counterparts, brushed travertine floor tiles are a popular choice for creating spaces with a relaxed, Tuscan feel.</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span style="color: #323338;"><strong>Honed Travertine</strong>: Honed travertine is created when the holes in the surface of the stone are filled, after which the surface undergoes grinding and buffing, creating a finish that is mostly smooth to the touch, but still matte (no shine). Honed travertine tile is an especially popular choice for bathroom floors, as it still provides some traction when wet.</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span style="color: #323338;"><strong>Polished Travertine</strong>: Looking at a gleaming piece of polished travertine, you&rsquo;d never know how much texture this stone naturally has. All of the crevices on the surface have been filled in and polished to a smooth, glassy shine. &ldquo;Luxurious&rdquo; and &ldquo;elegant&rdquo; are two words to describe this high-shine finish.</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97a8219a-d35f-49c9-bfa1-150453108585"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T064245Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "bc47a829-f159-458c-a002-e6805ea0c6ac"
+Parent: "b47aca0c-86d6-4584-9e65-2f5b63b0765c"
+Template: "643e8e48-00d0-4c6f-bc4c-8b058a8106cd"
+Path: /sitecore/content/TTS/TileShop/Data/CartItem
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T070235Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8adc496-23bf-4a8a-8239-6da69ac4f89b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240607T070235Z

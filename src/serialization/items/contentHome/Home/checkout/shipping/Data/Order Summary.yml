@@ -1,0 +1,48 @@
+﻿---
+ID: "37754829-14c7-48dd-a7a4-a8e2618fe13f"
+Parent: "f7d52f91-419e-4b14-8c74-0d9198459fa7"
+Template: "908a1e74-435c-4042-bcfe-2d23267eee0a"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/shipping/Data/Order Summary
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1059cdcc-bc82-4d26-bb67-86761f5ec78e"
+      Hint: CitizenPayMessage
+      Value: |
+        <div><span>Buy Now, Pay Over Time with&nbsp;</span>
+        <img height="12" alt="citizen pay logo" width="96" src="-/media/33395A0BC8CC4AE190DBA3D471625489.ashx?h=12&amp;w=96" style="width: 96px; height: 12px;" /></div>
+        <div><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://thetileshop.citizensbank.com" target="_blank">Check Eligibility</a>&nbsp;</div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T145719Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Order Summary
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b13335a-8b3f-44c6-807e-2960790169cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Back to cart" anchor="" linktype="internal" class="" title="Back to cart" target="" querystring="" id="{2E02F0E9-69C3-4485-8C0C-A571FC29C38A}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240902T075316Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" querystring="" id="{021AB1E2-3702-4D4E-938C-254ADF6F4C83}" anchor="" target="" title="Continue to payment" linktype="internal" text="Continue to payment" url="/TTS/TileShop/Home/checkout/payment" />

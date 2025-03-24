@@ -1,0 +1,151 @@
+﻿---
+ID: "73444fb7-0a47-44ba-b521-5671847bf19c"
+Parent: "388df468-ab6c-4b01-ae88-f0aae279ce1c"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/material/limestone
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 81
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B92D18EC-7898-49BC-ADC0-F0404B53CC75}"
+          p:before="*"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{42AA88F9-2778-4D47-B317-90E42FA9FE90}"
+          p:after="r[@uid='{B92D18EC-7898-49BC-ADC0-F0404B53CC75}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{42AA88F9-2778-4D47-B317-90E42FA9FE90}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles={4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B22852DD9-6525-4BDB-AB70-7B7FD874FA0D%7D&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{0BAEE862-C60A-464C-A40A-345BB11D51B1}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1072afea-9467-4fe0-a593-6f565d0456e3"
+      Hint: FacetName
+      Value: Limestone
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "In naturally stunning shades of tan, beige, grey, white and brown, limestone lends a welcoming appearance to your space. Design a classic yet contemporary fireplace, entryway, bathroom, kitchen or living area with the soft patterning of limestone. This neutral backdrop creates all-over warmth and allows other design elements to shine without competing focal points."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{7A6D6642-BF78-498D-8C81-4236884A4796}" querystring="" anchor="" title="" linktype="internal" text="Limestone Wall" url="/TTS/TileShop/Home/tile/material/limestone/wall" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T183126Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Limestone Tile for Bathroom Walls & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Limestone Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Silver-Mist_Alice_Hero_WestAllis:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b78f3df3-e636-4bbc-910f-c337fb56499f"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Limestone Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{370B7B1E-1C3D-45B0-9909-3A8F9B96A84C}" querystring="" anchor="" title="" linktype="internal" text="Limestone Floor" url="/TTS/TileShop/Home/tile/material/limestone/floor" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop our huge selection of limestone tile and get expert advice and assistance from The Tile Shop. Visit us today for your free design consultation!"
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{36CF4255-58DF-4EBE-91C3-6B4F51985BAD}" querystring="" anchor="" title="" linktype="internal" text="Limestone Mosaic" url="/TTS/TileShop/Home/tile/material/limestone/mosaic" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T125753Z
+    - ID: "e06dc89c-3fcd-4dcc-a5f7-c76d9502f288"
+      Hint: Material
+      Value: 
+    - ID: "f036ae92-0b0e-4866-a056-fdf3f7952f4b"
+      Hint: ProductHierarchy2
+      Value: |
+        {92B4D56A-B636-4F90-99AD-561AE894B475}
+        {4A484D67-AC9C-4C2F-8DFC-6F461A74432F}

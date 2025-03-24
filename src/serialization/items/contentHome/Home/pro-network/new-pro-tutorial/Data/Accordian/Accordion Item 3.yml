@@ -1,0 +1,41 @@
+﻿---
+ID: "8fe9e48a-4435-47f3-b672-34fd1ba788bf"
+Parent: "a8f6eb65-68bb-47cf-8e42-81374b7e1686"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/new-pro-tutorial/Data/Accordian/Accordion Item 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T064528Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do I pay an invoice?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText"><p>1. Expand "Billing" section in left menu and click "Pay Open Invoices." You can also expand "Account" navigation menu and click "Make A Payment."<br />
+        2. Check “Pay” box on invoices you want to pay then click "Continue."<br />
+        3. Enter payment information and click "Submit."
+        </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d24295cb-e7b5-4d95-ac71-e00d45824b2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T064606Z

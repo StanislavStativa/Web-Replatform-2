@@ -1,0 +1,77 @@
+﻿---
+ID: "475b296f-bf55-4e05-911a-6b6f66867df8"
+Parent: "cf4a6f6e-0dd6-448d-90ef-4837b0850e6b"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/tools/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Get the Job Done with the Right Tile Tools
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        
+        
+        
+        <p style="margin-bottom:0.67em;">Whether you're an experienced DIY enthusiast or just starting out on your first project, having the right tile tools will make the installation faster and easier with a more professional looking end result.</p>
+        <p>&nbsp;</p>
+        <h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">Types of Tools for Tile Work</span></h2>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Tile Cutters</span></h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Manual Tile Cutters</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">Ideal for making straight cuts, manual tile cutters are equipped with a scoring wheel and a snapping mechanism. You score the tile with the wheel, then snap it along the line.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Electric Tile Saws</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">For more complex cuts, such as rounded shapes or thicker materials like stone tiles, an <a href="/installation-care/installation/tools/tile-cutting" class="font-bold">electric tile saw</a> is needed. You can use a diamond blade to make clean, precise cuts on even the hardest tiles.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Tile Installation</span></h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h4">Leveling Tools</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">A level is the first tool you need to ensure proper tile installation. To help keep the tiles in line, you will also need to use level wedges and clips as you work.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em"><span class="h4">Trowels</span></p>
+        <p style="margin-left: 40px;margin-bottom:0.67em">Trowels are used to apply adhesive to surfaces. They come in various sizes and notch shapes, each designed to control the amount of adhesive applied. The size and spacing of the trowel notches should be chosen based on the tile size and type of adhesive used.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Spacers</span></h4>
+        <p style="margin-left: 40px; margin-bottom:0.67em"><a class="font-bold underline" href="/installation-care/installation/tools/tile-spacers">Spacers</a> are small plastic pieces that help in maintaining uniform gaps between tiles. They are available in different thicknesses to achieve various grout line widths. Proper spacing is one of the most important aspects of both aesthetic and structural integrity.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Tile Finishing</span></h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Grout Floats</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">After the tiles are set and the adhesive has dried, a <a href="/installation-care/installation/tools/tile-grout" class="font-bold">grout float</a> is used to press the grout into these gaps and remove excess grout from the tile surface.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Sponges</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">Sponges are particularly helpful for wiping off excess grout and polishing the tile face. We recommend using sponges rather than clothes for cleaning up tile installations.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Safety Gear</span></h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Utility Gloves</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">Wearing utility gloves protects your hands from cuts and scrapes while handling tiles. It also keeps them shielded from tile adhesive, which could irritate your skin.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h4">Knee Pads</span></h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em">When installing floor tile, knee pads are a must. They allow your knees and back to stay comfortable for long periods while working close to the ground.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2>
+        <p>Not sure what tile tools you need for your DIY installation project? You can visit <a class="font-bold underline" href="/store-locator/">one of our showrooms</a> and our expert staff will help you find the right tools for the job.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6dbd223f-80cd-4b4e-9776-7e7ca2d45952"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123209Z

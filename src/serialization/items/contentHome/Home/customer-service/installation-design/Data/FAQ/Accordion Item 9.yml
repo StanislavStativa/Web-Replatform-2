@@ -1,0 +1,37 @@
+﻿---
+ID: "d4e3f0cc-7081-475b-a85b-26d8115f5be6"
+Parent: "403f5a8c-302b-47e9-91dd-d6f5699f0633"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/FAQ/Accordion Item 9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131442Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do I need more material when setting tile in different patterns?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: The more complex your pattern becomes, the greater percentage of overage should be considered. We recommend consulting with a Tile Shop representative or your tile installer to determine the accurate amount of material needed for your project.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afd0ab2b-2c23-455c-a12a-0cb47908b911"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T053748Z

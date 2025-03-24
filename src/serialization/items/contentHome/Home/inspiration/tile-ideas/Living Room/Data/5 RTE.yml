@@ -1,0 +1,42 @@
+﻿---
+ID: "3031f8de-ed24-4364-9eb9-4ffd51ad076b"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/5 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Design Tip: Choosing Colors</h2>
+        <p class="mb-4">When deciding on a tile color, it&rsquo;s important to consider how that will influence the entire room&mdash;your walls, furniture and artwork. Don&rsquo;t be afraid to let your personality show with vibrant, contrasting colors and a mix of different shapes and designs. Natural stone and textured tiles add more drama to your space, and neutral-colored tiles can tie elements in the room together. If you like the look of white carpet, consider a clean white tile instead: you&rsquo;ll get the same eye-catching effect while removing any danger of spills and stains.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfafd3a0-f838-4de3-9e87-7f6c67bfcab3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200734Z

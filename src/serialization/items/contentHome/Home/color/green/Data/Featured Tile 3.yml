@@ -1,0 +1,46 @@
+﻿---
+ID: "22400308-e48a-427f-8a7b-47dcc927737d"
+Parent: "76f6dfca-4202-4b40-94fd-a762bda86225"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/green/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {A0340316-1759-457B-AC71-2B7AB43B790D}
+        {ED65D8D2-2F63-4977-B6AD-4B33875DC3A3}
+        {FD9E762D-08A6-41BC-80E9-188B185F0976}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Green Floor Tiles to Put a Spring in Your Step
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Because green tiles underfoot are reminiscent of walking on fresh green grass, selecting a green floor tile for your </span><a href="/room/entryway" class="font-bold"><strong><span style="text-decoration: underline;">entryway</span></strong></a><span> or mudroom can create a beautiful transition between your outdoor and indoor living areas. A stone tile, like marble or </span><a href="/material/slate" class="font-bold"><strong><span style="text-decoration: underline;">slate</span></strong></a><span>, brings natural materials into your space, while materials like porcelain and cement expand the design possibilities with patterns ranging from subtle to bold. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49d778f5-b2bc-443b-9f14-8cc0f43a5e00"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120852Z

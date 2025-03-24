@@ -1,0 +1,46 @@
+﻿---
+ID: "77144f4d-ad2a-4c8e-8e50-aa20e2e49670"
+Parent: "798af4f9-fae1-4557-a44e-fb447e224da5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/grey/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {F4E0328E-7BA0-4285-82BD-BA23ADB15C16}
+        {22E76862-4748-4F92-AAD3-BE109BB56A67}
+        {E10C7E62-3931-4811-8500-71067B2889E1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Grey Kitchen Tiles to Suit Your Space and Style
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>The kitchen is the heart of any home, and investing time and money into updating that space will have a huge impact on the utility and happiness you get from your space. When you&rsquo;re creating a kitchen you&rsquo;ll love for years to come, consider grey tile. From elegant </span><a href="/material/marble" class="font-bold"><strong><span style="text-decoration: underline;">natural marble</span></strong></a><span>, moody slate, gleaming glass, bold mosaics, artisanal handmade tile, and so much more, there&rsquo;s a good chance that the </span><a href="/inspiration/tile-ideas/kitchen" class="font-bold"><strong><span style="text-decoration: underline;">kitchen design</span></strong></a><span> of your dreams will begin with our selection of grey tiles.  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "472b0f06-416d-4ca6-a378-10444bce94c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120158Z

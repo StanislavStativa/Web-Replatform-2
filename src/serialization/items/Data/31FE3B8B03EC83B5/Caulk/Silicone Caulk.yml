@@ -1,0 +1,26 @@
+﻿---
+ID: "cddd245f-be7e-4304-a69a-79a1d0f18cc7"
+Parent: "2edfc740-3f55-4e85-9736-5593a1dd3773"
+Template: "a61643fd-149a-4c31-b09b-2d3778a5c5f5"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Installation Materials/Caulk/Silicone Caulk
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T074323Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Silicone Caulk
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2fbfa5a-cc54-4b80-a187-b02e8c9a3285"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240503T074323Z

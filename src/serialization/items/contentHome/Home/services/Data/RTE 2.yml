@@ -1,0 +1,44 @@
+﻿---
+ID: "e439fbb3-2de5-4d21-b3c4-597a87b66cfa"
+Parent: "c0390909-926a-473a-ad7b-62109853cdae"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T083802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text md:px-10  px-10">
+        <h2 style="text-align: center;">TILE STARTING AT $1.99/SQ. FT.</h2>
+        <br />
+        <p style="text-align: center;">When we say we have a product for every project, we mean it. We are proud of our huge selection because it means we really have something for everyone, starting at $1.99 per square foot. Let&rsquo;s work together to find the right tiles at the right price for your project.</p>
+        <br />
+        <h4 style="text-align: center;"><a href="/store-locator/" style="color:#3d3935;"><strong>FIND A STORE NEAR YOU &gt;</strong></a></h4>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38cfdb37-0472-4f1c-bd0f-e374f735d196"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T084630Z

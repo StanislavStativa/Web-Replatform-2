@@ -1,0 +1,51 @@
+﻿---
+ID: "4a735019-17a2-4965-86c2-8e89049bcde7"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Detailed Guide to Tile Floor Install"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T050531Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Lay Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        <strong>A Detailed Guide to Tile Floor Installation</strong></p>
+        &nbsp;
+        <p>So, you’re ready to learn how to install tile? Great! After reading this article, you should have a good grasp of what tools and supplies you’ll need and a basic understanding of the tile installation process from planning to grouting. </p>
+        &nbsp;
+        <p>This is not an exhaustive tutorial, but rather an overview of the process. As we can’t cover the full range of products and materials with all their unique specifications, we will occasionally guide you to check the manufacturer’s recommendations. Visit your local Tile Shop to speak to one of our helpful Tile Experts, for any questions you may have.</p>
+        &nbsp;
+        <p>
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Kashmir+Perla_Img%3aImage_Caption_Hero" alt="floor tile marble look " />
+        &nbsp;
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f5c5714-3376-47fa-979a-46cdc1e129ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T060748Z

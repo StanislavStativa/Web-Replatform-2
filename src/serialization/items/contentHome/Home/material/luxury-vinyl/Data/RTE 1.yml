@@ -1,0 +1,40 @@
+﻿---
+ID: "9df8198d-ea43-4a64-91f0-6a752664741b"
+Parent: "d77b0a5d-fb2f-4701-8de0-6682c77197b5"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Why Our Customers Choose Luxury Vinyl Flooring</h2>
+        <p><span>Luxury vinyl flooring offers an affordable yet durable option for both homes and businesses. In addition to providing a wide variety of design choices, our selection of vinyl flooring is enhanced with features like 100% waterproofing, reinforced 12-20 MIL wear layers, and </span><a href="/installation-care/preparation/heated-floor" class="font-bold">in-floor radiant heat</a><span> compatibility to offer maximum utility and longevity in any space. Discover this compelling alternative to traditional flooring materials today. </span><span></span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef6469b8-aeee-490f-8b72-ac26ecd1bd7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124224Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "f8de820c-91e7-4bd6-8795-fc94b2f4e889"
+Parent: "fa297c63-8180-46a5-941a-21819dfce964"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/outdoor/Data/Featured Tile 2/Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40bb43d7-78d3-47be-b1e1-7aab0eff9ec6"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Mosaic tile, like the <a href="/products/alato-beachwalk-chevron-glass-mosaic-wall-tile-615868" class="font-bold">Alto Beachwalk Chevron</a>, makes an appealing accent wall.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140431Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Boulevard_Homes_outside01%3aDesign_Ideas_All_V2

@@ -1,0 +1,32 @@
+﻿---
+ID: "28d26961-7aa6-4330-accd-5bb155c16439"
+Parent: "7a46da7c-528c-4cdb-8fe3-fb0b8f424a8d"
+Template: "2f070d95-fa30-4e27-b726-3ffc36d610a4"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240609T083120Z
+    - ID: "86bab176-69ed-4a3a-bab5-a889731661d1"
+      Hint: CardLists
+      Value: |
+        {5C2F81B3-8624-44A9-A0BD-FC5ADF607FC1}
+        {EFDFF784-238B-4843-99A0-ECBBBDC0FAA0}
+        {981809A1-A4D4-4C84-9C51-0E963D41231B}
+        {41579C3E-EB65-43D6-9D85-75B61DF51F30}
+        {54A864E4-77FA-499B-B18F-A3444F8C9E15}
+        {513B818F-D40B-43DF-83C2-ADCF0F8D6A93}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "179de5ed-aae1-4b39-b5c3-e30dd8771e1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073644Z

@@ -1,0 +1,49 @@
+﻿---
+ID: "98f20845-f5a0-4ec6-9510-a417961e8543"
+Parent: "168790d6-0fff-4a16-b554-aa86e6b2e7db"
+Template: "10d1687c-e7f3-44f9-b592-d8c99cf4defd"
+Path: /sitecore/content/TTS/TileShop/Home/inspiration/Data/Inspiration Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T090427Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Get easy inspiration by checking out our tile visualizer and customer room gallery today.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        Whether you're flipping your first space or designing your dream home, we're here to help every step of the way to make sure your project is a success. With over 30 years in the business, we know tile.
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7511d9d8-f321-4852-9456-2a23716a4d02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T051437Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: InspirationPage_FlatLay_Her
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

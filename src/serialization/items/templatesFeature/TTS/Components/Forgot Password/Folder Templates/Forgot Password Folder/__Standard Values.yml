@@ -1,0 +1,33 @@
+﻿---
+ID: "7bdf77a5-4a42-4a74-8de9-e287aaa40d9f"
+Parent: "06097cf2-9082-41d8-93d1-7c252b53b79a"
+Template: "06097cf2-9082-41d8-93d1-7c252b53b79a"
+Path: /sitecore/templates/Feature/TTS/Components/Forgot Password/Folder Templates/Forgot Password Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {0B024488-5801-4DD3-A804-20562CFD5A5E}
+    {06097CF2-9082-41D8-93D1-7C252B53B79A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20cf9853-c1ac-4388-9c9c-dc50a8deceba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240515T182650Z

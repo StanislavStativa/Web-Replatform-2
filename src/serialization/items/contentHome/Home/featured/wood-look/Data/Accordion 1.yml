@@ -1,0 +1,49 @@
+﻿---
+ID: "956834a4-88be-4424-be00-631ac15901d4"
+Parent: "7cb072de-7444-44fc-956c-b8be7f044417"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/wood-look/Data/Accordion 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {ED743349-2DD4-477D-942B-6FC88BDD4751}
+        {A80ABDFA-7532-4A74-83D1-725640A405A5}
+        {3CA47D99-3B81-406A-B149-75FC7A2A0398}
+        {5A9081F8-A704-47D8-875F-4DFCA3D07E6B}
+        {9D6C1001-8A6F-445C-ACD1-89703077D49F}
+        {48BD85CC-D22D-4A8A-812B-99BA679BF100}
+        {3A1348FF-9105-4990-B23A-FD033A9B6898}
+        {06B1F65F-A314-4A65-9D56-4A37DB43E632}
+        {8EF291E4-CC6B-403F-98B0-E525A556A276}
+        {D84CAEF4-128A-4BD6-813C-C4583853454A}
+        {39292E07-882E-4211-BEE6-4CA39FCBE475}
+        {34F6A76F-FA69-45C5-A8AE-AFE339211872}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T174928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: ASK THE TILE EXPERTS
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76b9e7ae-b2ed-4515-bc5a-c423f06f2794"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T165230Z

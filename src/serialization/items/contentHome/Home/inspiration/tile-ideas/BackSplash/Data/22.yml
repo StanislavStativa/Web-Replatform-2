@@ -1,0 +1,42 @@
+﻿---
+ID: "24873db3-4cb6-4b7b-99e4-5ca1d7e537c8"
+Parent: "db8445ba-b5ae-4bc6-ad38-b0252175a341"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/BackSplash/Data/22"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Retro Trim Details
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        This super glamorous Hollywood Regency-style bathroom features a <a class="font-bold underline" href="/products/imperial-bianco-gloss-long-side-bullnose-ceramic-subway-tile-3-x-6-in-441956">REL subway tile trim</a> for a smooth edge and a minimalist <a class="font-bold underline" href="/products/black-high-pencil-liner-0-375-x-12-in-494695">black pencil liner</a>. The design is simple but authentic to the 1930s Craftsman house. The <a class="font-bold underline" href="/blog/8-shockingly-beautiful-before-afters/">story of this bathroom renovation</a> is certainly worth the read.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8386a5b-ccf3-4a67-9046-38fcaf792e14"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T115333Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "JessicaBrigham_BathroomProject_Bathroom_023:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 22

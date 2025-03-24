@@ -1,0 +1,37 @@
+﻿---
+ID: "77348a6a-9a66-4b32-8bfe-7875de8eeb31"
+Parent: "403f5a8c-302b-47e9-91dd-d6f5699f0633"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/FAQ/Accordion Item 8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Should I order extra materials?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>It's recommended to order 10%-15% extra product based upon pattern layout to accommodate for cuts and repairs. Availability and style of tiles are always changing so having an extra box or two on hand is highly recommended.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04385a54-be65-417b-8d3a-e8770058ddd5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T053710Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "2705ac35-65e1-4b68-a0cd-7a5d3dda5b5c"
+Parent: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts/Why do I need to use grout
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T055547Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Why do I need to use grout?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Applying grout fills the voids and makes your floors and walls stronger by bonding the tiles together, preventing them from chips, cracks and water damage and allowing for the expansion and contraction of your floor, wall or ceiling without damaging the tile. Premium quality grout also helps prevent stains, giving your tiling project a long-lasting, professional finish.</p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cff3b603-ff67-4883-86d2-342e47020b5c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T055155Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "f2e017d5-32f0-4008-9d46-2ed54b0d936a"
+Parent: "eb7bfa1f-8d16-4aaf-bc81-d03b23ed906a"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/Rich Text 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T074548Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text md:px-10">
+        <p>*To receive 5% back on referred orders your customer number must be associated with the order prior to the order closing. You must have a valid Pro account and have submitted a W9 / Direct Deposit form to qualify for 5% back. Referred orders for Pros without a W9 will not be paid. You can download the W9 <a class="font-bold" rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.irs.gov/pub/irs-pdf/fw9.pdf" target="_blank">here</a>, and Direct Deposit form <a class="font-bold" rel="noopener noreferrer" rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/forms-and-applications/Direct_Deposit_Form_2024.pdf" target="_blank">here</a>. Once completed submit to <a class="font-bold" href="mailto:prorewards@tileshop.com">prorewards@tileshop.com</a>. Once confirmed you will receive an ACH deposit the following month on any qualifying orders in the previous month with adjustments from returns if applicable.</p>
+        <p>&nbsp;</p>
+        <p id="disclaimer"><!-- </p--></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "495b3c27-e8fa-455c-b81b-2ca1711dfb0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T101432Z

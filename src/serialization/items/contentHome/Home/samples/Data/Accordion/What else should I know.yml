@@ -1,0 +1,51 @@
+﻿---
+ID: "e8f89bc8-bc0e-4f63-9b1d-6688155a55de"
+Parent: "633b2e39-a55c-4f31-84d3-0d9c2ae26c4b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Accordion/What else should I know
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What else should I know before purchasing tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        The product you are purchasing is either a natural stone product quarried and cut from stone quarries, clay tile, or other tile product processed and manufactured to achieve certain effects of color and texture.<br />
+        <br />
+        You understand and agree that stone is a natural product subject to variations in size, color, shade, veining, texture and polish. These variations are what make natural stone unique.<br />
+        <br />
+        All stone samples are provided by the manufacturer and are intended to convey the characteristics of a certain type of stone, but variations will occur.<br />
+        <br />
+        You understand that the product&rsquo;s conformity to a sample is not assured and is not the basis of the Sales Agreement.<br />
+        <br />
+        Although manufactured and processed tiles may be more uniform, they can also have variations in color and texture. In addition, the color of any sample may display differently when large amounts of the color are visible.<br />
+        <br />
+        Where sales taxes are applicable, all orders are subject to the taxes in the location where the customer picks up/receives the order.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6635a1f6-3129-43d3-9eb1-83938df118db"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T101112Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "08d8f912-b22f-462d-b253-db880fd8831f"
+Parent: "2c6333b2-7e55-4ac1-b90f-5c4d26f74e14"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/resources/faqs/product/Data/Product FAQs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {852B5E12-F054-4573-8378-A5B2C521AA48}
+        {C9E51259-DD43-4A9B-9F5F-4667E93D37CC}
+        {0005B806-B9BC-4305-B6B8-4B3E3D169A33}
+        {3604AA60-9E89-4154-9B6D-F2B56D76A977}
+        {78716302-70EF-4B73-B98C-5AF7877505B5}
+        {A9E1B85D-2BA7-488E-9EFF-B70E041870B4}
+        {7C11B69B-ECB1-444B-B43E-1873273FC9A1}
+        {C9DA69BB-E77E-4490-93BD-D60E6A19CC6C}
+        {7DB00B6D-B4D6-4039-A5B9-65F8FB7DE79A}
+        {1F51DCDE-2277-4C68-B4B4-B3AA3EB306E6}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052635Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Product FAQs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1460067e-909e-4be3-bfa8-7c4c259b5300"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T122623Z

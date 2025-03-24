@@ -1,0 +1,70 @@
+﻿---
+ID: "7d28085a-ca54-45ba-b598-02922f8acd82"
+Parent: "689ba7cd-b3eb-4ab8-820e-8447ac4ff6f6"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower/Data/Number Image 6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: |
+        <div class="rtc__list-item-with-image__number">
+        01
+        <div class="rtc__list-item-with-image__number__sub">of 06</div>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T114708Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install the Shower Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Once you have marked the tile layout, you can start tiling the shower wall. Start by placing the first row of the tiles at the shower's bottom and continue adding one row at a time. Utilize the centerline you established to place your first tile and work your way out to the corners.</p>
+        <p>When installing tiles, it's important to use a level to make sure your tiles are straight. You'll also want to use <a class="font-bold underline" href="/installation-care/installation/tools/tile-spacers">tile spacers</a> to ensure that the tiles are even spaced.</p>
+        <p>Visit our <a href="/resources/how-to-lay-tile" class="font-bold underline">How to Lay Tile</a> page for a complete guide on installing tile.</p>
+        <section class="c-rich-text">
+            <div class="" item-id="{61D75390-A4ED-4082-BE8B-4004B5CD1800}">
+                <div class="richText-max richText"><p /><div class="rtc__callout-text">
+        <p class="rtc__callout-text__headline">Tips for Planning Your Shower Layout</p>
+        <p class="rtc__callout-text__headline">Here are a few tips for planning your shower layout:</p>
+        <ul class="rtc__callout-text__body">
+            <li>Consider the size and shape of your shower when planning the tile layout for your shower wall.</li>
+            <li>Place your shower fixtures at a comfortable height for all users.</li>
+            <li>Plan your tile layout in a grid system before installing the tile to ensure a nice, consistent layout.</li>
+            <li>Install your shower tiles one row at a time to ensure that you maintain level grout lines from wall-to-wall.</li>
+            <li>Use a level to make sure that your tiles are straight.</li>
+            <li>Use tile spacers to ensure that your tiles are evenly spaced.</li>
+        </ul>
+        </div><p /></div>
+            </div>
+        </section>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b41b5fc5-832f-4bd1-b4a9-87d59d4c362d"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T175007Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

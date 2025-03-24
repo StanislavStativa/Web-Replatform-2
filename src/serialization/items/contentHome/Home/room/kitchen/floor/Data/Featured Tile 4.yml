@@ -1,0 +1,43 @@
+﻿---
+ID: "eacecc73-9549-40e9-8aee-f00321ed4706"
+Parent: "f6fd5cf8-2b05-4d11-bf67-dd2ab325156c"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/Featured Tile 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {5D5DC250-FB10-42D8-9E01-78434F3F67AF}
+        {02DE76C4-7BCE-453C-BBDC-491FA9E398F6}
+        {67B49B46-686E-45C7-A170-61ACDB7AD7C1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Go Natural with Wood- and Stone-Look Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p><span>Wood creates a warm, rustic feel, while marble evokes a classical elegance. Natural materials look great in a kitchen, but if you’re looking for an option that requires less maintenance consider porcelain or ceramic tile made to resemble some of the finest marble and wood. These tiles will provide the look you want but with an easier level of care.&nbsp;&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "225869ae-2353-4ad5-918d-a04f931a4e51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T045012Z

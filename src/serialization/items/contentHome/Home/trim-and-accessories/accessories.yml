@@ -1,0 +1,129 @@
+﻿---
+ID: "639a1c87-7273-4fa1-80b7-1b53dd40a12e"
+Parent: "ceb155fe-f9ee-45ce-bdd8-6cf81a745b79"
+Template: "9fba7db0-0937-453e-8801-2684a4239b3e"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories"
+BranchID: "ee937ac9-1add-4fe2-ae28-b3d4d63770c7"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2AB81D8F-73EE-4ECC-AB28-081F4C441557}"
+          p:before="*"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par=""
+          s:ph="headless-main" />
+        <r
+          uid="{A1CFD831-82EB-4C9C-AC23-BC2CE3B8302D}"
+          p:after="r[@uid='{2AB81D8F-73EE-4ECC-AB28-081F4C441557}']"
+          s:ds="local:/Data/Title"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D%7C%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D&amp;HeadingSize=h5&amp;HeadingTag=h5&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{056F640B-B532-46C1-BCE5-13F1869882EA}"
+          p:after="r[@uid='{A1CFD831-82EB-4C9C-AC23-BC2CE3B8302D}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth5=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{AE017B70-C771-4626-9CB9-6C415F5449E7}"
+          p:after="r[@uid='{056F640B-B532-46C1-BCE5-13F1869882EA}']"
+          s:ds="local:/Data/Dural Metal Profiles"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/column-1-2" />
+        <r
+          uid="{80B564A7-3EAB-411D-8FF2-C6416758F90C}"
+          p:after="r[@uid='{AE017B70-C771-4626-9CB9-6C415F5449E7}']"
+          s:ds="local:/Data/Dural Premium Metal Profiles"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/column-2-2" />
+        <r
+          uid="{E0384281-A19D-4B9D-9A89-A041F0B53415}"
+          p:after="r[@uid='{80B564A7-3EAB-411D-8FF2-C6416758F90C}']"
+          s:ds="local:/Data/Curbs and Thresholds"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/column-3-2" />
+        <r
+          uid="{91912F1A-550C-4E5C-B8B7-0A4EB26C3026}"
+          p:after="r[@uid='{E0384281-A19D-4B9D-9A89-A041F0B53415}']"
+          s:ds="local:/Data/Switch Plates"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/column-4-2" />
+        <r
+          uid="{CFE70431-61E5-4357-B6F3-D927244524CC}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/View All"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/column-5-2" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T145748Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jimg
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Accessories
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Tile Accessories - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13478db0-2c76-4e74-8449-45f7e58f6ea1"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Accessories
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop our huge selection of tile accessories and get expert advice and assistance from The Tile Shop. Visit us today for your free design consultation!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193437Z

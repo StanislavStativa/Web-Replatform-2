@@ -1,0 +1,42 @@
+﻿---
+ID: "b0f6550a-e2d6-42a8-b0ff-8fd860cb55fb"
+Parent: "3e68123f-7238-485c-a4b0-79dc4972497f"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Contact Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T051351Z
+    - ID: "2fd2a0b0-c8f0-42c0-9670-42334d097a1d"
+      Hint: NavigationType
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Contact Us
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div><a href="tel:888-398-6595" style="text-decoration:underline;">Call: 888-398-6595</a><br />
+        <a href="/customer-service/contact-us" style="text-decoration:underline;"> Send an Email</a>
+        <br />
+        <br />
+        <spa>Customer Service is open:<br />
+        <span>Mon-Fri 8am-4pm CST</span><br />
+        <span>Sat-Sun closed</span></spa></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93aa4e19-3a11-49d0-9754-4b85f7d68e19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240529T051612Z
+    - ID: "f963dac5-85a6-4092-bb0d-5fb6181a0397"
+      Hint: HideInDesktop
+      Value: 1

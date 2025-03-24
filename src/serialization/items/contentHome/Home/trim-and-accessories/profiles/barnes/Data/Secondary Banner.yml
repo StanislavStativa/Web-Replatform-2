@@ -1,0 +1,62 @@
+﻿---
+ID: "a9a347ea-6370-4781-9b41-54ffc0746634"
+Parent: "df1732b5-5865-44dc-bfc2-2bcfe5280202"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/barnes/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Barnes
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Used as a wall accent or decorative molding, Barnes trim tile from is perfect for completing your room’s look. Create interest with a stand-out piece that elevates your home by adding a stylish finishing touch. With smooth curves and an intricate beveled design, this tile accent can also be used as a chair rail or edging for a countertop.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81e98f38-f999-4fee-be3d-475f58f3d8f6"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T064429Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Barnes_Sandlewood_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {0F480122-4744-4C2B-A875-C715E23F3FE6}
+        {6D9EADEE-3E94-4E92-87A5-EEB826E3FEDE}
+        {EAD29FE4-00BA-4E37-9B31-A268CCE59327}
+        {E7E4A3C3-B598-4D2A-88BD-6750FB4BAB81}
+        {B8986135-6A7A-4393-8F49-3AEF6174707E}
+        {EBC91309-E51A-4B06-971F-4E3D87E9C599}
+        {EB08FA40-2394-4F4F-853E-411B5823271B}
+        {248AFFBE-A411-4F51-BE93-3E45B04020ED}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

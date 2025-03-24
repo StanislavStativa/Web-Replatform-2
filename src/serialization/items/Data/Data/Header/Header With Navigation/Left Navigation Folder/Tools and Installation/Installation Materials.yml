@@ -1,0 +1,39 @@
+﻿---
+ID: "1bff310d-d302-4fe3-a434-5885a52165c0"
+Parent: "e688b14e-53eb-43cb-95f2-722479c97e80"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Installation Materials
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T065853Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installation Materials
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "590a1ffc-224f-49fa-acb2-3bd1aa8840e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {30325DB6-5B35-4403-A455-7C85E3CEC9EE}
+        {8D9E3362-5809-484B-AFED-CA730EA55AE6}
+        {2EDFC740-3F55-4E85-9736-5593A1DD3773}
+        {ABDB041E-EB07-4A02-A546-E6349BFEC4DC}
+        {E578C5AE-A89B-4ADB-A886-517505D1A45C}
+        {B2404C75-DEE6-44CF-854C-6D3B49F75F89}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T081138Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Installation Materials" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DE274BA3-729C-4668-963B-5BE33A685DAD}" />

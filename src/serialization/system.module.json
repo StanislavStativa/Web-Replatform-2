@@ -1,0 +1,33 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "System.TileShop",
+  "references": ["Template.TileShop"],
+  "items": {
+    "includes": [
+      {
+        "name": "ApiKeys",
+        "path": "/sitecore/system/Settings/Services/API Keys/xmcloudpreview",
+        "scope": "singleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "Module",
+        "path": "/sitecore/system/Settings/Feature/TTS",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "TailwindConfiguration",
+        "path": "/sitecore/system/Settings/Feature/Experience Accelerator/GridTailwind",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "BucketItemsRule",
+        "path": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
+        "scope": "singleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

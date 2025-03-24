@@ -1,0 +1,50 @@
+﻿---
+ID: "1fe14380-9099-48c9-b624-13da73c3dd43"
+Parent: "650687b4-afcf-4e37-a96b-b0245a50a75f"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/mosaic/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {82E805D8-17FB-42D7-9FB8-C6BB3BB3C652}
+        {EEB313E8-A473-4648-A027-FBF13000009D}
+        {0321E9AC-773B-46E5-989F-0377A1777AFA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: More Ideas for Using Porcelain Mosaic Tile in Your Home
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>&nbsp;</span></p>
+        <p>• <strong>Fireplaces</strong>: Switching up the look of your fireplace front is an easy way to change the whole look of a room. Updating your <a href="/room/fireplace" class="font-bold">fireplace tile</a> is a great trick for making a traditional space feel more transitional, or for adding vintage character to newer-build homes.</p>
+        <p><span>&nbsp;</span></p>
+        <p><strong>• Entryways</strong>: Why not try a pop of bold design right inside the front door? Plus, if you don’t have a separate foyer area, mosaic tile can visually distinguish your <a href="/room/entryway" class="font-bold">entryway area</a> from the rest of your main floor.</p>
+        <p><span>&nbsp;</span></p>
+        <p>• <strong>Powder Rooms</strong>: Even a pocket-sized space feels inviting and intentional with the right finishes. Try installing porcelain mosaic tiles on your powder room floor, walls or both.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef57957e-8bd8-49e0-83f4-c88dd014df6b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T113606Z

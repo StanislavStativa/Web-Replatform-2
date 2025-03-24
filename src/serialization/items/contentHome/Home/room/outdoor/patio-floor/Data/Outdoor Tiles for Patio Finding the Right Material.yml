@@ -1,0 +1,46 @@
+﻿---
+ID: "8dd91c8a-91d5-4e13-af42-7e3837a27c84"
+Parent: "3842ed41-a3ea-4c49-9e76-798b22515d9b"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor/Data/Outdoor Tiles for Patio Finding the Right Material"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {87268DA5-2D91-458E-8FE7-4F45035A939F}
+        {E6413A07-B547-4F61-BDC9-37EAA6CB4935}
+        {DC1DF050-3FC3-49E3-AF99-4C44A0BCC260}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T063909Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Outdoor Tiles for Patio: Finding the Right Material"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText">
+        <p><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #323338;">When it comes to choosing tiles for your outdoor patio, it&rsquo;s all about finding the perfect combination of function and design to fit your climate, lifestyle and aesthetic. For those looking for something durable and water resistant, one popular option is porcelain tile for outdoor patio design; because it&rsquo;s an engineered material, you&rsquo;ll also have a wide variety of colors, patterns and finishes to choose from to bring your vision to life. And of course, you can never go wrong with&nbsp;</span><a href="https://www.tileshop.com/material/slate"><strong>slate tiles</strong></a><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #323338;"><strong>,</strong> or our assortment of natural outdoor patio stone tiles. These tile materials are low maintenance and long-lasting, making them a sensible, fashionable investment that will pay off for years to come.&nbsp;</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2226cc51-0aa3-49e4-803e-5388c4edb5db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T065420Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "4fcf1249-2574-4bfd-8d2f-0275f2e21e93"
+Parent: "633b2e39-a55c-4f31-84d3-0d9c2ae26c4b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Accordion/Do you offer design services
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you offer design services?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Yes, free design services are part of The Tile Shop experience both in stores and online. Schedule your&nbsp;<a class="font-bold underline" href="/DCA?sc_trk=%7B5A35FF11-40E8-4C0D-90E3-F7A0507EE80A%7D" target="_blank">free design consultation</a><a class="font-bold underline" href="/DCA?sc_trk=%7B5A35FF11-40E8-4C0D-90E3-F7A0507EE80A%7D" target="_blank">,</a> call our Tile Experts at 888-398-6595, or visit&nbsp;<a class="font-bold underline" href="/store-locator/" target="_blank">your nearest store</a> to start your project today.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb970888-d078-44b8-b206-5ca85116e477"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T100902Z

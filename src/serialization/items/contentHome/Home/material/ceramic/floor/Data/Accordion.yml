@@ -1,0 +1,55 @@
+﻿---
+ID: "e967aeef-7d6e-4cd3-98f0-669da5474ddb"
+Parent: "02fdeb3b-e1e9-4f63-9f3c-069b4a9371e8"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {2C5921CC-BD03-4D15-8D35-A2B1A58E1713}
+        {CFA1D7C7-473C-45EA-8BBA-E021A28F65DE}
+        {3EC907A7-AB74-497D-BADA-A0AC8D8376AF}
+        {B6B8CAF5-5F90-4A40-A2F2-22CB1549AB5A}
+        {77D33291-EF33-4F03-8726-23ACCEFD6FE6}
+        {94421289-B6DD-491D-9083-B7A1D02689E0}
+        {5D28BC30-13AD-4CC9-819E-7A3DF978251D}
+        {FA40F4BD-E8BF-41A6-95FD-3D0E656FFE58}
+        {9B198B18-C92D-4009-B94F-02D6481F17F3}
+        {58BD19D6-702E-4326-939A-E55F01D17493}
+        {6EDFB0D3-B05A-4BF7-AD65-A8CE86A1004F}
+        {BC679817-9102-4A7C-8E0C-829611AB1616}
+        {2D636563-004E-49B4-8599-00EBF481F0C6}
+        {1E2BBCF4-D0C9-4637-B01B-BF44C2A1F232}
+        {C96B336E-991B-4535-9D0E-145FC8956F37}
+        {DE679E6A-B45A-4C0A-AAB4-054486CDEC4B}
+        {ACD56CB4-03AB-4F7E-9288-36330D140015}
+        {F8B5CE52-BFB8-40E6-A5D5-7508918B088D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12f4193b-3e07-4539-bedd-600a9b4b5a33"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240711T155308Z

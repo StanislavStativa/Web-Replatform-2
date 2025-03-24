@@ -1,0 +1,30 @@
+﻿---
+ID: "2639f2fe-aa6b-4e63-a04a-cc6b113f5db6"
+Parent: "1ff79c11-c7c7-4a7f-8feb-bea2b79d3557"
+Template: "1ff79c11-c7c7-4a7f-8feb-bea2b79d3557"
+Path: /sitecore/templates/Feature/TTS/Common/Rendering Parameters/Size/_CTAHoverEffect/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b18cc7d-e6d5-414d-ac94-830d135feedd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240419T130809Z
+    - ID: "e2f69131-6bf4-4686-9a8c-1f3a7e0f7fe1"
+      Hint: CTAHoverEffect
+      Value: false

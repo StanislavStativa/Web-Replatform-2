@@ -1,0 +1,40 @@
+﻿---
+ID: "345bf35a-54c7-47ad-aedd-96e6ff31c7fe"
+Parent: "fa122941-ab06-4c17-869e-aed7b3f4a722"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/hexagon/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class=" rich-text ">
+        <h3 class="extra-small-bottom-margin"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;" class="h3">Our Experts Can Help</span></h3>
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">With so many great options to choose from, we know there’s a lot to consider when you’re shopping for hexagon tiles. When you visit one of our showrooms, our friendly sales associates will guide you through our&nbsp;</span><a class="font-bold" href="/free-design-services">complimentary design services</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;to create a finished space that’s perfect for you and your family.&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64b29ee1-fd4b-4862-b1fe-6cc9ad304863"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T071014Z

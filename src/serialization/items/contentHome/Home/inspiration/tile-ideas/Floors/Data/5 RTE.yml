@@ -1,0 +1,42 @@
+﻿---
+ID: "38b2c251-7309-4648-9ee2-3e34a92a0c3f"
+Parent: "ab120a54-99f6-4e66-aae0-5a7186a7db1c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Floors/Data/5 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Design Tip: Choosing Colors</h2>
+        <p class="mb-4">An easy way to set the mood in your home is by selecting the right flooring color. In recent years, grey has become a very popular color for tile floors because they help create a cool, comfortable vibe. Grey also provides a neutral backdrop that allows you to decorate in any color and make a bold statement with your appliances, accent walls and furniture. Check out modern ceramic tiles, which are available in a variety of grey tones and textures. Bright white tiles are also trendy these days as they can provide stunning contrast to dark cabinets and appliances. White tile also makes your room look bigger (especially if you use large-format tiles). Install larger, lighter tiles in a room with lots of natural sunlight for a special look. Marble tile will continue to be popular especially in kitchens and bathrooms. Want to add warmth? Explore rich tones in wood-look tile like espresso and honey. Get creative with 2-color treatments that draw the eye and use unique border designs to add a pop of contrasting or complementary color.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4e18fc6-1c72-46a5-adda-ff9b93760e6b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200504Z

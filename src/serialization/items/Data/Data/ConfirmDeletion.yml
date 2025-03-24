@@ -1,0 +1,23 @@
+﻿---
+ID: "409de361-c32e-4df6-bbf1-034140849ef1"
+Parent: "b47aca0c-86d6-4584-9e65-2f5b63b0765c"
+Template: "7c0711ea-c0b0-4d28-aee6-5f73451d338c"
+Path: /sitecore/content/TTS/TileShop/Data/ConfirmDeletion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T092913Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b1446ab-095c-48f4-9b20-80dbee8822f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T092913Z

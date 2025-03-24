@@ -1,0 +1,58 @@
+﻿---
+ID: "a3004538-2d81-4855-87a3-2fcfa849a194"
+Parent: "a00a4612-1ec9-485f-a705-242c3f514bdd"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/ad-choices-opt-out/Data/Rich Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T134519Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"></div><p><strong>To Opt Out</strong></p>
+        <p><strong>What does it mean to opt-out?</strong></p>
+        <p>In general, &ldquo;opting out&rdquo; means that you don&rsquo;t want The Tile Shop to deliver ads that are targeted to your interests on your computer or device. If you use multiple browsers, computers or mobile devices, you must opt out of each individually. Please note that if cookies are not enabled in your browser, or if you use certain ad-blocking tools, our opt-out mechanism may not work properly. Please also note that deleting your cookies does not equate to opting out.</p><br />
+        
+        <p><span style="text-decoration: underline;">Mobile App-Based Opt-Out Mechanism</span><br />
+        You may also opt out using the &ldquo;AppChoices&rdquo; mobile application, which you can download to your mobile device from your App Store or via the Digital Advertising Alliance App Choices page <a class="font-bold" href="http://youradchoices.com/appchoices">here</a>.</p><br />
+        
+        <p><strong>Please note that you will still see ads if you opt out.</strong> The ads delivered via tileshop.com will just not be as relevant to you.</p><br />
+        
+        <p>When you opt out, we record the opt-out on our servers and in browser environments will attempt to place an HTTP opt-out cookie onto your computer or device. When you opt out, The Tile Shop also stops serving interest-based advertising on that browser or device. In many instances, even if you delete your cookies, we are able to maintain a record of your opt-out on our servers. <strong>Nonetheless, please note that if you clear your cookies, or if you use a different browser or device, you may need to renew your opt-out choice.</strong></p><br />
+        
+        <p>You may learn more about interest-based advertising and opt out of interest-based advertising from us and other online advertising companies that are also members of applicable self-regulatory organizations by visiting their opt-out links:</p><br />
+        
+        <ul>
+            <li>Network Advertising Initiative (NAI) &ndash; <a class="font-bold" href="http://youradchoices.com/appchoices">http://youradchoices.com/appchoices</a></li>
+            <li>Digital Advertising Alliance (DAA) &ndash; <a class="font-bold" href="http://youradchoices.com/appchoices">http://youradchoices.com/appchoices</a></li>
+            <li>Digital Advertising Alliance Canada (DAAC) &ndash; <a class="font-bold" href="http://youradchoices.com/appchoices">http://youradchoices.com/appchoices</a></li>
+            <li>Digital Advertising Alliance EU (EDAA) &ndash; <a class="font-bold" href="http://www.youronlinechoices.com/">http://www.youronlinechoices.com/</a></li>
+            <li>DAA AppChoices page &ndash; <a class="font-bold" href="http://www.aboutads.info/appchoices">http://www.aboutads.info/appchoices</a></li>
+        </ul>
+        <p>If you have questions, please contact us at <a class="font-bold" href="mailto:customerservice@tileshop.com">customerservice@tileshop.com</a>.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b25c72f-a06f-42c4-9e4b-21486aa675ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240729T104502Z

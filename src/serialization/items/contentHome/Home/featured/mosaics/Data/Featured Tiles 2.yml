@@ -1,0 +1,44 @@
+﻿---
+ID: "9ad384d0-f210-4507-bdd9-c0fc34b0c20f"
+Parent: "a36d8e51-e0e7-49ad-8bab-79e4d28705ba"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {857BB083-E000-4CEC-8E8B-096189B7999B}
+        {0BD1809B-DBD0-4DEF-850E-828710243362}
+        {F01A16A8-FAF0-4FFC-8F52-370A93069740}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mosaic Bathroom Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p />If you love a good before-and-after (and who doesn’t?), you’ll love the results of adding mosaic tiles to your bathroom. A beautiful mosaic tile bathroom floor is even more gorgeous when you carry over the same tile to your <a class="font-bold" href="/room/bathroom/tub-surround">tub surround</a>, backsplash, or shower niche. Our selection of mosaic bathroom tiles also includes plenty of coordinating colors and shapes that are perfect for mixing and matching in an all-tile bathroom. <p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9238a0ca-23a3-461e-839b-083e73260938"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185217Z

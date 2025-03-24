@@ -1,0 +1,49 @@
+﻿---
+ID: "b5c08b7c-bd04-46e1-beeb-35842286b5e1"
+Parent: "0e5df92b-51b2-4b63-a8a8-4538e4a23a16"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos/Data/Featured Tile 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {4CDD782E-6539-41C7-9BCD-7B51476EFCDC}
+        {7FCE921D-EF8C-4947-9F45-0C6C62B2CC96}
+        {3C115289-87F6-4C87-BFD3-9E939C5950A7}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T153714Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Material
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94bc24d2-6770-47af-9819-18dafc990258"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <div class="rich-text md:px-10 px-10" style="text-align: justify;">
+        <p style="text-align: justify;"><span>The Tile Shop offers listellos in a variety of materials like ceramic, porcelain, glass, marble, slate, travertine and even a combination of stone and glass. When installing tile in any space, you can add your personal style with a decorative element to make your space unique. No matter the design of your home, we have something that will fit your style.</span></p>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T062446Z

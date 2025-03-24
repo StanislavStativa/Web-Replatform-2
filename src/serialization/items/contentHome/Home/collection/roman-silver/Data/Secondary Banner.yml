@@ -1,0 +1,64 @@
+﻿---
+ID: "bb3c74b8-e430-4b68-bd4f-86762bc7575d"
+Parent: "8f576b87-4fd2-49d3-bd29-0ad2f88107b3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/roman-silver/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Roman Silver Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Striking grey hues give this Italian marble pronounced depth and classic, luxurious appeal. Bold veining in shades covering the spectrum from light to dark grey create a moody, dramatic appearance. Roman Silver's satiny honed finish modernizes this classic stone, perfecting for delivering a touch of warmth to your tiled spaces.<br /></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c10f49f-5719-4742-a0d2-d15a45cfc2a0"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T131329Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "roman_silver_flat_lay_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {ABFE7155-9BB1-40F9-B946-6CA0FF86C477}
+        {6A4A07A3-3916-4D2B-BE9B-6E60003BF23D}
+        {575F9754-04B6-4350-95C9-4AD1FAE29CC4}
+        {70ADB30D-B887-405E-B417-EE64EED10DCE}
+        {6A446F26-0891-4D02-AB60-0455D18168FF}
+        {C2F1692C-EABA-4AFF-967F-3D9134079D01}
+        {6D1AEA83-4485-4B16-B444-CE5B16957950}
+        {F5FB4003-BA78-44CA-BA67-42A92D364F8B}
+        {1D74FA39-D778-4B87-89BB-A823E331C48C}
+        {2EEE1200-A1A1-4506-87C1-57A8A41428FE}
+        {F678C97D-B988-489E-B54F-9A45B738172E}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

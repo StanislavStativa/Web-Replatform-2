@@ -1,0 +1,45 @@
+﻿---
+ID: "e61a5e01-65ad-4ce9-93e3-40957397c7ef"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/RTE Top"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240618T115953Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        
+        <div class="rich-text"><h1 class="font-latoLight mb-8">26 Chic and Charming Bathroom Flooring Ideas for 2024</h1>
+        <div>
+        <p class="mb-4">
+        Searching for bathroom floor ideas? Durable, easy to clean and water-proof, tile is the perfect option. With thousands of&nbsp;<a class="font-bold underline" href="/room/bathroom/floor">bathroom floor tiles</a>&nbsp;to choose from, The Tile Shop can help you create a space that’s uniquely you. Explore these bathroom floor ideas and schedule a&nbsp;<a class="font-bold underline" href="/free-design-services">free design consultation</a>&nbsp;to get started.
+        </p>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2825badb-ce1d-4d53-8e5e-023386f55534"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T124535Z

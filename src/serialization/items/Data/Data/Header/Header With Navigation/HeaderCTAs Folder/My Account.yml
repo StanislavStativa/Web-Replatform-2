@@ -1,0 +1,44 @@
+﻿---
+ID: "61654867-2ca2-4e1f-b9f0-7d9f8a67aa60"
+Parent: "3f9159ca-ae3a-499b-8dd0-d747e1d8e425"
+Template: "6fa64785-e1e3-4d6a-a475-4822ba21a9c3"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/HeaderCTAs Folder/My Account
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240524T070442Z
+    - ID: "2f6c8804-7235-4d62-aa95-ec4778e9c1a1"
+      Hint: OverlayLinks
+      Value: |
+        {E41FD701-DCFF-4518-AEC0-3CE671543EEA}
+        {57357036-ECB2-4DE2-84E0-34F2AE0351B5}
+        {27E5C54A-BA1B-4E36-AABF-DB0FA1AE3021}
+        {3C30ABCD-3A06-41B4-B7EE-F9AA68BFA388}
+    - ID: "31659d6d-73bb-4ebb-a4c6-b9a27fec2645"
+      Hint: CTAType
+      Value: MyAccount
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{76CFB277-F58F-4388-A12C-74F861B4452B}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: My Account
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2c47c59-9d0c-4833-a6ae-5eac7cd36974"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T093051Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="My Account" anchor="" linktype="internal" class="" title="My Account" target="" querystring="" id="{8DF2EC53-E547-43D6-B5DD-B5248ADE4B62}" />

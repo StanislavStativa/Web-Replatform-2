@@ -1,0 +1,38 @@
+﻿---
+ID: "4a038f5c-857e-4582-9e60-7f753ee14abb"
+Parent: "3f498845-9112-44de-b3ca-fd6bff98652a"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/laura-ashley/Data/Featured TIles/Tile 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240911T123654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5786c1d6-06df-46cc-9b57-2b0cb072b218"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        Featured Tile:&nbsp;<a href="/products/laura-ashley-louise-star-charcoal-hex-porcelain-wall-and-floor-tile-10-x-9-in-681558">Laura Ashley Louise Star Charcoal</a>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T124012Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Charcoal_Vertical_Detail_Vignette_Straight:Design_Ideas_All_V2"

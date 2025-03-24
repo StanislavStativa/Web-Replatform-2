@@ -1,0 +1,46 @@
+﻿---
+ID: "522e305f-2455-4339-98fa-0bc22c8e85b0"
+Parent: "a37bbf96-c8d9-4b5b-a227-55e499fd6663"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-wall/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {57A815BF-56F5-4559-ADDB-C3E201B1970F}
+        {296E43A1-35F4-47C2-B9F6-A809DC1E5EF7}
+        {12EE7617-7BD3-41BE-B520-9C872971E574}
+        {1FE38D24-74A9-4166-83AE-0B17BE8806CA}
+        {1BAC34BD-EB4D-4995-8FEE-D33CB6CAB920}
+        {B6877999-5FF5-4B83-853F-C0CE5116EC96}
+        {39FC2891-7344-441C-BFAF-6F3A817B8469}
+        {B1DA3BEB-C988-4CDE-927E-DBEB816479BE}
+        {702B4F89-0581-4740-811E-EAAA1EB406CF}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ee52ed2-d54d-4260-8199-213e06cbdc66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T100605Z

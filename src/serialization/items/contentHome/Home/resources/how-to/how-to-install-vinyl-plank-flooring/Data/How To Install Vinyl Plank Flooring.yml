@@ -1,0 +1,82 @@
+﻿---
+ID: "edefc91c-40e3-4296-a44c-02be072854ee"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/How To Install Vinyl Plank Flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T033639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How To Install Vinyl Plank Flooring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Living room with light brown luxury vinyl flooring and brown leather sofa." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Andover_Bayhill_Blonde_HORIZONTAL_V2:16x9" /></p>
+        <br />
+        <p>One of the easiest and most satisfying DIY projects is installing your own <a href="/material/luxury-vinyl?pageNumber=1&amp;pageSize=12">vinyl plank flooring</a>. This project can be done in as little as an afternoon and is easy enough that even first-time home renovators can tackle it with relative ease. <br />
+        <br />
+        In this article, we’ll take a look at how to install vinyl plank flooring in your house, step by step.</p>
+        <br />
+        <h2><span class="h2-style">Advantages of Vinyl Plank Flooring</span></h2>
+        <br />
+        <p><a class="font-bold" href="/material/luxury-vinyl">Vinyl plank flooring</a> has become one of the most popular flooring choices, and with good reason. Vinyl planks are generally a more budget-friendly option compared to natural materials while still offering the look of <a class="font-bold" href="/material/luxury-vinyl/wood-look-luxury-vinyl-flooring">hardwood</a> or stone. Add to that an unparalleled durability, and vinyl planks save you money up front and in the long run, because they virtually never need to be refinished or replaced.</p>
+        <br />
+        <p>Beyond cost considerations, vinyl plank flooring offers multiple day-to-day benefits as well. Depending on the specific variety you choose, vinyl plank tile is either highly water-resistant or fully waterproof, making it an ideal flooring option for areas where moisture and humidity are common, such as kitchens, bathrooms, and laundry rooms. And it is remarkably easy to clean and maintain: regular sweeping and occasional mopping are usually all that's needed to keep it looking great.</p>
+        <br />
+        <p>But perhaps the best part of vinyl plank flooring is how easy it is to install. In fact, vinyl plank flooring is often designed specifically for DIY installation. Whether you're a seasoned DIY enthusiast or a first-time renovator, this ease of installation allows you to achieve professional-looking results while saving on installation expenses.</p>
+        <br /><p />
+        <br />
+        <div class="image-caption">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/LVT_Cyrus_Plus_Fauna_DOG_4%3aImage_Caption_Hero_V2" alt="A large white dog rests on a blue dog bed, next to a bone and food and water bowls. The floor under the dog bed is covered in luxury vinyl wood-look planks." title="A large white dog rests on a blue dog bed, next to a bone and food and water bowls. The floor under the dog bed is covered in luxury vinyl wood-look planks." />
+                <p class="caption" />
+            </div>
+        <br />
+        <div class="richText-max richText"><p /><h2><span class="h2-style">Tools for Installing Vinyl Plank Flooring</span></h2>
+        <br />
+        <ul>
+            <li>Measuring Tape</li>
+            <li>Vacuum or broom</li>
+            <li>Utility knife or vinyl cutter</li>
+            <li>Chalk or pencil</li>
+            <li>T-square or straight edge</li>
+            <li>Level</li>
+            <li>Staples or tape</li>
+            <li>Adhesive (if necessary)</li>
+            <li>Hammer and tapping block</li>
+            <li>Pry bar (if removing existing flooring)</li>
+            <li>Caulk gun and silicone adhesive</li>
+            <li>Rubber mallet</li>
+            <li>Spacers</li>
+            <li>Small hand roller</li>
+            <li>Large floor roller</li>
+            <li>Safety gear (gloves, knee pads, and safety glasses)</li>
+            <li>Finishing nails</li>
+        </ul><p /></div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7b8dd12-eab0-4171-92bf-d38e59617b45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T052329Z

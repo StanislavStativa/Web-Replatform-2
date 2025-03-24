@@ -1,0 +1,61 @@
+﻿---
+ID: "4979519a-b9fc-424a-894b-64bdbcaf5468"
+Parent: "001e8fa6-f4d1-477e-a94c-00c481e18e60"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl/stone-look-luxury-vinyl-flooring/Data/Category Card with link"
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Stone-Look Luxury Vinyl Flooring"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Stone-Look Luxury Vinyl Flooring offers the luxurious appearance of natural stone with incredible durability and easy maintenance. Our selection of stone-look luxury vinyl tile and planks feature vivid veining and beautiful color variation to effortlessly mimic the authentic look of creamy beige and cool grey stones, crisp white Italian marbles, and more. With benefits like performance waterproofing, 12-20 mil. wear layers for maximum durability, and compatibility with in-floor heating systems, luxury vinyl from The Tile Shop is an ideal flooring solution for both residential and commercial settings.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05827ac0-7b55-4e93-850a-a87904b35523"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T135240Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LVT_Trecento_Mountains_Grey_Vertical_9x16:Category_Intro_Image_V2"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {693FA798-D57A-4797-A1BB-A554687C8A00}
+        {03255601-E661-44F8-A427-9435B864F2A0}
+        {DC07DBD5-8DA6-476F-AA97-18AD40345624}
+        {C9CF584B-2C3D-450D-8F86-ADB4819E0FA9}
+        {282B7515-4C50-4612-BDD9-69D4ED75CDA8}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

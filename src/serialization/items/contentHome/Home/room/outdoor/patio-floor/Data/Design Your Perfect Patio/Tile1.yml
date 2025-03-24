@@ -1,0 +1,38 @@
+﻿---
+ID: "14ca3251-366e-4e45-a986-e96efdcf9b42"
+Parent: "bb650a10-0e9a-45b8-aa9e-7db731e6afb8"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor/Data/Design Your Perfect Patio/Tile1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T064119Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1585c7e6-2ae4-4982-8bfc-1126ca77aea8"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a href="https://www.tileshop.com/products/manhattan-mercury-porcelain-wall-and-floor-tile-24-x-24-in-681015"><strong>Manhattan Mercury</strong></a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T064837Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: ZigAndCo_ORCSpring2021_Sunroom_026%3aDesign_Ideas_All_V2

@@ -1,0 +1,30 @@
+﻿---
+ID: "02ee931b-56d6-4a96-88b9-51b13fbb428e"
+Parent: "e33eec67-0b84-41b1-81d4-8f18dbd2c6bc"
+Template: "e33eec67-0b84-41b1-81d4-8f18dbd2c6bc"
+Path: /sitecore/templates/Feature/TTS/Common/Rendering Parameters/Alignment/_DesktopHorizontalAlignment/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "110e1516-7b52-4847-888f-d324c6fb7464"
+      Hint: HorizontalAlignment
+      Value: Left
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "261c3710-d90b-4ffc-b657-4048bb7d9514"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T104827Z

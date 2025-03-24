@@ -1,0 +1,42 @@
+﻿---
+ID: "d49db527-c443-4ac2-8a71-401710de3c20"
+Parent: "955919c4-e2cf-453e-b7a2-9c0a7eea3acc"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/white/Data/RTE 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText ">
+        <h2 class="extra-small-bottom-margin"><span>We&rsquo;re Here to Help</span></h2>
+        <p><span>With so many great options to choose from, our selection of white tile includes the perfect one (or more!) for your next project.&nbsp;</span><a href="https://www.tileshop.com/store-locator/"><strong><span style="text-decoration: underline;">Visit one of our showrooms</span></strong></a><span>&nbsp;and let our friendly sales associates help you create your ideal space.&nbsp;</span></p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f9ed71b-81ed-44f7-b53b-f6bfa5a56888"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123205Z

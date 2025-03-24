@@ -1,0 +1,31 @@
+﻿---
+ID: "7557a6a7-47b5-47a4-a188-048a8c1ac13b"
+Parent: "3ec22ef7-a736-4b22-8b21-a349a3f6d746"
+Template: "3ec22ef7-a736-4b22-8b21-a349a3f6d746"
+Path: /sitecore/templates/Feature/TTS/Data/Brand/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T175758Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\markb
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "111bce65-e04d-4216-a7c4-bf291014fb8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181203T175831Z

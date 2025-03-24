@@ -1,0 +1,46 @@
+﻿---
+ID: "3d559557-57f6-430c-aa3e-7aafadf1995a"
+Parent: "c6fa2f0b-8595-4a0c-a4af-9009e82436d0"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile/Data/Cutting Tile With a Snap Cutter"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cutting Tile With a Snap Cutter
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>In this section, we&rsquo;ll demonstrate how to use a snap cutter to cut glass tile, ceramic tile and porcelain tile. The only tile you cannot cut on a snap cutter is natural stone.</p>
+        <br />
+        <p>Snap cutters are very versatile tools, because they are relatively lightweight and easy to carry around, set up and break down, and you can work with virtually no dust&mdash;or mess&mdash;right next to your job site.</p>
+        <br />
+        <p>There are many different versions of snap cutters on the market, but all of them have virtually the same components: they&rsquo;ll have a cutting wheel, rails (usually two, but sometimes a single rail), and a handle so you can apply pressure.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a305a05-22e8-4e61-a2a0-20bbe2dbf649"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 4
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T122319Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "snap%20cutter:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 2

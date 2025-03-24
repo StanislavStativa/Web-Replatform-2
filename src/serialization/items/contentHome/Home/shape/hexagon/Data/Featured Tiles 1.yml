@@ -1,0 +1,44 @@
+﻿---
+ID: "ec100665-6995-4da7-a471-1f42e7d0836c"
+Parent: "fa122941-ab06-4c17-869e-aed7b3f4a722"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/hexagon/Data/Featured Tiles 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {526D8CF0-44CA-4C47-A704-FD601BFD305B}
+        {1F0A3F5E-6D85-403B-B51C-F6E660D1803D}
+        {30A5230B-FD45-4B3F-848E-9B1952960A9C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: New Updates on a Traditional Shape
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">If you think all hexagons are more or less the same, you’re in for a happy surprise. By playing with proportions, lengthening sides and narrowing angles, you can create entirely new looks with the typical six-sided shape. One look at these reimagined styles—including&nbsp;</span><a href="/products/picket-florencia-super-bianco-ceramic-wall-tile-3-x-12-in.-494094">Picket</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">,&nbsp;</span><a href="/products/spoke-white-porcelain-mosaic-wall-and-floor-tile-681740">Spoke</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;and the jewel-like&nbsp;</span><a href="/products/costa-aegean-glossy-porcelain-mosaic-wall-and-floor-tile-681785">Costa</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">—and you’ll never look at hexagon wall tiles the same way again</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3b21e42-ea00-443c-960a-d0f5802a7171"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T102543Z

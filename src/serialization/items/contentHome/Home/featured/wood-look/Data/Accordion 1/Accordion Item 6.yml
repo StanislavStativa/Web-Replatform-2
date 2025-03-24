@@ -1,0 +1,38 @@
+﻿---
+ID: "48bd85cc-d22d-4a8a-812b-99ba679bf100"
+Parent: "956834a4-88be-4424-be00-631ac15901d4"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/wood-look/Data/Accordion 1/Accordion Item 6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T175545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you clean wood look tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>We recommend cleaning your wood-look floor or wall with one of The Tile Shop’s <a class="font-bold" href="/products/superior-grout-and-tile-neutral-cleaner-1-quart-021650">ceramic and porcelain tile cleaners</a> that is safe for your tile.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d567838-916b-49c8-9e57-0f4ba0db9754"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T102101Z

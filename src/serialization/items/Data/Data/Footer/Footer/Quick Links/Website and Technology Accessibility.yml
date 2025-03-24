@@ -1,0 +1,42 @@
+﻿---
+ID: "b79a34fe-18c0-40c5-b8f1-e9a65195adfa"
+Parent: "92ef70dd-0acd-407b-8d18-123d53c9089e"
+Template: "bd4c4a5e-9d05-40dc-abbd-580c53586791"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Quick Links/Website and Technology Accessibility
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T082553Z
+    - ID: "3b8f5f74-5125-49f8-93d5-8be7873e6dc8"
+      Hint: Link
+      Value: |
+        <link text="Website and Technology Accessibility" anchor="" linktype="internal" class="" title="Website and Technology Accessibility" target="" querystring="" id="{D8AB9D36-355B-4F7F-87C4-1A401B382DCF}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b431b4bc-e9b9-4e04-b6a3-e91e0c19e217"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T115844Z
+    - ID: "eb6d6df5-80d7-4c92-b538-451295240471"
+      Hint: HideLinkOnMobile
+      Value: 1

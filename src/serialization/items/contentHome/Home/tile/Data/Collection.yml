@@ -1,0 +1,50 @@
+﻿---
+ID: "654541b3-413c-4cae-95fe-6d07f9fb7c7f"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Collection
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Collection
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {1DCFCC7E-CBAB-4E6B-8A98-C99108B1505A}
+        {6EEDE714-A21D-4FEC-B73D-CF4C533026AC}
+        {80D96C30-9374-4A40-8AE2-1B9408F67A0D}
+        {FB9A0516-AA5E-4F12-B90C-A26CC9756444}
+        {B7015547-74DC-4DE6-B0EB-2C0C84E25D5B}
+        {9BB9E2C1-3DDF-47F1-9C2B-8EF9A2C7E999}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Our collections include our tile families that have matching trims and finishing pieces, making it easy to fully coordinate a room from top to bottom, as well as our designer collaborations. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18cc1604-bce1-44ac-8f59-714c0c9b331b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T114909Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Black_Marquina_RC_BDR_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{352B24CB-9B91-4ADE-971B-3496F587E50F}" />

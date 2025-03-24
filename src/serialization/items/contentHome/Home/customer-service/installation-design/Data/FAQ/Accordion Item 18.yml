@@ -1,0 +1,53 @@
+﻿---
+ID: "2f073d45-5555-4d79-b612-1187398f64d3"
+Parent: "403f5a8c-302b-47e9-91dd-d6f5699f0633"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/FAQ/Accordion Item 18"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T133629Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is lippage and how do I avoid it?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>As defined by ANSI (American National Standards Institute) standard A108.02, Section 4.3.7: "Lippage refers to differences in elevation between edges of adjacent tile modules." In other words, there is often a difference in height between tiles that touch one another, which create a warped ridge surface that isn't completely flat. </p> <br />
+        <p>There are a few steps tips for installing large format tiles that will help avoid lippage:</p>
+        <div class="richText-max richText">
+        
+        <ul>
+            <li>
+            <p>The Tile Shop offers products and tools, such as the Raimondi System and Leveler, to determine if your subfloor is flat enough to receive tile. If it is not flat, you'll need to replace the subfloor. Replacing the subfloor will vary depending on the material of the floor so we recommend speaking with a Tile Shop Associate in regards to your specific project before moving forward.</p>
+            </li>
+            <li>
+            <p>Create a grout joint that securely holds your tiles in place. It's recommended to have a minimum width of 3/32  inches between adjacent tiles because the closer the edges, the more the lippage will be accentuate by any abrupt changes in plane. </p>
+            </li>
+        </ul></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9286e92-257c-47dd-a5c0-3e38815d3b46"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T055210Z

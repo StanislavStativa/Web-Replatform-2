@@ -1,0 +1,37 @@
+﻿---
+ID: "095cda51-1d01-4944-af4d-62c1480614e6"
+Parent: "379bbc05-41a5-4e0a-b9fb-ae8bfaccc068"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/maintenance-and-care-videos/Data/How to Use Sealers and Cleaners on Grout and Tile"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084233Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab9abd89-bf54-430a-8289-dfc4cc02dad7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="How to Use Sealers and Cleaners on Grout and Tile" anchor="" linktype="internal" class="" title="How to Use Sealers and Cleaners on Grout and Tile" target="" querystring="" id="{FE998213-1A2D-44F6-A882-F4170A87DFBA}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240609T121954Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "How-to-Use-Sealers-and-Cleaners-on-Grout-and-Tile"

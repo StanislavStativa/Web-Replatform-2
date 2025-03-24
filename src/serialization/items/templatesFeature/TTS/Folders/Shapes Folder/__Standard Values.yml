@@ -1,0 +1,31 @@
+﻿---
+ID: "1a737263-f12f-421d-9636-a826c8df5a1b"
+Parent: "a0289e22-f700-4f29-be2e-298cf76a5616"
+Template: "a0289e22-f700-4f29-be2e-298cf76a5616"
+Path: /sitecore/templates/Feature/TTS/Folders/Shapes Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{1DF50058-8A1F-4867-AD64-41CCE934418F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T203145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3074ce56-272c-47a3-81fc-5e035003d81b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180907T203204Z

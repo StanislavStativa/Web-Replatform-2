@@ -1,0 +1,59 @@
+﻿---
+ID: "86ddedfc-dfd4-454e-bc98-de1fac1f7af1"
+Parent: "92c10c4b-dd07-4418-a934-15da70c253cf"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Create Any Look with Porcelain Tiles</h2>
+        <p><span>&nbsp;</span></p>
+        There’s much to appreciate about porcelain tile, but the amazing variety in a single material might be what we love most of all. Our wide selection of porcelain tile includes all the looks you need to create a home that perfectly expresses your style. Here are just a few attributes to think about when shopping for your ideal tile: 
+        <p><span>&nbsp;</span></p>
+        <h4>Shapes</h4>
+        <span>Add dimension and interest with unique shapes like hexagons and </span><a href="/shape/arabesque" class="font-bold">arabesques</a><span>, or keep things streamlined with go-to rectangle or </span><a href="/shape/penny-round" class="font-bold">penny rounds</a><span>. This manmade material comes in just about any shape you can dream up.  </span>
+        <p><span>&nbsp;</span></p>
+        <h4>Color</h4>
+        <p><span>We love the simplicity of <a href="/color/white" class="font-bold">white porcelain tile</a>, but why stop there? Whether your tastes tend toward the neutral or the bold, we carry porcelain tiles in virtually every color of the rainbow.   </span></p>
+        <p><span>&nbsp;</span></p>
+        <h4>Patterns</h4>
+        <p><span>From coastal-chic blue and white designs to bold wallpaper-inspired prints (and so much more), we offer patterns to complement any design style. </span></p>
+        <p><span>&nbsp;</span></p>
+        <h4>Mosaics</h4>
+        <p><span>Each piece of porcelain mosaic tile features expertly paired combinations of shapes, colors and/or materials to elevate any space, from kitchens and bathrooms to hallways and </span>entryways<span>.</span><strong></strong><span></span></p>
+        <p><span>&nbsp;</span></p>
+        <h4>Lookalikes</h4>
+        <p><span>From <a href="/featured/wood-look" class="font-bold">wood-look porcelain tile</a> to realistic </span><a href="/featured/marble-look" class="font-bold">marble-look tile</a><span> and even beautiful dupes for coveted encaustic (cement) tiles, porcelain’s ability to mimic just about any other material expands your options for achieving the look you want in every room in your home. </span></p>
+        <p><span>&nbsp;</span></p>
+        <h4>Texture and Dimension</h4>
+        <p><a href="/application/floor" class="font-bold">Floor tile</a><span> may need to be flat and even, but wall tiles are a perfect way to explore the design possibilities of surfaces such as softly angled geometric facets, embossed reliefs and raised patterns.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da31932c-3442-4263-99bb-4c8c62974b15"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T030436Z

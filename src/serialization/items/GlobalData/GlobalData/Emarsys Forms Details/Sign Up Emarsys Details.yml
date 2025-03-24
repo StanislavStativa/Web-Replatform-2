@@ -1,0 +1,49 @@
+﻿---
+ID: "4cfeabbc-ea2a-4097-be29-3ad82aed6432"
+Parent: "c0a0d52e-e37b-4ea0-8ad0-a1d3a5b52cf7"
+Template: "88a887cc-7496-4bbd-93a3-52bf5b4b29cb"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/Sign Up Emarsys Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16e8abc8-b219-4884-b427-2044b5c8d163"
+      Hint: BrontoEmailSubscriptionListFieldId
+      Value: 1210
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T043233Z
+    - ID: "3230820f-f322-43f4-aa1f-0f1d117a433f"
+      Hint: SubmitAction
+      Value: "{987B3F36-2782-42E3-9567-4A28E78585B7}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5e0a5690-3c33-406a-9ab1-87436b45b972"
+      Hint: FirstNameFieldId
+      Value: 1
+    - ID: "7194afc0-4209-46d7-ac9f-683c8971b59c"
+      Hint: EmailFieldId
+      Value: 3
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04dff687-65d3-4a80-b1cc-e0b2e8c67219"
+    - ID: "91585fff-3f43-40ff-8293-ff54e3e46150"
+      Hint: LastNameFieldId
+      Value: 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T050822Z
+    - ID: "daa828e4-28db-4ba5-902a-f4b37920b324"
+      Hint: EmailOptInFieldId
+      Value: 31

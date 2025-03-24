@@ -1,0 +1,44 @@
+﻿---
+ID: "4efa6c54-4371-4826-8dc3-795407c85f17"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "f38cfc12-cb66-470a-92cb-17856f1103a5"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/Image Banner 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T094405Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be89fed4-c06e-4f10-a157-a16d943c4e63"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T112133Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Banner_Blog:Banner-Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Blog" linktype="external" url="/blog" anchor="" target="" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: "Banner_Blog:Banner-Mobile"
+    - ID: "f8424eb8-e593-42c6-84cb-de891a9f8c0e"
+      Hint: TabletImage
+      Value: "Banner_Blog:Banner-Tablet"

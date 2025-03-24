@@ -1,0 +1,42 @@
+﻿---
+ID: "f812e71c-58dc-4254-819c-97f5c95e6089"
+Parent: "f330bea7-95f6-4b77-bf13-aa17b66e3dff"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-limestone-tile-floors/Data/Limestone Tile Cleaning FAQs/How do you remove stains from limestone tiles"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you remove stains from limestone tiles?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>The first step in removing stains from limestone tile is to act as quickly as possible. The longer a spill stays on the stone, the more likely a stain is to develop and the more difficult it will be to clean.</p>
+        <p>You can also work to prevent stains by ensuring your limestone tiles are properly sealed. Limestone is a natural stone material, which means it is porous and therefore absorbs liquids easily. This is what can lead to staining, if not addressed quickly.</p>
+        <p>If a stain does get into the stone, you can either steam clean it or use a commercial stone cleaner designed for use on natural stone. Instructions for both of these processes can be found above in the section Deep Cleaning Limestone Floors.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8a0992c-5593-4d8e-97a4-1751fe9121b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T134114Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "e4b16b9f-de1e-4d1c-83bc-dfda186e8c96"
+Parent: "98dbb9b2-6d6f-47a3-ba50-8b6d2c63afb8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/backsplash/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {748F1836-5A42-4DBA-AFDB-6E03B73D0A77}
+        {E70E903F-425D-4245-BBD9-B53E1CBAB4CF}
+        {DF7FA7A3-727E-4A14-95A4-BEE42498888A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Glass: Vibrant and Reflective"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>Choose </span><a href="/material/glass" class="font-bold underline">glass tile</a><span> for a kitchen backsplash that is sleek and contemporary. Glass tile comes in a variety of colors, shapes and styles to reflect your personality. Whether you’re drawn to a stunning mosaic or chic subway, glass tile will make your kitchen backsplash shine.  </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70368dcd-ec29-4cc1-aa29-3c770344b74b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240815T113102Z

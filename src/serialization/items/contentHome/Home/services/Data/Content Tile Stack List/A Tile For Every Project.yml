@@ -1,0 +1,47 @@
+﻿---
+ID: "1a01f4de-5339-48fe-92b7-04af1179a9d1"
+Parent: "2dfb4b2e-37f1-468f-9da5-450dce1eaa9f"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/Content Tile Stack List/A Tile For Every Project
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T090502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: A Tile For Every Project
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>We may have over 6,000 products, but we&rsquo;ve handpicked each one to offer you the best selection around, including lots of tiles you won&rsquo;t find anywhere else. From the latest trends to reliable classics and everything in between, get ready to be wowed. That&rsquo;s where we come in. We&rsquo;ll partner with you to narrow down your options until you find your perfect tile&mdash;the ideal combination of beauty and value.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "771cb00c-e238-45db-9a11-085d988fd628"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T074936Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "in_store_vignette_blur_Til:Tile_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="LEARN MORE &gt;" anchor="" linktype="internal" class="" title="" target="" querystring="" id="" />

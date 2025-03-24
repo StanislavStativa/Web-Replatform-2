@@ -1,0 +1,286 @@
+﻿---
+ID: "538aebb2-3e6d-443e-92bf-8b63417d80b9"
+Parent: "c75cfef3-f5c2-4e17-ba89-dcccd92cfe66"
+Template: "67efcb91-3f77-41af-95a8-34a341c07f36"
+Path: /sitecore/content/TTS/Global Content/Products/6/8/682016
+SharedFields:
+- ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
+  Hint: __Facets
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01db7056-2a80-4664-9aab-6ecd25140750"
+      Hint: SpecSheet
+      Value: 
+    - ID: "0c6aa184-e6be-45db-abd4-90a8b62029e5"
+      Hint: BX_Price11
+      Value: 945.16
+    - ID: "0d0eb061-b468-4e4b-8066-4638070b8820"
+      Hint: BX_Price12
+      Value: 970.71
+    - ID: "14c2fcb1-d74c-4ac4-951a-19002148a530"
+      Hint: RecommendedGuide
+      Value: |
+        <link url="" />
+    - ID: "1a316c0f-b336-4194-a941-490ed46a7f31"
+      Hint: ReadyForDisplay
+      Value: 1
+    - ID: "1db91b99-fa9d-4dab-9bd0-e8b0bfb52ea0"
+      Hint: BX_Price10
+      Value: 919.62
+    - ID: "1e412860-c4e6-4978-be3f-b321dbf6162a"
+      Hint: EA_Price12
+      Value: 48.54
+    - ID: "22ff465f-11ab-45fb-9f16-d8ae8eaa23df"
+      Hint: ActualLengthCM
+      Value: 0
+    - ID: "24a1385e-b471-482b-99ac-9fb47ae12c7a"
+      Hint: ProductLaunchDate
+      Value: 20221028T000000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220906T195745Z
+    - ID: "29f07ac5-0ef1-4013-97e8-fa851af4d51d"
+      Hint: WorksInDesignStudio
+      Value: 0
+    - ID: "2bd4d817-bf06-4c80-9760-32e47f7b0dbf"
+      Hint: CV_Price11
+      Value: 47.17
+    - ID: "2e5025ea-8f10-4eee-8ee5-101c5f158fcf"
+      Hint: SellingUOM
+      Value: EA
+    - ID: "2ef170f6-17e5-4f01-a49f-ddd24faf80b7"
+      Hint: Featured
+      Value: 0
+    - ID: "33d160c1-f21f-4a98-8332-04dc36fe4cc9"
+      Hint: BoxWeight
+      Value: 70.54798
+    - ID: "3bfd24d2-9c46-4bf3-a3fb-71a179436fa7"
+      Hint: DisplayLengthIN
+      Value: 94
+    - ID: "417ca315-3941-43f0-944a-1f28c6367c94"
+      Hint: MaterialGroup
+      Value: "{790819F2-D2BC-462B-99C1-24AF1699D081}"
+    - ID: "41f542df-ab38-47cb-8f46-01843fecddf9"
+      Hint: SAPMaterialStatus
+      Value: A1
+    - ID: "4232811d-b522-46c9-8f46-0149cd3e7a86"
+      Hint: CoveragePerEach
+      Value: 
+    - ID: "51c03cc9-3e9e-4703-956f-9a5a6d7a255a"
+      Hint: ProductCode
+      Value: 682016
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kulsh
+    - ID: "54fc67a6-71f8-4cd4-9ac3-8f50bdaf38b0"
+      Hint: CV_Price12
+      Value: 48.44
+    - ID: "555cd022-1395-4402-a575-fad544e52767"
+      Hint: DirectionalInstallationRequired
+      Value: 0
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Smithcliffs Hillsdale Luxury Vinyl Floor Tile Reducer - 1.77 x 94 in. - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kulsh
+    - ID: "5ee238b0-6290-4b24-b1f3-40865b262f14"
+      Hint: ActualWidthCM
+      Value: 0
+    - ID: "5f8f5a3a-a479-4d90-b205-6d7647c2c5f9"
+      Hint: ProductNotAvailableText
+      Value: |
+        <p style=""margin-bottom: 0;"">This item is available for purchase through showroom only.</p><p>Please contact your <a href=""/store-locator"">local showroom</a> to place an order.</p>
+    - ID: "60a1e796-cdfb-4608-a50c-ba591f19d9bc"
+      Hint: EA_PriceR1
+      Value: 51.09
+    - ID: "63f74300-5ba4-4a0e-8860-00d80d8c619a"
+      Hint: PiecesPerBox
+      Value: 20
+    - ID: "6c0f31b0-68cf-4890-8a97-633ee50dad04"
+      Hint: ProductDescription
+      Value: |
+        Add long-lasting comfort, increased durability and timeless style to floors with the hybrid rigid core Smithcliffs Hillsdale Luxury Vinyl Floor Tile Reducer from the Everlife Smithcliffs Collection by MSI. These matte 1.77" x 94" trim pieces reduce the gap between flooring of unequal heights. Complete long-lasting floors and achieve the authentic appearance of natural wood with these simple yet sophisticated finishing pieces.
+    - ID: "7040c1cc-7eba-4b4e-b4f6-cef26e415a34"
+      Hint: DesignStudioFinish
+      Value: NATURAL
+    - ID: "722f4116-3dc3-4fdc-9066-f07a4c8899ab"
+      Hint: SAPMaterialDescription
+      Value: Smithcliffs Hillsdale Reducer
+    - ID: "7253d975-4ad1-47e1-9a9b-24247e495885"
+      Hint: ProductHierarchy2
+      Value: "{35620E97-617E-4553-9A81-2F33E1F66CF3}"
+    - ID: "74c56b39-e30d-4c6d-aff5-a800fb5ac795"
+      Hint: EachWeight
+      Value: 3.5274
+    - ID: "77493d4f-d622-4c9e-a74c-e50ac52a0ed5"
+      Hint: BaseUOM
+      Value: EA
+    - ID: "788f4964-575a-4dc6-9f87-a8eb8c58fd8f"
+      Hint: PurchaseOnline
+      Value: BOTH
+    - ID: "800a4645-aac2-47a8-9fee-c12599d5faf2"
+      Hint: PdpShape
+      Value: 
+    - ID: "8559f1b5-204d-4962-850f-2b8c0290995c"
+      Hint: CountryOfOrigin
+      Value: China
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96b6bf40-6d7b-4e97-99bc-f41e8d542fbb"
+    - ID: "8e6135cb-4a31-42a5-8e7a-b5a652489532"
+      Hint: Finish
+      Value: Matte
+    - ID: "8f7844b3-4dab-470f-9fb6-a73d91862837"
+      Hint: ProductHierarchy1
+      Value: "{05B92E0F-050F-4DF0-9DDD-9EEF9E964008}"
+    - ID: "8fa7a97e-24f3-4b95-844b-44f89de28873"
+      Hint: EA_Original
+      Value: 0
+    - ID: "8fc25bc4-eceb-4d1b-95c0-ff72a33d71ec"
+      Hint: Collection
+      Value: "{8BE8D471-4966-49EA-A047-85F89601845F}"
+    - ID: "90d5cafd-0ccd-46b0-87fd-2f4b127c6bfb"
+      Hint: CV_Price13
+      Value: 48.44
+    - ID: "93e3dcd7-2bfd-4f8c-890c-89392e53bb26"
+      Hint: ProductName
+      Value: "Smithcliffs Hillsdale™ Luxury Vinyl Floor Tile Reducer - 1.77 x 94 in."
+    - ID: "94a97c71-f708-487b-80c6-3099549ac76c"
+      Hint: PdpSize
+      Value: 1.77 x 94 in.
+    - ID: "96429c6b-6ac9-4261-b484-9fd68d064cb5"
+      Hint: Shape
+      Value: "{EFCFE95A-E498-4E19-8B59-B91573B08BC7}"
+    - ID: "964d2a71-b3fd-42c9-8dcc-4be0e0171f3d"
+      Hint: PdpColor
+      Value: Hillsdale
+    - ID: "992b7dfe-1865-4ca8-882c-68b1eb18f347"
+      Hint: CV_Original
+      Value: 0
+    - ID: "9d5f327c-0214-4413-a848-16d8daa9e6b3"
+      Hint: Material
+      Value: 
+    - ID: "a2068627-c1b2-4218-86a5-fb09502ebcad"
+      Hint: SafetyDataSheet
+      Value: 
+    - ID: "a289e247-3f00-4442-9bad-7dc7911b655a"
+      Hint: ActualThicknessCM
+      Value: 0
+    - ID: "a68bca19-99fe-49c7-847a-0ee545bbf880"
+      Hint: Color
+      Value: "{A52812F8-5F97-4583-B258-5EC2DFA3B3CF}"
+    - ID: "a86b564c-ba83-4165-a461-f8920c819576"
+      Hint: BX_PriceR1
+      Value: 1021.8
+    - ID: "ab0d51ff-4852-44cd-bf2c-7b52db2fb665"
+      Hint: ShowRetailPricing
+      Value: 1
+    - ID: "ad332503-cbc0-4298-a7ba-426dcecd163a"
+      Hint: EA_Price13
+      Value: 48.54
+    - ID: "ae2bcec7-05b7-4d93-b6d3-78b403f61121"
+      Hint: BX_Original
+      Value: 0
+    - ID: "b1abf0c2-8de4-49ce-b19e-eae32d0fb012"
+      Hint: HasMatchingTrim
+      Value: 0
+    - ID: "b229ca4d-afa4-47d5-8668-f16e64260d00"
+      Hint: Country
+      Value: "{E35F2841-4AE8-447E-A4CF-B717D4F3E631}"
+    - ID: "b32ebb97-f84d-482e-8f1a-acba82d8fc49"
+      Hint: InstallationInstructions
+      Value: |
+        <link url="" />
+    - ID: "b35bad6d-2925-4421-935e-4672a90aba5d"
+      Hint: CV_Price10
+      Value: 45.89
+    - ID: "b389f4fe-2678-468a-8fee-b6d316b8a3e5"
+      Hint: HideFinishSection
+      Value: 1
+    - ID: "b7253ec6-cbfc-47c8-86c5-e949b326504e"
+      Hint: ActualThicknessIN
+      Value: 0
+    - ID: "b809e2b1-3e2f-4443-9c29-d147615beda7"
+      Hint: PdpShapeText
+      Value: REDUCER
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c0347e5a-818f-4480-80ea-1a53485860c4"
+      Hint: ActualLengthIN
+      Value: 0
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop quality Smithcliffs Hillsdale Luxury Vinyl Floor Tile Reducer - 1.77 x 94 in. at The Tile Shop."
+    - ID: "c3686d05-02ca-43dc-8770-1a1d4b0625bc"
+      Hint: ProductDataSheet
+      Value: "{F029A6EA-4AEA-4AD5-8641-1A8F41AEDE88}"
+    - ID: "c4d9f37e-54fb-493a-a991-1c6498cac733"
+      Hint: BestSeller
+      Value: "-1"
+    - ID: "c868cb12-d7ca-4719-bee8-abaa308f07a6"
+      Hint: ActualWidthIN
+      Value: 0
+    - ID: "cd8a5d77-5363-4a4c-ad51-54e06bbf5482"
+      Hint: SecondaryCollection
+      Value: "{3E2E55B1-F244-481E-B21B-FC128B1CA6F4}"
+    - ID: "ce7cf263-0d17-4261-8e37-ee3928b34e5e"
+      Hint: AvailableOnline
+      Value: BOTH
+    - ID: "cfb97a60-0945-4256-b4c9-c33e09461c3f"
+      Hint: Edge
+      Value: Finished
+    - ID: "d1efbc7d-eae6-459f-83ce-019ef03d4d11"
+      Hint: ProductHierarchy4
+      Value: 
+    - ID: "d57a2531-0770-4ebf-96db-ff8e8f4a2e41"
+      Hint: EA_Price11
+      Value: 47.26
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240924T160407Z
+    - ID: "df1e3d25-501b-474f-9ed2-a88552f9aab5"
+      Hint: RecommendedVideo
+      Value: |
+        <link url="" />
+    - ID: "e0c4a2dc-1805-44fb-af7c-5715ad1f8a95"
+      Hint: SampleSwatchAvailable
+      Value: 0
+    - ID: "e104a723-7419-49f9-be20-d960dbee6845"
+      Hint: DisplayWidthIN
+      Value: 1.77
+    - ID: "e593c497-1280-4461-9148-26d7a4f98732"
+      Hint: SpecialInstallationRequired
+      Value: 0
+    - ID: "e966aaac-1966-4a0c-9d3c-983a2ebd56ad"
+      Hint: ImportDatesUTC
+      Value: "9/20/2024 7:25:03 AM,9/21/2024 7:21:59 AM,9/22/2024 7:24:32 AM,9/23/2024 7:23:08 AM,9/24/2024 7:22:37 AM"
+    - ID: "e9a66465-5dc4-46ff-be55-2bcbfd007de2"
+      Hint: UrlSlug
+      Value: "smithcliffs-hillsdale-luxury-vinyl-floor-tile-reducer-1-77-x-94-in-682016"
+    - ID: "eeb142e2-8fe2-4f42-9584-4fadfe403c15"
+      Hint: EA_Price10
+      Value: 45.98
+    - ID: "f0352e80-e2d7-4b4a-893b-759720267da7"
+      Hint: Brand
+      Value: 
+    - ID: "f2c719a9-ba9d-48c1-9363-c8f591634af3"
+      Hint: CreateDate
+      Value: 20220726T000000
+    - ID: "f7816099-001e-45d4-812d-1a69983ff963"
+      Hint: BX_Price13
+      Value: 970.71
+    - ID: "f950737b-e857-489b-8f74-4811bfc3976d"
+      Hint: CV_PriceR1
+      Value: 50.99

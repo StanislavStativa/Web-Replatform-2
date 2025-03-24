@@ -1,0 +1,141 @@
+﻿---
+ID: "3b4171c5-5998-4537-aba8-a4e7b7a40a8d"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: /sitecore/content/TTS/TileShop/Home/samples
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F1366157-538A-48FA-AA4B-0357819DABD8}"
+          p:before="*"
+          s:ds="local:/Data/Have a Question"
+          s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h3&amp;IsIcon=1&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Outline&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/column-3-5" />
+        <r
+          uid="{CC79B247-B5B5-4B07-807D-9F1E69983676}"
+          p:after="r[@uid='{F1366157-538A-48FA-AA4B-0357819DABD8}']"
+          s:ds="local:/Data/Order From the Store"
+          s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h3&amp;IsIcon=1&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Outline&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/column-2-5" />
+        <r
+          uid="{4982320C-2B88-48B6-A689-C02C6EFE9DF3}"
+          p:after="r[@uid='{CC79B247-B5B5-4B07-807D-9F1E69983676}']"
+          s:ds="local:/Data/Order Online"
+          s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h3&amp;IsIcon=1&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Outline&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/column-1-5" />
+        <r
+          uid="{E2431CF3-93A4-47F2-B11F-C5C1F7CD74DA}"
+          p:after="r[@uid='{4982320C-2B88-48B6-A689-C02C6EFE9DF3}']"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;FinanceBanner&amp;HeadingSize=h2&amp;HeadingTag=h1&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Left&amp;Opacity=75&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Bottom&amp;CTAColor=OutlineWhite&amp;CTASize=Large&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{C97384A1-E12A-41DE-AF75-A9EBC21DBC2E}"
+          p:after="r[@uid='{E2431CF3-93A4-47F2-B11F-C5C1F7CD74DA}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="headless-main" />
+        <r
+          uid="{1152B437-AB21-410E-B427-2E4103570CE0}"
+          p:after="r[@uid='{C97384A1-E12A-41DE-AF75-A9EBC21DBC2E}']"
+          s:ds="local:/Data/Content Tile Stack"
+          s:id="{5F4114CA-55C9-424E-9733-66F405FAFB25}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsImageOnRight=1&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;TitleAlignment=Left&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{24D62E3B-B4A1-4AFC-AAE7-A2EBA8E01AFD}"
+          p:after="r[@uid='{1152B437-AB21-410E-B427-2E4103570CE0}']"
+          s:ds="local:/Data/Accordion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{0B5F344D-76BB-4132-9D13-15131616B525}"
+          p:after="r[@uid='{24D62E3B-B4A1-4AFC-AAE7-A2EBA8E01AFD}']"
+          s:ds="local:/Data/Short Hero Banner"
+          s:id="{04EE0075-C2E5-441B-98B1-1E145546823B}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16&amp;FinanceBanner&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Center"
+          s:ph="headless-main" />
+        <r
+          uid="{3C8B5631-7759-40FC-824B-0B4237E5927D}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Samples
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C97384A1-E12A-41DE-AF75-A9EBC21DBC2E}"
+              s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5&amp;BackgroundColor=Light&amp;AddSeparator" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T103357Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: samples
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Shop Samples for Only $3 | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc8f6b27-aa99-4824-9c5e-09c1e4cb1a5b"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: samples
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Get inspired for your next project with tile samples from The Tile Shop. Order a sample today for only $3 with free shipping.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T131510Z

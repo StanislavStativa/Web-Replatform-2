@@ -1,0 +1,30 @@
+﻿---
+ID: "1918c12d-e67a-4119-8d19-06fb72ef87b3"
+Parent: "d703ff09-0dc5-4544-9cf7-d740e2aa2e84"
+Template: "a61643fd-149a-4c31-b09b-2d3778a5c5f5"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Room/Shower/Shower Floor
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194753Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shower Floor
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "decb8bda-f726-4adb-a989-d2080f7b631d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T070510Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shower Floor" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D46F1460-8C07-4B66-AC74-49AD03321B19}" />

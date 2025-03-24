@@ -1,0 +1,42 @@
+﻿---
+ID: "eedd2431-783e-4f68-b018-bb8d7628879f"
+Parent: "ab120a54-99f6-4e66-aae0-5a7186a7db1c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Floors/Data/4 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Design Tip: Choosing Materials</h2>
+        <p class="mb-4">The material you decide to install for your flooring can drastically affect the feel of your room. Natural stone like marble and travertine are classic looks that are beautiful, tough and easy to maintain. Large slate tiles can offer phenomenal style and durability. The endless options in ceramic tile flooring can fit any budget and style, from modern to traditional, allowing you to create your own custom pattern without much hassle. Advances made in printing technology mean you&rsquo;re able to achieve realistic wood, stone or concrete looks with strong porcelain tiles that will endure over time. Tile is ideal for high-traffic areas in your home, providing both timeless style and effortless maintenance. Our expert store associates are an excellent resource if you want to learn more about the variety of materials available today.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7efd4abc-e62a-4a4d-a8e2-fad9122b2f0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200454Z

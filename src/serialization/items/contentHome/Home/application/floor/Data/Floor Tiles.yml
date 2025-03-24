@@ -1,0 +1,40 @@
+﻿---
+ID: "1721f960-e53a-41ac-b642-05a417769ad5"
+Parent: "b794768a-77fb-4857-9970-5394ebd53a42"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Floor Tiles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T123013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Floor Tiles: Why We (and Our Customers) Love Them  "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText extra-small-top-margin"><p class="extra-small-bottom-margin">Form, or function? Design, or durability? Pretty, or practical? Tile flooring is proof that you can have it all.</p>
+        <p class="extra-small-bottom-margin">From entryways and mudrooms to kitchens, bathrooms and more, tile offers long-lasting durability without sacrificing style. With our extensive selection of floor tile, it's easier than ever to create the look you want in your home. (Need a little inspiration? These <a class="font-bold underline" href="/inspiration/tile-ideas/floors">floor tile design ideas</a> are a great place to start.) </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a30a6343-ab84-40e5-a656-9805f6b9479c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T023743Z

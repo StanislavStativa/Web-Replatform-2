@@ -1,0 +1,35 @@
+﻿---
+ID: "529316f9-c414-4783-842c-e52a6d6786cb"
+Parent: "ca99284f-c752-4129-ac83-13891b31fb13"
+Template: "ca99284f-c752-4129-ac83-13891b31fb13"
+Path: /sitecore/templates/Feature/TTS/Folders/Metro Codes Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{148457B3-CA39-4BEB-9EEA-F5DE2498A285}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T153032Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2de24775-cd6a-46ab-b6db-9967f6cab779"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190701T153920Z

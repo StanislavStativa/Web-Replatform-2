@@ -1,0 +1,44 @@
+﻿---
+ID: "e0e7824b-677a-466d-8fd7-efc8a0bf8a07"
+Parent: "4cfbda6c-6d70-46d6-a938-69a03c7e8235"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Designer Collections/Nikki Chu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T142806Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Alison Victoria
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Featured tile Gem by Alison Victoria
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c05bf14-4457-433a-9773-2175f45acdd1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T072813Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "2024_NikkiChuCollection_Nikki_Kitchen-0967:3x2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Nikki Chu" anchor="" linktype="internal" class="" title=""  querystring="" id="{E2964A05-EB70-42B8-86B8-FFC2D6ED35FA}" />

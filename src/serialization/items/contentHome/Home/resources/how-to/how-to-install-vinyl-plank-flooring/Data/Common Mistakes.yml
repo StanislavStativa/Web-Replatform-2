@@ -1,0 +1,40 @@
+﻿---
+ID: "6bb6fb6c-ed70-4d8f-af2e-d265b4960e12"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/Common Mistakes"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T033639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h2><span class="h2-style">Common Mistakes When Installing Vinyl Plank Flooring</span></h2><br /> <p>While installing vinyl plank flooring is generally a straightforward project suitable for novice home renovators, mistakes are still a risk. Before you start, consider these common mistakes and make a plan to avoid them.</p><br /> <ul>     <li><strong>Skipping the manufacturer's instructions.</strong> Different manufacturers have different instructions for how to install their flooring. Not paying careful attention to these instructions may result in inadequate expansion gaps or other problems. Any damage that results from not following these instructions could void the manufacturer's warranty.</li>     <li><strong>Inadequate subfloor preparation.</strong> Failing to properly prepare the subfloor by ensuring it's clean, flat, and free from debris or imperfections can lead to issues like uneven flooring, squeaks, or problems with adhesion.</li>     <li> <strong>Failing to remove the baseboards.</strong> before installing vinyl plank flooring can result in an uneven and unprofessional finish. Removing baseboards before you start allows for a cleaner installation and ensures the flooring extends beneath them, creating a clean look.</li>     <li><strong>Rushing the installation.</strong> Hasty installation can lead to errors. Take your time to ensure each plank is properly aligned, secure, and free from adhesive residue or debris.</li>     <li><strong>Improper alignment and locking.</strong> For click-lock vinyl planks, not ensuring a proper alignment and secure locking between planks can lead to loose or uneven flooring that may separate over time. Make sure each plank is fully interlocked with the previous plank before moving on.</li>     <li><strong>Improper use of adhesive.</strong> For glue-down vinyl planks, not spreading the adhesive evenly or applying too much adhesive can result in uneven or damaged planks. Follow the adhesive manufacturer's instructions carefully.</li>     <li><strong>Incorrectly cutting planks.</strong> Use a vinyl cutter or a sharp utility knife and a straightedge for accurate cuts. Practice on scrap pieces before tackling the actual planks.</li>     <li><strong>Forgetting vents and fixtures.</strong> Plan how planks will meet around vents, radiators, or architectural features. Measure and pre-cut planks for precise and neat integration.</li>     <li><strong>Not checking the weight rating.</strong> Manufacturers will specify a weight rating for their vinyl flooring. If you are installing vinyl planks in a room with heavy appliances or furniture, make sure the flooring is rated to handle the weight or else you risk damaging the planks.</li>     <li><strong>Not using floor protection.</strong> Moving furniture and appliances back into the room is an exciting part of the renovation process. But before you do, put down temporary flooring to ensure your new vinyl planks don't get scratched or scuffed.</li> </ul><p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b1a58b3-3173-4b04-9d9a-fce1aa2e18e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T054615Z

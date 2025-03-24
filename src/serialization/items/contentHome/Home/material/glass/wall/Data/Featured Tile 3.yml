@@ -1,0 +1,47 @@
+﻿---
+ID: "49209afe-69aa-44d7-8582-6da18c48bf57"
+Parent: "a02e2b35-15b8-41ca-ab8c-6c63a4e65ddd"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/glass/wall/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {D7FA99EB-29D0-47E6-AA59-80E135525B86}
+        {FAD53294-9481-4782-94CA-FE3711552420}
+        {A5E6016F-D88F-4A1D-906A-AC4B07C6368F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install a Backsplash That Makes a Splash
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        
+        <p>Whether your dream kitchen leans toward classic and understated or bold and luxurious, glass wall tiles can bring that look to life, while holding up beautifully through years of cooking. Glass tile naturally resists staining, making it easy to clean so your gorgeous new kitchen will keep looking like new. We offer hundreds of options, so you're guaranteed to find the perfect color, pattern, shape and finish that will complete your kitchen design.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df0fd006-b68f-4faf-ae11-d84141ef8901"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240712T063349Z

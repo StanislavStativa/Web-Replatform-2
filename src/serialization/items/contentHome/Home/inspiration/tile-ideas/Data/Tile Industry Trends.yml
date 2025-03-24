@@ -1,0 +1,39 @@
+﻿---
+ID: "d9962646-ddc3-432e-9b9d-38f9ce69ca54"
+Parent: "796e58b4-ed9a-48e5-9e16-38e516b37c83"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Data/Tile Industry Trends"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T130834Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+         <h2 class="h1">Tile Industry Trends</h2>
+        <div>
+        <p>There’s always something new in the tile industry, meaning there’s always something new at The Tile Shop! Nature-inspired styles, handmade and handmade looks, warm neutrals and uniquely shaped mosaics are all tile trends you’ll find at The Tile Shop this year. You’ll also see fresh designer collaborations with household names like <a class="font-bold" href="/collection/jeffrey-alan-marks">Jeffrey Alan Marks</a>, <a class="font-bold" href="/collection/alison-victoria">Alison Victoria</a> and more. But don’t worry—we still have all the most-loved classics like travertine and marble, too. Custom tile designs are a major trend in the industry right now. Try creating a checkerboard floor pattern using two different stones, or incorporate layers of trim to into your backsplash for a truly personalized look and feel.</p>
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e43305b6-30cb-4aa9-aaa1-7c4178f2d5ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T070740Z

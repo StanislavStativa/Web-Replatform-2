@@ -1,0 +1,39 @@
+﻿---
+ID: "aae1319f-95e3-4c21-9394-ac1dd12f1919"
+Parent: "54a864e4-77fa-499b-b18f-a3444f8c9e15"
+Template: "10fc4b69-11e8-4b22-90b5-ef2d6c1eae0f"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Account Settings/Bill to Address Book
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T111814Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa171e8f-7446-4212-9f75-00c25f629378"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T092025Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Bill to Address Book" anchor="" linktype="internal" class="" title="Bill to Address Book" target="" querystring="" id="{FB3DEB2A-C730-4A62-BAB6-D3731AACC23A}" />

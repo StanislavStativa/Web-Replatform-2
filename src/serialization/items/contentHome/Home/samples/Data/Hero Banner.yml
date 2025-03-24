@@ -1,0 +1,52 @@
+﻿---
+ID: "24a41168-c3ce-4717-8863-a24acb01d43a"
+Parent: "1c66cfe8-7692-498a-b650-9a099658af4b"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T104310Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: See It In Your Space
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: "Homepage_Hero_{0}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: See It In Your Space
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Experience the look and feel of your favorite tile before you make a big purchase. We offer samples of most of our tile for only $3 with free shipping, to help you envision your space.*
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d532ed2-238f-4c91-8eed-d9ad865bdad6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T071825Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "samples-hero-1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

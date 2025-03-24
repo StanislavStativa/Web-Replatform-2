@@ -1,0 +1,52 @@
+﻿---
+ID: "622bbaea-619f-4c2a-a6b1-d3bc950a1170"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Material
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Material
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {6A4129DC-3670-40C0-87E6-6A1232DAADCA}
+        {B31CAC40-1BF2-4F6F-A508-80E6AF88F072}
+        {2EDC7C04-68DB-4219-AF82-E042BD14A349}
+        {3A1943F6-B5F5-4B42-A090-E5D4E2343E23}
+        {1C89FDC6-9546-42D2-B169-9EBD6C3AF6D1}
+        {A7D4A9B7-D356-469D-BA67-2CA3799B9979}
+        {D4089DB4-BE28-464C-9A6F-025AD0B120ED}
+        {05D44B96-20F2-4564-881F-03F1A7CC8C83}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>The material you choose for your project is just as important as its appearance. Choose from durable porcelain, stunning ceramic, timeless marble and more to make sure your installation achieves all your design goals.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42f11a2d-7f70-426e-9435-83fa1585939b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T115312Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Copper_Rust_RC_BDR_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{388DF468-AB6C-4B01-AE88-F0AAE279CE1C}" />

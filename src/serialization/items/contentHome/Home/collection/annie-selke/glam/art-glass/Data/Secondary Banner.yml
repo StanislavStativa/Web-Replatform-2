@@ -1,0 +1,55 @@
+﻿---
+ID: "7b9f4e70-37bf-4b11-91f8-2bdcf49020cb"
+Parent: "abba55f6-5fb0-4488-90e7-0755ceed2ca3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/annie-selke/glam/art-glass/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Annie Selke Art Glass Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Art Glass tiles serve as singular statement pieces, much like the works of art that inspired many of them. In 12 different large-format styles, the patterns range from feminine to bold to whimsical, with each one as unexpected as the next. The designs in this collaborative collection are based on paintings, fabrics and prints from Annie Selke’s lines.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14ce136a-4c71-4fe7-b57f-f9cc48afd9e4"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T090705Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Tweet_flatlay_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {C974CFF1-EACC-4FFB-9C28-1AEF1561539E}
+        {D62CBAEF-9376-4309-8D33-A9B465F5B525}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

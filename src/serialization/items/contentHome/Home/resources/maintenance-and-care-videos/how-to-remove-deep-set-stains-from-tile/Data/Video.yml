@@ -1,0 +1,37 @@
+﻿---
+ID: "21ffe769-dfb6-4946-88f4-d9c8e1f5c8b7"
+Parent: "2e63e2f3-1504-4121-a332-3c46ab90d07c"
+Template: "a3d6f8e4-583d-4409-baf2-0f37e2e49d92"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/maintenance-and-care-videos/how-to-remove-deep-set-stains-from-tile/Data/Video"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T065038Z
+    - ID: "46b8cc1a-d19e-49e2-8422-4732245b0722"
+      Hint: Title
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7914d0a-78d1-47f8-bec5-4ca0d84f1c90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240801T073233Z
+    - ID: "ef592633-9103-488c-83ad-36f7382d0846"
+      Hint: YoutubeVideoID
+      Value: Ql8VketXnX8

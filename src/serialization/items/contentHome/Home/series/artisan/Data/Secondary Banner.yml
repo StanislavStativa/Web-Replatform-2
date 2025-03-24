@@ -1,0 +1,62 @@
+﻿---
+ID: "025446cc-d999-4a76-99ff-2dd8b2f651fa"
+Parent: "167b3be4-521b-443e-9948-250f88eb8e2c"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/series/artisan/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Artisan Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Create a truly one-of-a-kind work of art with encaustic-look porcelain tiles from our Artisan Series. This unique collection of wall and floor tiles was designed with different notable artists in mind. Each tile brings to life the style of the artist’s work, and pairs them with perfectly coordinating neutrals. This series is an easy way to add a bold, decorative statement to any room with easy-care geometric and floral tiles that you’ll enjoy for years.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a9292b2-5413-4c67-a426-ef9a6ffb28e9"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T043801Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Art_Bora_Darlene-C_Detail_Franklin%3aCategory_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {659F5BE7-C4E0-40DE-97EE-4B15C9FBB603}
+        {6E9BF25B-B256-4169-AFCA-163F2223DDAB}
+        {6174A91E-4F5D-4CD2-B28E-449EF101FECC}
+        {96ED6806-4276-4EA2-9055-9452215CFD1A}
+        {DD0757F4-C98B-4D7B-A4F4-065A7C3E2405}
+        {189496BE-6A4C-4A7D-B70C-4669F4FC603D}
+        {1D93F0FE-7ADC-4AE3-B953-3F44FC2358BF}
+        {ECA43C50-173C-4010-B9E1-99B517CA8784}
+        {09BB33F5-311D-42BB-A009-566C381A865E}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

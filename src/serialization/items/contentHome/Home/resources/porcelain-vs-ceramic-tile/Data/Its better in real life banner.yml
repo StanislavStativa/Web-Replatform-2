@@ -1,0 +1,40 @@
+﻿---
+ID: "789b845b-34f1-49cc-b3f5-2828f8f03ee9"
+Parent: "5daf090f-a242-4746-b538-283de2711f55"
+Template: "f38cfc12-cb66-470a-92cb-17856f1103a5"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/porcelain-vs-ceramic-tile/Data/Its better in real life banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T072615Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2707634-2374-4c26-ba90-7db16178b6db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T072850Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "samples-banner-A:Banner-Desktop"
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: 
+    - ID: "f8424eb8-e593-42c6-84cb-de891a9f8c0e"
+      Hint: TabletImage
+      Value: 

@@ -1,0 +1,160 @@
+﻿---
+ID: "d8686cd2-b9b7-49b6-b67e-bc445e67470b"
+Parent: "7b9c55e5-900e-4d7b-8fc9-8d704407c0a2"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/lvp-flooring-buying-guide/Data/LVP Flooring Guide"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T062823Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="rtc__list-item-with-image__heading-wrapper__heading h3"><span class="h3-style"><span class="h1-style">LVP Flooring Guide: Top Costs &amp; Considerations</span></span></h1>
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="A large white dog rests on a blue dog bed, next to a bone and food and water bowls. The floor under the dog bed is covered in luxury vinyl wood-look planks." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Cyrus_Plus_Fauna_DOG_4:16x9" /></p>
+        <p>&nbsp;</p>
+        <p>
+        Luxury vinyl plank (LVP) flooring has become a go-to choice due to a combination of aesthetic appeal, durability, versatility and ease of maintenance. If you are planning to install new flooring in your home, you may be wondering if LVP is a good choice for the project.&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><span data-contrast="auto" class="TextRun SCXW162523167 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"><span class="NormalTextRun SCXW162523167 BCX0" style="margin: 0px; padding: 0px;">In this article, we will cover all you need to know about LVP so you can make the best choice for your home's floors.&nbsp;</span></span></p>
+        <p>&nbsp;</p>
+        <p><span data-contrast="auto" class="TextRun SCXW162523167 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"><span class="NormalTextRun SCXW162523167 BCX0" style="margin: 0px; padding: 0px;">&nbsp;</span></span></p>
+        <p>&nbsp;</p>
+        <h2><span data-contrast="auto" class="TextRun SCXW162523167 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"><span class="h2-style" style="margin: 0px; padding: 0px;">What is LVP Flooring?</span></span></h2>
+        <p>&nbsp;</p>
+        <p><span data-contrast="auto" class="TextRun SCXW162523167 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;">LVP stands for <a class="font-bold" href="/material/luxury-vinyl">Luxury Vinyl Plank flooring</a>. It is a type of resilient, high-quality synthetic flooring material that mimics the appearance of natural materials such as hardwood and stone, while offering the added benefits of being waterproof, durable and easy to maintain.</span></p>
+        <p>&nbsp;</p>
+        <p><span data-contrast="auto" class="TextRun SCXW162523167 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;">In contrast with Luxury Vinyl Tile, which comes in square segments, LVP comes in long strips. The longer plank style makes it much easier to emulate the look of hardwood planks or stone tiles. This allows you to offset the planks, further enhancing the authenticity of the hardwood or stone tile look.</span></p>
+        <p>&nbsp;</p>
+        <img class="rtc__list-item-with-image__image" alt="Cyrus Plus Whitfield Gray Luxury Vinyl Floor Tile" src="http://s7d1.scene7.com/is/image/TileShop/LVT_Cyrus_Whitfield_Grey_HORIZONTAL:16x9" />
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">What is LVP Flooring Made Of?</span></h3>
+        <p>&nbsp;</p>
+        <p>LVP flooring typically consists of four layers:</p>
+        <p>&nbsp;</p>
+        <ol>
+            <li style="margin-left: 40px;"><strong>Wear Layer.</strong>&nbsp;The top layer of LVP flooring, providing resistance to scratches, stains and wear. It's a clear coating that protects the decorative layer beneath. The thickness of the wear layer is typically 12 to 20 mm.</li>
+            <li style="margin-left: 40px;"><strong>Decorative layer.</strong>&nbsp;A high-resolution printed layer that gives LVP its realistic appearance. This layer can replicate a wide variety of wood grains, colors and textures, as well as stone and other materials.</li>
+            <li style="margin-left: 40px;"><strong>Core layer.</strong>&nbsp;The core layer is the bulk of the product and provides stability and structure to the plank. Our LVP options feature a SPC (Stone Plastic Composite) core, which includes a mix of plastic and crushed stone for added stability and durability.</li>
+            <li style="margin-left: 40px;"><strong>Backing layer.</strong>&nbsp;The bottom layer of LVP flooring. It's often designed to add additional moisture resistance and to help with sound absorption and softness underfoot.</li>
+        </ol>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">Benefits of LVP Flooring</span></h3>
+        <p>&nbsp;</p>
+        <p><img class="rtc__list-item-with-image__image" alt="A large white dog rests on a blue dog bed, next to a bone and food and water bowls. The floor under the dog bed is covered in luxury vinyl wood-look planks." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Cyrus_Plus_Fauna_DOG_2:16x9" /></p>
+        <p>&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Highly Durable</span></h4>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">LVP's legendary durability comes from its wear layer. This is a transparent coating that sits above and protects the LVP's printed design layer, which gives it its wood, stone or other visual appearance. Its primary function is to shield the design layer from scratches, scuffs, stains and fading caused by everyday wear and tear.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Waterproof</span></h4>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">All of The Tile Shop&rsquo;s LVP flooring options are waterproof. This makes LVP an ideal choice for any space where moisture is a common issue, such as kitchens, bathrooms, basements and laundry rooms. Even those who have a pool in their backyard can rest easy with LVP, knowing all their dripping guests will not damage the floor.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Easy to Clean</span></h4>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">Another benefit of LPV's wear layer is remarkable ease of cleaning. The wear layer makes LVP's surface resistant to staining. Spills can be quickly wiped up without leaving permanent marks, avoiding the need for specialized cleaning products or treatments. And cleaning LVP regularly is as simple as sweeping and occasionally mopping with warm, soapy water.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Easy to Install</span></h4>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">LVP is a popular flooring material for those looking to take on the project of installing new flooring in their own home. Planks typically come in one of three installation styles: click-lock, self-adhesive and glue-down. These easy installation methods make <a class="font-bold" href="/resources/how-to/how-to-install-vinyl-plank-flooring">installing LVP flooring</a> a great project even for beginner DIYers.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Cost Effective</span></h4>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">Compared to natural hardwood and stone, LVP comes at a lower price point. The manufacturing process of LVP allows for high-quality aesthetic finishes that closely emulate these more expensive materials without the high cost associated with quarrying, harvesting or processing natural resources.</p>
+        <p>&nbsp;</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h2><span class="h2-style">Types of LVP Flooring</span></h2>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">Stone-Look Luxury Vinyl Planks</span><img class="rtc__list-item-with-image__image" alt="A modern, minimalist bathroom features neutral grey-toned luxury vinyl flooring that looks like realistic natural stone." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Trecento_Mountains_Grey_Horizontal_4x5:16x9" style="font-family: Lato, 'Source Sans Pro', sans-serif; font-size: 16px;" /></h3>
+        <p>&nbsp;</p>
+        <p><a class="font-bold" href="/material/luxury-vinyl/stone-look-luxury-vinyl-flooring">Stone-look LVP</a> is designed to mimic the appearance of tiles made of natural stone such as Italian marble or concrete. By combining the practical benefits of luxury vinyl with the aesthetic qualities of natural stone, this flooring option offers a realistic and easier to maintain alternative to natural stone tiles.</p>
+        <p>&nbsp;</p>
+        <p>One of the most significant advantages of stone-look LVP over natural stone tiles is its affordability. Stone-look LVP is significantly less expensive than natural stone, both in material cost and installation labor. This makes it a much more accessible option for bringing the look of stone into your home.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">Wood-Look Luxury Vinyl Planks</span></h3>
+        <p>&nbsp;</p>
+        <p><img class="rtc__list-item-with-image__image" alt="The floor of a living room is covered with luxury vinyl wood-look planks that have a realistic appearance of blonde-toned wood." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Andover_Bayhill_Blonde_Horizontal_Angle:16x9" /></p>
+        <p>&nbsp;</p>
+        <p><a class="font-bold" href="/material/luxury-vinyl/wood-look-luxury-vinyl-flooring">Wood-look LVP</a> is designed to emulate the look and feel of real hardwood flooring. Each plank is printed with a realistic wood design, including grain and knotting details, that faithfully replicate hardwood's unique variations.</p>
+        <p>&nbsp;</p>
+        <p>In addition to this, wood-look LVP's highly durable wear layer protects the floor from scratches and stains, making it ideal for high-traffic areas and homes with pets or children.</p>
+        <p>&nbsp;</p>
+        <p>LVP is also waterproof, which means you do not have to worry about getting your floors wet, making it ideal for use in moisture-prone areas.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h2><span class="h2-style">Costs and Considerations</span></h2>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style"></span></h3>
+        <p>&nbsp;</p>
+        <p><img class="rtc__list-item-with-image__image" alt="This living space features luxury vinyl wood-look flooring in a rich, dark brown tone. A bench and potted plants share the space." src="http://s7d1.scene7.com/is/image/TileShop/LVT_Cyrus_Plus_Braly_HORIZONTAL:16x9" /></p>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">Cost of Luxury Plank Flooring</span></h3>
+        <p>&nbsp;</p>
+        <p>Luxury vinyl planks are one of the most cost effective flooring options available, ranging from $3.50 to $5 per square foot. You would want to purchase enough LVP to cover 10% to 15% more square footage than the area of the room to allow for cutting end pieces. So, for a typical 200-sq-ft living room, the total price per square foot will be between about $770 and $1,150.</p>
+        <p>&nbsp;</p>
+        <p><span data-contrast="auto" class="TextRun SCXW256685035 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"><span class="NormalTextRun SCXW256685035 BCX0" style="margin: 0px; padding: 0px;">There are a few factors to consider when </span><span class="NormalTextRun SCXW256685035 BCX0" style="margin: 0px; padding: 0px;">determining</span><span class="NormalTextRun SCXW256685035 BCX0" style="margin: 0px; padding: 0px;"> how much to spend on your LVP</span><span class="NormalTextRun SCXW256685035 BCX0" style="margin: 0px; padding: 0px;">:</span><span class="NormalTextRun SCXW256685035 BCX0" style="margin: 0px; padding: 0px;"></span></span><span class="EOP SCXW256685035 BCX0" data-ccp-props="{'201341983':0,'335559685':1440,'335559740':276}" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"></span></p>
+        <p>&nbsp;</p>
+        <ul>
+            <li><strong>Plank Features.</strong>&nbsp;Different planks offer different features, such as thickness, design and beveling. The overall thickness of the LVP, including the wear layer, is one of the most common attributes that will affect the price. Planks with thicker wear layers and core layers tend to be more durable and have better performance characteristics, but they also come at a higher cost. Higher definition design will likewise be on the higher end of the cost scale.</li>
+            <li><strong>Plank size.</strong>&nbsp;LVP comes in an array of sizes. The standard plank size is 7x48 in. and these will come with a slightly lower price. Larger XL planks are 9x60 in. and will usually sit at a higher price point. Another option for stone-look tiles are smaller, wider tiles that are 12x24 in., which will be somewhere in the midrange.</li>
+            <li><strong>Source.&nbsp;</strong>The amount you pay will depend on where you buy your LVP. Buying directly from a specialty retailer like The Tile Shop will ensure you are getting the best price for your DIY installation project. However, if you are working with a professional to install your floor, they may have access to pro discounts that will help reduce the overall cost of the project.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h3><span class="h3-style">What is the labor cost to install vinyl plank flooring?</span></h3>
+        <p>&nbsp;</p>
+        <p>While LVP flooring is easy to install yourself, you may prefer to have a professional install it for you.</p>
+        <p>&nbsp;</p>
+        <p>The cost to install vinyl plank flooring generally ranges from $2 to $10 per square foot. For a typical living room of approximately 200 sq ft, labor costs would total between $400 to $2,000.</p>
+        <p>&nbsp;</p>
+        <p>There are multiple factors that will determine where in this range your labor costs will fall:</p>
+        <p>&nbsp;</p>
+        <ul>
+            <li><strong>Room shape.&nbsp;</strong>Installing LVP flooring in a room that has four walls all at 90-degree angles to one another, your cost per square foot is likely to be lower. However, rooms with many corners, angles or irregular shapes may require more cutting and fitting of the planks, increasing the labor involved and with it the cost.</li>
+            <li><strong>Subfloor condition.&nbsp;</strong>If you are installing LVP onto the subfloor, the condition of the subfloor may impact the price per square foot. A subfloor that requires extensive preparation, such as leveling, repair, or removal of the old flooring, can significantly increase labor costs.</li>
+            <li><strong>Additional services.&nbsp;</strong>Some flooring contractors offer additional services like furniture removal and room cleanup, which can incur additional labor costs. If you're willing to handle these tasks yourself, you can potentially reduce the overall cost.</li>
+        </ul>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <img class="rtc__list-item-with-image__image" alt="Overhead view of a room with rich brown wood-look vinyl plank flooring. A small potted palm tree is also visible." src="http://s7d1.scene7.com/is/image/TileShop/681975_TopDownFloor:16x9" />
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67444d96-fb32-4d28-aacc-b87bc4a8103c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240916T090816Z

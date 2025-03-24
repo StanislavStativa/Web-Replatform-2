@@ -1,0 +1,81 @@
+﻿---
+ID: "9d1929ef-2c0d-4d93-b70b-b347207240b9"
+Parent: "41d2e52b-1957-4258-9500-02b77d582f91"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Forms Applications/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T113746Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <section class="c-rich-text md:px-10">
+            <div class="" item-id="{969E5E4B-FB87-4883-BE76-C1346A8782E1}">
+                        <h1 class="h1">Pro Forms and Applications</h1><br />
+                <div class="richText-max richText"><p>
+        <strong>Job Site Info Forms</strong><br />
+        <a rel="noopener noreferrer" href="http://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/job-site-info-forms/Job_Site_Information_Form_01012019.pdf" target="_blank">Job Site Form</a><br />
+        <a rel="noopener noreferrer" href="http://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/job-site-info-forms/Job_Site_Info_Form_for__Illinois_North_Carolina_01012019.pdf" target="_blank">Illinois Job Site Form</a><br />
+        <a rel="noopener noreferrer" href="http://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/job-site-info-forms/Job_Site_Info_Form_for__Illinois_North_Carolina_01012019.pdf" target="_blank">North Carolina Job Site Form</a></p>
+        <br>
+        <p><strong>Lien Waiver Forms</strong><br />
+        <a rel="noopener noreferrer" href="http://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/lien-waver-forms/\Illinois_Lien_Waiver_01012019.pdf" target="_blank">Lien Waiver Form</a><br />
+        <a rel="noopener noreferrer" href="http://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/lien-waver-forms/\Lien_Waver_Form_01012019.pdf" target="_blank">Illinois Lien Waiver Form</a></p></br>
+        <p><strong>Net 30 Application Form</strong><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/net30-application-forms/Net_30_Application.pdf" target="_blank">Net 30 Application Form</a></p><br />
+        <p><strong>Sales Tax Exemption Forms</strong><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Colorado_Sales_Tax_Exemption_Form.pdf" target="_blank">Colorado Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Connecticut_Sales_Tax_Exemption_Form.pdf" target="_blank">Connecticut Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Georgia_Sales_Tax_Exemption_Form.pdf" target="_blank">Georgia Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Illinois_Sales_Tax_Exemption_Form.pdf" target="_blank">Illinois Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Indiana_Sales_Tax_Exemption_Form.pdf" target="_blank">Indiana Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Iowa_Sales_Tax_Exemption_Form.pdf" target="_blank">Iowa Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Kansas_Sales_Tax_Exemption_Form.pdf" target="_blank">Kansas Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Kentucky_Sales_Tax_Exemption_Form.pdf" target="_blank">Kentucky Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Maryland_Sales_Tax_Exemption_Form.pdf" target="_blank">Maryland Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Massachusetts_Sales_Tax_Exemption_Form.pdf" target="_blank">Massachusetts Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Michigan_Sales_Tax_Exemption_Form.pdf" target="_blank">Michigan Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Minnesota_Sales_Tax_Exemption_Form.pdf" target="_blank">Minnesota Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Missouri_Sales_Tax_Exemption_Form.pdf" target="_blank">Missouri Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Nebraska_Sales_Tax_Exemption_Form.pdf" target="_blank">Nebraska Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/New_Jersey_Sales_Tax_Exemption_Form.pdf" target="_blank">New Jersey Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/New_York_Sales_Tax_Exemption_Form.pdf" target="_blank">New York Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/North_Carolina_Sales_Tax_Exemption_Form.pdf" target="_blank">North Carolina Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Ohio_Sales_Tax_Exemption_Form.pdf" target="_blank">Ohio Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Oklahoma_Sales_Tax_Exemption_Form.pdf" target="_blank">Oklahoma Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Pennsylvania_Sales_Tax_Exemption_Form.pdf" target="_blank">Pennsylvania Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Rhode_Island_Sales_Tax_Exemption_Form.pdf" target="_blank">Rhode Island Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/South_Carolina_Sales_Tax_Exemption_Form.pdf" target="_blank">South Carolina Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Tennessee_Sales_Tax_Exemption_Form.pdf" target="_blank">Tennessee Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Texas_Sales_Tax_Exemption_Form.pdf" target="_blank">Texas Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Virginia_Sales_Tax_Exemption_Form.pdf" target="_blank">Virginia Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Washington_DC_Sales_Tax_Exemption_Form.pdf" target="_blank">Washington, D.C. Sales Tax Exemption Form</a><br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/sales-tax-exemption-forms/Wisconsin_Sales_Tax_Exemption_Form.pdf" target="_blank">Wisconsin Sales Tax Exemption Form</a></p></div>
+            </div>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2713950a-96fe-4e39-91c3-1dfd8149e765"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T103344Z

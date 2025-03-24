@@ -1,0 +1,37 @@
+﻿---
+ID: "638cbe27-2c3f-40ab-86ab-8be5655a59d7"
+Parent: "0c7c765c-3a3a-4adf-a436-ef955c986378"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/switch-plates/Data/Authentic Marble and Travertine Wall Plates"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T155819Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Authentic Marble and Travertine Wall Plates
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Installing a decorative switch plate ensures a cohesive look in every room. We offer a range of plates that will match our most popular lines of natural stone. Created from travertine and marble, these accessories offer an individual personality that will enhance the look of your decorative tile, not take away from it. Sharp and rounded edges let you decide how you want the room to feel while a variety of designs accommodates any combination of rocker, toggle and duplex light switches.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "061c496e-6485-4aef-a2ac-adff810304f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T160130Z

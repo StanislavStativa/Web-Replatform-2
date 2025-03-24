@@ -1,0 +1,48 @@
+﻿---
+ID: "1ba8284e-bab6-4afc-a801-d922ea3bab6f"
+Parent: "7d588e8b-5333-45fd-b308-67cc2e10a515"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Shape/Picket
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1BA8284EBAB64AFCA801D922EA3BAB6F.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e7c2fa03-e12a-4d9f-82af-8ff0a2bb09f8"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgZmlsbD0ibm9uZSI+PGcgZmlsbD0iIzhGOEY4RiIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXBhdGg9InVybCgjYSkiIGNsaXAtcnVsZT0iZXZlbm9kZCI+PHBhdGggZD0iTTEwLjcwMyAxMS42NDkgNS4zNS45NDYgMCAxMS42NXYxMi42NDlMNS4zNTEgMzVsNS4zNTItMTAuNzAyVjExLjY0OVpNMjMuMzUxIDExLjY0OSAxOCAuOTQ2IDEyLjY0OCAxMS42NXYxMi42NDlMMTggMzVsNS4zNTEtMTAuNzAyVjExLjY0OVpNMzYgMTEuNjQ5IDMwLjY0OC45NDYgMjUuMjk3IDExLjY1djEyLjY0OUwzMC42NDggMzUgMzYgMjQuMjk4VjExLjY0OVoiLz48L2c+PGRlZnM+PGNsaXBQYXRoIGlkPSJhIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDM2djM2SDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 459
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240730T051357Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48f56c61-eb96-45fc-b5d8-ee35f33edc87"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T051357Z

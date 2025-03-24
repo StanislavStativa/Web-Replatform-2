@@ -1,0 +1,190 @@
+﻿---
+ID: "867ce66c-893c-41f9-a6a5-1a9498205381"
+Parent: "90f75c4f-6da5-421b-a51b-9313c376b146"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/featured/3d
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{021B8103-2353-47AF-8018-97F762D6C412}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{918230BD-1D8E-4535-8CB2-C99AD07D2348}"
+          p:after="r[@uid='{021B8103-2353-47AF-8018-97F762D6C412}']"
+          s:ds=""
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{34B00E27-170B-4993-A68A-127EB8E8DF92}"
+          p:after="*[1=2]"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01740a82-a02d-42ec-9792-57c44e4e8923"
+      Hint: Collection
+      Value: 
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Ready to take your space to a new dimension? 3D and sculptural tiles turn your walls into works of art that stand out and make a statement. With textures that range from subtle to dramatic, it's easy to find one of these artistic designs that speaks to you."
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {5BBC223A-09B7-4CC2-A4C7-789EE940C767}
+    - ID: "223fce0e-44cf-45db-887f-358e111cb3f0"
+      Hint: AdditionalSKUs
+      Value: |
+        {C991AAC1-1E57-4EE8-BB86-CC754C30904D}
+        {9E98A3E4-17BF-48F7-81DE-9C0B3E9D6396}
+        {834C705A-6717-4B6B-9DC0-06C30A0A0054}
+        {5CB27548-C943-4045-8877-344E68370EE0}
+        {7EE6DB71-B780-4227-9871-7157A419F7E3}
+        {D2CC6E55-EE73-45A0-A965-7B81DD9D659F}
+        {B4DFC34A-1E30-4524-9B65-BA9C0B2A989D}
+        {C12137D6-F0C0-4035-BF66-997C32296608}
+        {DDB5109B-0E09-4DC4-98FD-1CAB1889007C}
+        {CED8EE81-2218-43FE-B60D-D7AB4899EA0E}
+        {93B9100A-5EC5-4B6E-B39A-7D2578A1EE16}
+        {A2041789-5DEE-40C8-BD03-CE5A8265CB91}
+        {AF1882DE-1523-4E2F-8AB9-980061F6F3CF}
+        {B8B00CBA-25A8-48E9-B392-93544DCA3077}
+        {C3B545FB-69EF-44E9-8D44-499E3211B6A9}
+        {733DE56D-63EF-44D8-9732-9DCCB4E051DA}
+        {733DE56D-63EF-44D8-9732-9DCCB4E051DA}
+        {573D79C9-2F44-49D8-874C-78A8C11E1475}
+        {D440C109-4A8D-44DE-A709-E96E2BB86933}
+        {495F93B3-0B87-462F-837E-060D12730F01}
+        {CC3AE157-473E-4BC9-8026-95A7AE8CDD1A}
+        {2B3C59F7-3143-40AC-8B07-0790C7F49F4A}
+        {5D175993-E39F-46B8-8349-89DDA7454BBA}
+        {5D357ABA-F7F3-45E3-B2DA-228D2E2B5FF9}
+        {47878D94-6885-487F-BA8A-083D71FD2DB4}
+        {13B49F47-7FB8-4AF7-A2AD-4BE4627372BF}
+        {3E69EDE1-42A7-476D-B638-A081D82AD4F0}
+        {B201C03E-9A34-4A37-895F-E0A9CE651D59}
+        {6E69E6F5-C061-4ED6-A8AD-7ADA0D2BB1F2}
+        {AD175178-ECDD-42F1-B7B0-A3F2F373AC48}
+        {C11770AF-00CF-4466-996F-825508716DE6}
+        {E6579769-71B2-499D-B586-033CCBBCF4B7}
+        {B566C5A6-7B0A-416F-99EF-FA683CD692AF}
+        {99E97C19-E930-4A3E-8670-69D9FA686D8F}
+        {FAB635B8-BF21-4B74-877F-F710E249DD67}
+        {C1F6033E-9984-47DE-BD39-C94CA62AE293}
+        {872789F5-C8D9-41FC-931A-C8F25D0EB316}
+        {E7F92C1D-04AA-4685-9B67-8A1C24748143}
+        {746E170A-DAEA-4DCF-B2BC-6A5124311847}
+        {8710A0D5-638C-4468-8800-85361D61334B}
+        {AFE76C7D-A240-419A-9C35-DC5453704A48}
+        {2421857A-9E54-49A8-A99F-A3463A388F4A}
+        {6EF98D18-F9B1-44EB-A521-0245B0DC1742}
+        {14341315-7866-47F5-BAE2-4CD45052D99C}
+        {8238882D-16AE-48CB-AE86-B01A6A7125FD}
+        {5F0B128E-DDD4-4E8B-A16B-55AC4A1BD965}
+        {F1DE56FC-447B-4916-8B60-524BBF95B8B2}
+        {6CD7B3B9-97EF-4334-90E0-18C801926F8E}
+        {EC2FFA64-953A-4F88-A50E-A701EC6DD3D7}
+        {545ED47A-7385-4282-A377-A7FC174D830C}
+        {B3D68017-C5EE-44D2-85C1-5AB0E86593F1}
+        {D5B4107B-40DB-4589-8632-83E8FB2E4833}
+        {5528E819-E710-4407-83F6-C1168A55B16F}
+        {BA0A6928-3794-478E-982D-39983D2C4E1E}
+        {37B05D87-24A2-47F0-82D7-C3A1565526C1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T191620Z
+    - ID: "38503162-7288-4c45-84dc-548ca6050bcc"
+      Hint: Style
+      Value: "{AB7122A9-75F9-4A04-BDEA-D02592ADADCD}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: 3d Tile – Make Your Room Stand Out With The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: 3D Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jnelson
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Madam_wall_C_Cat:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e8eb362-1694-4492-96f9-42d3ad8f7956"
+    - ID: "97d3baa4-e854-4132-bf76-d04276f03662"
+      Hint: ExcludedSKUs
+      Value: 
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: 3d Tile
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop 3d tile at The Tile Shop. Create a custom look you've always wanted.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090414Z
+    - ID: "fc06bbb6-f854-4051-9d5f-801f262cc25e"
+      Hint: Shape
+      Value: 

@@ -1,0 +1,44 @@
+﻿---
+ID: "668e9f76-8815-4b8a-82e6-b9279aac2495"
+Parent: "8786e661-86be-4d70-ba0b-64cd3142acfb"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/application/Data/Pool Tile
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pool Tile
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: 
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Surrounding your pool with tile is a modern way to finish the look crisply and create a functional patio area. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1fb10cc-0160-4745-a3dc-03c4188a0cb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240715T172306Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "683157_pool_inst3:Hover_Image_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6472A440-32C4-4811-B0B4-BD2266FAAEB9}" />

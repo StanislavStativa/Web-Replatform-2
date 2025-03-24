@@ -1,0 +1,59 @@
+﻿---
+ID: "59821918-20a2-4ec7-a9c8-9ed1e9991c51"
+Parent: "7ef87e77-2f89-4f5a-b10c-dc6fe16eedcd"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/chevron/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Chevron Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Chevrons, a V-shaped, zigzag-line formation, are a popular pattern for adding geometric shape and movement to your design. Luckily, chevron mosaics make it easy to achieve this look without the intricate cutting and fitting that would otherwise be required to make this design. Whether all in one material or an exciting blend, chevrons add enviable style to walls and floors.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41e4c22c-dbcc-4ad1-8bf0-952adc029ed6"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T182617Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Tinos_chevron_white_Room_Cat%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {852F576E-EFFE-4DA3-B850-B13C59C9EAC0}
+        {D15BEA7F-CFC2-48EB-932E-3749212E1AEE}
+        {D6C4A435-E19C-4769-88EB-9075E400079F}
+        {3B4A94C3-A4A0-4482-84C6-AE650D973C1E}
+        {122FD7D2-A7DF-408B-84E2-A75D5C746865}
+        {DE55A304-568A-4027-89B5-CDEF6FC321FE}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,41 @@
+﻿---
+ID: "127c8580-f42b-4211-b8a0-0679c6077a5d"
+Parent: "245b6f15-d04d-421d-b80e-33ab5ff3f5a0"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Shower/Data/25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Biophilic Design
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "A reaction to the months spent indoors, this trend towards experiencing nature inside is here to stay. Characterized by earth tones, natural materials and nature-inspired patterns, biophilic design will add charm to your shower and deepen your connectivity to the natural world."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac9aa1ce-6acf-4252-86f9-9ffb1ff8624c"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 27
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T052003Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Signature_Style_Amazonia_Emerald_MAIN:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 25

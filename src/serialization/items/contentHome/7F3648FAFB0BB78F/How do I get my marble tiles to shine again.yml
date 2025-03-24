@@ -1,0 +1,42 @@
+﻿---
+ID: "5ddf905e-9f3c-4d56-aecf-644c37fd457a"
+Parent: "b870a861-4d7c-4930-93de-d11cd28c6f72"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-marble-tile/Data/Cleaning Marble Tile FAQs/How do I get my marble tiles to shine again"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do I get my marble tiles to shine again?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Getting your marble tile's original shine back is a relatively easy process. After your regular cleaning routine, use a dry microfiber cloth to buff the surface of the marble tiles. Buffing will help remove any residue and bring back a nice shine.</p>
+        <p>If this does not bring back sufficient shine, you can use a commercial stone polishing product. Choose a polish specifically designed for natural stone. Apply the polish according to the manufacturer's instructions, which typically involve buffing the product onto the clean, dry surface with a soft cloth.</p>
+        <p>For a DIY solution to getting your marble tiles to shine again, mix a solution of one part water and one part baking soda and spread that across the entire surface. Once the surface has been coated, remove the mixture with a mop and clean water. Gently buff the tiles until they are dry.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acdda32a-6022-446c-8720-1cc20cb6559f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T145812Z

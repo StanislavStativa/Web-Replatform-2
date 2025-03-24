@@ -1,0 +1,49 @@
+﻿---
+ID: "577a6cb3-c2cb-4297-befd-c3b738e41a38"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "f92aae37-f650-4508-bfe1-e215aad58855"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Bathroom Tile
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T111125Z
+    - ID: "4dafdc3a-4e79-41f0-a371-7c01e05be22c"
+      Hint: SubHeadline
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72769ef4-51bc-46b2-9d52-99baa07ce26a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T104314Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "NikkiChu_GuestBath_Detail_2:3x2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SHOP NOW" anchor="" linktype="internal" class="" title="SHOP NOW" target="" querystring="" id="{31BD1507-C491-44DD-917D-2F62937403EC}" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: "NikkiChu_GuestBath_Detail_2:3x2"

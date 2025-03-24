@@ -1,0 +1,60 @@
+﻿---
+ID: "9e560b61-2bb6-4805-8485-81e359978336"
+Parent: "3e296b1f-d7d0-42f6-b35a-a5156d62b522"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Payment Options/card
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9E560B612BB64805848581E359978336.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 40
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "894c2804-bdd7-4cc8-86b7-1e840f4cf101"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAN+SURBVHgB7VhNSBtBFH4Wb03OTe7GXo1ejREKRROL0GpUWoraWigtSA8FtdLSIkpLkda2INjisdTSQkFNj2q8mnitm3OSs8k9fd/oLLvZnfztRnPIF8JC2Jn55r3vffMmbUUGNTGuUJOjRdApWgSdop0uCLlslhKJfUqfnFAqdSR+83q8NDI2ToORIeW4tkbZTCGfp+NUklLJIzpkYtd8fuoKdlOwu0d8gWw2Qz9/fKdCoUALi6+ooQRBKJ3WBCEQw+K9oTCT6WZiPeT1epVjl5deUyjcTyF+vxSOUpzWNJGuw4N9QQhEQGgu8pL8fn9Vc2AzbfxEJB0TRJSQrlQyKYj5OG2hvn56OvuMAoHOquaQWjzmOTTtH3XwuCBvDHPaoWyKZdoS+3u6jjBhqC8snuXSVmlTHYGArkVgZekNDUSjgqwR7dYdZii+u2PSUaCzkyYfzFRNSG4KcxT5g9QPRKIi0nZzYAzxe4hqKUFTBDe/blDiYI8Go7eol6NUi4407URoMZ8/5ehcF1rE5lSESjeBjORyWVr7vG56V49gfHdbpODjl/WKkVLpaO6FujiMmzAWlDEzsTvDgrzHsL4ewdknj2lu0X4BqSONTVblaapNSGOW2iuXmU8fVqmL54PGLRHM5jL6QGMK8JRaxECVFlXGDO3N88arQRdH9JjHGwnqEYzdHqbR8QlLCirpqB5jVgFzTk/eo61ff/Tf9Aj6OHrZTKasp6mMeSn2ri5CpYD2IAXIw3eeTZ0g9AEYyblhzLVCmDavNegfMhMMsl7W1laFDo06QoWW8zC5EVhEhwukocO/7MOywzH5YOTmDUGmko7sfGw0NsH+OURuAPWw9ftMh6aTBNUTCoctbg5U42NuAfrDWpCRieBZmZ8dN4hSPL6j+1g1ZuwWoHPwsBBEu7Mw/5ymaEboMH96WpOPNQImgihzlDiiJxpI/l4G0nx8Dpzr2XJpQhRTqSRdFuI728LWZB1Y2i2clSgE43HTaKAApSNc9XhEwyJhaVjtjhu3IQtQdkPljlVLBO2OGzcgGwnhm8WiaCRGYmPKbkjCtuVH4wqio3xnrRelx2Sl5kMF20uTPG5qJaRq9Z3YlPLSNH3/Li2/fV82zarTpdYo1UUQC6/whXrq4SP9vlpPl9wwggCisvltQ0QK/6PAAiq1+hdKsBnQ+n/QKVoEneI/P2aFOPtFqjEAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1001
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 40 x 40
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T132018Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: card
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d987858-ab4b-4dee-a892-b6098d37e83f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T132039Z

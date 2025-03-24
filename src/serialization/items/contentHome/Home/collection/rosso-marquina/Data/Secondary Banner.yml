@@ -1,0 +1,61 @@
+﻿---
+ID: "9c6d79f9-cf12-4a16-a016-29fb1541d39f"
+Parent: "fd9ea109-52d4-4ffc-aa2b-e8d384d2f0db"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/rosso-marquina/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Rosso Marquina
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Burgundy reds, exquisite veining and grandeur polishing make Rosso Marquina one of our most stunning marble choices. Before arriving at The Tile Shop, this exotic collection is fabricated in a beautiful river valley and quarried in the far east of Turkey. If you’re looking to add a feeling of opulence and drama to your home, then this designer stone collection is everything you need.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0273d46-9424-45d9-a2de-1929d035a792"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T072150Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Rosso_Marquina_set_Hero4_Cat%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {B6F861DF-DEBC-4093-80A9-8874C118CC91}
+        {2BD699BA-996F-43B6-A984-5DB43737A61C}
+        {7F5D6662-7EC5-4636-AEA8-E5F967B40F4E}
+        {58DEDDAA-BD2E-4F31-8308-8FA32DBBBAF2}
+        {9A257C94-CEA7-45B5-A831-44E1FA111D40}
+        {5A66B852-0058-4A24-997D-C2E7A3E7766A}
+        {6FC31A76-E51C-4DC1-AF2F-FCB10A0070D2}
+        {ADF079CE-4A8E-446F-88D3-D88A4A7448AC}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

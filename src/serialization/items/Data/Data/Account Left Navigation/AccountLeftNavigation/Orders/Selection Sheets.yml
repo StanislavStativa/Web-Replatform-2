@@ -1,0 +1,35 @@
+﻿---
+ID: "96e3c526-860d-47ec-b549-960894c8117e"
+Parent: "ed0b6e81-43ac-45c7-b088-05d9b318a97f"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation/Orders/Selection Sheets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T155051Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92a3d6b7-64f0-40d2-ba6d-94b705173b6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T060555Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Selection Sheets" anchor="" linktype="internal" class="" title="Selection Sheets" target="" querystring="" id="{0D3161B9-A871-45DD-BF4E-A6A6346827FE}" />

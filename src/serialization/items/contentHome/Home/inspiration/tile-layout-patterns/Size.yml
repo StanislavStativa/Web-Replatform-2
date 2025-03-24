@@ -1,0 +1,226 @@
+﻿---
+ID: "5f0ad277-4006-463d-923e-0a86c54bdfe4"
+Parent: "5d5148e6-e497-4c11-b52c-9425df33250f"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Size"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{487E051E-06C5-4212-97AE-6F922CB6C343}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{981FADE4-67BD-4B5C-95A0-6F23E1675593}"
+          p:before="*"
+          s:ds="local:/Data/5 Tile Card Your pool area or patio"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-13" />
+        <r
+          uid="{D49F3185-BAB5-4108-9626-8DBA8D486934}"
+          p:after="r[@uid='{981FADE4-67BD-4B5C-95A0-6F23E1675593}']"
+          s:ds="local:/Data/5 Tile Card A living space goes"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-13" />
+        <r
+          uid="{1216EE2F-0E4D-4C96-BF03-BC57028F06B4}"
+          p:after="r[@uid='{D49F3185-BAB5-4108-9626-8DBA8D486934}']"
+          s:ds="local:/Data/4 Tile Card Simple clean and elegant"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-10" />
+        <r
+          uid="{E20D47BE-1A28-477B-8E9A-A3D679FB1815}"
+          p:after="r[@uid='{1216EE2F-0E4D-4C96-BF03-BC57028F06B4}']"
+          s:ds="local:/Data/4 Tile Card A modern farmhouse"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-10" />
+        <r
+          uid="{FAE75C5D-DA1A-4C6D-92BF-0029F0A23C24}"
+          p:after="r[@uid='{E20D47BE-1A28-477B-8E9A-A3D679FB1815}']"
+          s:ds="local:/Data/Tile Card Warm but varied brown"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-7" />
+        <r
+          uid="{4DD2E118-C62F-4108-A534-A940E66A8994}"
+          p:after="r[@uid='{FAE75C5D-DA1A-4C6D-92BF-0029F0A23C24}']"
+          s:ds="local:/Data/Tile Card This 6 x 36 tile pattern"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-7" />
+        <r
+          uid="{D5A24F5A-69CA-497D-8CD6-7B4207F00DC3}"
+          p:after="r[@uid='{4DD2E118-C62F-4108-A534-A940E66A8994}']"
+          s:ds="local:/Data/Tile Card A stacked 6 x 24"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-4" />
+        <r
+          uid="{CCF26378-29F3-40C3-8279-38E64C92F898}"
+          p:after="r[@uid='{D5A24F5A-69CA-497D-8CD6-7B4207F00DC3}']"
+          s:ds="local:/Data/Planks arent just for floors"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-4" />
+        <r
+          uid="{CC4E55FA-DB4C-43EC-A29C-274A1BAD8263}"
+          p:after="r[@uid='{CCF26378-29F3-40C3-8279-38E64C92F898}']"
+          s:ds="local:/Data/Matching your grout to your large"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-1" />
+        <r
+          uid="{F9C4CADB-0616-4817-A627-0EA3D0A4965A}"
+          p:after="r[@uid='{CC4E55FA-DB4C-43EC-A29C-274A1BAD8263}']"
+          s:ds="local:/Data/We love how contrasting grout colors"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-1" />
+        <r
+          uid="{5E735283-C670-406A-B724-022634A038FC}"
+          p:after="r[@uid='{F9C4CADB-0616-4817-A627-0EA3D0A4965A}']"
+          s:ds="local:/Data/Rich Text Main"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B6C32998-437E-468F-8289-20CE09087824}"
+          p:after="r[@uid='{5E735283-C670-406A-B724-022634A038FC}']"
+          s:ds="local:/Data/1 12 x 24 Tile Patterns"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{CC174F01-8E20-4C3E-B14F-F1FD4B7648FE}"
+          p:after="r[@uid='{B6C32998-437E-468F-8289-20CE09087824}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{CDA324FB-7BBD-41BA-8401-CA7675CEED84}"
+          p:after="r[@uid='{CC174F01-8E20-4C3E-B14F-F1FD4B7648FE}']"
+          s:ds="local:/Data/2 6 x 24 Tile Patterns"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7AF01DB3-181A-46C2-866D-53C5FDA6D626}"
+          p:after="r[@uid='{CDA324FB-7BBD-41BA-8401-CA7675CEED84}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{A537D2C9-DF23-4DF9-9684-BB29865C2C59}"
+          p:after="r[@uid='{7AF01DB3-181A-46C2-866D-53C5FDA6D626}']"
+          s:ds="local:/Data/3 6 x 36 Tile Patterns"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{068E0D3D-A2E4-4E81-BFF9-482B2A433039}"
+          p:after="r[@uid='{A537D2C9-DF23-4DF9-9684-BB29865C2C59}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7BA50934-F2C6-4B2D-8A89-407C9CDCBA54}"
+          p:after="r[@uid='{068E0D3D-A2E4-4E81-BFF9-482B2A433039}']"
+          s:ds="local:/Data/4 18 x 18 Tile Patterns"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B780A386-6BA0-4F1D-899E-EFD368002FC6}"
+          p:after="r[@uid='{7BA50934-F2C6-4B2D-8A89-407C9CDCBA54}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{2DA04001-65C2-4970-9F33-A45E6E607FB8}"
+          p:after="r[@uid='{B780A386-6BA0-4F1D-899E-EFD368002FC6}']"
+          s:ds="local:/Data/5 24 x 24 Tile Patterns"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{CC910567-98BC-47A1-9B86-88805812BE1E}"
+          p:after="r[@uid='{2DA04001-65C2-4970-9F33-A45E6E607FB8}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{60BB36E3-22B8-49E7-8E69-BE908BFB90BD}"
+          p:after="r[@uid='{CC910567-98BC-47A1-9B86-88805812BE1E}']"
+          s:ds="local:/Data/RTE Bottom"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{8DE9E7B8-BDC7-4880-B22F-796D9B0D6F62}"
+          p:after="*[1=2]"
+          s:ds="{5F93D06C-79A5-48A4-A110-96FADB360A80}"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames=%7B440E1C89-4DA9-4421-A36E-A8D9BDC13F8F%7D&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Center&amp;CTAColor=Black&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T122601Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Size
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Tile Patterns and Layouts by Size | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79693c5c-d824-4ad1-8744-b234ac1485f2"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Size
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: View tile patterns & layout ideas by popular sizes. Visit your local Tile Shop for a free design consultation or order samples online now.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193525Z

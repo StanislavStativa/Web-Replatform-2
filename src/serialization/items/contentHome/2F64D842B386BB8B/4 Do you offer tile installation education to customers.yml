@@ -1,0 +1,41 @@
+﻿---
+ID: "70146765-aedd-4648-be60-4962e41d16d3"
+Parent: "8fb5af14-6b23-4c33-a4e3-d5316eee024f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/resources/faqs/installation/Data/Installation FAQs/4 Do you offer tile installation education to customers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063430Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you offer tile installation education to customers?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes, we offer multiple tile installation education tools, including:</p><ul><li>One-on-one installation guidance from our store associates, no appointment necessary.</li><li>Various resources such as "how-to" videos, problem solving tools, and planning and installation tips and guides in the "<a href="/resources" rel="noopener noreferrer">Resources</a>" section of our website.</li><li>Free in-store educational "How to Tile" workshops every Saturday at 9:30a.m. These are open to the public and will cover the basics of prepping your surfaces, laying out your materials, installing your materials and more. For more information, please contact your local store.</li></ul><p><br /></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa8ed89e-b163-4343-9471-8f42826d594d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T125717Z

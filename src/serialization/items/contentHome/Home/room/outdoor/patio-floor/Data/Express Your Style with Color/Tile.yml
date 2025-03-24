@@ -1,0 +1,38 @@
+﻿---
+ID: "9d4a9636-db97-478d-b72e-56c318644dc1"
+Parent: "061a3057-c859-49cc-ab8b-86d79acd00f4"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor/Data/Express Your Style with Color/Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T064119Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7abb1458-0d81-4e9e-b0f6-b5a0f40ec8a1"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a href="https://www.tileshop.com/products/antique-terracotta-porcelain-wall-and-floor-tile-6-x-6-in-484299"><strong>Antique Terracotta</strong></a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T064330Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 484299_patio_vendor_render%3aDesign_Ideas_All_V2

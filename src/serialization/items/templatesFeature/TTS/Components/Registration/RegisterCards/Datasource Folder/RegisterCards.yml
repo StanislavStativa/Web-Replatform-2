@@ -1,0 +1,48 @@
+﻿---
+ID: "ec1b500d-ff55-4847-a220-ed95d5e0dad3"
+Parent: "bcc884ca-0539-465d-bb84-7757c07c8147"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Registration/RegisterCards/Datasource Folder/RegisterCards
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {D6BE475E-2BE3-4B29-BE7D-61A3BA6FA1C9}
+    {A2C5B6C4-AF3E-489F-8A61-F8A6BBF4769D}
+    {895115B6-8FFB-43AB-B1C7-105195E69F3D}
+    {1AF2C586-1C36-45E1-B598-2DE9A9E4808D}
+    {9776BF60-6531-464B-B67B-4DA77789D7C9}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111213T133000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbd51af1-53e3-4dd7-bfc1-079b8e6bc5ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T070444Z

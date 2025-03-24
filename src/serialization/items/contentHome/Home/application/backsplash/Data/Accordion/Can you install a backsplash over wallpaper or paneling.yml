@@ -1,0 +1,37 @@
+﻿---
+ID: "49badc1e-2f1f-4a8c-8ede-36fb785a6233"
+Parent: "63515a04-b69f-4154-90bb-e195c50bd481"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Accordion/Can you install a backsplash over wallpaper or paneling
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T070408Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Can you install a backsplash over wallpaper or paneling?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>We do not recommend installing tile on top of any other materials and always suggest you start with a clean, blank wall or floor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76cec24a-e59f-44a2-92c4-95e224898ecc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T100547Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "f0a4dcda-bff8-4398-b26a-de8e9fcccc64"
+Parent: "181740ea-a7ae-4799-a649-a75917570e38"
+Template: "181740ea-a7ae-4799-a649-a75917570e38"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/ColumnSplitter/__Standard Values
+SharedFields:
+- ID: "292e92d0-5e59-48b4-8271-1ee910cfa0bc"
+  Hint: ColumnWidth1
+  Value: 
+- ID: "33beaa03-6cbc-497a-a8f9-0979f06ed121"
+  Hint: ColumnWidth6
+  Value: 
+- ID: "3e3b0657-1079-4e0b-ae04-bd9e93eca36b"
+  Hint: ColumnWidth7
+  Value: 
+- ID: "4496cf32-a24c-4210-8eff-b3fc62c967f1"
+  Hint: ColumnWidth4
+  Value: 
+- ID: "718ce476-be2d-4456-8b3d-cf0f2a312cdf"
+  Hint: ColumnWidth2
+  Value: 
+- ID: "7cbf006e-6cfc-4e54-beeb-bb07542f289f"
+  Hint: ColumnWidth5
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "bb9fc77c-03c2-4c51-a620-5c65513711f1"
+  Hint: ColumnWidth8
+  Value: 
+- ID: "bba175b5-49f3-41e7-953d-5615c842530f"
+  Hint: ColumnWidth3
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130304T135400Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f2b876c-e7dc-49b6-9258-a950c01a5192"

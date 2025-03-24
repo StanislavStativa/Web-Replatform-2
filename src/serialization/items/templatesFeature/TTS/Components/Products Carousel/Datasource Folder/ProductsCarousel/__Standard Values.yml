@@ -1,0 +1,37 @@
+﻿---
+ID: "d2208aea-4889-4fa0-b078-9c8cbf0d92ef"
+Parent: "395c4301-9f68-4fc9-9663-a9859ccdc79b"
+Template: "395c4301-9f68-4fc9-9663-a9859ccdc79b"
+Path: /sitecore/templates/Feature/TTS/Components/Products Carousel/Datasource Folder/ProductsCarousel/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "149a4bd4-fbcd-4f02-8d9c-9f6bdb52c59b"
+      Hint: ButtonText
+      Value: SHOP NOW
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T101419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5334e552-b0b9-4b9c-a53c-2bed878c6baa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d6e72a35-0154-4c65-a806-4e592b2d7239"
+      Hint: ButtonFunctionality
+      Value: SHOP NOW
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T101123Z

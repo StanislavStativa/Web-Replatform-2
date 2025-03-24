@@ -1,0 +1,47 @@
+﻿---
+ID: "fc529935-d09a-488f-9088-4d73969e0f5c"
+Parent: "e873c975-7942-4135-aaf2-a23c3c13aa9e"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Content tile stack/LETS TALK TILE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150447Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: LET’S TALK TILE
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Here’s the fun part—talking about what tiles you love! You’ll want to consider the material, shape, size, finish, grout and more. Feel free to browse our selections or request sample photos, ask questions and let us know how we can help you find something that works in your space. It’s all about designing a unique top-to-bottom look you love.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a7d40c8-a4b1-4b8f-9f49-eed99c4bad24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T103258Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Spa_Oasis_0901_MAIN_KJ_Til%3aTile_All
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

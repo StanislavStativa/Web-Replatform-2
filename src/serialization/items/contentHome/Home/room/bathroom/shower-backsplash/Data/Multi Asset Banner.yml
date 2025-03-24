@@ -1,0 +1,54 @@
+﻿---
+ID: "becbabc1-bcd8-45f5-a338-9a25d0d439dc"
+Parent: "7140a0a5-0eba-41d2-aaab-66ed0a1233e4"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-backsplash/Data/Multi Asset Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shower Backsplash Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        Take your shower from the bare basics to a spa retreat with high-end accents that make all the difference. Details like recessed shelves, framed accent tiles and attention to trim pieces add the unique touches that make your shower your own. Our perfectly coordinated collections make it easy to mix and match accessories to finish your shower stylishly.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {71CA5111-AB76-4FFF-8BF2-5D9DD4B3D536}
+        {A7B720C0-33B9-4229-8552-5A755F57F233}
+        {CD36608F-FA68-400B-AEF2-1F84ED46972C}
+        {34CFC486-4F7F-4E23-AF2D-55A95627ED4A}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3905d189-8a5b-44cd-9740-44c722b25c2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T102833Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Sunflower_Beveled_Bathroom_Niche_Vertical:3x2"

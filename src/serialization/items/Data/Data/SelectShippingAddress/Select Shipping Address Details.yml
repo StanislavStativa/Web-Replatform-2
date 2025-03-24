@@ -1,0 +1,46 @@
+﻿---
+ID: "4e7e28e1-a56e-402a-bb0d-0ba57bc557e7"
+Parent: "bd33fba1-0564-4dd5-a2f0-08a3c541aeb9"
+Template: "2d07a679-1f07-4e82-a6d6-84750c9d43f0"
+Path: /sitecore/content/TTS/TileShop/Data/SelectShippingAddress/Select Shipping Address Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11f52a68-bd4a-4196-8d05-b15417517ca9"
+      Hint: ShippingRemarks
+      Value: "<p><b>Note</b>: Remarks require a manual order processing and could delay delivery!</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T165943Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Select or Enter your new Address
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: api/address/getaddresses
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>All samples are shipped direct to you in 2-4 business days via FedEx.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2afed0d3-edec-4faf-8ed6-9623d33afbf2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T115916Z
+    - ID: "fc207e8a-a6be-4bb6-b99f-75d242b402cf"
+      Hint: SecondaryAPIEndPoint
+      Value: api/address/addAddress

@@ -1,0 +1,62 @@
+﻿---
+ID: "8ba78929-efb6-42d5-803f-e8232dc22175"
+Parent: "a2cf1c0f-40e4-433c-8565-426439e56e8e"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/series/harley-lux/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Harley Lux Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Evoke drama and glamour with the statement-making Harley Lux porcelain collection. HD printing technology produces a unique shiny-on-matte textured surface that reflects the light. On its own, each color produces a rich, monochromatic look. Mixed and matched together, this Spanish tile collection creates a bold, geometric pattern on floors, walls and even outdoors.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df7dba9d-c27c-4634-824d-acb21d2172e1"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T043933Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: HarleyLux_black_STL%3aCategory_Intro_Image+
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {B073A8EB-D71C-4728-8184-B70EBD00DDC1}
+        {D9C7E70C-F58A-445A-883B-483CF2422E26}
+        {BD416D62-FBBC-4B24-A310-F3BA75DBA3BD}
+        {6F99BD8F-B446-49F3-B6DE-DFF6D61DEA14}
+        {93B575F2-5D5E-4CBB-9B54-67750661B3B2}
+        {59E27ED1-AE8D-4B0F-8D59-7C715F43D268}
+        {6D58D2CB-9AE1-4C64-978F-E42DA4201839}
+        {EC13284E-76B5-4F40-9DEC-842078183234}
+        {AE9A8490-1E93-4B54-84CA-82540889D2F1}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

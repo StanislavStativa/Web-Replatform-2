@@ -1,0 +1,23 @@
+﻿---
+ID: "2a175f0d-1e73-45be-9c4e-548f7e1e6294"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "62fdf740-f50e-4592-b90e-40494a3249f6"
+Path: /sitecore/content/TTS/Global Content/Product Hierarchy 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T210629Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42e8b11f-5861-4bf2-a5f9-e64d129cdad9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T092520Z

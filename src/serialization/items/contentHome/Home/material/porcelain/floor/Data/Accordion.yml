@@ -1,0 +1,51 @@
+﻿---
+ID: "9af45243-93ed-4b71-822e-5fbdfdd3b2c5"
+Parent: "9c9facd4-daae-4ed5-8e3d-c6a007fe159a"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {5FCE087C-B0CC-4225-BDF9-79A4181F6D57}
+        {8E22BF6C-8E4F-44FA-A67A-8EA95263D350}
+        {8B5E15FE-7752-4918-A14F-682FAD457EB8}
+        {B5F3D2B4-15FC-4735-A4E2-7F1A37FB0F5D}
+        {B98B2E68-8B7D-4FFA-AF6E-8E2D53A83468}
+        {04F7315E-6416-4E72-8273-1C51F1473590}
+        {715661B0-FDCC-449B-9DAB-FACD24CF2E70}
+        {3B134CAD-D26F-4B4C-A18E-36E43BBCC41D}
+        {48FAAC46-F5F8-4F73-9BFB-BE3D63726DD1}
+        {C2AC52EB-40BA-4567-AFAF-7F83DC976B9A}
+        {0ED44816-EF58-4934-A03F-4A34A35CD143}
+        {9B47734A-D7D1-46BF-97E9-70FE9E5B191F}
+        {820F3170-83ED-4E47-B257-0A4C1CBD7C94}
+        {1436DE17-51AA-46D3-9EFD-9DCCA15F33EF}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5ecae10-b96d-43e5-88e3-df2ecfb93554"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240711T094431Z

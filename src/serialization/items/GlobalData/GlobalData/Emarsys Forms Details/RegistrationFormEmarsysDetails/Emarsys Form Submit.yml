@@ -1,0 +1,35 @@
+﻿---
+ID: "aa104402-b395-4766-8635-aa229e563eca"
+Parent: "5ffb3a13-8cba-4ddb-9d76-5b6edf2c774c"
+Template: "128ca6e3-159f-4b86-8d08-d0b1256da94d"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/RegistrationFormEmarsysDetails/Emarsys Form Submit
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T113411Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "62fc5994-99fd-48da-89a9-ae959cbb69a2"
+      Hint: EmarsysAdditionalProperty
+      Value: |
+        {"EmarsysEventID": "21"}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8d8c649-eb4c-4bdd-891f-9c3243bf3c00"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T113457Z

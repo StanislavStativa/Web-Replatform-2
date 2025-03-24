@@ -1,0 +1,49 @@
+﻿---
+ID: "218ec6a5-e12d-4996-a14e-413d118c0177"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/02 Installing Pencil Trim"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T045440Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installing Pencil Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>“Pencil” is the term for a finishing piece of tile with a thin, elongated shape. Similar to bullnose tiles, <a href="/trim-and-accessories/profiles/somerset-pencil">pencil pieces</a> are available in a wide variety of natural stone and manmade materials (including metal). The Tile Shop offers a variety of shapes within the overall pencil category, including our signature rounded Somerset shape, plus dimensional pieces that resemble decorative wood molding and simple squared-edge designs, like the one used for this demonstration. </p>
+        <p><img alt="Example of shower wall where coordinating pencil trim tile has been used to finish the perimeter of the tile edges and transition from tile to drywall. " class="rtc__list-item-with-image__image" src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_16:16x9" />&nbsp;</p>
+        <p>Installing pencil trim follows the same general steps used for installing the larger bullnose tile. However, you’ll notice that we recommend removing excess thinset from the area around the pencil immediately after putting it in place, rather than as a finishing step.</p>
+        <p>This is a matter of tile size: Because of its small surface area, pencil tile is more prone to moving around while thinset is still wet, which would cause you to have to go back and readjust those pieces. Removing the excess thinset before cleaning the tile and inserting spacers helps avoid this issue.</p>
+        
+        <p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1570104e-827d-422a-ae72-74c60cd01768"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 3
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 2

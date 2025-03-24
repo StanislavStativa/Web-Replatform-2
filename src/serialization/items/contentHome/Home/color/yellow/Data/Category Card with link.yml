@@ -1,0 +1,63 @@
+﻿---
+ID: "ffce8cf4-1751-446a-9494-87027b574fee"
+Parent: "fc7eb10e-a171-4b89-8feb-fe97c4e2e6df"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/yellow/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Yellow Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>A golden yellow hue can brighten up your home in a beautiful way. Installing sandy travertine tile lets the rustic look and feel of natural stone shine through on your walls and floors. Illuminate your bathroom or kitchen with a bright, sunny encaustic tile or quartz featuring sparkling flashes of goldenrod.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a37a737f-952d-4b22-856b-628dbb33e423"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153851Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Color-Market-Yellow_Cat%3aCategory_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {4EF4DD72-4C8D-4833-AEF4-B1213D2F4E60}
+        {79C9A4E1-0FD1-4F99-AF8D-9445599A1374}
+        {C323BA2F-B8D9-4D2E-B28A-31269DAD9447}
+        {7E54122B-0C2A-4DF8-B763-96E39AC6A76F}
+        {E4C2E5D1-EDBE-4B35-AE3A-5E78E77E5FA3}
+        {86DE9308-CA5F-4DDC-ADEC-C5A28A85F960}
+        {80BAA7B2-1638-4FA4-91A0-BFBED12DA5DA}
+        {C69648FE-DDF5-4333-B2A3-C3B6B8C12609}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

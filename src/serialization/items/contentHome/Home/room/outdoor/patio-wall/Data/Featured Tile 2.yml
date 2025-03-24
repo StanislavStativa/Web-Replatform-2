@@ -1,0 +1,45 @@
+﻿---
+ID: "38990e22-d44d-4e39-bdc0-cc79be233d67"
+Parent: "a37bbf96-c8d9-4b5b-a227-55e499fd6663"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-wall/Data/Featured Tile 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {16451E85-AFB9-45A4-89F8-86960150D752}
+        {5FD385B2-4834-4DB2-806E-E533112E86C1}
+        {90704046-DB1A-4815-B1B8-FFA0657979C9}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Design Your Perfect Patio
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Perfectly imperfect </span><a href="/tilefeatured/handmade-look" class="font-bold">handmade-look tiles</a><span> will give your patio floor a timeless feel, while </span><a href="/featured/wood-look?Material=Porcelain" class="font-bold">wood-look porcelain tiles</a><span> will create a deck that’s both durable and waterproof. There is no shortage of decorative directions you can go with your design, whether you want a rustic Spanish flair or a sleek, modern vibe, we have outdoor patio tile flooring that will bring your aesthetic dreams to life. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a47f89ef-0675-47da-871e-aa6f5ff75bd7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T101239Z

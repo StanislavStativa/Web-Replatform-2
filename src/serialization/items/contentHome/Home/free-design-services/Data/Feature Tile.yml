@@ -1,0 +1,40 @@
+﻿---
+ID: "36637585-d2e1-48b7-8b4e-a12793aeef3f"
+Parent: "d0d827cc-aaf0-4fdd-b18f-0336eab806c8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Feature Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {86435E37-64EB-4233-BD32-F1D5E7CFB42B}
+        {E8FD531E-3CC7-4D85-838D-193D771E8DFD}
+        {88DFF343-3D2C-414C-AC4E-DBEAA557D609}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T150703Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: WHAT TO BRING TO YOUR APPOINTMENT
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4045cf9e-2ada-47ee-8d30-669118b89656"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T160731Z

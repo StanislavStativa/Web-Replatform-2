@@ -1,0 +1,40 @@
+﻿---
+ID: "0b8b8720-9dc8-4701-a09d-9406df7ab55b"
+Parent: "ee7a1d98-bec8-461d-8869-926346d7a015"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor/Data/Accordion/Accordion Item 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113449Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is the best tile for shower floors?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        There are a number of tiles that are great to use in the shower pan. Pebbles and cobblestones create a unique look that evokes the feeling of a natural outdoor oasis. Many people who want to create a spa-like feeling in their shower choose this option. Ceramic and porcelain are classic choices that offer endless variety. To play around with patterns, choose a mosaic in your favorite shape for the shower floor tile. With linear drains that fit right into your sleek design, you can use any size tile on the shower floor, even large-format tiles. The most important thing is to choose the tile that is right for you in terms of maintenance and look.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6571f7a7-c9a0-435f-a2fc-e81df3fb5d48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T181916Z

@@ -1,0 +1,34 @@
+﻿---
+ID: "3ed9b43b-bd51-4175-81c0-8ec497395bd9"
+Parent: "807f438d-3c9f-476d-b3ab-7d68f93ddf34"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Color/Orange
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T103014Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{943E3400-3EE6-4DF0-99A8-1E39AA786599}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Orange
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad0d0d31-3adb-4497-96f9-2f79f7666781"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T031206Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Orange" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{69BC85E4-37D4-4DB2-9D0D-3B511498443E}" />

@@ -1,0 +1,37 @@
+﻿---
+ID: "962291bc-6152-4183-bcc4-574e6b6aea07"
+Parent: "e4d5fb4f-4041-4531-aee9-38ef63f8f141"
+Template: "f9cecac1-6b6e-4399-b7a7-78e9295cfcdf"
+Path: /sitecore/content/TTS/Global Content/Styles/Patterned
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1deffcd2-8661-4cfc-b57e-b046f1f78a9e"
+      Hint: StyleName
+      Value: Patterned
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240228T173500Z
+    - ID: "2717277c-5e32-43f9-997d-8e1a1fd665e9"
+      Hint: StyleId
+      Value: PATTERNED
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fff5ce4a-84d3-4bda-849f-f4a70e8b1717"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240228T173841Z

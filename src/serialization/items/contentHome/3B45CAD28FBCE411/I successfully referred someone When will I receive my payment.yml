@@ -1,0 +1,43 @@
+﻿---
+ID: "2cb8a948-52a7-4122-9e6a-bf6cbe96db9d"
+Parent: "9fab1590-adec-42e8-9e48-3f8f3a607252"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/pro-referral/Data/Accordion/I successfully referred someone When will I receive my payment"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "I successfully referred someone. When will I receive my payment?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><strong>If you have a valid Pro account and have verified your tax and banking information via PaymentWorks:</strong> You will receive an ACH deposit the following month on any qualifying orders that closed during the previous month (with adjustments from returns if applicable). </p>
+        
+        <p><strong>If you have a valid Pro account but have not verified your information through PaymentWorks:</strong> Your referral earnings will still accrue, but PaymentWorks will hold them until they have verified your information, after which point PaymentWorks will deposit your earnings into the account of your choosing.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc4adc3f-dfd1-40f8-8d05-51a346b7b6d9"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T080753Z

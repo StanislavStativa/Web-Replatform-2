@@ -1,0 +1,27 @@
+﻿---
+ID: "14a2fb45-9e72-495d-8e15-2762ca559b7a"
+Parent: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Template: "eda1a11d-4b30-432b-94c0-65bf932cacde"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Account Login
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T110436Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f846a1d-2c0a-491c-9f77-e0356ec1125a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T090727Z
+    - ID: "f0603d5d-027f-47e4-96a6-009494468d6c"
+      Hint: CTA
+      Value: |
+        <link text="Account Login" anchor="" linktype="internal" class="" title="Account Login" target="" querystring="" id="{97655800-3FCB-4D86-A0BD-2E8294A0844D}" />

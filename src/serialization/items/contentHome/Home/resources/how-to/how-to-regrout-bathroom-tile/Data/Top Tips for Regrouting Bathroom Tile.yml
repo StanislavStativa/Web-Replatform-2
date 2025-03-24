@@ -1,0 +1,56 @@
+﻿---
+ID: "10d70d09-5420-48c1-a14e-921f0ef24769"
+Parent: "9a2481cd-eb66-4989-b980-9ec78a482b8a"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-regrout-bathroom-tile/Data/Top Tips for Regrouting Bathroom Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T132217Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Top Tips for Regrouting Bathroom Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <ul>
+            <li>
+        <strong>Work in small sections</strong>
+        . Don't try to grout the entire bathroom at once. Work in one area at a time to prevent the grout from drying out before you can smooth it. And, because grout dries so quickly, only mix as much as you can work with in 15-20 minutes.<br />​</li>
+            <li>
+        <strong>Clean as you go</strong>.
+         To keep the process even more efficient, have a couple of buckets of water and sponges ready for cleanup. Use one bucket to rinse the sponge and the other to hold clean water for wiping. Change the water frequently to avoid smearing grout back onto the tiles.<br />​</li>
+            <li><strong>Caulk corners and edges</strong>.
+         Instead of grouting the corners and edges where the tile meets another surface (such as where tile meets the tub), use caulk. Caulk is more flexible and can prevent cracks in the grout due to expansion and contraction common in high humidity environments like bathrooms.
+        </li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d51def0-620d-468f-97ae-4546fdb41332"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T060057Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

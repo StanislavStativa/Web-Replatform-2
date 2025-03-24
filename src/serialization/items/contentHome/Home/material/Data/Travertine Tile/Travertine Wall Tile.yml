@@ -1,0 +1,35 @@
+﻿---
+ID: "7f9b179e-b3ae-4ef3-9f5e-11f2d207cb0f"
+Parent: "5d4d108a-8cb2-4522-9ff5-b05a7ba4f3a9"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: /sitecore/content/TTS/TileShop/Home/material/Data/Travertine Tile/Travertine Wall Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T060031Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3e42e36-f7d6-4ef8-83b0-205b2d10b3fd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T125142Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Travertine Wall Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3ED5D7FF-B284-4B58-A939-4BFEF1515286}" />

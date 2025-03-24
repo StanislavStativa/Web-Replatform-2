@@ -1,0 +1,37 @@
+﻿---
+ID: "b62ab47c-05ea-42de-8e88-5a400cc4719c"
+Parent: "e058009b-609f-409e-87c6-cb9624999a4d"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/cost-to-retile-bathroom/Data/Bathroom Retiling FAQs/How hard is it to retile a bathroom"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T175756Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How hard is it to retile a bathroom?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>If you are brand new to tile or building a shower, taking a course on building a full shower system and best tiling practices is highly recommended. Full waterproofing systems make the steps straightforward and reduce risk in getting in wrong significantly as well as providing you with a system warranty from certain manufacturers.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d47b2888-4c0c-4540-ba07-dc8f6fcb249a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T175956Z

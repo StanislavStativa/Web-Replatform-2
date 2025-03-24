@@ -1,0 +1,46 @@
+﻿---
+ID: "d200ec5f-c4d9-4c5d-92a4-cfd592961295"
+Parent: "76f6dfca-4202-4b40-94fd-a762bda86225"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/green/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {26EA9F4C-92FC-4565-A2C8-252629F70D52}
+        {F76E03DD-73F5-4393-A964-E953ACABE10A}
+        {21E1F349-4848-483A-AE7F-35862DCFED66}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Create a Spa-Like Sanctuary with Green Bathroom Tiles"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Set the tone for your whole day by adding verdant shades of green to your morning routine. Jewel-toned mosaics in distinctive shapes can add dramatic flair, and </span><a href="/material/porcelain" class="font-bold"><strong><span style="text-decoration: underline;">porcelain tiles</span></strong></a><span> painted with tropical leaves can turn your shower into a lush oasis. Even something as simple as choosing green subway tile rather than white for your shower, walls or sink area can infuse a bathroom with personality. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df4088fd-f88a-4e27-ac37-859663c0861e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120833Z

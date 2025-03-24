@@ -1,0 +1,31 @@
+﻿---
+ID: "7ad2a268-d518-40de-9be9-eec56bdc81ef"
+Parent: "f2bff547-1417-478c-817e-81020072e43e"
+Template: "f2bff547-1417-478c-817e-81020072e43e"
+Path: /sitecore/templates/Feature/TTS/Common/Interface Templates/Links/_SecondaryCTA/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T081852Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17fda655-34aa-4d42-b7ae-d10cb9becfd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T112210Z

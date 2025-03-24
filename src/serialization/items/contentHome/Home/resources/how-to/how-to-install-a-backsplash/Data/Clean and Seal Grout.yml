@@ -1,0 +1,50 @@
+﻿---
+ID: "cb062ffb-b158-49a8-a084-e5689c6d941f"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Clean and Seal Grout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Clean and Seal Grout and Fill the Expansion Gap
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>
+        <span class="normaltextrun">Before the grout dries, clean up the excess grout. Use a damp sponge (not dripping wet) to wipe diagonally across the tiles, removing the excess without digging into the joints. Rinse and re-wring your sponge frequently. After the grout has had more time to firm up (usually a few hours), polish away any remaining haze from the tile surface with a clean, dry cloth.<br />
+        <br />
+        Next, fill the expansion gap with <a class="font-bold" href="/installation-care/installation/caulk">tile caulk</a>. You can also add tile caulk to the corners where the tile meets the wall and where the tile meets the cabinets for a more finished look.<br />
+        <br />
+        For added protection against stains and moisture, apply a grout sealer after 24-48 hours. Follow the sealer's instructions for application and drying time.</span>
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37323d2e-a01b-4780-85f2-2f93dca0533e"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T101657Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "YellowBrickHome_Condo_HowToTileABacksplash_Sponging:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 9

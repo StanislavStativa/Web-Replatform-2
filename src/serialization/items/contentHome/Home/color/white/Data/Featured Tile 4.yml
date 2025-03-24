@@ -1,0 +1,46 @@
+﻿---
+ID: "d673ac82-f952-4cab-ab63-2732078d7d00"
+Parent: "955919c4-e2cf-453e-b7a2-9c0a7eea3acc"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/white/Data/Featured Tile 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {5D4635D2-CC16-4BDA-8D0E-B9D3D27B5997}
+        {0CBED976-2FB8-45CC-B709-3C5D8A8B80AE}
+        {91671F87-66F8-47A9-B998-1B5DE42B40AB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Texture and Dimension
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>White floor tiles need to be smooth and flat, but white wall tiles are your opportunity to stand out&mdash;literally! Make a quiet statement with crisp beveled edges on an otherwise plain </span><a href="/featured/subway" class="font-bold"><strong><span style="text-decoration: underline;">white subway tile</span></strong></a><span>, or revel in the embossed reliefs, raised patterns, or swooping ripples and curves of sculptural white ceramic tile.</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ae91d26-4315-4254-8e21-98f10f177a35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T115802Z

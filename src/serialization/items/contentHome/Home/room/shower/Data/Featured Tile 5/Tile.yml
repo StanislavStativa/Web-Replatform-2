@@ -1,0 +1,38 @@
+﻿---
+ID: "6f481033-1b6c-45a6-b3c6-de18f7519661"
+Parent: "e8ce8a16-dee9-41ef-82e0-a2c7fd720bc2"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/shower/Data/Featured Tile 5/Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T095246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dff3a878-35a4-4600-8075-93923e78fc37"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile:&nbsp;</span><span></span><a href="/products/volakas-honed-marble-skirting-wall-trim-tile-681299" class="font-bold">Volakas Skirting</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140428Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Volakas_SHOWER_CURB_DETAIL%3aDesign_Ideas_All_V2

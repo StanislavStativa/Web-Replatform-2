@@ -1,0 +1,44 @@
+﻿---
+ID: "dd0876b0-60f0-4ad2-9a45-c3f2c068b12e"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Install a Ledger Board"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install a Ledger Board
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>A ledger board is a thin, sturdy strip of wood that helps you achieve a precise and even tile installation where there is no counter, such as behind appliances. It will support the weight of the tiles as they cure and facilitate precise, even tile placement.
+        <br />
+        <br />
+        Using a level, mark a line on the wall where the bottom row of your tile backsplash will be. Then, using finishing nails, attach the ledger board to the wall using the line you marked to keep it level.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e94c6ca-af25-4eda-b503-73fab9ad8486"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T100929Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "YellowBrickHome_Condo_HowToTileABacksplash_InstallingLedgerBorad:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 3

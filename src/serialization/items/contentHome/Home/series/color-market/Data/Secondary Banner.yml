@@ -1,0 +1,63 @@
+﻿---
+ID: "340cb9aa-372f-4905-baec-d35b8e5a6c8b"
+Parent: "3dc0a00c-393e-4cfa-ba57-ef92ca83f14c"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/series/color-market/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Color Market Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>There is a color for every inspiration. Choose from a thrilling range of 38 Color Market tiles, each embodying a sense of meaning and history designed for your home. The world’s leading color expert, Pantone, guided the process of creating the brilliant 2.5" x 9" ceramic subway tile series. A range of polar, landscape and personality-filled shades offer a spark of life on a backsplash, wall, shower surround or floor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "563bf23b-7f72-44c8-952f-cf8b7620615e"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T044353Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Color-Market-Full-Spectrum_Cat%3aCategory_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {9966FE41-8452-4E74-BAAE-82E3E475FF5E}
+        {63EE31E6-FF98-41AD-AF15-E0516B8CC61E}
+        {7CBC3419-9D9C-4BF9-B216-9CA3B7772CCB}
+        {4BCDD0F1-D55B-474B-BAE1-FAC447500137}
+        {93C2ABAA-EA98-4DE7-96A5-80FF28E65A6C}
+        {0752FB46-87DD-4766-8F6E-13155067F26D}
+        {61E24EB9-FBA9-4F44-A6B7-36F9913599F9}
+        {C2E4A7BA-682B-434A-BC99-03B16C3BD3EC}
+        {BCA84E64-9B65-4061-AB64-77AC5C215B9D}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

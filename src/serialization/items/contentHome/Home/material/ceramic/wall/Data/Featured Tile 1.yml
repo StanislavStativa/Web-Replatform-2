@@ -1,0 +1,44 @@
+﻿---
+ID: "a9d3b03d-6d8d-4703-8ef5-eb5fbbb39f8d"
+Parent: "c5c67dd2-921f-48d4-a985-a5c67273de22"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/wall/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {9CFEA16E-940B-4338-A5B3-25BBB69EB0F1}
+        {851788FF-14DE-4066-B193-F2059556084E}
+        {9E34D0A1-BF92-4E0B-A3F4-19328E537834}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ceramic Bathroom Wall Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Whether you’re installing a full <a href="/room/bathroom/shower-wall" class="font-bold">ceramic shower wall</a> or adding a trend-forward backsplash for a quick powder room refresh, there’s a tile to match every décor style. </span><span>And who hasn’t dreamed of having a bigger bathroom? Tile is a great option for enhancing the feeling of space in a powder room or guest bath. Arranging </span><a href="/featured/subway" class="font-bold">subway tiles</a><span> or pickets horizontally makes a space feel wider, while a vertical layout adds height. Going with </span><a href="/featured/large-format" class="font-bold">large-format tiles</a><span> can visually open up a bathroom you wish was larger—perfect for a primary bath update when you can’t borrow square footage from elsewhere in the house.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12b92ae8-7b6c-4413-bf6e-84575f5c6002"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185212Z

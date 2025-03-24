@@ -1,0 +1,30 @@
+﻿---
+ID: "5988fd11-6fc5-49c9-922b-c9281f8fac7b"
+Parent: "4bc430c7-3a31-4f0e-bc9e-ed6daa945c79"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: "/sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Luxury Vinyl/Luxury Vinyl Looks/Stone-Look Luxury Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T063322Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13e26dc9-9e5c-44ce-99d0-482fee16615b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T072132Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Stone-Look Luxury Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C60B4713-AC4A-42E5-A84A-616F5FFC0C06}" />

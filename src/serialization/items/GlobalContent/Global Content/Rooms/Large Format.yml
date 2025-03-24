@@ -1,0 +1,26 @@
+﻿---
+ID: "94ed316b-8635-4f4a-a825-e293d6bc00da"
+Parent: "111cec11-b563-4995-b4d3-36b2e6ef959a"
+Template: "45ba6248-de0f-4a32-a21e-b0a57ee4e0c5"
+Path: /sitecore/content/TTS/Global Content/Rooms/Large Format
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181231T165623Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70e6ce9d-3008-4a34-bb2b-474a351d2957"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181231T165623Z
+    - ID: "f77d90b6-3e65-477b-8b5f-71a9e38ed290"
+      Hint: RoomName
+      Value: Large Format

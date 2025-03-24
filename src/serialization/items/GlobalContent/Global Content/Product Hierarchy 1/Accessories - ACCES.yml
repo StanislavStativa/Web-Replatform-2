@@ -1,0 +1,37 @@
+﻿---
+ID: "05b92e0f-050f-4df0-9ddd-9eef9e964008"
+Parent: "cdf066b0-912e-47ff-9e2b-4deb338d0263"
+Template: "a091ea1d-6ced-4e67-849f-9833de80409c"
+Path: "/sitecore/content/TTS/Global Content/Product Hierarchy 1/Accessories - ACCES"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T042046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb8c5262-94c8-4eed-9d1e-d4b607c6b811"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c6c29512-1443-439d-bffb-2de82391eb45"
+      Hint: ProductHierarchy1Description
+      Value: Accessories
+    - ID: "d8a4f77b-090c-4847-93c8-cb86e3af6e0f"
+      Hint: ProductHierarchy1Code
+      Value: ACCES
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181220T182556Z

@@ -1,0 +1,69 @@
+﻿---
+ID: "2bbca5bd-986a-4524-a456-f3d1933f7438"
+Parent: "3c07db8f-2f9f-472f-8ada-46fbdf957361"
+Template: "99d78fdc-8baf-4062-a4c2-e99d0c2ba99a"
+Path: "/sitecore/content/TTS/TileShop/Home/shopping-cart/Data/CartItem Details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a77958c-2faf-4253-a49a-5ae325a81d02"
+      Hint: Title
+      Value: There’s Nothing Here
+    - ID: "1606a55a-b053-4243-8c05-88901f76245d"
+      Hint: SpecialOrderMessage
+      Value: |
+        <img src="/Assets/Images/cart/cart-info-icon.svg" />This is a special order item and is not returnable. <a href="~/link.aspx?_id=3B92E69D16D84B118D3F19673E75A7AB&amp;_z=z">View return policy</a>
+    - ID: "1f32ff02-7a1f-4ce0-a9f0-e31412e93927"
+      Hint: GuestUserDescription
+      Value: Sign in to see your cart from a previous visit or create an account.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T071042Z
+    - ID: "40119017-20c9-485c-a639-86f60599dd07"
+      Hint: PrimaryCTA
+      Value: |
+        <link text="SIGN IN" anchor="" linktype="internal" class="" title="SIGN IN" target="" querystring="" id="{97655800-3FCB-4D86-A0BD-2E8294A0844D}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: There’s Nothing Here
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14bcc000-2e67-4568-b7c9-f50cc9e94574"
+    - ID: "a67f01d7-1083-496b-b724-c17e8990ba97"
+      Hint: SignedUserDescription
+      Value: You have no items in your cart.
+    - ID: "a992756b-ad5e-4038-9560-8a98ca18c7ad"
+      Hint: ShopNowCTA
+      Value: |
+        <link text="Shop Now" anchor="" linktype="internal" class="" title="Shop Now" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "c3c135fa-5256-4707-99c4-09473f644daf"
+      Hint: NonReadyForDisplayMessage
+      Value: Product cannot be purchased and must be removed before continuing to checkout.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240725T131432Z
+    - ID: "e1cd364d-e9e6-4a56-b877-e07f7458409a"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="CREATE ACCOUNT" anchor="" linktype="internal" class="" title="CREATE ACCOUNT" target="" querystring="" id="{85F6F16C-B3C3-45D6-B22F-4FC308ABEF9C}" />
+    - ID: "ecff8671-9d1a-4ffd-9737-88685b0393c8"
+      Hint: SampleModalAlertSummary
+      Value: |
+        <p>All samples ship in 2-4 days via Fedex. <a class="font-bold text-xs leading-4.5 underline " href="/samples">Learn More</a></p>

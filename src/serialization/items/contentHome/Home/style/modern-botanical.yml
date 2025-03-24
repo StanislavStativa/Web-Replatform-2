@@ -1,0 +1,141 @@
+﻿---
+ID: "1e507506-17cc-44ab-93cd-1dc9b16c0e02"
+Parent: "5d58157a-b836-4412-a4eb-a6a7c0bb61a8"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/style/modern-botanical"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{021B8103-2353-47AF-8018-97F762D6C412}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{918230BD-1D8E-4535-8CB2-C99AD07D2348}"
+          p:after="r[@uid='{021B8103-2353-47AF-8018-97F762D6C412}']"
+          s:ds=""
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{34B00E27-170B-4993-A68A-127EB8E8DF92}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01740a82-a02d-42ec-9792-57c44e4e8923"
+      Hint: Collection
+      Value: 
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Turn your space into a private oasis with Modern Botanical tiles. The hexagon porcelain tiles are a beautiful way to add pattern and elegance to any walls, floors or outdoor space. Available in three colors, Terra Cotta, Emerald Tropic and Grey Tropic, each has on-trend black matte fittings to complement the floor tile and add a modern feel. Each color rejuvenates and restores, giving the feeling of being connected to nature and feeling safe and secure, perfect for your own at-home sanctuary."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{5F436D9B-F540-4AF7-B2A1-DDB44654378D}" anchor="" target="" title="" linktype="internal" text="" url="/TTS/TileShop/Home/tile/featured/geometric-tile" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{C3A63C7F-DB16-442B-B626-2F395CC2D5C8}" anchor="" target="" title="" linktype="internal" text="" url="/TTS/TileShop/Home/tile/shape/hexagon" />
+    - ID: "223fce0e-44cf-45db-887f-358e111cb3f0"
+      Hint: AdditionalSKUs
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181218T183323Z
+    - ID: "38503162-7288-4c45-84dc-548ca6050bcc"
+      Hint: Style
+      Value: "{5C20E775-D67E-4BC8-9A44-4826D00542C5}"
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Modern Botanical | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Modern Botanical Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jandersen2
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: 
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Signature_Style_Amazonia_Emerald_vanity_angle_Cat:Category_Intro_Image"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c6f9c21-cdb6-4bf0-95cc-8b26c84abe2d"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Modern Botanical Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{0E283177-5156-45F6-9A37-FAC885B55039}" anchor="" target="" title="" linktype="internal" text="" url="/TTS/TileShop/Home/tile/featured/patterned" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Turn your space into a private oasis with Modern Botanical tiles.
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{F3F91C13-F2A3-4D82-AC9F-695541B443D1}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/TTS/TileShop/Home/tile/featured/subway" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090411Z
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: 

@@ -1,0 +1,93 @@
+﻿---
+ID: "5089c88e-ceb4-47b8-b70b-47d0206931b9"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: /sitecore/content/TTS/TileShop/Home/inspiration
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DFABB6F7-159C-4C17-977F-C0F8D98D06DE}"
+          p:before="*"
+          s:ds="local:/Data/Inspiration Banner"
+          s:id="{05FB6376-7942-46D4-99FE-BAD1A5ABC0FF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D&amp;HeadingSize=h1&amp;HeadingTag=h1&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{0129A75C-2D25-4C3F-A710-08168650F8A0}"
+          p:after="r[@uid='{DFABB6F7-159C-4C17-977F-C0F8D98D06DE}']"
+          s:ds="local:/Data/Content tile stack 1"
+          s:id="{5F4114CA-55C9-424E-9733-66F405FAFB25}"
+          s:par="FieldNames&amp;IsImageOnRight=0&amp;SectionHeadingTag=h2&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;TitleAlignment=Left&amp;BackgroundColor=Light&amp;IsPinterestEnable=1&amp;CTAColor=Black&amp;HeadingSize=h4&amp;SectionHeadingSize=h4&amp;CTASize=Small&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{B8F51EB2-E295-433A-AD3A-F6E38AD9BA19}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/The Tile Shop Blog"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Inspiration
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T072210Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: inspiration
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Tile Inspiration | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "197ec753-2f10-4261-b233-0c42294dd6a1"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: inspiration
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Find fresh inspiration for your next tile project at The Tile Shop. Open the tile visualizer and customer room gallery to explore design ideas and more.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T051519Z

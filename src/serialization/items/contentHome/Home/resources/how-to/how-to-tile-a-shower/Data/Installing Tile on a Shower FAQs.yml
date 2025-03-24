@@ -1,0 +1,47 @@
+﻿---
+ID: "ea5dc343-c243-498d-805b-7c4dc5b146a6"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/Installing Tile on a Shower FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {F4FD8A3A-4B45-4F90-9828-C9D1D5706FD3}
+        {9564E2D2-4137-420C-B3B4-7FDC800D80FB}
+        {5DEA1A0E-34BB-45E6-9A9C-44797E8E0A44}
+        {ED4A6B0D-5758-4631-87FA-AD589C5E9E1B}
+        {4A537E21-6675-42CE-B68C-59C638F91FA3}
+        {4844EC83-CBE9-457F-8D8C-FC582BDC2D31}
+        {323A09C8-0D8D-4E02-B880-6E8C2347920D}
+        {3CB8EC37-EB62-4C30-98FC-4636916A5ACC}
+        {F9A9D818-1E3F-4C49-8AE8-9831C13CC69A}
+        {567FAB43-EA68-49FE-81B6-A8BF802B453C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T133239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installing Tile on a Shower FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d5f348b-52a3-4289-957b-c60d3a97fdc9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T082021Z

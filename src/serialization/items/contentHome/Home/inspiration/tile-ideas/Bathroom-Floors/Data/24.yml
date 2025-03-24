@@ -1,0 +1,42 @@
+﻿---
+ID: "9c6636ad-f832-402a-8abb-1471e8e6929a"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/24"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Black-and-White Patterns"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        A simple <a class="font-bold underline" href="/color/black-white?pageNumber=1&amp;pageSize=24&amp;facet_application=facet_idRmxvb3I*">black-and-white floor tile</a> can allow for color used on the walls or bathroom vanity to really pop. We love how the <a class="font-bold underline" href="/products/cloth-black-and-white-porcelain-wall-and-floor-tile-8-x-8-in-681002">Cloth Black and White</a> patterned tile adds interest to this room without detracting from the bright yellow vanity and butterfly wallpaper.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbf946ff-6e61-492e-ab3b-4f66e826df5d"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T124220Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ZigAndCo_ORCFall2020_Bathroom_037:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 24

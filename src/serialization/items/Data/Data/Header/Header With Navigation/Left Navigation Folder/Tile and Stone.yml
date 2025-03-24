@@ -1,0 +1,53 @@
+﻿---
+ID: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Parent: "ab4518be-cd34-4543-b183-e3aa8c73e7e0"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194405Z
+    - ID: "2fd2a0b0-c8f0-42c0-9670-42334d097a1d"
+      Hint: NavigationType
+      Value: "{BE512D18-2910-42EC-A61C-E2EF28E65140}"
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile & Stone
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Explore our vast assortment to find the right tile and stone to complete your next project.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b0bfb9d-d9ee-4726-aada-33447f3611fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {69D7F7B2-38F9-48D5-A1EE-334CA8591BB8}
+        {2C02E59A-8DB4-4C5C-A787-A8B8770211D9}
+        {2BE8F39F-85DD-49F0-B3B8-64C681BBC95C}
+        {7DAADFBF-30B0-4E66-94E5-7490BCD187D2}
+        {807F438D-3C9F-476D-B3AB-7D68F93DDF34}
+        {B2FAD6D2-0E4B-4783-B4FA-43C1F356E684}
+        {DB3BECA5-6E0B-40F6-8168-2AA8D58C5EFE}
+        {3B6C00C6-86A1-44FB-8C5D-C63468D24761}
+        {DAFC28C1-7A23-4E00-85BF-CFAD136BC921}
+        {03D2E292-7FB4-413D-8FCF-681B8E043944}
+        {0AD1C60D-18C6-4641-8242-40160AFA4338}
+        {39E992A1-E27C-421D-B3BA-5FAA5A1FC799}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T115108Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "SplendoursPicket_Texture_Detail:Asset_Grid_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

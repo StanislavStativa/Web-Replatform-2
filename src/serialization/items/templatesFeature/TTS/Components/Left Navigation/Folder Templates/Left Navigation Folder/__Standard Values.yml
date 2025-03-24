@@ -1,0 +1,33 @@
+﻿---
+ID: "bf6d350c-d0b6-4e31-ae91-363d87a29a2f"
+Parent: "980b9387-2cc1-4cf5-8645-eac2c92d3cec"
+Template: "980b9387-2cc1-4cf5-8645-eac2c92d3cec"
+Path: /sitecore/templates/Feature/TTS/Components/Left Navigation/Folder Templates/Left Navigation Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4DAC0981-40BD-427D-9354-680969C88E58}
+    {980B9387-2CC1-4CF5-8645-EAC2C92D3CEC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a02366e0-d1ed-4d70-a74d-326949db06fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240510T055956Z

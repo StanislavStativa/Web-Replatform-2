@@ -1,0 +1,27 @@
+﻿---
+ID: "84b0f724-5dd2-44fd-9a79-8fdf36f2dde0"
+Parent: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Template: "eda1a11d-4b30-432b-94c0-65bf932cacde"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Resources
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T101002Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c745e55-1b80-44d3-90d3-ed5a3456ce13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T114059Z
+    - ID: "f0603d5d-027f-47e4-96a6-009494468d6c"
+      Hint: CTA
+      Value: |
+        <link text="Resource" anchor="" linktype="internal" class="" title="Resource" target="" querystring="" id="{1BEC6927-E494-4E9F-8EFF-EF86C92A0100}" />

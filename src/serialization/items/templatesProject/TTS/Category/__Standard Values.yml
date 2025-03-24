@@ -1,0 +1,47 @@
+﻿---
+ID: "6c22af66-f763-4ba3-8ee6-42ffb6eb6568"
+Parent: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/templates/Project/TTS/Category/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T192730Z
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: $name
+    - ID: "6aa89560-eb85-4623-b8f1-f34c29420a5b"
+      Hint: Indexable
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e33a55d-c7de-4822-b6bb-d1066870f4b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T071634Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "7e083a0f-05ab-4054-8ca1-e633444eb7c6"
+Parent: "4e341f5f-efdb-4fcf-b9c6-56938cb0d7bf"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Size/Data/RTE Bottom"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T190233Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Since there&rsquo;s a multitude of tile shapes and sizes, you&rsquo;re able to think outside the box when shopping for your perfect fit. Maybe you&rsquo;ll love how installing a larger size on the floor contrasts nicely with your smaller wall tile&mdash;or vice versa. The best size is whatever you think looks best in your space. Unsure of where to start? Check out a few photos in our Room Gallery to browse different looks or stop in, and ask one of our in-store experts at The Tile Shop."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "713ae764-8efb-4885-a807-c7392294fca7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T190423Z

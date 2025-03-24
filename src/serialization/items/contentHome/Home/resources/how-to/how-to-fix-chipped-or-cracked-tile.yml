@@ -1,0 +1,185 @@
+﻿---
+ID: "a01629ca-0d96-4e29-b876-c72ca286e5fc"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-fix-chipped-or-cracked-tile"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AAF804EA-9008-4A64-85AE-C845F2647137}"
+          p:before="*"
+          s:ds="local:/Data/How to Fix Chipped or Cracked Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h1&amp;HeadingTag=h1&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{D1B6BC20-8D95-4D8D-9650-619CD97AB32C}"
+          p:after="r[@uid='{AAF804EA-9008-4A64-85AE-C845F2647137}']"
+          s:ds="local:/Data/Video Asset"
+          s:id="{AEDAE2CD-F5A8-4EEE-B56A-8C312BF38A19}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B478C2B89-E637-4F44-92E2-13D7439E29F0%7D&amp;Styles=%7B211FF00B-43E6-4B8E-BDAA-1D2CCBB3F7D3%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;TitleAlignment=Left&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{517A0652-37F3-428F-B6FD-01AE57D8E5CF}"
+          p:after="r[@uid='{D1B6BC20-8D95-4D8D-9650-619CD97AB32C}']"
+          s:ds="local:/Data/How to Fix Cracked Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{DFF64DA8-4B0F-4EA5-B3CD-223F62B3A084}"
+          p:after="r[@uid='{517A0652-37F3-428F-B6FD-01AE57D8E5CF}']"
+          s:ds="local:/Data/What You will Need"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{2A06AEAE-E6D9-4167-B4D2-E1660763D7E6}"
+          p:after="r[@uid='{DFF64DA8-4B0F-4EA5-B3CD-223F62B3A084}']"
+          s:ds="local:/Data/Step By Step Replace Cracked Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{C577DF33-7429-4438-B386-DFCC26AB0964}"
+          p:after="r[@uid='{2A06AEAE-E6D9-4167-B4D2-E1660763D7E6}']"
+          s:ds="local:/Data/01 Tape Tile Edges"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{1A0FC87D-DE5F-4E87-B1AE-41A18F8BCEB7}"
+          p:after="r[@uid='{C577DF33-7429-4438-B386-DFCC26AB0964}']"
+          s:ds="local:/Data/02 Remove Grout"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{A3C89A0E-48D2-4C87-A59E-49B6E4402AEA}"
+          p:after="r[@uid='{1A0FC87D-DE5F-4E87-B1AE-41A18F8BCEB7}']"
+          s:ds="local:/Data/03 Remove the Cracked Tile"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{EFED2BAF-2D73-4F3C-889E-1E4C26BC2919}"
+          p:after="r[@uid='{A3C89A0E-48D2-4C87-A59E-49B6E4402AEA}']"
+          s:ds="local:/Data/04 Remove Thin Set"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{E5502C67-99FC-44BE-9C1F-A54B41810FF8}"
+          p:after="r[@uid='{EFED2BAF-2D73-4F3C-889E-1E4C26BC2919}']"
+          s:ds="local:/Data/05 Replace With New Tile"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{56EC65D6-E29A-4F90-9D4C-121E0F21F5C5}"
+          p:after="r[@uid='{E5502C67-99FC-44BE-9C1F-A54B41810FF8}']"
+          s:ds="local:/Data/How to Fix Chipped Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{38F47DC5-FD45-460D-9297-33A438C57FFF}"
+          p:after="r[@uid='{56EC65D6-E29A-4F90-9D4C-121E0F21F5C5}']"
+          s:ds="local:/Data/01 Tape It Off"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{3167BA17-3D89-4287-B5F5-0D6FA3597F85}"
+          p:after="r[@uid='{38F47DC5-FD45-460D-9297-33A438C57FFF}']"
+          s:ds="local:/Data/02 Mix Your Color"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{F3CB4300-3907-4F43-85E6-7E44279743D7}"
+          p:after="r[@uid='{3167BA17-3D89-4287-B5F5-0D6FA3597F85}']"
+          s:ds="local:/Data/03 Add Hardener and Apply Epoxy"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7B1F7966-CDD0-435F-98C2-B18ADDC71E73}"
+          p:after="r[@uid='{F3CB4300-3907-4F43-85E6-7E44279743D7}']"
+          s:ds="local:/Data/04 Square Tile Edge"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{20D10D41-FB12-4DFC-A408-71EF08AF3E4D}"
+          p:after="r[@uid='{7B1F7966-CDD0-435F-98C2-B18ADDC71E73}']"
+          s:ds="local:/Data/05 Remove Tape"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{4A563568-6E9E-4377-87D3-7FD0C853F0F5}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/06 Sand and Blend"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How to fix chipped or cracked tile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: How to fix chipped or cracked tile
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: How To Fix Chipped Or Cracked Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12a0bc88-0faa-4e96-bc09-d470ae40a752"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: How to fix chipped or cracked tile
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T112523Z

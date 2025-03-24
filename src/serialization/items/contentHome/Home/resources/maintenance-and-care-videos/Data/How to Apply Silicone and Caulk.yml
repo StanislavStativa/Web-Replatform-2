@@ -1,0 +1,37 @@
+﻿---
+ID: "445af135-d470-4336-9b80-72d1bea6ff97"
+Parent: "379bbc05-41a5-4e0a-b9fb-ae8bfaccc068"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/maintenance-and-care-videos/Data/How to Apply Silicone and Caulk"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084233Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac36d1a2-1e95-4173-908b-9f0b2cede916"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link class="" id="{0B467BBE-6C74-4697-9FE7-79061727ADEC}" querystring="" anchor="" target="" title="How to Apply Silicone and Caulk" linktype="internal" text="How to Apply Silicone and Caulk" url="/TTS/TileShop/Home/resources/maintenance-and-care-videos/how to apply silicone and caulk" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T060709Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "How-to-Apply-Silicone-and-Caulk"

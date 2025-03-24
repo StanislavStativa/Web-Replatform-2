@@ -1,0 +1,44 @@
+﻿---
+ID: "538c3143-99c1-4e86-a9fc-61179779afa9"
+Parent: "1391b22d-db0a-4efe-96cf-c25d92b33182"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/floor/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {C50D2060-D869-4020-8806-9FD77D293DDF}
+        {0EED8D64-3CA0-41EF-9529-4A0DF8A6D819}
+        {366D7217-A673-4A21-957D-3D6AB1480877}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: The Many Colors of Marble
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span style="color: #323338;">Although known for its white hues, our marble color choices are just as varied as your unique style. Lighter marble floors can drastically brighten your room’s atmosphere, while the darker shades will create a sense of drama. We love the way black and white marble floor tile can create a classic vibe in your space. Marble is known for its veins, which can be soft and subtle or bold and dramatic. A white marble can have blue, grey, gold or brown veins, and delicate silver veins add movement and dimension to black marble.&nbsp;&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e92a70d4-5782-4fb4-aca8-59aa82967997"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T082850Z

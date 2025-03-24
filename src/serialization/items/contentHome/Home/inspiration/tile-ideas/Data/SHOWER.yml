@@ -1,0 +1,37 @@
+﻿---
+ID: "8d88a80e-43a0-4507-9deb-ac7a6b8a1791"
+Parent: "796e58b4-ed9a-48e5-9e16-38e516b37c83"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Data/SHOWER"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T074719Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9aa8a82-ef94-4c53-8fb2-b67d3c42f5c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="SHOWER" anchor="" linktype="internal" class="" title="SHOWER" target="" querystring="" id="{E730AB34-C7F0-4A1E-8C80-0785CB1DB044}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T070541Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "484099_Shower_Vendor_Render.jpg:Asset_Grid_All_V2"

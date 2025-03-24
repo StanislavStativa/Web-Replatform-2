@@ -1,0 +1,26 @@
+﻿---
+ID: "d02916bd-e624-48bc-96b2-ca88592dfd84"
+Parent: "4d217247-4c6a-4629-8ba0-c6cba07f1112"
+Template: "4d217247-4c6a-4629-8ba0-c6cba07f1112"
+Path: /sitecore/templates/Feature/TTS/Components/SignIn/Datasource Folder/SignIn/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T105124Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98c74ba8-3fa6-4690-80ad-2b6d4d30c7bf"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: "Having trouble? Use the Chat icon in the lower right corner of your screen to contact our Customer Service Team."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241211T082249Z

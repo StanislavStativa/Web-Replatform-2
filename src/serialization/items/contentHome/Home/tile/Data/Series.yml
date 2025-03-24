@@ -1,0 +1,52 @@
+﻿---
+ID: "4cd60ba5-b0f7-4e96-b725-758f8a26ca38"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Series
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Series
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {270D09B3-97AA-4360-AA55-4F06BD4605D9}
+        {45375371-5B51-4F38-A7CF-5BE97795A652}
+        {CADA13CE-F33F-4606-A1B4-569856124CF3}
+        {77832316-260A-4DFA-B513-3EC01668E7F7}
+        {54BBA97C-CB7A-4592-A1E2-7FA63F7BA6C0}
+        {2BDADB6C-40DA-47E2-A3AF-8FA1A23F93CA}
+        {6AEC1355-93DC-489E-864C-9CE0967F1385}
+        {F46D4346-9400-4638-A7BE-3933FAE647E3}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Discover unique, one-of-a-kind tiles here. Design your space using one series or play with mixing and matching between different ones.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e19d6ed6-9f1b-44c0-b0ee-c94eccaf6549"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T114611Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Star_Joanna_Detail1_WestAllis_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AAE62737-A051-4C20-86C2-F9C0796A5D5B}" />

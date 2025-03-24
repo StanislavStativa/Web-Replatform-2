@@ -1,0 +1,38 @@
+﻿---
+ID: "a120b263-0ec9-496c-9a0b-cac3dd5c113c"
+Parent: "fbf5ef50-a5cc-48f3-810a-7d936ddeb322"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/Vinyl Plank Flooring Cleaning and Care Guide"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T051847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Vinyl Plank Flooring: Cleaning & Care Guide"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><img src="https://s7d1.scene7.com/is/image/TileShop/LVT_Trecento_Mountains_Grey_Horizontal_9x16%3aImage_Caption_Hero_V2" alt="" title="" /><p>Cleaning vinyl plank flooring is straightforward, but it's important to follow the right steps to keep the flooring in good condition. In this article we will cover the step by step process for how to properly clean your <a href="/material/luxury-vinyl" class="font-bold"><strong>vinyl plank flooring</strong></a> as well as advice on how to care for it.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f29f872-21e6-4cdc-9031-5599ed1a6504"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061912Z

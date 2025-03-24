@@ -1,0 +1,49 @@
+﻿---
+ID: "f297c8e2-5c6e-4c26-a0b6-624d2f981e96"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "f92aae37-f650-4508-bfe1-e215aad58855"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Luxury Vinyl Flooring
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T111125Z
+    - ID: "4dafdc3a-4e79-41f0-a371-7c01e05be22c"
+      Hint: SubHeadline
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxury Vinyl Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf5756de-3834-4c05-9e5c-fda88871e84d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T104638Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LVT_Cyrus_Whitfield_Grey_HORIZONTAL:3x2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SHOP NOW" anchor="" linktype="internal" class="" title="SHOP NOW" target="" querystring="" id="{8A9A1BC2-AECD-4FC7-B133-80110056B838}" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: 

@@ -1,0 +1,42 @@
+﻿---
+ID: "a450ce08-519e-4992-b8c5-9c0e4ab9f3b5"
+Parent: "667296dd-7d9f-41bc-a1b4-83574a611cf5"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;" class="extra-small-bottom-margin"><span style="color: #323338;" class="h2-style">5 Types of Ceramic Tile We (and Our Customers) Love&nbsp;</span></h2>
+        
+        <p>Ceramic tile remains a top choice among homeowners, designers and installers alike, and it’s easy to see why. Ceramic tiles are strong, durable and easy to maintain year after year—and ceramic is among the more cost-effective materials, too. All these qualities make it exceptionally versatile, too; depending on your project, ceramic tile can be a smart choice for floors, walls, bathrooms, kitchens and more. <span>These are some of our customers’ favorite categories of ceramic tile. (Check with your </span><a href="/store-locator/" class="font-bold">local Tile Shop store</a><span> for project and application recommendations.)  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b3def46-7c89-467a-b3c8-5813cd82b2b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124226Z

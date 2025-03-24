@@ -1,0 +1,38 @@
+﻿---
+ID: "2117aa55-76cf-4830-830b-dd32d58a254b"
+Parent: "7e500765-948f-41a8-b034-2f2a864fb51d"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/wall/Data/Featured Tile 1/Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5003d116-ec68-4393-9c1a-0af7b1cc39dc"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <span>Featured Tile:&nbsp;</span><a href="/products/picket-florencia-super-bianco-ceramic-wall-tile-3-x-12-in.-494094" class="font-bold">Picket Florencia Super Bianco</a>,<a href="/products/picket-florencia-smoke-ceramic-wall-tile-3-x-12-in.-494095" class="font-bold">Smoke</a>&<a href="/products/picket-florencia-grigio-chiaro-ceramic-wall-tile-3-x-12-in.-494096" class="font-bold">Grigio Chiaro</a>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140430Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Picket_Florencia_Mixed:Design_Ideas_All_V2"

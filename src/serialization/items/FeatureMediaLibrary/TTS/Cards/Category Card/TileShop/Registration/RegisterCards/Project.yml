@@ -1,0 +1,57 @@
+﻿---
+ID: "ee1fa073-e166-49bf-98cf-87bcb097b401"
+Parent: "a678da46-5ff4-42b6-aee9-5a7d98ac1237"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Cards/Category Card /TileShop/Registration/RegisterCards/Project
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/EE1FA073E16649BF98CF87BCB097B401.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 42
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "5dbaab3e-9468-4517-8fb5-41a6d9f15c75"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKrSURBVHgBzZjNkRshEIVflRNYH33rENYZEIIyEBl4MxDOYDOQMrB9803KwOWjT7r6tj76Zk8vUGIZaBpGs9pXRUkjBvpT0/w0wG11P5WnqWzxhsWQ56lspvIjPC8STeU4lX+hQ8JyRcj7xMYiWAodmvD8EJ4J48ohU1tDsBQ6tNnvFuOwNcjUZhcsoQwZZdEP24JMbatgKXToGu99hR5WC5kyNGE1kLvkvRasBGngZ31JBAHWTmUPWdsMzqIOq4nJM+rrKNVgeVY/Qg8JAbYnJiXYXYAtNqJCgw3kYbZJ/UhMlmBrjpkZjGKDmsXehrajMZnCipC5QUK/d6xggNCOSa7fo2P5s5C9o2lLqMNIMdm9oSzZMi36YVXDXZMLje/QLws97CLIKAc/mdaC7YrJlhzWgR2KyZYc/Nl0RBZzoKsMd028c7W22ZrSybkqJMEP/xeMwzpclj3CCiK8PCAcsByWcGURygs/e3aHMTlcGZZQP+3zCsBevjksoQ0ZDyw3gyXUIXMjN4MltCFzIyZ8vhosoQ7JdRvBiAmfDxiTgxKWIHsy1m8FIwb990km2HTwITSDfZdB8Pb4GX6NLOnPVL6Fev7+M6k7TeU9/ND/hff87+ydEiDb/Bieud2vwPJhKt/zBgR9TKbvS+fJeFNXSz1i5mAKdXehrRrSYFmOI6UxZ6Fv1hHZn4gXCRqYWv0efbm9gQ8VSbPU3UKeaYTlOQ57jocywjq0b2MIheG3GIPdQr/22WCY332Ebj7Mhj921APbA5nbOEK/mTipI6o0JCzPcSz87bVmUzAQMgrbgNDEZEscsydc/vRG6O9JqKvCjgy3JAq2DriEhMPLuOR4Fr1vM6hrQ5Zk4EFP8J7kg/kBioTSwsN9wvqQuXh34pA4oL3mPsvi9SFn+g8nlv7M0w92bwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 790
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 42 x 42
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 42
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T100528Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad6fc0ec-f719-4666-94e3-0c6472831c59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T100529Z

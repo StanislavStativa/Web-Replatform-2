@@ -1,0 +1,37 @@
+﻿---
+ID: "f4b6b328-ae10-4a71-bbc0-cb07330b6187"
+Parent: "63515a04-b69f-4154-90bb-e195c50bd481"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Accordion/Do tile and grout stain easily
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T072413Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do tile and grout stain easily?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Tiles that are properly installed and maintained should not stain easily. Ceramic and porcelain tiles are the most stain resistant which is why they can sometimes be left unsealed. Natural stone tiles have a more porous surface which is why sealing is usually recommended. Once stone tiles and grout are sealed, they are much less likely to stain and are easier to clean and care for.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26aa799c-9289-4e06-aff2-f67e9b49061d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T100125Z

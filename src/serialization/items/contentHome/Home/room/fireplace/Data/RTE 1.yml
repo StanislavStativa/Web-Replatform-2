@@ -1,0 +1,42 @@
+﻿---
+ID: "76c5b0d1-aec0-4de7-bcb4-3f79b0ef915f"
+Parent: "1bd23f95-5a1e-47f9-a8de-54948d3fdea9"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/fireplace/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h2 class="extra-small-bottom-margin">Create a Focal Point With Fireplace Tile</h2>
+        <p>A well-designed fireplace serves as the centerpiece of the room, radiating warmth and charm. With so many materials and styles to choose from, it can be difficult to know where to start, but the right tile for your fireplace will seamlessly blend design and functionality.    </p>
+        
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "364e7c6a-73ed-48e0-a141-16e77e8069a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124218Z

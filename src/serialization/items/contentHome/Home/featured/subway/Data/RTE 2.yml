@@ -1,0 +1,45 @@
+﻿---
+ID: "6c986287-77a5-4cf8-a312-2276bc25d16a"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <h3 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3">Consider Your Space</span></h3>
+        <p style="color: #333333; margin: 0px; padding: 0px; border: 0px;"> </p>
+        <p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Because of all the possible applications and materials to choose from, it may help to narrow things down by considering the space you are working on. For instance, do you want to use subway tiles in your kitchen? A white subway tile backsplash provides a clean backdrop that complements everyday activities and brightens surroundings. </span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">And if you plan to use subway tiles in a bathroom, that’s even more surface area to cover; subway tile can be used everywhere from the </span><a class="font-bold underline" href="/room/bathroom/shower-wall">shower walls</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> and floor to the room’s walls and floor, as well as wall niches, the sink surround, and more. You’ll want to consider how the planes of all of those various surfaces combine within your space.</span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> </span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;" class="h3-style"> </span></p>
+        <h3 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3">Our Experts Can Help</span></h3>
+        <p style="margin-bottom:0.67em;">We know there’s a lot to consider when selecting subway tile. When you visit <a class="font-bold underline" href="/store-locator/">one of our showrooms</a>, our friendly sales associates can help you consider all the design possibilities with subway tile and create the space you’ve been dreaming of. </p>
+        <p> </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7cf8399-cbc5-498a-a145-664456906476"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124235Z

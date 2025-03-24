@@ -1,0 +1,49 @@
+﻿---
+ID: "f695c90a-cfa7-48be-8304-f6ca3d6c6bf9"
+Parent: "7cb072de-7444-44fc-956c-b8be7f044417"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/wood-look/Data/Featured Tiles 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {14E071CF-A767-4E68-97DC-30A5C76D8A95}
+        {9B688157-FF5B-4E42-A602-C3E537873A47}
+        {33AA9238-0E8B-430D-B3EB-95A5743AC09D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Materials: Porcelain vs. Ceramic Wood-Look Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">When it comes to choosing the best material, any Tile Shop customer considering wood-look tile has the choice of two great options: durable ceramic wood tile, and even stronger wood-look porcelain tile. Your new wall or floor will be more impervious to scratches and look as timelessly beautiful as natural wood.&nbsp;</span><a class="font-bold underline" href="/store-locator/">Visit your local store</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;to speak with a tile expert and find the best fit for you.&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57e82ce9-068e-4071-8463-083b75741f4b"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p class="text-center px-10"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Faux wood tiles are available at The Tile Shop in durable ceramic and even stronger porcelain. Your new wall or floor will be more impervious to scratches and look as timelessly beautiful as natural wood.<br />
+        Enjoy the stunning look of glass tiles and hardwood with mosaics that combine the aesthetics of both classic materials.</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T111306Z

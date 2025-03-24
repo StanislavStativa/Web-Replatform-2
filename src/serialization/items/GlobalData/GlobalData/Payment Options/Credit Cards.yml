@@ -1,0 +1,50 @@
+﻿---
+ID: "b36eca97-cc99-432d-966c-97f056814e1b"
+Parent: "0febb07e-4a95-4226-8c02-2ed9d721cead"
+Template: "b3928807-7734-4b2b-98df-5577ec17461d"
+Path: /sitecore/content/TTS/GlobalData/Payment Options/Credit Cards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T165900Z
+    - ID: "31a89620-1c58-4482-8147-0e1f0d38628c"
+      Hint: CTA
+      Value: |
+        <link text="SNAPPAY" linktype="external" url="https://www.snappay.ca/" anchor="" target="" />
+    - ID: "3b815720-2165-4dfa-a316-64cfa0297d2e"
+      Hint: Order
+      Value: 20
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Credit Card
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Credit Card Includes Visa and Master Card</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a93a5a5-b7cb-4b37-96a4-00d37ece116c"
+    - ID: "90117a05-50ec-4d70-8344-17b0dd2a8a30"
+      Hint: ExternalProvider
+      Value: SNAPPAY
+    - ID: "a6d6275f-d1a6-41b2-b18a-3f4896fa235e"
+      Hint: ID
+      Value: 902
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T170244Z

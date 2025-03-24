@@ -1,0 +1,42 @@
+﻿---
+ID: "0afdb410-0961-4d35-9515-b2480991284a"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/20"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ink Blots
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <span>The <a class="font-bold underline" href="/products/blot-noon-porcelain-hexagon-wall-and-floor-tile-8-in-681037">Blot Noon tile</a> uses drip ink techniques to create a subtle but stunning design in the center of these <a class="font-bold underline" href="/shape/hexagon">hexagon tiles</a>. The effect is a versatile tile that can be used to complement a variety of design styles. We love how this tile looks paired with the <a class="font-bold underline" href="/products/bulevar-grey-ceramic-wall-tile-4-x-12-in-494330">Bulevar Grey</a> shower wall tile, but a brightly colored tile or black tile would look equally chic.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e911687-48ee-4987-8a8a-2ca5ea47d510"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T124026Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_VarsityBlues_Bathroom2_001:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 20

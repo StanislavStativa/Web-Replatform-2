@@ -1,0 +1,42 @@
+﻿---
+ID: "f27cee3b-2d50-4f13-910d-f5ccc3173281"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Coastal Chic
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Even if your home is landlocked, a coastal chic aesthetic will fill your space with year-round sunny beach vibes. This bathroom uses the <a class="font-bold underline" href="/products/summerland-by-jeffrey-alan-marks-in-miramar-hex-porcelain-wall-and-floor-tile-9-x-10-in-681892">Summerland by Jeffery Alan Marks in Miramar</a> floor tile to create a resort-style space that is elegant and calming. If you love this carefree design, explore the other tiles in our exclusive <a class="font-bold underline" href="/collection/jeffrey-alan-marks">Jeffrey Alan Marks collection</a>.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f5d2e14-b67e-49d2-857e-b202af45f858"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T124508Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "JAM_FullSet_Horizontal:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 9

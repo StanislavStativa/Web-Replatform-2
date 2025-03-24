@@ -1,0 +1,37 @@
+﻿---
+ID: "ba39f138-7f38-4178-880e-b5e5aee1e921"
+Parent: "cdf066b0-912e-47ff-9e2b-4deb338d0263"
+Template: "a091ea1d-6ced-4e67-849f-9833de80409c"
+Path: "/sitecore/content/TTS/Global Content/Product Hierarchy 1/Other - OTHER"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T042052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e52e37d-d804-4331-9389-8fca8b1681e5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c6c29512-1443-439d-bffb-2de82391eb45"
+      Hint: ProductHierarchy1Description
+      Value: Other
+    - ID: "d8a4f77b-090c-4847-93c8-cb86e3af6e0f"
+      Hint: ProductHierarchy1Code
+      Value: OTHER
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181220T182558Z

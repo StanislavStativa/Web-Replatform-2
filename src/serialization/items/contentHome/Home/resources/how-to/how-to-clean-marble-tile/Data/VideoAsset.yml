@@ -1,0 +1,41 @@
+﻿---
+ID: "b16125fb-c209-49ca-b815-a9d6b3100fac"
+Parent: "ad280140-5136-48e6-94b6-10611c6b26dc"
+Template: "a3d6f8e4-583d-4409-baf2-0f37e2e49d92"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-marble-tile/Data/VideoAsset"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "225ab5bd-125b-48e3-9777-19f47b45f810"
+      Hint: Caption
+      Value: |
+        <p>In this article, we'll go over three different <a href="/installation-care/installation/tools/tile-cutting">tools for cutting tile</a>: with a wet saw, snap cutter and angle grinder. For each method, we’ll talk about how to cut various materials, including natural stone, porcelain, glass and ceramic. (Not every cutting method is suitable for all of these materials, and we’ll talk about those considerations, too.) We’ll also call out some important safety tips to keep in mind during your project, and share general tips for smoothing the edges of cut tile.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T150021Z
+    - ID: "46b8cc1a-d19e-49e2-8422-4732245b0722"
+      Hint: Title
+      Value: In This Article
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e6a316c-91c2-47f0-a2a9-d4b47cc879a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T083018Z
+    - ID: "ef592633-9103-488c-83ad-36f7382d0846"
+      Hint: YoutubeVideoID
+      Value: "https://youtu.be/cR-4WZaEa1I"

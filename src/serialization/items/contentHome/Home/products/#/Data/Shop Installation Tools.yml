@@ -1,0 +1,50 @@
+﻿---
+ID: "a6082979-057d-4418-a8a5-b52f5cbf96eb"
+Parent: "e110b149-ef79-4418-ad4a-6c5b2696feb2"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: /sitecore/content/TTS/TileShop/Home/products/*/Data/Shop Installation Tools
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2253f172-c452-4368-adcb-980be3e6f434"
+      Hint: HoverImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T071214Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Shop Installation Tools
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shop Installation Tools
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Ensure a seamless installation every time with our selection of premium, industry-leading materials and tools.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc701c1b-2745-471c-9f1f-137291f7b7df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T090649Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ProProducts_ToolRun_Spacers_Raimondi_Leveling_Cap_Base_V2:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SHOP NOW" anchor="" linktype="internal" class="" title=""  querystring="" id="{3379D274-13FF-4478-933B-DB87DE5C3081}" />

@@ -1,0 +1,47 @@
+﻿---
+ID: "f495abac-dedb-44ce-941c-dddd548b1a7b"
+Parent: "a02e2b35-15b8-41ca-ab8c-6c63a4e65ddd"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/material/glass/wall/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {F6F838C0-6335-419C-A44F-6AD2C3894A25}
+        {4D9FEC32-9D6F-4AFC-8FB5-5D27D8DC86B0}
+        {ADF0F427-1805-4063-83B8-11B97B8E0496}
+        {35A3E067-2471-4795-8E04-3981BCD7E700}
+        {CD8B461E-11C4-4C0C-8C62-422469BE70C2}
+        {13007165-2CBC-4FD0-914C-560F3D00A6B1}
+        {A082B99E-3BA8-49B8-9C98-E93A150D9414}
+        {7A9D7EB0-EDBE-4150-BFE4-DDFA1B171860}
+        {648A49CD-616D-4C2E-99A9-3BE6B9129722}
+        {75B69039-8747-4982-B1AC-7B894507560A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daac4ae3-b51e-40f5-bb6f-72be40599cb5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240712T064110Z

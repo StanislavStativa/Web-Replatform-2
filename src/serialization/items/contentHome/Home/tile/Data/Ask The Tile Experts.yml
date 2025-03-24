@@ -1,0 +1,44 @@
+﻿---
+ID: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {CE884E03-D140-4E33-A30E-B4A44484820F}
+        {68804C33-D584-42DE-92BC-B745214588EB}
+        {A0520AAA-1E8D-4314-99A4-1EC7E4D2D821}
+        {92689B36-9C56-4D5F-8F0E-C26046FCA6E8}
+        {BE4AD9AE-4E54-4C3E-97ED-11276C6CB868}
+        {8DAA23F4-BA73-4034-AE43-EF16D09704CD}
+        {2705AC35-65E1-4B68-A0CD-7A5D3DDA5B5C}
+        {11896B17-90CA-4C47-8C18-C1D34229608A}
+        {6D663E81-B9F3-4A78-8D4C-2F0C600B342A}
+        {131E0DB9-4A8C-4608-B9E7-37D42C719DF5}
+        {00EA3D1B-C148-43A5-B930-87FFD9F04E51}
+        {59690D28-56ED-4DFA-A6B4-8458F4F1B0B4}
+        {062C5D7A-FD6A-492E-8F71-42186AC2F31D}
+        {8C53DF7E-BA79-4916-99D6-9505BD84113A}
+        {6E42FA06-83EA-4C53-9132-935B7716575F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052635Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask The Tile Experts
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "646774b6-b868-463e-91b1-86b7139304b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240424T055057Z

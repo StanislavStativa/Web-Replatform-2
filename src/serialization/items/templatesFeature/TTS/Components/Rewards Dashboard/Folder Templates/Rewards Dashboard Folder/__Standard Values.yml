@@ -1,0 +1,33 @@
+﻿---
+ID: "525cc6c1-5b10-4ba6-89e3-6f03e1049d12"
+Parent: "216117f5-238d-4ba4-a3a7-609e5a1f2fb5"
+Template: "216117f5-238d-4ba4-a3a7-609e5a1f2fb5"
+Path: /sitecore/templates/Feature/TTS/Components/Rewards Dashboard/Folder Templates/Rewards Dashboard Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {5FB83CD6-D31C-4FA1-84DB-750E861038B3}
+    {216117F5-238D-4BA4-A3A7-609E5A1F2FB5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "631e3f65-9dd9-4698-b1bd-0ca3bb2b73cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T185207Z

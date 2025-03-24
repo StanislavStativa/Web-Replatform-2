@@ -1,0 +1,37 @@
+﻿---
+ID: "0a6c2e42-c1f9-4226-8813-6dd945de830c"
+Parent: "5d6d70a2-560c-4180-92ce-d98b0d862288"
+Template: "cfaeca9f-7f6a-4ecb-835b-8a727cce9462"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Product Data Sheets/Pro Grout Epoxy Part A and B
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181204T170227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jandersen2
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jandersen2
+    - ID: "87ec6bf1-640f-4263-a96e-92cf4ae4f12f"
+      Hint: Link
+      Value: "product-data-sheets/Pro_Grout_Epoxy_and_Adhesive_PDS.pdf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "538e52e2-c766-4fb3-8402-ab947c116bb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jbestgen
+    - ID: "c30e24d9-e876-4923-9b67-5738162437a7"
+      Hint: Name
+      Value: Pro Grout Epoxy Part A and B
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201221T225918Z

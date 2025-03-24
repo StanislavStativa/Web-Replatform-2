@@ -1,0 +1,38 @@
+﻿---
+ID: "c87d4349-01bd-41b6-ad6a-4f86613a1e77"
+Parent: "e6ea5ba0-5a2d-41db-9f5d-cb133db6b1fd"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Left Navigation Resources/FAQs/Product
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T101521Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Product
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22e79e48-6c08-452e-bfc8-ec9ac77ebe0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T102942Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Product" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{210B63D1-0FFA-4C3E-AB65-AC3989D23DC9}" />

@@ -1,0 +1,93 @@
+﻿---
+ID: "fe8cdecc-99a9-4fe7-8655-4db0969e9405"
+Parent: "6f793a61-bf42-470d-ab9b-99f88d446bbc"
+Template: "880ccb27-abf6-4c3f-ba85-e41fea497dbd"
+Path: /sitecore/content/TTS/GlobalData/Stores/Westminster
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "082da314-84c1-49b2-bc87-f395786b210c"
+      Hint: Longitude
+      Value: "-105.051217"
+    - ID: "09d1884f-e3b2-40c6-993f-da4ef4400b19"
+      Hint: MondayHours
+      Value: "8:00AM - 6:00PM"
+    - ID: "244b5e36-9f79-4531-a9db-837e496f38cd"
+      Hint: FridayHours
+      Value: "8:00AM - 7:00PM"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181207T142029Z
+    - ID: "2813d800-ff71-4986-894b-05ebab81cbd6"
+      Hint: ThursdayHours
+      Value: "8:00AM - 6:00PM"
+    - ID: "30bb22ac-02f2-4874-9c69-2b17cd3faa82"
+      Hint: StoreName
+      Value: Westminster
+    - ID: "311869ee-8ea9-4b01-81b2-2c495a6b26b7"
+      Hint: Phone1
+      Value: "(303) 586-9090"
+    - ID: "32556f8f-b46c-46af-84d1-fe038af5dc84"
+      Hint: AddressLine1
+      Value: 9230 Sheridan Blvd
+    - ID: "484e5236-f05b-4808-9e5b-d844c027bcf5"
+      Hint: WednesdayHours
+      Value: "8:00AM - 7:00PM"
+    - ID: "4bed4bf8-f13e-420c-8ce3-0ba83a573204"
+      Hint: StoreNumber
+      Value: 1101
+    - ID: "4f05fec2-02fa-4ce4-b138-fd3a890e48b1"
+      Hint: OpenDate
+      Value: "6/12/2014 12:00:00 AM"
+    - ID: "56b38dfe-e06e-4c76-972f-73dd27ab6023"
+      Hint: PostalCode
+      Value: 80031
+    - ID: "5c3c43b7-9017-4168-a2a7-e7908dc30122"
+      Hint: MerchantId
+      Value: 844032516883
+    - ID: "5eeef16a-cf7e-400e-a16e-6a410453f830"
+      Hint: City
+      Value: Westminster
+    - ID: "6573d704-7e8b-48d4-ac7b-a89d075a2699"
+      Hint: Fax
+      Value: "(303) 426-4729"
+    - ID: "6be014ee-4da0-4acc-8fb2-ccb220adc26a"
+      Hint: SundayHours
+      Value: Closed
+    - ID: "6e178832-ecbd-4b9c-b27e-d7ae7dfeece5"
+      Hint: TuesdayHours
+      Value: "8:00AM - 6:00PM"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fba6cf56-31d6-4930-b7b6-ef1574f541f8"
+    - ID: "b66e436d-50be-4893-9200-96b290e9c761"
+      Hint: Latitude
+      Value: 39.864234
+    - ID: "bac5954c-9041-44f6-9a36-9abdb8a69711"
+      Hint: WeekdayHours
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "bdf6f17d-48fc-45ea-81b7-b70f45f87b95"
+      Hint: Landmarks
+      Value: Located on 92nd and Sheridan
+    - ID: "c2dda65a-7f99-4933-8805-5f6acfa62698"
+      Hint: ReviewUrl
+      Value: |
+        <link linktype="external" url="https://search.google.com/local/writereview?placeid=ChIJ5zr7lMaJa4cRcP4IYHhftbE" anchor="" target="_blank" />
+    - ID: "cb7d809d-7e76-4ab3-b469-961c1a40383e"
+      Hint: SaturdayHours
+      Value: "10:00AM - 5:00PM"
+    - ID: "d249bce8-a368-4457-a462-cdcbd93152a0"
+      Hint: StateCode
+      Value: CO
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240927T231644Z
+    - ID: "eb3247a2-7d7a-470f-9c9a-a37a0ef14f2b"
+      Hint: ReadyForDisplay
+      Value: 1

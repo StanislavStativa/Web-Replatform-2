@@ -1,0 +1,62 @@
+﻿---
+ID: "3f1d7418-e7e9-43ce-8193-6b925ea50130"
+Parent: "656fcea0-3ad9-42c4-ba57-55d49938ee92"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/bullnose-trim/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bullnose & Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Once your newly tiled design is complete, take your bathroom decor to a higher level with our stone tile accessories. In slate, travertine, onyx and marble to match many of our popular lines, our bullnose tile and tile trim offer the small indulgences your bathroom needs. Tile accessories like stone robe hooks, towel holders, soap dishes and toothbrush holders create a cohesive design, while hand-carved corner seats let you relax under the warm water. Pamper yourself in our modern travertine bathtub for a sensuous, spa-worthy experience.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ebea746-98ae-4bf0-93d6-d2241c3a8e7f"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T070828Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Tempesta_Waterjet_DillonB_Burnsville:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {0EA913CF-9FD4-4FA4-BFE5-7A2F5B29B98D}
+        {A33B340D-E73B-4129-9FB3-5B1478C5B643}
+        {0C4716F4-4216-4B54-9ABE-70C384C6330D}
+        {BE11BA7C-C255-4325-AF1C-2D16DF267CCC}
+        {21A3DF24-DF48-40C8-AF67-56420542DD6D}
+        {862C72C7-CE15-41FB-8EBB-4A0CFA937605}
+        {3F933A34-8D37-44CB-9D74-1DFBF08BAA92}
+        {D7089F80-367D-4BD9-AD39-136E49596218}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

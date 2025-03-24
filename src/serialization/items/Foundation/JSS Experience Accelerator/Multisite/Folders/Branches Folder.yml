@@ -1,0 +1,29 @@
+﻿---
+ID: "2f5f8343-2a18-46a4-92a1-0f7ab0452741"
+Parent: "0051c7b6-fe86-4a87-bb2d-908e3e77fae1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/JSS Experience Accelerator/Multisite/Folders/Branches Folder
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/folder.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {85ADBF5B-E836-4932-A333-FE0F9FA1ED1E}
+    {0E1B455F-4354-4874-BE54-72F84E55F3A8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221118T064618Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c6dd54f-d715-4be1-9618-8cd7d3f0afcb"

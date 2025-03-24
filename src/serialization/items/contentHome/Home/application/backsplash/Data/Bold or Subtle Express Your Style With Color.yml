@@ -1,0 +1,44 @@
+﻿---
+ID: "1200268a-9b3f-48c6-81dc-d4323452f131"
+Parent: "8dce78c6-cf3f-4e6e-90a6-1bb7c6a18632"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Bold or Subtle Express Your Style With Color
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {7739B412-9973-4F6B-A210-190CC4E0C900}
+        {47103CD7-72C0-4D71-96A0-072CF7662498}
+        {497747EE-D011-4E3A-9C70-86F1FB753F8A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bold or Subtle, Express Your Style With Color
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">You can't go wrong with a classic, white tile backsplash, but this design element offers the perfect opportunity to take a little risk — and have a little fun! Create a dramatic contrast to light cabinets with bold, dark backsplash tile, or brighten up a dark room with an unexpected pop of color. If you can't choose just one, a colorful </span><a href="/featured/mosaics" class="font-bold">mosaic tile backsplash</a><span style="margin: 0px; padding: 0px; border: 0px; color: #0086c0;"></span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">has it all. </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14d34235-40ed-41fa-ae41-f9d9cd2bd707"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061712Z

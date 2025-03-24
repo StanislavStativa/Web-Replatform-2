@@ -1,0 +1,55 @@
+﻿---
+ID: "25911d4f-67dd-4aba-8706-1ad92cbdd9e8"
+Parent: "98dbb9b2-6d6f-47a3-ba50-8b6d2c63afb8"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/backsplash/Data/Multi Asset Banner
+BranchID: "6da4f1e0-56f7-4121-88e1-bc39a9c116e7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Kitchen Backsplash Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        A beautiful backsplash is an integral part of your kitchen’s decor. It can be a simple, clean tile that protects susceptible areas while it lets your cabinets, counters or fixtures stand out. Or you can choose to make the backsplash the focal point of the kitchen with an attention-getting accent tile.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {FC0BF329-235C-4A38-B162-C2355E139778}
+        {372F2322-3759-4FF5-B441-F991B4F28F8A}
+        {794811FB-5B40-47A7-A61D-A2C1C92931CA}
+        {93102EB8-96EA-4EC6-B013-0D2BBA1BA221}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be0126b8-8ff7-4572-81e5-09b7916d23f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T104246Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_CoastalChic_Kitchen_016:3x2"

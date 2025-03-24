@@ -1,0 +1,38 @@
+﻿---
+ID: "8e34ad70-a401-4dd7-89f0-75bc340e8a34"
+Parent: "f3af9e81-d63c-4d11-9d21-161012fbcf79"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/shower/Data/Featured Tile 3/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T095306Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08ec7cda-bbe9-451b-8d68-db209430944b"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile</span><span>:&nbsp;</span><a href="/products/siberian-pearl-honed-barnes-marble-wall-tile-650540" class="font-bold">Siberian Pearl Barnes</a><span>&nbsp;&amp;&nbsp;</span><a href="/products/siberian-pearl-honed-marble-flat-corner-shelf-650551" class="font-bold">Corner Shelf</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140428Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: j_nelson_traditional_bathroom_6%3aDesign_Ideas_All_V2

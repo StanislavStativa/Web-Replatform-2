@@ -1,0 +1,34 @@
+﻿---
+ID: "d2226a0b-06c2-456e-9af0-dc7c7fa4f7e2"
+Parent: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: /sitecore/templates/Feature/TTS/Components/Numbered Image List/Datasource Folder/NumberedImageList/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T071735Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a69e56a-d012-4f57-9999-a7084ec4422c"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240531T091314Z

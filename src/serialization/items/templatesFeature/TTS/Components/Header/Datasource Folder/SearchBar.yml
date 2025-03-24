@@ -1,0 +1,53 @@
+﻿---
+ID: "14329a98-0ee0-4273-ba39-d1f6eea1a63b"
+Parent: "46e8c1aa-f58d-40ca-8948-7f5b55de8ab3"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Header/Datasource Folder/SearchBar
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/view.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {89DCBE32-BEE9-4304-9FC8-6BF9BE6AC9E8}
+    {05F746A1-2813-48D0-8A67-E0128AD65302}
+    {43B205A6-BF74-4D64-AD88-AB4716C7BAAB}
+    {76A37C80-7025-458A-8A19-2B212B55E273}
+    {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
+    {47DDB3A5-DCFA-42EC-8EE1-D1DD6350BCA1}
+    {FC264891-7CB8-43AE-B9B6-DB4564CD37A1}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{7D733B8E-7A18-4648-8977-CD854F324991}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111213T133000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4be39d99-4787-4fba-9eb4-27fdbae1db95"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T101449Z

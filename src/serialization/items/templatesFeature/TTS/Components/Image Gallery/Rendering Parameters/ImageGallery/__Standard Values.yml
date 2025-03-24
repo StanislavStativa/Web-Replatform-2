@@ -1,0 +1,27 @@
+﻿---
+ID: "2ba1ea51-61a2-4141-b864-d47a3c540f43"
+Parent: "d8c703b1-7f7e-49f9-a7f3-b1fffdde4907"
+Template: "d8c703b1-7f7e-49f9-a7f3-b1fffdde4907"
+Path: /sitecore/templates/Feature/TTS/Components/Image Gallery/Rendering Parameters/ImageGallery/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "758245cd-f8b6-4279-949a-ad87b05bb64e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T121658Z

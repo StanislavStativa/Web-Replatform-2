@@ -1,0 +1,101 @@
+﻿---
+ID: "553835df-a08b-43cf-89d6-fee5ea69b602"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/07 Lay Your Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 7: Lay Your Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>We&rsquo;re finally at the most exciting part! When your thinset mortar is ready to go, it&rsquo;s time to begin tiling.</p>
+        <br />
+        <h3><span class="h3-style">Burn Thinset Onto Wall</span></h3>
+        <br />
+        <p>To &ldquo;burn in&rdquo; thinset means to apply a thin layer using the flat side of a trowel, and it&rsquo;s the first step in laying tile. Place a good amount of thinset onto the flat side of your trowel and apply a thin, even layer along the wall where you will be setting your first row of tiles.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A tile pro applies the initial layer of thinset to a shower wall before installing the first row of tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Video_Still1:16x9?fmt=png-alpha" />
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p>Burning in thinset promotes better coverage behind your tile installation, and is especially important in a wet area like a shower.</p>
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3><span class="h3-style">Directional Troweling</span></h3>
+        <br />
+        <p>Apply more thinset mortar to the wall using the flat side of your trowel, and then immediately go back over the same area using the notched side of the trowel. This is called &ldquo;directional troweling.&rdquo; All of your notches should run in the same direction, and be parallel to the shortest edge of the tile you are laying. (This ensures that when you press each tile into the mortar, you get a secure hold.)</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A tile pro uses the notched side of a trowel to form rows of notches into thinset, ensuring the lines run parallel to the shortest side of the tiles." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Video_Still2:16x9?fmt=png-alpha" />
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3><span class="h3-style">Burn Thinset Into Tiles</span></h3>
+        <p>To get the best thinset coverage and strongest tile bond possible, it is best practice to burn in thinset to the back of each of the tiles you lay. Do this by using the flat side of your trowel to apply a small amount of thinset.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A tile pro uses a trowel to spread a small amount of thinset from edge to edge on the back side of a tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Video_Still3:16x9?fmt=png-alpha" />
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p><span class="h3-style">Lay First Row of Tile</span></p>
+        <br />
+        <p>Place the first tile along the layout line and collapse the thinset fully by moving the tile back and forth in the opposite direction of your trowel lines. This will remove the air from behind your tile and give you the desired coverage for a shower, which is 95%.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A tile pro applies uses her hands to apply pressure to a tile she is installing. Pressing the tile and moving it back and forth slightly helps to collapse notches in the thinset behind it, removing air and promoting a strong bond between the tile and the wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Video_Still4:16x9?fmt=png-alpha" />
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3><span class="h3-style">Check for Appropriate Thinset Mortar Coverage Behind Your Tiles</span></h3>
+        <br />
+        <p>As you lay your first row of tiles, you will want to remove a tile to check if you are getting the proper amount of thinset coverage on the back of the tiles. The TCNA states that it is required that tiles in a wet area have a minimum of 95% coverage. That will mean you should not see the notches transfer on the back of your tile; it will look more like mountains if you are getting the right amount of coverage.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A shower tile has been pried off the wall to confirm the correct amount of thinset coverage is achieved during installation." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Tiling17:16x9" />
+        <br />
+        <p>If you can still see traces of notch lines in the thinset, you are not getting proper coverage. Switch to the next largest size of notched trowel, and try applying the tile again.</p>
+        <br />
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3><span class="h3-style">Inspect Tiles</span></h3>
+        <br />
+        <p>After you&rsquo;ve finished tiling a row in your shower, take a step back and check that your tiles are level before continuing. You can ensure that your tiles are staying level by placing your leveler on the edge of the first row you tiled. You can do this with every row or every few rows and make adjustments if needed.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt=" tile pro uses a leveler tool to confirm that the first few rows of installed tile are level before proceeding." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Tiling8:16x9" /></p>
+        <br />
+        <p>Additionally, you will want to check the surface of the tiles to ensure that they are staying flat and free of lippage as you tile up the surface of the wall.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="After installing several rows of shower tile, a tile pro uses her leveler tool to check that the surface of tiles are flat and free of lippage." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Tiling10:16x9" />
+        <br />
+        <h3><span class="h3-style">Place Spacers</span></h3>
+        <br />
+        <p>After you have checked that the first row of tiles have appropriate thinset mortar coverage, ensuring they are flat and level, you can add your spacers. If tiling to a ledger board, you will not need to add spacers to the horizontal grout joint, only the vertical.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="After checking that the first few rows of shower wall tile are level, a tile pro has placed spacers in the vertical and horizontal joints before proceeding." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Tiling4:16x9" />
+        <br />
+        <div class="rtc__callout-text">
+        <p><strong>If tiling to a ledger board</strong>: You will tile the entire wall and remove the ledger board at the end. Once you remove the ledger board, you will then tile in your final row(s) at the bottom and accommodate for expansion at the tub or shower pan with at least a 1/8&rdquo; spacer.</p>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9160ec2a-399c-4081-a0a2-24ab9b573baa"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T072146Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 7

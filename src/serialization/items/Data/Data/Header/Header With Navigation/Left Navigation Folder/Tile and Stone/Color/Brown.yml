@@ -1,0 +1,37 @@
+﻿---
+ID: "bc028c1a-e8bf-4ba3-b008-d7353ebea93c"
+Parent: "807f438d-3c9f-476d-b3ab-7d68f93ddf34"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Color/Brown
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240516T113206Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{2ECACEE1-70E9-48F3-A9AC-F154E84BD275}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Brown
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7068193e-25c0-4fee-9cd6-782039f87e14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T104241Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: /Feature/TTS/Tile Search/Colors/brown
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Brown" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D69A8F00-F3A4-47D9-A941-0B2AA51FBE22}" />

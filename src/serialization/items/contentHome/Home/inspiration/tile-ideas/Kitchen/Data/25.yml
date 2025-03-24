@@ -1,0 +1,42 @@
+﻿---
+ID: "58528afb-5c22-4a7c-a821-a894937daa55"
+Parent: "6e1b0ae0-14f7-428d-9c16-37c30ea8131d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Kitchen/Data/25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Eye-Popping 3-D Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Create a design that literally pops off the walls with <a class="font-bold underline" href="/featured/3d">3-D or sculptural tile</a>. Available in a variety of styles from subtly textured tiles to dramatic 3-D shapes like the <a class="font-bold underline" href="/products/tangram-asas-branco-3-d-ceramic-wall-tile-8-x-8-in-494499">Tangram Asas Branco</a> shown here, these tiles will add new dimensions to your kitchen walls.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0df0479-3ec2-4c58-a59b-12c68c62f3d5"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T140154Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "MorrisCo_Kitchen_Main_2_V1:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 25

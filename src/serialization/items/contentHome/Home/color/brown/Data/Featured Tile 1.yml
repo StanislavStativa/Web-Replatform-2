@@ -1,0 +1,46 @@
+﻿---
+ID: "917f76fe-3bbc-411b-9cd1-1fdf54e5bb8a"
+Parent: "1ed362ee-ac9c-494e-9737-ef7e535b67f3"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/brown/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {86AF3809-B1EC-4455-A746-0C38BE5C2A31}
+        {AE658937-4B0A-4066-AB38-8DBC879CC359}
+        {AFAC7E0B-0852-487C-B50A-80788C3C7F61}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: The Rich Possibilities of Brown Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p class="extra-small-bottom-margin">As a color palette, brown offers a multitude of options, and there are countless ways to incorporate these many beautiful shades in your home decor.</p>
+        <p>Brown is one of the most abundant colors in nature. From the light brown, beige, and khaki hues of the beach to the dark, rich browns of hardwood trees, brown is a mainstay of the natural color scheme. And because of its ubiquity, brown tile pairs well with colors both subtle and bold.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9c6de44-d72e-4cfb-9fc6-b2feafda1d92"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T052902Z

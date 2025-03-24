@@ -1,0 +1,57 @@
+﻿---
+ID: "2813ddae-01dc-4164-8912-7a09e03b5106"
+Parent: "38cc092b-5b7e-4608-8457-5124f8a565a7"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/tub-surround/Data/Multi Asset Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tub Surround Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        The tile surrounding your bathtub is an important design consideration as well as being necessary for protecting the surrounding walls from splashes. Whether you choose to contrast your tile with your tub or to coordinate the two will affect the overall feeling of the room. A contrasting look adds drama while a coordinated one has a more relaxed feeling.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {A32D4C71-A5AE-431C-8353-83E086C9B04E}
+        {4D2C2D8D-B5DD-4953-99DC-0A18AD9F394A}
+        {02FF6A77-E5B5-4C2D-A084-2B5CF9E4A249}
+        {ADE40588-BB0F-48DA-88EF-8A4423704301}
+        {3793B2C4-E0CE-4C47-A4CC-9C73B30D21BE}
+        {8D3F60C4-ACB1-4416-8763-594A6CBC1C88}
+        {A69A2179-1B2A-40C7-8763-6B7374E4FF21}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65a0b3de-aee3-44c1-ab08-9a71e1da5246"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T103145Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Sunflower_Beveled_Bathroom_Niche_Vertical:3x2"

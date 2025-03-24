@@ -1,0 +1,27 @@
+﻿---
+ID: "114065aa-ebe6-4496-bd5c-6a1f7a0ca81b"
+Parent: "de63ae1f-8df3-446f-9100-c27a1f71874b"
+Template: "de63ae1f-8df3-446f-9100-c27a1f71874b"
+Path: /sitecore/templates/Feature/TTS/Components/Credit Card Payment/Rendering Parameters/Credit Card Payment/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "432ebc79-b1bb-4fc0-9da4-7819310d6cc7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T133251Z

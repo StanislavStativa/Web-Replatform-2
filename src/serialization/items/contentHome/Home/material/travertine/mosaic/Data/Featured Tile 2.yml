@@ -1,0 +1,44 @@
+﻿---
+ID: "5fd2862a-e85b-481f-8ad7-e9d52c13c712"
+Parent: "0908e2ee-d573-49ef-92a9-aae7b3531df9"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/mosaic/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {01C88FD1-2D3A-4131-AC26-28F1038EA4E6}
+        {87D1A721-EB55-4951-BCAB-4BB9AC3266BF}
+        {C1734EC1-24A0-4B94-8A22-E4CD5FFCA549}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mix and Match to Complete Your Room
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>To complete the look of your room, try pairing your field tiles with a coordinating mosaic option. Our collections include both, so it’s easy to find accent pieces that pair with your design.&nbsp;&nbsp;</span><span>Or for added impact, consider using multiple mosaic styles in a single room; keeping within the same family of material will tie together different colors and patterns. For example, outfit your shower with a gray hexagon mosaic floor (2-inch hexagons look great and provide plenty of traction in a wet area) and continue up the walls with ivory travertine mosaic tile in a chevron pattern.&nbsp;&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d82f832-d56f-4146-a346-0910b6c42653"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T155540Z

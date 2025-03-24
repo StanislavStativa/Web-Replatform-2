@@ -1,0 +1,312 @@
+﻿---
+ID: "617a5bd2-0adb-42b4-a373-db546041382a"
+Parent: "c75cfef3-f5c2-4e17-ba89-dcccd92cfe66"
+Template: "67efcb91-3f77-41af-95a8-34a341c07f36"
+Path: /sitecore/content/TTS/Global Content/Products/6/8/682111
+SharedFields:
+- ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
+  Hint: __Facets
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01db7056-2a80-4664-9aab-6ecd25140750"
+      Hint: SpecSheet
+      Value: 
+    - ID: "0c6aa184-e6be-45db-abd4-90a8b62029e5"
+      Hint: BX_Price11
+      Value: 105.73
+    - ID: "0d0eb061-b468-4e4b-8066-4638070b8820"
+      Hint: BX_Price12
+      Value: 113.29
+    - ID: "14c2fcb1-d74c-4ac4-951a-19002148a530"
+      Hint: RecommendedGuide
+      Value: |
+        <link url="" />
+    - ID: "1a316c0f-b336-4194-a941-490ed46a7f31"
+      Hint: ReadyForDisplay
+      Value: 1
+    - ID: "1db91b99-fa9d-4dab-9bd0-e8b0bfb52ea0"
+      Hint: BX_Price10
+      Value: 98.18
+    - ID: "1e412860-c4e6-4978-be3f-b321dbf6162a"
+      Hint: EA_Price12
+      Value: 11.33
+    - ID: "22ff465f-11ab-45fb-9f16-d8ae8eaa23df"
+      Hint: ActualLengthCM
+      Value: 32.5
+    - ID: "23bb6987-aa95-4c35-a025-2c901438fbaa"
+      Hint: Application
+      Value: |
+        {F96D44E8-C9DE-493F-A407-4BC475284D0A}
+        {EDD4FBF4-03B6-4E24-9CFB-E07F6612C63B}
+        {2748C150-952C-4C75-BE8A-82E98032AB45}
+    - ID: "24a1385e-b471-482b-99ac-9fb47ae12c7a"
+      Hint: ProductLaunchDate
+      Value: 20230630T000000
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221025T074323Z
+    - ID: "29f07ac5-0ef1-4013-97e8-fa851af4d51d"
+      Hint: WorksInDesignStudio
+      Value: 0
+    - ID: "2ae1b7a5-91b3-4174-b5c1-06712fa0d81d"
+      Hint: FrostResistanceValue
+      Value: Resistant
+    - ID: "2bd4d817-bf06-4c80-9760-32e47f7b0dbf"
+      Hint: CV_Price11
+      Value: 10.56
+    - ID: "2e5025ea-8f10-4eee-8ee5-101c5f158fcf"
+      Hint: SellingUOM
+      Value: CV
+    - ID: "2ef170f6-17e5-4f01-a49f-ddd24faf80b7"
+      Hint: Featured
+      Value: 0
+    - ID: "33d160c1-f21f-4a98-8332-04dc36fe4cc9"
+      Hint: BoxWeight
+      Value: 17.5929
+    - ID: "417ca315-3941-43f0-944a-1f28c6367c94"
+      Hint: MaterialGroup
+      Value: "{BA5337C7-CE19-45CD-A29A-FE9B50282525}"
+    - ID: "41f542df-ab38-47cb-8f46-01843fecddf9"
+      Hint: SAPMaterialStatus
+      Value: A1
+    - ID: "4232811d-b522-46c9-8f46-0149cd3e7a86"
+      Hint: CoveragePerEach
+      Value: 1.0010436693216149409502883823
+    - ID: "457ad5ad-1a03-43a2-ae9a-48c77f88df7e"
+      Hint: AvailableOnlineSample
+      Value: BOTH
+    - ID: "51c03cc9-3e9e-4703-956f-9a5a6d7a255a"
+      Hint: ProductCode
+      Value: 682111
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "54fc67a6-71f8-4cd4-9ac3-8f50bdaf38b0"
+      Hint: CV_Price12
+      Value: 11.32
+    - ID: "555cd022-1395-4402-a575-fad544e52767"
+      Hint: DirectionalInstallationRequired
+      Value: 0
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Penny Round Calacatta Gold Matte Porcelain Mosaic Wall and Floor Tile - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "5ee238b0-6290-4b24-b1f3-40865b262f14"
+      Hint: ActualWidthCM
+      Value: 29.2
+    - ID: "5f8f5a3a-a479-4d90-b205-6d7647c2c5f9"
+      Hint: ProductNotAvailableText
+      Value: |
+        <p style=""margin-bottom: 0;"">This item is available for purchase through showroom only.</p><p>Please contact your <a href=""/store-locator"">local showroom</a> to place an order.</p>
+    - ID: "60a1e796-cdfb-4608-a50c-ba591f19d9bc"
+      Hint: EA_PriceR1
+      Value: 15.11
+    - ID: "63f74300-5ba4-4a0e-8860-00d80d8c619a"
+      Hint: PiecesPerBox
+      Value: 10
+    - ID: "6c0f31b0-68cf-4890-8a97-633ee50dad04"
+      Hint: ProductDescription
+      Value: The Penny Round Calacatta Gold Matte porcelain mosaic wall and floor tile takes the classic style of penny round tile and gives it a luxurious twist. Featuring a white background with varying gold veins running across its surface, this matte mosaic achieves the opulent appearance of authentic Calacatta Gold marble while offering the durability and easy maintenance of porcelain.
+    - ID: "7040c1cc-7eba-4b4e-b4f6-cef26e415a34"
+      Hint: DesignStudioFinish
+      Value: NATURAL
+    - ID: "722f4116-3dc3-4fdc-9066-f07a4c8899ab"
+      Hint: SAPMaterialDescription
+      Value: Penny Round in Calacatta Gold Matte
+    - ID: "7253d975-4ad1-47e1-9a9b-24247e495885"
+      Hint: ProductHierarchy2
+      Value: "{39731BD7-1588-49BF-93B8-48E6427A1156}"
+    - ID: "74c56b39-e30d-4c6d-aff5-a800fb5ac795"
+      Hint: EachWeight
+      Value: 1.75929
+    - ID: "77493d4f-d622-4c9e-a74c-e50ac52a0ed5"
+      Hint: BaseUOM
+      Value: EA
+    - ID: "788f4964-575a-4dc6-9f87-a8eb8c58fd8f"
+      Hint: PurchaseOnline
+      Value: BOTH
+    - ID: "800a4645-aac2-47a8-9fee-c12599d5faf2"
+      Hint: PdpShape
+      Value: "{F2519784-935A-40E7-9A04-4B95EA49DEA9}"
+    - ID: "8559f1b5-204d-4962-850f-2b8c0290995c"
+      Hint: CountryOfOrigin
+      Value: Thailand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca3e314c-34b2-4e29-959f-ff8f39eeb323"
+    - ID: "8d091ce1-e81f-4dd1-aa2a-1ad2505ccea3"
+      Hint: SampleSKU
+      Value: 682113SS
+    - ID: "8e6135cb-4a31-42a5-8e7a-b5a652489532"
+      Hint: Finish
+      Value: Matte
+    - ID: "8f7844b3-4dab-470f-9fb6-a73d91862837"
+      Hint: ProductHierarchy1
+      Value: "{5807AA8A-DE6A-4D89-B862-D6B369C3266D}"
+    - ID: "8fa7a97e-24f3-4b95-844b-44f89de28873"
+      Hint: EA_Original
+      Value: 0
+    - ID: "8fc25bc4-eceb-4d1b-95c0-ff72a33d71ec"
+      Hint: Collection
+      Value: "{5C9B9E9C-8559-4B20-A15B-303374A085A1}"
+    - ID: "90d5cafd-0ccd-46b0-87fd-2f4b127c6bfb"
+      Hint: CV_Price13
+      Value: 12.07
+    - ID: "92ccc9f8-1a14-4957-a38a-e77bbd0d4b43"
+      Hint: NewArrival
+      Value: 0
+    - ID: "93e3dcd7-2bfd-4f8c-890c-89392e53bb26"
+      Hint: ProductName
+      Value: Penny Round Calacatta Gold Matte Porcelain Mosaic Wall and Floor Tile
+    - ID: "96429c6b-6ac9-4261-b484-9fd68d064cb5"
+      Hint: Shape
+      Value: |
+        {BA8BFC3B-6559-4B0A-BC1C-7496DCF7DA35}
+        {D4C03061-4AFC-4B13-A880-593FA27EA672}
+        {79A8B50A-6383-4F36-8166-980E9DED05A1}
+    - ID: "964d2a71-b3fd-42c9-8dcc-4be0e0171f3d"
+      Hint: PdpColor
+      Value: None
+    - ID: "992b7dfe-1865-4ca8-882c-68b1eb18f347"
+      Hint: CV_Original
+      Value: 0
+    - ID: "9d5f327c-0214-4413-a848-16d8daa9e6b3"
+      Hint: Material
+      Value: "{2B8D0E95-DFEE-44E9-8832-122C410632C1}"
+    - ID: "a2068627-c1b2-4218-86a5-fb09502ebcad"
+      Hint: SafetyDataSheet
+      Value: "{39FF5E93-4D92-4008-939B-D344F99D5231}"
+    - ID: "a289e247-3f00-4442-9bad-7dc7911b655a"
+      Hint: ActualThicknessCM
+      Value: 32.5
+    - ID: "a68bca19-99fe-49c7-847a-0ee545bbf880"
+      Hint: Color
+      Value: "{47237C3F-758E-48D7-AF9F-D7722914CBB9}"
+    - ID: "a86b564c-ba83-4165-a461-f8920c819576"
+      Hint: BX_PriceR1
+      Value: 151.05
+    - ID: "a9020984-9ea0-46b1-bdaf-31d76f721983"
+      Hint: DisplayThickness
+      Value: 5.5mm
+    - ID: "ab0d51ff-4852-44cd-bf2c-7b52db2fb665"
+      Hint: ShowRetailPricing
+      Value: 1
+    - ID: "ad332503-cbc0-4298-a7ba-426dcecd163a"
+      Hint: EA_Price13
+      Value: 12.09
+    - ID: "ae2bcec7-05b7-4d93-b6d3-78b403f61121"
+      Hint: BX_Original
+      Value: 0
+    - ID: "b1abf0c2-8de4-49ce-b19e-eae32d0fb012"
+      Hint: HasMatchingTrim
+      Value: 0
+    - ID: "b229ca4d-afa4-47d5-8668-f16e64260d00"
+      Hint: Country
+      Value: "{403877FC-DECC-49BA-80FD-03BFCAC95814}"
+    - ID: "b32ebb97-f84d-482e-8f1a-acba82d8fc49"
+      Hint: InstallationInstructions
+      Value: |
+        <link url="" />
+    - ID: "b35bad6d-2925-4421-935e-4672a90aba5d"
+      Hint: CV_Price10
+      Value: 9.81
+    - ID: "b389f4fe-2678-468a-8fee-b6d316b8a3e5"
+      Hint: HideFinishSection
+      Value: 1
+    - ID: "b7253ec6-cbfc-47c8-86c5-e949b326504e"
+      Hint: ActualThicknessIN
+      Value: 0
+    - ID: "b809e2b1-3e2f-4443-9c29-d147615beda7"
+      Hint: PdpShapeText
+      Value: PENNY ROUND
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c0347e5a-818f-4480-80ea-1a53485860c4"
+      Hint: ActualLengthIN
+      Value: 12.795
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop quality Penny Round Calacatta Gold Matte Porcelain Mosaic Wall and Floor Tile at The Tile Shop.
+    - ID: "c4d9f37e-54fb-493a-a991-1c6498cac733"
+      Hint: BestSeller
+      Value: "-1"
+    - ID: "c868cb12-d7ca-4719-bee8-abaa308f07a6"
+      Hint: ActualWidthIN
+      Value: 11.496
+    - ID: "cd8a5d77-5363-4a4c-ad51-54e06bbf5482"
+      Hint: SecondaryCollection
+      Value: "{3E2E55B1-F244-481E-B21B-FC128B1CA6F4}"
+    - ID: "ce7cf263-0d17-4261-8e37-ee3928b34e5e"
+      Hint: AvailableOnline
+      Value: BOTH
+    - ID: "cfb97a60-0945-4256-b4c9-c33e09461c3f"
+      Hint: Edge
+      Value: Straight
+    - ID: "d1d82a2b-a4a5-4fa5-8a09-b787e911cedd"
+      Hint: HideCollectionSection
+      Value: 1
+    - ID: "d1efbc7d-eae6-459f-83ce-019ef03d4d11"
+      Hint: ProductHierarchy4
+      Value: 
+    - ID: "d20bfb6e-3528-4355-b57d-b4c216b8020b"
+      Hint: RecommendedGrout
+      Value: Standard White
+    - ID: "d57a2531-0770-4ebf-96db-ff8e8f4a2e41"
+      Hint: EA_Price11
+      Value: 10.58
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240924T161343Z
+    - ID: "df1e3d25-501b-474f-9ed2-a88552f9aab5"
+      Hint: RecommendedVideo
+      Value: |
+        <link url="" />
+    - ID: "e0c4a2dc-1805-44fb-af7c-5715ad1f8a95"
+      Hint: SampleSwatchAvailable
+      Value: 1
+    - ID: "e0ee0d32-a43b-45b0-ac76-9e71b2dc31fd"
+      Hint: PdpSheetSize
+      Value: 12 X 12 IN.
+    - ID: "e593c497-1280-4461-9148-26d7a4f98732"
+      Hint: SpecialInstallationRequired
+      Value: 0
+    - ID: "e966aaac-1966-4a0c-9d3c-983a2ebd56ad"
+      Hint: ImportDatesUTC
+      Value: "9/20/2024 7:23:07 AM,9/21/2024 7:20:16 AM,9/22/2024 7:22:51 AM,9/23/2024 7:21:23 AM,9/24/2024 7:20:55 AM"
+    - ID: "e9a66465-5dc4-46ff-be55-2bcbfd007de2"
+      Hint: UrlSlug
+      Value: "penny-round-calacatta-gold-matte-porcelain-mosaic-wall-and-floor-tile-682111"
+    - ID: "eeb142e2-8fe2-4f42-9584-4fadfe403c15"
+      Hint: EA_Price10
+      Value: 9.82
+    - ID: "f0352e80-e2d7-4b4a-893b-759720267da7"
+      Hint: Brand
+      Value: 
+    - ID: "f2c719a9-ba9d-48c1-9363-c8f591634af3"
+      Hint: CreateDate
+      Value: 20220919T000000
+    - ID: "f3c1a416-a0b0-40d4-b92b-1880217a0b80"
+      Hint: ProductDisplayName
+      Value: Penny Round Calacatta Gold Matte Porcelain Mosaic Wall and Floor Tile
+    - ID: "f7816099-001e-45d4-812d-1a69983ff963"
+      Hint: BX_Price13
+      Value: 120.84
+    - ID: "f84ed3f6-1212-4e61-a61a-ac169740e23e"
+      Hint: FrostResistanceStandard
+      Value: "ISO 10545-12"
+    - ID: "f950737b-e857-489b-8f74-4811bfc3976d"
+      Hint: CV_PriceR1
+      Value: 15.09

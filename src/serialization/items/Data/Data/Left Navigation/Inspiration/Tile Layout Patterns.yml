@@ -1,0 +1,49 @@
+﻿---
+ID: "7b48dc6d-c25f-421d-b3a2-ea9db304e673"
+Parent: "db56de12-4df2-4270-9802-14719e09812a"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Inspiration/Tile Layout Patterns
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T125727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Layout Patterns
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "404f9f18-1d4e-4d5b-a380-0c3277df7392"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "c0dd834e-faa0-4765-9c7c-59366c41cab3"
+      Hint: SecondaryLinks
+      Value: |
+        {945712FF-8985-4FCC-BE0C-97F0AF7FECCC}
+        {BD6F7D33-48F3-4F53-BB22-83AC84490170}
+        {9133A567-4FE5-4117-8BD3-F1B8EDECAE19}
+        {8B6AFE94-52FB-42E0-A1A3-830F45ED2A24}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T130439Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tile Layout Patterns" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5D5148E6-E497-4C11-B52C-9425DF33250F}" />

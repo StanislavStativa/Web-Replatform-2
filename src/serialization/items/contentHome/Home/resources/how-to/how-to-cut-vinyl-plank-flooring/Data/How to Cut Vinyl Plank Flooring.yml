@@ -1,0 +1,80 @@
+﻿---
+ID: "db035869-d8ae-4070-86ca-48d4fd14ea36"
+Parent: "dffffd93-c479-45b8-8126-14a80d208d07"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring/Data/How to Cut Vinyl Plank Flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T111533Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Cut Vinyl Plank Flooring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <div class="image-caption extra-small-top-margin">
+        <img alt="" src="https://s7d1.scene7.com/is/image/TileShop/681418_Vendor_Room_Scene%3aImage_Caption_Hero_V2" />
+        <p class="caption">
+        </p>
+        <div class="richText-max richText extra-small-top-margin">
+        <p class="extra-small-bottom-margin">When installing&nbsp;<a class="underline font-bold" href="/material/luxury-vinyl">vinyl plank flooring</a>, cutting the planks is an important yet straightforward process that is suitable for beginner DIYers.</p>
+        </div>
+        </div>
+        <section class="c-rich-text">
+        <div>
+        <div class="richText-max richText">
+        <p class="extra-small-bottom-margin">In this article, we will cover the process for how to cut vinyl plank flooring in both a straight line and in irregular shapes.</p>
+        <p class="extra-small-bottom-margin">For a more complete guide on the entire installation process, see our guide <a href="/resources/how-to/how-to-install-vinyl-plank-flooring">How to Install Vinyl Plank Flooring</a>.</p>
+        <h2 class="extra-small-bottom-margin" style="margin-left: 40px;"><span class="h2-style font-latoLight">Tools You'll Need</span></h2>
+        <ul style="margin-left: 40px;
+            line-height: 28px;
+            padding-left: 20px;">
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Work gloves</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Safety glasses</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Dust mask</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Chalk or pencil</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Straight edge or T-square</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Utility knife or jigsaw</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Fine toothed jigsaw blade (or <a href="/products/13-in-multi-floor-cutter-350497">multi-floor cutter</a>)</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Work surface</li>
+            <li style="margin-left: 40px; list-style-type: disc;
+            margin-bottom: 0.3em;">Clamps</li>
+        </ul>
+        </div>
+        </div>
+        </section></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9016d370-ee8a-424d-8697-25f5448edae1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T093316Z

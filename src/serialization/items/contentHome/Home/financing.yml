@@ -1,0 +1,81 @@
+﻿---
+ID: "b7924688-993d-461c-9f9c-9cabdd565b8e"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: /sitecore/content/TTS/TileShop/Home/financing
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E7CF24D5-EC70-436A-A228-F4315EBAC240}"
+          p:before="*"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;FinanceBanner=1&amp;HeadingSize=h2&amp;HeadingTag=h1&amp;IsPinterestEnable&amp;BackgroundColor=Light&amp;HorizontalAlignment=Left&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Bottom&amp;CTAColor=Black&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{F41EA0C6-D50A-48D9-9582-F357D9F865C2}"
+          p:after="r[@uid='{E7CF24D5-EC70-436A-A228-F4315EBAC240}']"
+          s:ds="local:/Data/Image Banner"
+          s:id="{6D3A14A7-DD3E-4857-BFFF-FCCCFB4DFE75}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D&amp;HoverEffect=1&amp;IsComponentClickable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles=finance-top-margin&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{DCC5DB4A-CF88-4A65-8100-512AF53B740B}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B162F0F0F-CFB4-4B1C-BE22-46F12DF60503%7D%7C%7B0EFD2AEE-B267-45D7-A322-CAC7023C2895%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Financing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T121959Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: financing
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Financing Options | Buy Now, Pay Later | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "688787fd-0d87-4788-a7b9-bb4f38998c30"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: financing
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T094644Z

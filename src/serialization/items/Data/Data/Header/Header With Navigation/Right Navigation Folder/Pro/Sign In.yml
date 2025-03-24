@@ -1,0 +1,35 @@
+﻿---
+ID: "94651cb7-e867-4622-966d-b25c99b8c419"
+Parent: "4dbd2a5b-66a2-4889-85ae-7027cc14d37d"
+Template: "83dd0f1e-095a-4275-9c18-38b2eed7fad2"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Pro/Sign In
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T133057Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7129a5b-4fdd-4556-a5ab-b5e1b1f79edc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T061524Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SIGN IN" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{97655800-3FCB-4D86-A0BD-2E8294A0844D}" />

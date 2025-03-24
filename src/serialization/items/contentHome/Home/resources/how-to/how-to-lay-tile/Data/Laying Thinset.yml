@@ -1,0 +1,128 @@
+﻿---
+ID: "d105f7c9-6c4d-4f9b-9075-3cf6bdee37fc"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Laying Thinset"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T132302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section class="c tile-component full-width tile-component--old">
+        
+            
+        
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        
+        <section class="tile-component-content">
+        
+            <div class="col-section">
+                <div class="tile-component-mobile col-xs-12">
+                    <p />
+                    <h2 class="h3">Laying Thinset</h2>
+                </div>
+        
+                <div class="tile-component-image col-xs-12 col-sm-6">
+        
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Plymouth_SatMornClass_0762_Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/Plymouth_SatMornClass_0762_Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/Plymouth_SatMornClass_0762_Til%3aTile_All" alt="laying thinset tile installation" title="laying thinset tile installation" class="" srcset="https://s7d1.scene7.com/is/image/TileShop/Plymouth_SatMornClass_0762_Til%3aTile_All" />        </div>
+                <div class="tile-component-text col-xs-12 col-sm-6">
+        
+                    <h2 class="h4">Laying Thinset</h2>
+        
+                    <div class="richText"><p><span id="step4">Thinset is responsible for keeping your tile attached to your floor—so it’s important to make sure it’s done right! We’ll break down all the steps and pass our expert experience onto you.</span></p></div>
+        
+                    
+                </div>
+        
+            </div>
+        
+        </section>
+        
+        </section>
+        <section class="c-rich-text">
+            <div class="">
+                <div class="richText-max richText"><p style="margin-bottom: 0.25in;">Once your thinset is ready, you can begin applying it to the substrate or underlayment with your notched trowel. For<a href="/featured/large-format">&nbsp;large-format tiles</a>, you should also back butter the tile by applying thinset directly to the back of the tile.</p>
+        <p style="margin-bottom: 0.25in;">Your<a href="/installation-care/installation/tools/trowels-and-floats">&nbsp;notched trowel</a>&nbsp;will leave grooves on the substrate and/or tile. Make sure these are all running in the same direction to achieve a consistent mortar bed beneath the tile. Hold the trowel at approximately a 45° angle as you spread the thinset to achieve a thick enough layer.</p></div>
+            </div>
+        </section>
+        <div>
+            <div class="image-caption">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Shot05_BackButtering_V2_Img%3aImage_Caption_Hero" alt="backbuttering tile installation process" title="backbuttering tile installation process" />
+                <p class="caption" /><div class="richText-max richText"><p>&nbsp;</p></div><p />
+            </div>
+        </div>
+        <section class="c tile-component full-width tile-component--old">
+        
+            
+        
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        
+        <section class="tile-component-content">
+        
+            <div class="col-section">
+                <div class="tile-component-mobile col-xs-12">
+                    <p />
+                    <h2 class="h3">Laying Tile</h2>
+                </div>
+        
+                <div class="tile-component-image col-xs-12 col-sm-6">
+        
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Shot15_With_Hat_Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/Shot15_With_Hat_Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/Shot15_With_Hat_Til%3aTile_All" alt="how to lay tile installation" title="how to lay tile installation" class="" srcset="https://s7d1.scene7.com/is/image/TileShop/Shot15_With_Hat_Til%3aTile_All" />        </div>
+                <div class="tile-component-text col-xs-12 col-sm-6">
+        
+                    <h2 class="h4">Laying Tile</h2>
+        
+                    <div class="richText"><p><span id="step5">Your planning, mixing and thinset mixing have all paid off—it’s time to tile! Read our advice in this section to make sure it’s a project that lasts for years.<span></span></span></p></div>
+        
+                    
+                </div>
+        
+            </div>
+        
+        </section>
+        
+        </section>
+        <section class="c-rich-text">
+            <div class="">
+                <div class="richText-max richText"><p style="margin-bottom: 0.25in;">It’s time to learn how to lay the tile! Don’t forget to use spacers in between tiles to ensure consistent gap and grout lines throughout your installation.</p>
+        <p style="margin-bottom: 0.25in;">When you set a tile into thinset, apply firm, even pressure. Wiggle the tile back and forth a bit to allow the ridges in the thinset to break down and fill in the valleys. This creates a solid layer of thinset beneath the tile.</p>
+        <p style="margin-bottom: 0.25in;">After placing your first tile, lift it up and check that 80-90% of the back is covered with thinset. If you don’t have enough coverage, recheck the consistency and make sure you are using the correct size trowel at the correct angle.</p>
+        <p style="margin-bottom: 0.25in;">Set your tiles in your chosen layout pattern (being sure to use spacers) until you reach the edge of the room. You have two options for the cut tiles at the edges:</p>
+        <ol>
+            <li>Lay down as many full tiles as possible first and save the cutting for after the floor has set, allowing you to walk on the floor while you work on the edges.</li>
+            <li>Cut and install the edge tiles as you move along.</li>
+        </ol>
+        <p style="margin-bottom: 0.25in;">You’ll want to leave at least an eighth of an inch between the tile and the wall to allow for the natural expansion, contraction or shifting of the house. This space will generally be covered with wall tile or trim and caulked.</p>
+        <p style="margin-bottom: 0.25in;">Check out our&nbsp;<a href="/resources/how-to/how-to-cut-tile">comprehensive guide on how to cut tile</a>&nbsp;to ensure the cleanest cuts possible.&nbsp;</p></div>
+            </div>
+        </section>
+        <div>
+            <div class="image-caption">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Shot21_LevelingClips_V3_Img%3aImage_Caption_Hero" alt="leveling clips how to lay tile installation " title="leveling clips how to lay tile installation " />
+                <p class="caption" /><div class="richText-max richText"><p>&nbsp;</p></div><p />
+            </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f83d22e-9519-4a96-b2e3-677a9077ada1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z

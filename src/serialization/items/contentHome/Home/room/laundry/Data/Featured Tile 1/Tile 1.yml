@@ -1,0 +1,38 @@
+﻿---
+ID: "5510ddc2-9028-4172-9f4b-2985abf201dd"
+Parent: "6032586b-40bc-48f7-96fc-ee9209a1bc22"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/laundry/Data/Featured Tile 1/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aaa47443-bd27-4d19-94cb-d2ccdc1e9db9"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a href="/products/industrial-roxy-acero-ceramic-wall-tile-10-x-30-in-494519" class="font-bold">Industrial Roxy Acero</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140432Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: WestBayHomes_Trilium_Laundry_001%3aDesign_Ideas_All_V2

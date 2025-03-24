@@ -1,0 +1,63 @@
+﻿---
+ID: "ab04faee-0627-413e-aa64-6f7946d79e36"
+Parent: "1ed362ee-ac9c-494e-9737-ef7e535b67f3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/brown/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Brown Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>With a variety of looks from golden honey to sandy desert, choosing brown tile is far from a dull decision. Give your home a warm and inviting tone with wood-look porcelain or an earthy vibe with natural stone. From stately travertine flooring to mosaic designs for your bathroom backsplash, there are brown tones that will transform your tile installation into the highlight of your home.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "413f21cc-f92b-490d-8be4-6e4149ebe64c"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153850Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Torvik+Wengue%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {A1A9C508-7408-4070-9F8E-1E7058374F2C}
+        {274F6A41-E1D1-42C7-98E8-6C655055E9B2}
+        {00209772-E29D-4731-B0A6-F581FD8106B7}
+        {0040D679-CCDF-4594-9ADA-D59C2D185487}
+        {999F1347-F1DF-4A7B-9597-6B8B71FA15B5}
+        {D6482DFE-9662-4465-B265-F3F92850DCB6}
+        {FC688B3C-E844-4102-ADF3-089DEEC201C1}
+        {9734BB22-928C-4D31-967A-8DCC803E8183}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,48 @@
+﻿---
+ID: "6bdd689a-fb0d-4654-a0e9-264fbf8b4f98"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/Steps to Install Pencil Trim"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T051321Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Steps to Install Pencil Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <ol>
+            <p>
+            </p>
+            <li>Apply thinset to wall using notched side of trowel. Notches should run parallel to the shortest tile edge.</li>
+            <li>Using a margin trowel, completely fill in the channel on the back side of the tile with thinset. If necessary, apply additional thinset for edge-to-edge coverage; this ensures the trim piece will hold securely once it’s embedded on the wall.</li>
+            <p>
+            <img class="rtc__list-item-with-image__image" alt="A person using a trowel to apply thinset mortar to the back of a piece of pencil trim tile. The channel on the back of the tile has been completely filled with mortar so the piece will securely bond to the wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_6:16x9" /></p>
+            <li>Apply pencil trim to wall, pressing firmly to securely embed it in the thinset.</li>
+            <li>Use a trowel to scrape away excess thinset from the area of wall around the tile.</li>
+            <li>Use a wet sponge to wipe the surface of the tile clean, and insert spacers to ensure proper distance for grout joints.</li>
+        </ol><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81bb9303-c5d4-401e-81ec-e73c2a775271"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240624T051411Z

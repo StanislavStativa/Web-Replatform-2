@@ -1,0 +1,61 @@
+﻿---
+ID: "b6ffce68-0296-48e5-94f1-a7651efced06"
+Parent: "955919c4-e2cf-453e-b7a2-9c0a7eea3acc"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/white/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: White Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Nothing makes a room more bright and vibrant than white tile. From traditional to contemporary, it can be showcased in a variety of environments. A glossy tile creates a clean and reflective surface, while a matte tile provides a soft look that absorbs light. A true classic, white tile is a way to add a touch of timeless style in your home.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01e6373d-1332-4ffa-809c-882f4acf8480"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T112606Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 484253_Kitchen_Vendor_Render.jpg%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {9CE1B126-E70E-45B5-87FB-94EB7D8F26A4}
+        {98B56A9C-48E1-4D85-AFB7-2BFFEDF62F39}
+        {C586EE51-E976-4977-80B3-AE510124E36E}
+        {136F11F7-771F-4F73-9431-15866C53E569}
+        {F55D3216-6EAC-466C-AE1F-A8772F51DACE}
+        {3176F781-98D8-42FC-91E2-7613C50DA901}
+        {38DDA58D-2802-4923-A25A-3D3E997E632D}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

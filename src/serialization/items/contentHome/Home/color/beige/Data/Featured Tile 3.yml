@@ -1,0 +1,48 @@
+﻿---
+ID: "40a52c36-ba07-4a62-aebc-968849492a3d"
+Parent: "71978d1c-85e8-4d0b-9124-f102d4095f99"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/beige/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {B012B060-9074-46BC-9A6E-95520A576604}
+        {2AB8911F-E454-447A-B456-0B6FCD797568}
+        {A3912E0A-B915-4A28-85EE-BC139B10F45C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Using Beige Tiles in Your Kitchen
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Like bathrooms, kitchens are another area of the home that needs to deliver big on function&mdash;and can do so while delivering on style, too. If you&rsquo;re looking to add a level of practicality to your kitchen, a beige kitchen backsplash can be a great investment; a backsplash makes a<strong> </strong></span><strong><a href="/inspiration/tile-ideas/kitchen" class="font-bold"><span style="text-decoration: underline;">kitchen design</span></a></strong><span><strong> </strong>feel more complete, and versatile beige tile is likely to pair well with your kitchen d&eacute;cor preferences now, and into the future. </span></p>
+        <br />
+        <p><span></span><span>For a backsplash, you can never go wrong with beige subway tile; we&rsquo;re especially fond of </span><a href="/featured/handmade-look" class="font-bold"><strong><span style="text-decoration: underline;">handmade-look tiles</span></strong></a><span><strong> </strong>that add a freeform, organic element to a highly functional space in the home. And for a more luxurious take on beige backsplash tile, one trend gaining steam in recent years is to choose a large-format stone-look tile to create the look of a solid stone slab. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b801bb8b-1d09-4895-8433-2e3cd2dc89d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120440Z

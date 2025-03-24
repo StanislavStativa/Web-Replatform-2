@@ -1,0 +1,64 @@
+﻿---
+ID: "a7c9580e-238f-468b-9bd3-9f352e07a314"
+Parent: "c495f38f-41b4-46e1-bae7-8548cb95d5ee"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/brick-look/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Brick Look Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>If you’ve always dreamed of that perfect exposed brick wall in your home, now it can be yours without even moving. Our selection of authentic thin brick and brick-look tiles features a variety of unique styles with rich hues and surface texture that will transform your space with charming character. Use these tiles to create a statement-making accent wall, a cozy fireplace frame, or even a rustic mudroom floor. The possibilities are endless.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb38f489-420d-4961-8e67-cab539e2968d"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240707T155521Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 681722_Floors_V2%3aCategory_Intro_Image_V2
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {9CF2DA43-9AAF-4BF2-ADBD-979D1ED17E41}
+        {0FC6459C-74BD-4FF5-8D15-180DEEE8BDBB}
+        {EF0586B3-4F2A-4F9A-9724-0FA665D58CEE}
+        {F8669645-AD45-4A6C-8AA7-8E35E74C69D4}
+        {CB68772E-D1BE-4A1A-AF16-8500251A3505}
+        {1BE29D4C-7FC2-44E8-A15D-936863EB3F28}
+        {1C86670F-0489-4245-8B78-F29042C692A6}
+        {9DBA70D3-530C-4CCE-9262-0E5849CACC32}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

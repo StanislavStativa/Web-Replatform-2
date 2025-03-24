@@ -1,0 +1,43 @@
+﻿---
+ID: "64de5faf-b892-478b-8f05-76593098def8"
+Parent: "a5a917de-b835-4adb-a954-65af6de664a3"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Fireplace/Data/2 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Modern Styles</h2>
+        <p class="mb-4">
+        For a modern fireplace design, focus on straight lines and keeping it simple. Create a stylish look by sticking with a design that is monochromatic or subtle in patterning. Consider glass mosaic tile, which can add contemporary sophistication to any home. Black granite is a popular choice for creating a luxurious atmosphere, and porcelain is always a great option. Marble is a timeless way to add elegance and glamour. If you&rsquo;re looking for a style that&rsquo;s clean, classy and warm, modern is the way to go.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd9567c9-d761-4801-89a5-b70a3486eecf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200331Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "56b27813-c8dc-45a3-9680-515294ef5d51"
+Parent: "db8445ba-b5ae-4bc6-ad38-b0252175a341"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/BackSplash/Data/21"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Coastal Chic Tile Ideas
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Make every day a beach day with chic and modern coastal-inspired patterns. The Summerland collection by <a class="font-bold underline" href="/collection/jeffrey-alan-marks">Jeffery Alan Marks</a> (shown here in <a class="font-bold underline" href="/products/summerland-by-jeffrey-alan-marks-in-miramar-hex-porcelain-wall-and-floor-tile-9-x-10-in-681892?g2=collection&amp;c=jeffrey-alan-marks&amp;sc=">Miramar</a>) features a pattern reminiscent of sun-kissed linen embroidery. The style is bright and breezy, perfect for your refined coastal aesthetic.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e20fdf3c-b196-4b3f-814a-90ac2d15dd0f"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T115313Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "JAM_Detail_Horizontal_Angle_Tight:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 21

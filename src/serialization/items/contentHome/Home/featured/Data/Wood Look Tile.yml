@@ -1,0 +1,47 @@
+﻿---
+ID: "66d9c0ae-0edc-4350-af5e-ee349598e116"
+Parent: "2a04d7c5-b821-4411-9bc2-87d9e9628e5a"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/featured/Data/Wood Look Tile
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Wood Look Tile
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: "{3F6AAB49-67DF-4527-A7A7-CF887B324DE1}"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>With the warm look of real wood and the durability of ceramic or porcelain, wood-look tile is the best of both worlds.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef52c9cf-89af-4f34-8c6e-c326bbd9f868"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240526T150626Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "california_wood_buildout_a_KJ_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8A4DADE1-3878-4DA5-B153-FB384E3AD080}" />

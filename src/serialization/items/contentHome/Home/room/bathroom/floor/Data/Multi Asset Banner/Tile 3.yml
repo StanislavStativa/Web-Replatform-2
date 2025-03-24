@@ -1,0 +1,42 @@
+﻿---
+ID: "8c63955a-627f-48e6-9b59-cf20c823f088"
+Parent: "993f8916-85d1-4847-aae3-2ff2c62f4c46"
+Template: "d5795606-a24e-4205-9176-06ca8b8f797b"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/floor/Data/Multi Asset Banner/Tile 3
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2484A939-16F2-49C1-97E7-FFA13D895382}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054541Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84e3dfd8-5201-4318-87a6-da3b8f02d7ef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T142218Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Zellige_Vanity_Detail:16x9"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" querystring="" id="{29B1DDF9-2DE0-43F6-A2B3-19BB091C43B5}" anchor="" target="" title="" linktype="internal" text="Bathroom Backsplash Tile" url="/TTS/TileShop/Home/room/bathroom/backsplash" />

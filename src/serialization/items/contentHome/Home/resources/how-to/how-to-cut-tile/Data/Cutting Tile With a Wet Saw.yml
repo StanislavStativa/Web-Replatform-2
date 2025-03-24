@@ -1,0 +1,44 @@
+﻿---
+ID: "c2b24618-adc4-41e0-9078-4ba06d45b819"
+Parent: "c6fa2f0b-8595-4a0c-a4af-9009e82436d0"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile/Data/Cutting Tile With a Wet Saw"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103901Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cutting Tile With a Wet Saw
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>The first tool we&rsquo;ll discuss, which is one of the most versatile for any pro, is the wet saw, which can cut all of the materials mentioned above: natural stone, porcelain and ceramic, and glass. (The only caveat is that if you will be cutting <a class="font-bold" href="/material/glass">glass tile</a>, you&rsquo;ll need to switch out your blade for one specifically designed for cutting glass. demonstrate that for you with a couple of different materials.)</p>
+        <br />
+        <p>A wet saw is a saw with water in the reservoir. Water is pumped up through a hose and drips it out onto the blade, keeping the blade cool so that your tile can get smooth cuts all the way through. The blade stays in place, and you slide the tile through to make cuts.&#x2028</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49e078de-4ccf-43ef-b11d-13ab76899b5b"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 4
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T122532Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "wet%20saw%202:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

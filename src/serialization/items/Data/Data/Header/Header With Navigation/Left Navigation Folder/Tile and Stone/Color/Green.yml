@@ -1,0 +1,34 @@
+﻿---
+ID: "f464ad3d-0f8c-4281-a6ec-095b86481ae3"
+Parent: "807f438d-3c9f-476d-b3ab-7d68f93ddf34"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Color/Green
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T103014Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8F67A2C5-BF7B-4688-88AF-03CB8FA71B70}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Green
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bac5b5b-f387-456a-8f29-b2f5008c1246"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T030602Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Green" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{38B07AEE-1C06-43E8-A6F8-9F35D5465F32}" />

@@ -1,0 +1,37 @@
+﻿---
+ID: "f364f86c-35ec-4234-918d-fb4aaddfdb9a"
+Parent: "000f31db-bf08-4cef-85d2-28ef7fd22590"
+Template: "b29c4083-efdc-4956-a057-be937237784b"
+Path: /sitecore/content/TTS/GlobalData/Filters/Materials/Ceramic
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T131742Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{1A91D073-3829-43B9-9063-B3E1B00B8A25}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ceramic
+    - ID: "5acfe851-0d4e-4dfd-9c72-2ab76c211e38"
+      Hint: FilterID
+      Value: CERAMIC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5ca53b7-3946-4824-bfb6-8327b2561480"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T050840Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Black" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BC5343F0-5424-4BA7-A3B4-AAFDD24706C4}" />

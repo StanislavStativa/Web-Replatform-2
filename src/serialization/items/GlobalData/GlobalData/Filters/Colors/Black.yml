@@ -1,0 +1,37 @@
+﻿---
+ID: "d697a337-2c62-4a52-8698-af9846f19acb"
+Parent: "6ec80282-dedb-4f3e-8150-e5ce242b0038"
+Template: "7c4b3cd4-e9b0-4067-9b5d-752299296bbb"
+Path: /sitecore/content/TTS/GlobalData/Filters/Colors/Black
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T131443Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{1A91D073-3829-43B9-9063-B3E1B00B8A25}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Black
+    - ID: "5acfe851-0d4e-4dfd-9c72-2ab76c211e38"
+      Hint: FilterID
+      Value: BLACK
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1591beb4-51a8-4626-8f7b-d9851f711f85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T050455Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Black" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BC5343F0-5424-4BA7-A3B4-AAFDD24706C4}" />

@@ -1,0 +1,96 @@
+﻿---
+ID: "e4efe2f5-ca4b-42ef-b486-5419bc201d33"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "649c1ddf-fc7c-46e2-a7fd-80dafb4e66bf"
+Path: /sitecore/content/TTS/TileShop/Home/Search
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B738EBD9-0B07-4DFC-9A8B-62AAFC4AEB80}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5CC016B1-90AB-4510-B8C8-9C435E76D451}"
+          p:before="*"
+          s:ds="local:/Data/Heading"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="FieldNames=%7b516A674E-D77C-49FB-BB53-48BD6CD32F58%7d&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h1&amp;CSSStyles&amp;GridParameters=%7bF61E01E9-711A-4C99-AE30-4E28463E1DF7%7d&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{6FAF09B9-5629-4F56-B2F8-489202F6C375}"
+          p:after="r[@uid='{5CC016B1-90AB-4510-B8C8-9C435E76D451}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7bF61E01E9-711A-4C99-AE30-4E28463E1DF7%7d&amp;IsCTATextInCaps=1&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{DCC39E62-B9D2-47C1-8842-0A25071B006C}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Recently Viewed"
+          s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "00f0d3a4-c4b2-48fb-b79b-91d57b38b077"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {A3779189-F354-4A65-9854-AB401A410ABB}
+        {AE677D7D-D54A-486B-904E-2BED57333B34}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {5BBC223A-09B7-4CC2-A4C7-789EE940C767}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240612T072644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "56067c13-89d7-4f41-86b2-c7877bfe70a7"
+      Hint: Title
+      Value: Search
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Search Results
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f413aec-2104-4806-86bf-9b54f4d96986"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240801T053805Z

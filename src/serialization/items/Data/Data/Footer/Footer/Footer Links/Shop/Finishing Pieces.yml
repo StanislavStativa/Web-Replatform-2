@@ -1,0 +1,38 @@
+﻿---
+ID: "26f5800c-949b-4d0d-9af5-7d3fd12f7950"
+Parent: "19904664-10e9-43db-8118-02e151091790"
+Template: "98439906-d788-481d-b1cf-57be6e613e45"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Shop/Finishing Pieces
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T081158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7432565-2d7a-45be-9ea4-ca9cc3290ff4"
+    - ID: "a9c786f3-5f55-4c57-86fe-2f71701ed3ae"
+      Hint: Title
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T120003Z
+    - ID: "f2c0048e-40ec-4e1c-9918-1509fc8fb0e1"
+      Hint: Link
+      Value: |
+        <link text="Finishing Pieces" anchor="" linktype="internal" class="" title="Finishing Pieces" target="" querystring="" id="{CEB155FE-F9EE-45CE-BDD8-6CF81A745B79}" />

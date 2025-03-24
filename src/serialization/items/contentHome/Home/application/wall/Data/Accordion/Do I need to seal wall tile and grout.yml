@@ -1,0 +1,37 @@
+﻿---
+ID: "f8b410f8-ccb4-4f61-9964-003fba8f911c"
+Parent: "1df7ce85-801d-4cf3-b4c8-371e2eff12f3"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Accordion/Do I need to seal wall tile and grout
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T072538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do I need to seal wall tile and grout?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>If you are using natural stone, we recommend that you seal it unless it is specifically noted that it does not need to be sealed. Most ceramic and porcelain tiles do not need to be sealed. We recommend sealing all of your grout to keep it clean and make regular maintenance easier. If you are unsure if any of your tiles or grout need to be sealed, stop in at The Tile Shop and a store associate will be happy to help.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c63b2ed6-d3c1-4198-8857-6e4b1e0bcb12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T072620Z

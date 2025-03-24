@@ -1,0 +1,37 @@
+﻿---
+ID: "64ba3878-4033-42c0-a1f5-71260557b447"
+Parent: "49e5786e-01d2-4c0d-b630-1483f6a2d240"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Shop by Application/Fireplace
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T120151Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Fireplace
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37254227-ca67-47f3-90e2-4ebbb9cf0cab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T121326Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "MorrisCo_Hawkdale_Full_Set_Vertical_Angle_4x5:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Fireplace" anchor="" linktype="internal" class="" title="SHOP FIREPLACE TILE" target="|Custom" querystring="" id="{48387828-6CC3-4B08-939D-E4140CAC821F}" />

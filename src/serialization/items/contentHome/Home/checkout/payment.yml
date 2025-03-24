@@ -1,0 +1,87 @@
+﻿---
+ID: "021ab1e2-3702-4d4e-938c-254adf6f4c83"
+Parent: "54da6603-32f5-47ed-a110-b93a034eb3b0"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/payment
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{1444CC58-2EFD-49FE-B680-A574FCE610FB}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F17388F8-599F-432E-BC62-591713A5B6E5}"
+          p:before="*"
+          s:ds="local:/Data/Payment Options"
+          s:id="{759DB588-B081-4C50-AEC3-33522A6EEC21}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-cartandorder/column-1-2" />
+        <r
+          uid="{8C275500-4F53-4AE6-8CEB-6C97A3211D2B}"
+          p:after="r[@uid='{F17388F8-599F-432E-BC62-591713A5B6E5}']"
+          s:ds="local:/Data/Billing Address"
+          s:id="{F9F92899-4119-43D4-95A7-7DC67E8E378B}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-cartandorder/column-1-2" />
+        <r
+          uid="{7196E03A-9E93-48F0-B7C2-D3320B85FAAC}"
+          p:after="r[@uid='{8C275500-4F53-4AE6-8CEB-6C97A3211D2B}']"
+          s:ds="local:/Data/Order Summary"
+          s:id="{C7CA592E-C8C0-48DE-A3BB-6E18B0CD9A58}"
+          s:par="PageName=payment&amp;GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-cartandorder/column-2-2" />
+        <r
+          uid="{8B340CEC-1298-4544-89CE-44ED432720CA}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Order Summary"
+          s:id="{3EF63F27-7462-4014-ADEE-8667360B08ED}"
+          s:par="PageName=payment&amp;GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-cartandorder/column-1-2" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T141118Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Payment
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Payment
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "342afaf8-4ceb-473f-8ff2-92dda8a216ef"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Payment
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240902T075316Z

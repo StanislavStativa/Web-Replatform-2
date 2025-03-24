@@ -1,0 +1,37 @@
+﻿---
+ID: "4c6c7196-4259-4360-b8a4-362eb7ccaa6b"
+Parent: "65b03729-e12e-46ef-810a-9627af537670"
+Template: "cfaeca9f-7f6a-4ecb-835b-8a727cce9462"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Sell Data Sheets/Haze Remover
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201002T162752Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "87ec6bf1-640f-4263-a96e-92cf4ae4f12f"
+      Hint: Link
+      Value: "spec-sheets/Grout_Haze_and_Film_Remover_Sell_Sheet.pdf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d4b0c6b-ed40-417e-bb27-61f887bbd5b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jbestgen
+    - ID: "c30e24d9-e876-4923-9b67-5738162437a7"
+      Hint: Name
+      Value: Haze Remover
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20201222T204224Z

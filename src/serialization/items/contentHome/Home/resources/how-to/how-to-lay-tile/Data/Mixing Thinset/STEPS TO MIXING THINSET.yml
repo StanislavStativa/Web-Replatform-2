@@ -1,0 +1,42 @@
+﻿---
+ID: "f68f93c2-69cc-4f65-a571-b34e1216a5c5"
+Parent: "98b0ea0d-7780-41b4-b8bb-43277037763d"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Mixing Thinset/STEPS TO MIXING THINSET"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T131802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: STEPS TO MIXING THINSET
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>1.&nbsp;Check the manufacturer&rsquo;s recommended ratio of water to powder. We recommend starting with a small amount of thinset, so you don&rsquo;t waste material that has gone past its open time. Once you know how fast you&rsquo;re working, you can increase the amount of thinset you use for your batch.&nbsp;<br />
+        2.&nbsp;Fill your bucket with the appropriate amount of water.&nbsp;&nbsp;<br />
+        3.&nbsp;Add the powder in small batches, thoroughly stirring after each batch to prevent clumps of unmixed powder. &nbsp;You will know you have added enough powder when your thinset has the consistency of peanut butter. If you can scoop the thinset with your trowel, turn it sideways, and the thinset hangs for a few seconds before dropping back in the bucket, you&rsquo;ve achieved the right consistency.&nbsp;&nbsp;<br />
+        4.&nbsp;Once you&rsquo;ve reached the right consistency, let the thinset rest for 5&ndash;10 minutes (based on the manufacturer&rsquo;s recommendation). This process is called slaking, it allows the chemicals to activate and crystals to form in the thinset, ensuring good adhesion.&nbsp;<br />
+        5.&nbsp;When it has finished slaking, briefly remix thinset, and check for correct consistency.&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a90bced7-bcd9-4121-b19d-1f20172fded0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T131832Z

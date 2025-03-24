@@ -1,0 +1,58 @@
+﻿---
+ID: "9ba53ed8-b751-46d8-84a0-4a6d02a20bb0"
+Parent: "b9e7b211-e686-4e81-8f1c-0197292236a3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/kelli-fontana/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Kelli Fontana Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Our exclusive Kelli Fontana collection embraces the celebrated designer’s classic, bold and whimsical aesthetic. Each tile is artistic and thoughtfully considered with the warm, harmonious appeal Kelli brings to all of her design projects. Featuring intricate floral patterned tiles, stunning patina mirrored tile and luxurious marble-look fluted tile, this collection will bring your space to life with unique elegance.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57b4e255-01f8-4af7-89c0-2c620fdf11c5"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T073925Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: KelliFontana_Collection_Portrait_003%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {DC25D262-56AA-4E35-BD35-C2DDF8617ACD}
+        {076F5B15-882C-456D-9DB1-8EE109257B58}
+        {09A9372E-CED0-406E-BB02-680BFBEA8EEC}
+        {05859B7B-E778-4674-86D1-A6551D2B5A14}
+        {009E79E9-28D6-40EC-A1CC-AD06D1C47DCD}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

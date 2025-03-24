@@ -1,0 +1,39 @@
+﻿---
+ID: "59690d28-56ed-4dfa-a6b4-8458f4f1b0b4"
+Parent: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts/How do I clean tile and grout
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063543Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do I clean tile and grout?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Make sure you choose a non-acidic, antibacterial cleaner for both man-made and stone tiles. The Tile Shop offers ceramic and porcelain and natural stone cleaners. The first step to keeping your grout clean is sealing it after it is installed. This will help ease the maintenance and keep the new look of the grout. Regularly maintain your grout’s appearance by using Grout and Tile Neutral Cleaner and Antibacterial Cleaner from Superior Adhesives & Chemicals—available at The Tile Shop.</p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db78b6f4-0365-48e0-9f41-fc9b4e6244a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T054802Z

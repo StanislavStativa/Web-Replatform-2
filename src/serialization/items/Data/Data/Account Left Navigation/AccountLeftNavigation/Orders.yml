@@ -1,0 +1,44 @@
+﻿---
+ID: "ed0b6e81-43ac-45c7-b088-05d9b318a97f"
+Parent: "dc86125e-1893-46b7-8811-13090f16d468"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation/Orders
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T155000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Orders
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17b95c6f-2f5d-4e8f-a872-9dd76f25e119"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "c0dd834e-faa0-4765-9c7c-59366c41cab3"
+      Hint: SecondaryLinks
+      Value: |
+        {1938C7BE-0BD5-4100-BCBD-8D5701B8B344}
+        {B72FF866-03F4-47E1-B8F4-30B0580E64D7}
+        {96E3C526-860D-47EC-B549-960894C8117E}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240717T060511Z

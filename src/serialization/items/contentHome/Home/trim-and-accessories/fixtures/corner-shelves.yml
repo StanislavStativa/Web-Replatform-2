@@ -1,0 +1,122 @@
+﻿---
+ID: "921d5572-f270-4589-9472-796d0e822d43"
+Parent: "0cae8eef-c401-44b2-89e0-8581fce0d8c0"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/fixtures/corner-shelves"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0B4AE131-53C9-4661-92B4-6487178E0A16}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{E79260C3-9ADF-4C24-97C8-09DD0CB4C1F0}"
+          p:after="r[@uid='{0B4AE131-53C9-4661-92B4-6487178E0A16}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{C6B405E6-6116-4A2A-9BF0-94928B7CB878}"
+          p:after="*[1=2]"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Make the most of your shower space with the functional addition of a corner shelf. By providing increased shelf space ideal for storing necessities such as shampoo, conditioner and body wash, corner shelves help your shower stay organized while looking as stylish as ever.&nbsp; With our wide variety of materials, sizes and styles, you're sure to find the perfect corner shelf to complement your shower design.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: 
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T192406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Corner Shelves | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Corner Shelves
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: 
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "j_nelson_traditional_bathroom_6:Category_Intro_Image_V2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "321beafb-eda1-4b4a-93f9-aa357d9bb8e7"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Corner Shelves
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{5703BACD-762A-49D1-83A1-EF49FBC6651D}" anchor="" title="" linktype="internal" text="Seat" url="/TTS/TileShop/Home/tile/trim-and-accessories/fixtures/corner-seats-and-benches" />
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop corner shelves to upgrade your shower at The Tile Shop. Shop in-store or online today to get started. Order a sample for only $3."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T152634Z
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: 
+    - ID: "fc06bbb6-f854-4051-9d5f-801f262cc25e"
+      Hint: Shape
+      Value: "{064166D6-B800-4518-BB3D-FFDABB7DF440}"

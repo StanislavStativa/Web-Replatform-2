@@ -1,0 +1,44 @@
+﻿---
+ID: "95e4275d-572d-492d-b219-33b8796c65d1"
+Parent: "341a67de-d308-44c7-b75c-4576345dab69"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/wall/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text "><p><strong>Honed Travertine:&nbsp;</strong><span>Mostly smooth to the touch. In honed travertine, holes and crevices are filled in before the stone is ground and buffed to create a smooth—but still matte—surface.&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span><strong>Tumbled Travertine</strong>: When travertine forms underground, water is trapped inside, creating pockets and tunnels throughout the stone. These spaces are responsible for giving cut pieces of travertine their legendary texture. Tumbling travertine with other stones subtly softens any sharp edges, enhancing this look.</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span><strong>Polished Travertine</strong>: The smoothest finish of all, polished travertine takes longer to produce than other finishes, because of the time needed to buff the stone to its distinctive glassy shine.</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span><strong>Brushed Travertine</strong>: One step smoother than tumbled stone. For this finish, a rotating wire brush is used to lightly smooth out holes and marks in the stone’s surface while still retaining the natural texture and matte finish.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d19de536-d3c0-4db9-89bd-bea5492a5d15"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T064245Z

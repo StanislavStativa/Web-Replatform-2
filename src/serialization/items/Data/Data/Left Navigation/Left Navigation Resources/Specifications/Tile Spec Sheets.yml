@@ -1,0 +1,35 @@
+﻿---
+ID: "d3ce244e-72f3-4b6a-b0b3-9eeaa6edc7fb"
+Parent: "c977efa5-9db5-4fa4-afe4-73d8af28955a"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Left Navigation Resources/Specifications/Tile Spec Sheets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T104637Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6752137c-b784-4a11-b7f5-436bfc6f7b2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T104733Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tile Spec Sheets" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BDA096A1-5307-4C7E-B478-4DC93B460CA3}" />

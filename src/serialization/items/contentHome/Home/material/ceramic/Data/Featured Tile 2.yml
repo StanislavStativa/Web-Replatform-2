@@ -1,0 +1,44 @@
+﻿---
+ID: "4e532cd3-ddf7-4cdc-ba79-41e2b2055e2f"
+Parent: "667296dd-7d9f-41bc-a1b4-83574a611cf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0D1FC9F1-D70D-41CC-A74F-4DECF13B6ADF}
+        {35A8BBF6-AB8B-4200-B67A-70BBE1A5A9F1}
+        {F9B9CE9F-A397-4A0D-B9DC-F29EA6ACD05A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: White Ceramic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>The clean, bright simplicity of </span><a href="/color/white?facet_material=facet_idQ2VyYW1pYw**" class="font-bold">white ceramic tile</a><span> is a welcome touch to kitchens, bathrooms and more. Because it serves as a neutral backdrop for any décor, classic white tile is a smart choice for creating a space you’ll love now and in the future. It truly never goes out of style. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1dacc844-1674-49a4-9890-8e5c13cf663b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185212Z

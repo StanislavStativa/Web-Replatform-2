@@ -1,0 +1,36 @@
+﻿---
+ID: "d6e42ca1-0c85-4374-bd84-dcbd1d0e291a"
+Parent: "1bb2d245-88aa-4d3c-bbb3-a98a26384112"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: "/sitecore/content/TTS/TileShop/Home/laura-ashley-exclusive/Data/Content tile stack"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {90E5855B-0F1B-4849-9FB0-13725319F83F}
+        {8995408B-32DC-48CF-BBDB-BD2202A25A29}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150411Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48f71371-de16-42a4-895d-d1d9547a14bf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T005728Z

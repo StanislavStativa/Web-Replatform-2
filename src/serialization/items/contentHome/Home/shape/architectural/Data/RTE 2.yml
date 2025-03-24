@@ -1,0 +1,55 @@
+﻿---
+ID: "f4c557ae-10c7-4366-abce-c50dcbe08961"
+Parent: "19157529-fc34-461c-9b72-9847fff3a64f"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/architectural/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin"><span class="h2">Types of Architectural Tile and Stone</span></h2>
+        <p class="extra-small-bottom-margin">Architectural tiles come in a stunning variety of materials, from reclaimed wood to exotic marble. (Stone varieties of architectural tile are sometimes also referred to as &ldquo;ledger stone&rdquo; or &ldquo;stacked stone.&rdquo;)</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Reclaimed Wood</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Reclaimed wood architectural tiles are a unique and stunning way to incorporate rustic charm and sustainability into your interior design. These <a class="font-bold" href="/material/wood">wood tiles</a> are crafted from salvaged wood like the hulls of decommissioned or sunken ships. This brings a rich history and character to your home that ordinary tiles simply can't match.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Limestone</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Known for their natural beauty and durability, limestone architectural tiles are a classic, bright choice for adding dramatic elegance. Using <a class="font-bold" href="/material/limestone">limestone tiles</a> to create a stacked stone fireplace will further accentuate their bold, blocky texture and provide a peaceful counterpoint to the tumultuous fire.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Quartzite</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Quartzite architectural tiles offer some of the widest variety in color, both between different tiles and within the same tile. These natural stone architectural tiles range from a patchwork of earthy browns and greens to glimmering white.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Travertine</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For an even more dramatic and natural look, travertine architectural tiles offer a rough-hewn texture on the face of each segment. In combination with the chunky brick wall texture typical of architectural tiles, the result is truly captivating.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Marble</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A statement wall covered in marble architectural tiles evokes the ultimate sense of luxury. From bright white to dramatic black, the elegance can only be matched by the visual intrigue of these highly textured tiles.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Slate</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For a rustic, weathered look that is highly durable, slate architectural tiles are a popular choice. Segments of rich earth tones are broken up by right angles and segments of various depths to provide a stylish contrast.</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Build on Our Expertise</span></h2>
+        <p>Architectural tiles are renowned foremost for their dramatic texture, which you can see in person at <a class="font-bold" href="/store-locator/">one of our showrooms</a>. Visit us today and see what makes architectural tiles stand out from the rest.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4167a20c-870e-43fc-ac14-f4e752ab2b12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T081151Z

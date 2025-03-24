@@ -1,0 +1,31 @@
+﻿---
+ID: "ee999076-45bd-4c8f-b3e2-b5b949da3ef1"
+Parent: "b47aca0c-86d6-4584-9e65-2f5b63b0765c"
+Template: "43c49846-5d32-42d8-a29b-3481632f8f3f"
+Path: /sitecore/content/TTS/TileShop/Data/RegisterProUserWithCustomerID
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T173159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbd9c67a-84df-435f-b08d-e1b956c98268"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240529T173159Z

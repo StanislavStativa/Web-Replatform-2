@@ -1,0 +1,45 @@
+﻿---
+ID: "54d5a5d8-be1e-4c06-8bd2-e59310b5ee1e"
+Parent: "c9404b5e-d89c-46d0-a8d7-8c409b5550a3"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile/Data/Mix and Apply Grout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mix and Apply Grout
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Using a clean bucket, prepare the grout following the manufacturer's directions. Aim for a consistency similar to peanut butter. Mix only as much as you will be able to use within 20 to 30 minutes to prevent the grout from drying out before you are able to use it.<br />
+        <br />
+        If you are grouting mosaic tile on a wall, start from the bottom and work your way up. If you are grouting a mosaic tile floor, start at the point furthest from the door and work backwards.<br />
+        <br />
+        Using the rubber grout float held at a 45-degree angle, work the grout across the mosaic diagonally, carefully filling the spaces between the tiles. Wipe away excess grout with a damp sponge. Keep a bucket of clean water on hand for rinsing the sponge and change out the water frequently to make sure it stays clean.<br />
+        <br />
+        Allow the grout to dry for 15 to 30 minutes and then remove any excess grout using a grout shaper. Once you are finished, allow the grout to fully dry as specified by the manufacturer, which usually takes 24 to 72 hours.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d37f3e1d-b7c6-4311-a45d-6e30ede1f62b"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 8
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T095351Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 7

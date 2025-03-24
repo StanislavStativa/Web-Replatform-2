@@ -1,0 +1,27 @@
+﻿---
+ID: "757c97c3-2c2a-42fb-af8e-23a94c70bb50"
+Parent: "4f29a8b8-81fd-49fa-8d67-7b58e46a7daa"
+Template: "4f29a8b8-81fd-49fa-8d67-7b58e46a7daa"
+Path: /sitecore/templates/Feature/TTS/Components/User/Change Personal Data/Rendering Parameters/ChangePersonalData/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bab527b5-4146-4665-a8e7-e2838943a210"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T165926Z

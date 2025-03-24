@@ -1,0 +1,33 @@
+﻿---
+ID: "3ab1b0f4-534f-4883-b94d-62f5138c688b"
+Parent: "cfc2a393-111a-449b-897d-2b96f48e5e50"
+Template: "cfc2a393-111a-449b-897d-2b96f48e5e50"
+Path: /sitecore/templates/Feature/TTS/Components/Address Book/Folder Templates/AddressBook Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C4FB90D0-80EF-4232-BB7F-51A948429245}
+    {CFC2A393-111A-449B-897D-2B96F48E5E50}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80bcd931-a063-4d19-b9b4-087cca854de4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240607T150116Z

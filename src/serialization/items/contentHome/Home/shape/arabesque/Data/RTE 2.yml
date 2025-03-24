@@ -1,0 +1,53 @@
+﻿---
+ID: "239dd890-cd03-43af-8b1f-49f2110d3dcf"
+Parent: "c3fb7343-539a-4674-83fe-a81a501417d2"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/arabesque/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin"><span class="h3">Shop by Finish</span></h3>
+        <p class="extra-small-bottom-margin">As with color considerations, whether you opt for polished or matte arabesque tiles will depend on how and where you intend to use them.&nbsp;</p>
+        <p class="extra-small-bottom-margin">If you are looking to install arabesque floor tile, it is a good idea to go with a matte finish. Matte tiles&rsquo; texture makes them well-suited for floors, including those in high-traffic or wet areas, as they provide better traction compared to their polished counterparts.</p>
+        <p class="extra-small-bottom-margin">When installing arabesque backsplash tile, a <a class="font-bold" href="/room/fireplace/wall-surround">fireplace surround</a>, or an accent wall, a polished finish may be a good choice. The additional brightness of polished arabesque tiles enhances the ambient light and emphasizes the ornate patterns of the arabesque tessellation.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Shop by Material</span></h3>
+        <p class="extra-small-bottom-margin">Arabesque tiles come in various materials, each offering their own aesthetic and functional characteristics.</p>
+        <h4 style="margin-left: 40px;" class="h4 extra-small-bottom-margin"><span>Marble Tile</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Marble arabesque tiles combine the natural beauty of marble with the distinctive elegance of the arabesque shape. The natural veining and variations in color of each tile mean that no two pieces are exactly alike, providing a counterpoint to the uniformity of the <a class="font-bold" href="/blog/12-mosaic-tile-designs-that-will-make-your-room-a-masterpiece/">mosaic design</a>.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Limestone Tile</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Limestone arabesque tiles offer an earthy, muted look that can add warmth and texture to a space. The natural matte finish of limestone makes it a versatile choice that works just as well on floors as it does on walls.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Ceramic and Porcelain Tile</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Ceramic and <a class="font-bold" href="/material/porcelain">porcelain tiles</a> offer versatility and durability, making them popular choices in their own right. When formed into the beautiful arabesque design, these materials blend traditional patterns with the practical benefits of these mainstay materials. This is especially helpful for adding this classic style to bathrooms, showers or fireplace surrounds.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">We're Here to Help</span></h3>
+        <p>Our expert staff can help you determine the best arabesque tile for your project. To get started, visit <a class="font-bold" href="/store-locator/">one of our showrooms</a>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "664edd64-dd63-4b1c-8eb6-ea398b53bdca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T130156Z

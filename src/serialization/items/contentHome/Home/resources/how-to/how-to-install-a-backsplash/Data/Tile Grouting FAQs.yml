@@ -1,0 +1,41 @@
+﻿---
+ID: "3c555c6a-d7fb-4747-b26f-3e7c17cbc991"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Tile Grouting FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {1E0C21C5-2B6D-4412-88BA-68234F85293E}
+        {C093A7C5-2E0C-4021-B9A4-FA7137D9A62A}
+        {1C2CC3AE-7E05-40EB-BE76-581E2F89ED06}
+        {4FFB9E75-85AD-4593-AE6D-8329A398F65A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T133239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installing a Backsplash FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b0d5ac6-d344-43c6-9f8b-97d8c036ffd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T154457Z

@@ -1,0 +1,67 @@
+﻿---
+ID: "9547d902-48d7-4280-bf6a-6e76f3ac2029"
+Parent: "6cbe36b5-d268-48e1-8e11-5878ca37bc95"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/grout/colorants/Data"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B92D18EC-7898-49BC-ADC0-F0404B53CC75}"
+          p:before="*"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{7155C32C-BAF6-47A8-8539-49A72CFD03EB}"
+          p:after="r[@uid='{B92D18EC-7898-49BC-ADC0-F0404B53CC75}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{7155C32C-BAF6-47A8-8539-49A72CFD03EB}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240611T070129Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2ed3e37-3411-444e-99f8-61e1135783ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T082937Z

@@ -1,0 +1,48 @@
+﻿---
+ID: "c71c40d4-9b00-48cf-b3ea-656be26ad4d0"
+Parent: "b0e1c77f-a916-455e-8a67-03216391b39c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/mosaic/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Beautiful and Versatile: Marble Mosaic Tiles</h2>
+        <p><span>&nbsp;</span></p>
+        As a classic, durable material, marble mosaic tile will stand the test of time.&nbsp; (And with a variety of finishes, shapes, sizes, colors and patterns to choose from, it will look great doing it.)
+        <p><span>&nbsp;</span></p>
+        <p><strong></strong><strong>• Color and Pattern:</strong><span>&nbsp;We love the simplicity of white marble mosaic tile, but we’re equally fond of gray, black, beige, tan and even rich deep burgundies. And those colors don’t even include the colors found in mixed-media&nbsp;</span><a class="font-bold" href="/material/glass/mosaic">mosaics with glass</a><span>, mother-of-pearl, brass and other materials.&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><strong>• Shape:</strong><span>&nbsp;Subway? Love it. Hexagon? Stunning. Chevron and herringbone? Perfection. And these are just the beginning—from the delicate curved inlays in our&nbsp;</span><a class="font-bold" href="/featured/mosaics/waterjet-mosaics">waterjet mosaics</a><span>&nbsp;to the graphic contours of scalloped edges, our collection of marble mosaic tiles features a gorgeous array of shapes, colors and patterns that must be seen to be believed.&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span><strong>• Finish:</strong><span>&nbsp;From matte tumbled and brushed tile all the way to high-shine polished surfaces, every marble finish has depth and dimension to spare.</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a486f12-663b-4d8a-8fe3-5a472602db62"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124222Z

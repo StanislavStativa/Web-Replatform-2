@@ -1,0 +1,35 @@
+﻿---
+ID: "12666b11-8b6e-4d12-8242-b1dcc6e4584d"
+Parent: "47b75e11-154f-4b19-b7b8-18f577b0b766"
+Template: "47b75e11-154f-4b19-b7b8-18f577b0b766"
+Path: /sitecore/templates/Feature/TTS/Folders/Unit Of Measure Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{F5767D2F-603F-4144-A5B2-B3F84A717A58}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190802T181839Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f8c901f-2349-45f2-bab8-0db1ee9d255e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190802T181928Z

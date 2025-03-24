@@ -1,0 +1,47 @@
+﻿---
+ID: "071e17af-776a-4985-9f01-e61d5504e353"
+Parent: "c6fa2f0b-8595-4a0c-a4af-9009e82436d0"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile/Data/Top Tips for Cutting Tile With an Angle Grinder"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T051847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rtc__callout-text rich-text">
+        <h3 class="rtc__callout-text__headline">Top Tips for Cutting Tile With an Angle Grinder</h3>
+        <br />
+        <ul class="rtc__callout-text__body">
+            <li>An angle grinder is very loud, very powerful and generates a lot of dust. Perform your cuts outdoors, wear a face mask, and protect your ears and eyes.</li>
+            <li>As you cut, pull the grinder toward you in a straight line. Don't twist your wrist or try to go left or right.</li>
+        </ul>
+        <br />
+        <p><a class="font-bold" href="#">Back to top</a></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f32675cd-f513-4faf-88d4-8e9c56752470"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T122853Z

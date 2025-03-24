@@ -1,0 +1,35 @@
+﻿---
+ID: "e8a67427-586a-4d07-8c54-efde633efb8e"
+Parent: "c49b36b1-2bd0-42cb-a1d1-c6717152b8a8"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/noir-travertine/Data/Secondary Banner/Legno Limestone Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240712T110156Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd4c1be3-c626-4860-971b-8c8f9c441bab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T131711Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Legno Limestone Tile" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{67F37255-E209-4445-BA73-F9D7A56E1366}" />

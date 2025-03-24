@@ -1,0 +1,33 @@
+﻿---
+ID: "4433b0b7-1268-47dd-b666-6f0bfd7943a5"
+Parent: "90be7c37-ad1f-4445-acd1-f6237de03bd8"
+Template: "90be7c37-ad1f-4445-acd1-f6237de03bd8"
+Path: /sitecore/templates/Feature/TTS/Components/Registration/RegisterCards/Folder Templates/RegisterCards Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {EC1B500D-FF55-4847-A220-ED95D5E0DAD3}
+    {90BE7C37-AD1F-4445-ACD1-F6237DE03BD8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c79f0fb6-5dfb-48e4-a2fe-230fdb733c0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T064618Z

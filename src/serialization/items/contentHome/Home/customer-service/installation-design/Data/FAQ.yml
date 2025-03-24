@@ -1,0 +1,54 @@
+﻿---
+ID: "403f5a8c-302b-47e9-91dd-d6f5699f0633"
+Parent: "0af5b806-9e44-43ff-b6cb-6ded13a85902"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/FAQ"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {8251B230-FD6B-404B-871A-E99307100210}
+        {54224EF1-AC65-43CA-95BE-70D6686C4C28}
+        {7523407B-4765-47A9-B642-A4B25854175F}
+        {4576C7C7-55E8-4B95-B866-D9E4B63509B7}
+        {20C6C65B-1185-4D44-8E42-84030073F9AB}
+        {6ED23B89-92F1-44C5-AF51-FEA6B49C8142}
+        {9C2B081B-42D8-4AA6-B031-7818589243DC}
+        {77348A6A-9A66-4B32-8BFE-7875DE8EEB31}
+        {D4E3F0CC-7081-475B-A85B-26D8115F5BE6}
+        {0B1F3C9F-91AB-4192-9DC2-A41284169496}
+        {2EA80E44-ECF3-4391-84BF-C3916118860A}
+        {D6F778A8-5F29-4D28-8269-A31AB97EC2CC}
+        {805AC137-DCB0-4C88-9AB3-C461A94C7F73}
+        {EB48D0CA-243D-4079-A8C0-08F551279F86}
+        {341CA118-25E0-44DD-9D1C-1CC095D121CA}
+        {5298AB49-9051-4BB7-AB6A-ECFFB2C535E1}
+        {60B25E50-EB94-40E1-8033-E3EAC8AB9520}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T124328Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2450e9f-ebaa-4313-b233-2d12fa7d4630"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T052819Z

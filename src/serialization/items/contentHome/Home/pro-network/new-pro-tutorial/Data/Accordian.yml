@@ -1,0 +1,42 @@
+﻿---
+ID: "a8f6eb65-68bb-47cf-8e42-81374b7e1686"
+Parent: "825f1b6e-5a03-472a-821c-f9a60ec4430e"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/new-pro-tutorial/Data/Accordian"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {BFF18086-0786-4201-B745-D7E5F896D658}
+        {F0E264DD-5CFB-4293-9EA0-838B8819DF2A}
+        {8FE9E48A-4435-47F3-B672-34FD1BA788BF}
+        {F2ACC030-EC6B-4264-94F9-B6F036767471}
+        {5ED62723-0F1F-4747-A701-CFFA588FCAC4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T064204Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b0f9224-3037-4dc3-bbbb-b19f5d9f917e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T070233Z

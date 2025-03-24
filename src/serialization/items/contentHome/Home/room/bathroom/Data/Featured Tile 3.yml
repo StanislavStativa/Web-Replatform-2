@@ -1,0 +1,45 @@
+﻿---
+ID: "6f864a95-6c29-42de-a03c-57f4ff63a130"
+Parent: "afedf860-106e-4b97-808e-2d369c7f2cf4"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {B851D50F-7B32-4671-93D7-ADB6554682B8}
+        {724BA21A-E545-4B86-8017-8453CC919DD8}
+        {E9ADE9ED-2193-402A-8EDD-C79AC25266DE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ceramic and Porcelain Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text md:px-10">
+        <p><span>When considering what materials to use for your bathroom tile, you want something that is as durable as it is stylish. For an easy-to-clean and -maintain bathroom floor try </span><a href="/material/ceramic" class="font-bold">ceramic</a><span> or </span><a href="/material/porcelain" class="font-bold">porcelain tile</a><span>. These tiles come in a wide variety of colors, shapes and styles – from lavish marble-look to patterned—for a look that is as easy to clean as it is eye-catching.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d06661e8-d99f-4ec4-8c9f-e1d95580c8f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T110837Z

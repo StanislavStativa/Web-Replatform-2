@@ -1,0 +1,37 @@
+﻿---
+ID: "8291221d-d9f4-418e-9fc0-ab5ad377fe29"
+Parent: "190f8b18-625f-49b2-8c3e-b20bd4d7f63f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/general-faqs/Data/FAQ/Accordion Item 7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131118Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you offer tile installation services?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: No, but your The Tile Shop store will be happy to refer you to a list of independent Pro Network partners and local trade professionals who can assist you with your tile and stone installation. However, The Tile Shop does not guarantee these installations or the accuracy of any information provided by the installers and accepts no responsibility for the quality or timeliness of the installation or any inaccuracies or omissions in the information provided. In no event may The Tile Shop be held liable for any incidental or consequential damages for any installation or information concerning installation.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0801d6b1-d362-4a52-8c11-3cc939beb93a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240604T131149Z

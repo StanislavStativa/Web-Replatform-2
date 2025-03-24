@@ -1,0 +1,43 @@
+﻿---
+ID: "d9855f88-4612-4e28-be42-61dbb815e063"
+Parent: "a36d8e51-e0e7-49ad-8bab-79e4d28705ba"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/Featured Tiles 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {E43875FE-92F8-45C4-8D9F-0AF8D8FECB97}
+        {35F8E763-76F3-4A4E-AADF-94C0B9E88EE2}
+        {47919237-7347-4C7B-92F7-BC61A1DDE9B8}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Living Rooms
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Nothing transforms your primary gathering space like adding a stunning focal point. Switching up the look of your fireplace front or surrounding hearth with mosaic tiles is an easy way to change the look and feel of the entire room. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c2599ce-9120-427a-9602-2e95d40688f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T074711Z

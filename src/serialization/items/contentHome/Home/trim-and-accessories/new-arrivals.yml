@@ -1,0 +1,116 @@
+﻿---
+ID: "d15d85b7-3fb1-4e10-98ae-bae9c2cb337d"
+Parent: "ceb155fe-f9ee-45ce-bdd8-6cf81a745b79"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/new-arrivals"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{92ACC93F-6707-4CD7-8F24-683DA6CC23D1}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{ED00A4A8-C898-4101-95DF-AF5BBD6F49CD}"
+          p:after="r[@uid='{92ACC93F-6707-4CD7-8F24-683DA6CC23D1}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{84816EA5-B3EF-4204-8D38-263A6F1EDA27}"
+          p:after="*[1=2]"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Check out the latest releases in tile accessories and finishing pieces. Complete your tile project with a stylish accent piece or bold listello pattern. The Tile Shop is always adding the newest tile selections that will complement your room&rsquo;s style.
+    - ID: "15509961-5426-41e5-9eef-3e2058004407"
+      Hint: New Arrival
+      Value: 1
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T145807Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Tile Accessories New Arrivals - The Tile Shop"
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Finishing Pieces New Arrivals
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Finishing_pieces_Cat:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0afc2739-4a67-4529-b323-310a5244ffa0"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Finishing Pieces New Arrivals
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{E2CD6305-6928-440B-A204-BCA09C954FDA}" querystring="" anchor="" target="" title="" linktype="internal" text="View All Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/view-all" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Check out the latest releases in tile accessories and finishing pieces to stay on-trend with your design. Shop online or in-store today."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090416Z
+    - ID: "fc06bbb6-f854-4051-9d5f-801f262cc25e"
+      Hint: Shape
+      Value: "{EFCFE95A-E498-4E19-8B59-B91573B08BC7}"

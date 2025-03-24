@@ -1,0 +1,44 @@
+﻿---
+ID: "98cda7b1-20dc-43e6-b995-e781af8efe7a"
+Parent: "9fab1590-adec-42e8-9e48-3f8f3a607252"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/pro-referral/Data/Accordion/What is PaymentWorks"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is PaymentWorks?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>PaymentWorks is The Tile Shop's service provider for facilitating direct deposits when Pro Rewards members earn cash back on referrals. We chose PaymentWorks because of their robust verification process and security features. <a class="font-bold underline" href="https://www.paymentworks.com/get-paid/">You can learn more about them here</a>. </p>
+          
+        <p>Complete the PaymentWorks sign-up process, and we'll deposit your referral earnings directly to your bank account every month. No paper checks, no delays—and it's completely secure.</p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11626c14-d8c0-4f01-9bf3-b062d6b1aa67"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T080035Z

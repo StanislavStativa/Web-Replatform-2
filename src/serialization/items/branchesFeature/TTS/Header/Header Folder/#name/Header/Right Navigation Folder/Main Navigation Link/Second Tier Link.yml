@@ -1,0 +1,26 @@
+﻿---
+ID: "49ef1708-7eef-4efd-b14b-919d4c4a9320"
+Parent: "d04fb1e3-b5ab-4f5c-a7b1-ddeacb93cfdb"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/templates/Branches/Feature/TTS/Header/Header Folder/$name/Header/Right Navigation Folder/Main Navigation Link/Second Tier Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240506T113129Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Second Tier Link
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "018ccec0-fe94-47d4-80e5-d92d700e3d37"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T113129Z

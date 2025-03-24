@@ -1,0 +1,44 @@
+﻿---
+ID: "81612fb7-807a-407e-98f3-ed87dd3c2ee6"
+Parent: "341a67de-d308-44c7-b75c-4576345dab69"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/wall/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {CD3AF263-6E2E-4897-BAEC-C3D35B5A807E}
+        {CE5305D4-E4C2-42F5-9C98-A6B1D25F1105}
+        {31306AF0-E077-47E5-90FD-10989895AF53}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add a Travertine Tile Backsplash
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>If there’s one project that looks beautiful in every room, it’s a backsplash or accent wall, and travertine </span><span></span><a href="/application/backsplash?facet_material=facet_idVHJhdmVydGluZQ**" class="font-bold">tile backsplashes</a><span> are a great way to add functional beauty and layers of design to your space. A travertine tile kitchen backsplash elevates any cooking or gathering space. </span><a href="/featured/subway" class="font-bold">Subway tile</a><span> is a go-to choice for bathrooms, and the natural color variations and marbling in travertine subway tile will guarantee that your space is truly one of a kind. And if you have a fireplace, consider redoing the surround with travertine tile, or even installing a permanent accent piece, like a </span><a href="/featured/mosaics" class="font-bold">mosaic</a><span>, above the mantle.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0658bb95-7302-4efd-a603-653fc6aecbad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185210Z

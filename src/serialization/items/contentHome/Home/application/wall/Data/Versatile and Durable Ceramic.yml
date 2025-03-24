@@ -1,0 +1,44 @@
+﻿---
+ID: "02be48f1-b320-4a02-9403-c1de26dadf04"
+Parent: "c522e319-7fb7-4a51-8d9c-8851ff69c702"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Versatile and Durable Ceramic
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {47C2833F-1977-4E80-9B97-785CFCDFFB85}
+        {E4A539B9-AC00-4842-B877-078DD4C586F7}
+        {128B49B9-8291-4239-AA14-EE78DA153722}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Versatile and Durable Ceramic
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>With our large selection of </span><span></span><a href="/material/ceramic/wall" class="font-bold">ceramic wall tiles</a><span>, The Tile Shop makes it easy to find virtually any style you’re looking for. Whether you love the classic shape of subway tile, a perfectly imperfect </span><a href="/featured/handmade-look" class="font-bold">handmade-look</a><span>, or the most realistic faux wood or marble, ceramic tiles offer an unbeatable combination of practical features and thoughtful design.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b74f7b8-b6ca-42c7-a011-da54f3797690"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T171124Z

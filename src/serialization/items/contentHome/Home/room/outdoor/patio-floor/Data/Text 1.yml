@@ -1,0 +1,38 @@
+﻿---
+ID: "4a311c6b-a60b-460c-ac64-16014ce54ebe"
+Parent: "3842ed41-a3ea-4c49-9e76-798b22515d9b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor/Data/Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T063228Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="rich-text md:px-10 px-10">
+        <h2>Create Your Oasis with Outdoor Patio Tile</h2>
+        <br />
+        <p>Installing tile is a smart way to introduce some function and spirit to your outdoor living area. The Tile Shop offers durable outdoor patio tile in a multitude of patterns, textures, colors and materials. Whatever outdoor vibe you’re going for—and whatever your climate—our experts can help you find the right outdoor floor tiles to bring out the best your backyard has to offer</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1b6b1a8-915b-4858-bc73-efcd73b16beb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T063731Z

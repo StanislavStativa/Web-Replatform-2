@@ -1,0 +1,42 @@
+﻿---
+ID: "3fed2708-4150-48f1-bb0c-574dcbede739"
+Parent: "68584edd-bfe0-4b9f-97d7-0578694b71aa"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation/Account Settings/Create New Users
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T060439Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35a6b081-f6e9-4d5c-9c62-f3630b1aac3e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "c3b26db7-edd2-4d70-9343-d13b5080a600"
+      Hint: IsVsibleOnlyForProUser
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240717T085239Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Create New Users" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{207CD426-EF35-40DA-A26B-DDC68A9CB6A9}" />

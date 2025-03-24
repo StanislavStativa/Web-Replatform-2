@@ -1,0 +1,30 @@
+﻿---
+ID: "560f423a-7433-4fa5-b4be-eafbe7128de6"
+Parent: "5da5cd0e-1db6-4b04-a3d8-40d815124d4f"
+Template: "5da5cd0e-1db6-4b04-a3d8-40d815124d4f"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Image Banner/Rendering Parameters/ImageBanner/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c289148-b12c-4f4f-9efe-68e8347e3495"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d41c32df-0442-4fe8-83ec-176c9c372e37"
+      Hint: HoverEffect
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240423T091900Z

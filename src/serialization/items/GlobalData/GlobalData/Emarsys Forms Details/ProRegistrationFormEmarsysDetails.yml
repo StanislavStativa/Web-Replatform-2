@@ -1,0 +1,73 @@
+﻿---
+ID: "29bc6fa4-d7dd-43e4-af9a-da492f7af721"
+Parent: "c0a0d52e-e37b-4ea0-8ad0-a1d3a5b52cf7"
+Template: "d0ef900b-afb5-4386-9d2f-e261a08a1127"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/ProRegistrationFormEmarsysDetails
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "014c9fa0-26a3-4f1c-bced-b1282ab78182"
+      Hint: ZipCodeFieldId
+      Value: 13
+    - ID: "01860158-d852-40bb-8f02-1554220f0867"
+      Hint: OptinId
+      Value: 31
+    - ID: "174c35cc-21c4-425d-a535-a37672cd4ca3"
+      Hint: AddressFieldId
+      Value: 10
+    - ID: "1dd730ef-4caf-45b9-8104-7f5df17bca79"
+      Hint: CityFieldId
+      Value: 11
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T113401Z
+    - ID: "3548342a-bf14-405c-9146-12aa3a555ccd"
+      Hint: EmailFieldId
+      Value: 3
+    - ID: "46fd9dac-d4c5-48a2-be43-6af3e7f259fe"
+      Hint: DaytimePhoneFieldId
+      Value: 15
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "68d71c2d-08d1-4491-b67b-fd3e2df1960d"
+      Hint: StateFieldId
+      Value: 12
+    - ID: "895efa3c-66a6-4614-9cce-b61c8b1a198f"
+      Hint: StoreFieldId
+      Value: 1041
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b49c297-354b-4f23-a938-3671e75914a5"
+    - ID: "97615e52-abaa-4379-b9a6-9e05ab2a2965"
+      Hint: FirstNameFieldId
+      Value: 1
+    - ID: "ab098d86-1961-419f-a5d7-efe79282cf8c"
+      Hint: CompanyNameFieldId
+      Value: 18
+    - ID: "b4db570f-e4b2-477f-ab3f-e3210c57f39a"
+      Hint: SubmitAction
+      Value: "{81758663-62BF-4FD9-8EAE-F2CC4D1C2467}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T115519Z
+    - ID: "ef83cb8b-f132-4752-85c7-afd3ea498c8a"
+      Hint: SAPCustomerFieldId
+      Value: 868
+    - ID: "efd36fbc-ec20-49bc-9cc8-2e4904111cee"
+      Hint: CustomerTypeFieldId
+      Value: 1210
+    - ID: "f60f02b7-239a-4112-b8f3-8af665bfc250"
+      Hint: LastNameFieldId
+      Value: 2

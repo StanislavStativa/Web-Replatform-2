@@ -1,0 +1,44 @@
+﻿---
+ID: "db15bbc9-00fa-4416-ae4a-26e7e260f4be"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Featured Tiles 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0293E8FB-DEC7-4BBA-9805-49D89A3B0E09}
+        {6EA40748-0A1A-40FD-9BBF-7FD90A8479CA}
+        {B616C117-E8B9-43A2-B6A7-E125D041CC9A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Create New Looks with Layouts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">One of the most impressive things about subway tiles is how, by simply changing the way they are oriented, you can make a memorable style impression that makes a go-to shape feel new again.&nbsp;</span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">The most common application for subway tiles is the classic brick-style arrangement. One easy way to experiment with new layout options is to instead align the edges of tiles in each row to create vertically “stacked” columns of tiles. Or you can rotate the traditional staggered layout 90 degrees for a waterfall effect. The Tile Shop even developed extra-long subway tiles in direct response to customer demand for creating dramatic&nbsp;</span><a class="font-bold" rel="noopener noreferrer" class="ql-link" href="/shape/herringbone" target="_blank" style="color: #323338; margin: 0px; padding: 0px; border: 0px;">herringbone layouts</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">.&nbsp;&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d4f9d21-62a7-4be5-929a-2a697330aa9c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061918Z

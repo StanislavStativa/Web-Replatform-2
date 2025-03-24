@@ -1,0 +1,49 @@
+﻿---
+ID: "295aa266-ad28-4fea-ac8e-9726bfd2a54c"
+Parent: "39129554-a4d2-4f4c-a240-c599e8f0374b"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/about-the-tile-shop/Data/Rich Text Main"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T111257Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br /><p><strong>A Tradition of Excellence</strong><br />
+        Since our founding in 1985, The Tile Shop has committed itself to inspiring and realizing home decor ideas and creating beauty both indoors and out. Our associates travel literally across the globe, exploring the latest styles and innovations available in materials such as porcelain, glass, ceramic, travertine and other natural stones. With a network that comprises more than 140 stores, we offer a wide selection of high-quality tile products, exclusive designs, expert staff and amazing customer service.</p><br />
+        <p><strong>Our Passion for People</strong><br />
+        We see our customers as partners. As such, we believe in developing relationships that build trust while engaging your imaginations. Your home is a big part of your life, and we take that idea seriously. So we inspire your creativity and build the personal connections you need to make you feel comfortable about transforming your living space into a showplace you can be proud of.</p><br />
+        <p><strong>A Look of Distinction</strong><br />
+        If you can envision it, we can help you make it happen. Our stock of more than 5,000 natural stone and manmade tile selections gives you virtually endless options to create new rooms or upgrade existing ones. In addition to the tiles, we also offer coordinating finishing pieces and installation materials to put the perfect final touch on any project. Both online and in-store, you can see our most popular tiles in real-life settings, so you can visualize how the products will look installed.</p><br />
+        <p><strong>Bringing Visions to Life</strong><br />
+        World class design services are not as expensive as you may think. In fact, at The Tile Shop, they&rsquo;re free. Our dedicated professionals are ready to discuss your tiling ideas and offer helpful suggestions about arrangement, materials and maintenance to help you create that dream room from start to finish. <a href="/store-locator/">Find a store</a>&nbsp;near you to experience The Tile Shop difference for yourself.</p><br />
+        <p><strong>Many Happy Returns</strong><br />
+        Never underestimate the fact that you may overestimate your need for materials. When that happens, simply bring them back to us. The Tile Shop allows you sixty (60) days to return unused tile, and we won&rsquo;t penalize you with a restocking fee. Our best-in-class return policy ensures you can get your project done according to your schedule. Visit <a href="/">here</a>&nbsp;for our full return policy.</p><br />
+        <p><strong>Join Our Community</strong><br />
+        We like to maintain relationships with our clients even after a project is completed. You can also share your thoughts and ideas with other homeowners through a variety of social media outlets. Once that beautiful bathroom is finished or your dazzling den is done, feel free to share pictures of it so others can be impressed, too.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d4ff168-befd-4cce-8c7c-4301f6fb3ba0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T073227Z

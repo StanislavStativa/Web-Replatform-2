@@ -1,0 +1,47 @@
+﻿---
+ID: "10a928cd-deed-4c87-95f9-a15e73d6d633"
+Parent: "cf751031-2093-43c0-b622-1b127821cec6"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/shop/Data/Finishing Pieces
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240830T070511Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Finishing Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>A tile design isn’t complete without the beautifully made finishing pieces that customize your space.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81852523-af47-4ee5-b25c-9dc71f20c541"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T071140Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "kedon_flatlay_Her:Hero_Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shop Finishing Pieces" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEB155FE-F9EE-45CE-BDD8-6CF81A745B79}" />

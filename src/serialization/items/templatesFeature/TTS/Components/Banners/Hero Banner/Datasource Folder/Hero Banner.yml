@@ -1,0 +1,61 @@
+﻿---
+ID: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Parent: "34e74543-6aea-4fa8-ba87-8b64a16d6f72"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Hero Banner/Datasource Folder/Hero Banner
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {D6BE475E-2BE3-4B29-BE7D-61A3BA6FA1C9}
+    {66CB7817-B016-4773-81CB-F22DB7E0C72F}
+    {895115B6-8FFB-43AB-B1C7-105195E69F3D}
+    {4B6515A6-6BB8-4AE7-B855-55AC2E8340AD}
+    {C7777E95-E141-410A-BD61-29F21E354B84}
+    {BA9842AD-9676-49E7-8D1B-AB7A5AD98D61}
+    {9776BF60-6531-464B-B67B-4DA77789D7C9}
+    {F2BFF547-1417-478C-817E-81020072E43E}
+    {59CE5FE8-88E5-4754-BC39-914C337B5DCA}
+    {D3B9F16A-0819-4B79-A70C-35325CFCDB14}
+    {2EB1AC65-33C1-446F-A171-4BE789FB45E0}
+    {42791D7C-3D6F-4461-A9AF-0E29EC446786}
+    {6165C34C-BE24-438B-97C0-C2D258983C2F}
+    {F8D62E93-7FF8-4EC1-B069-0FB1F374D354}
+    {136D544E-5031-478D-82D6-C3708BDE94A4}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{AEEA55DA-5FB0-4736-B9C1-38FEFBB4A6DD}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111213T133000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88a746a8-bc4c-4036-8df4-465af1e8d637"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250310T062749Z

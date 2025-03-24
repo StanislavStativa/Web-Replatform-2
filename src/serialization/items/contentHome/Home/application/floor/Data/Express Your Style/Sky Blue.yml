@@ -1,0 +1,38 @@
+﻿---
+ID: "3948d6d8-6afc-43e4-bdc0-f85dd5241ea4"
+Parent: "aa885489-ab98-4e3d-8ac1-4ca5cac88b92"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Express Your Style/Sky Blue
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131354Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bef25dc-0a4e-4091-a3b9-78af32fdf78b"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Featured Tile: </span><a href="/products/penny-round-gloss-white-porcelain-mosaic-wall-and-floor-tile-615814">Penny Round Gloss White</a>,&nbsp;<a href="http://https//www.tileshop.com/products/penny-round-pale-taupe-porcelain-mosaic-wall-and-floor-tile-681541">Pale Taupe</a>&nbsp;&amp;<span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;</span><a href="/products/penny-round-sky-blue-porcelain-mosaic-wall-and-floor-tile-669026">Sky Blue</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;</span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061712Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "BlueOrchidLiving_ORCFall2021_LaundryRoom_008:Design_Ideas_All_V2"

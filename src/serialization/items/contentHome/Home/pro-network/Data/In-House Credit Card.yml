@@ -1,0 +1,53 @@
+﻿---
+ID: "071736ad-cd56-4178-8e0a-c7d47fd25770"
+Parent: "eb7bfa1f-8d16-4aaf-bc81-d03b23ed906a"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/In-House Credit Card"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2253f172-c452-4368-adcb-980be3e6f434"
+      Hint: HoverImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T105341Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: "In-House Credit"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "In-House Credit"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Make billing easier with an interest-<br />
+        free credit account. Ask a sales<br />
+        associate for details or apply today.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0601a347-0d95-46a1-b53a-0de9cb16417f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240919T082453Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Q12024_ZelligeCollection_Shamrock:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="GO TO APPLICATION" linktype="external" url="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/net30-application-forms/Net_30_Application.pdf" anchor="" target="" />

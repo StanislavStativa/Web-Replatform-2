@@ -1,0 +1,35 @@
+﻿---
+ID: "49008f4b-83ea-4ae9-a8c6-267e0a6d9fdd"
+Parent: "89118e99-b74b-49fa-940b-b6feec880b52"
+Template: "128ca6e3-159f-4b86-8d08-d0b1256da94d"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/CreateNewUserEmarsysDetails/Emarsys Optin Submit
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240812T175631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "62fc5994-99fd-48da-89a9-ae959cbb69a2"
+      Hint: EmarsysAdditionalProperty
+      Value: |
+        {"EmarsysEventID": "70"}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b202ac44-1350-4acc-a858-d0c9601f3f74"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T175651Z

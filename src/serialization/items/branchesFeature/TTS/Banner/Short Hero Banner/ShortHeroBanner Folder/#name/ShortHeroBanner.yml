@@ -1,0 +1,34 @@
+﻿---
+ID: "7c1fd4ce-881c-499b-9859-7f69dc5fe6f8"
+Parent: "b5da2382-9177-4e55-a2f1-2762b2b17a7b"
+Template: "ec9b95b3-3345-4bad-abd0-8db5ef005960"
+Path: /sitecore/templates/Branches/Feature/TTS/Banner/Short Hero Banner/ShortHeroBanner Folder/$name/ShortHeroBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T115249Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: ShortHeroBanner
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "767c6b65-3974-4dd5-91a3-b86b462f006d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T115249Z

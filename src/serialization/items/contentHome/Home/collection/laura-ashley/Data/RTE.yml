@@ -1,0 +1,40 @@
+﻿---
+ID: "60944c9b-75eb-44d8-8028-171fba526b7c"
+Parent: "2d6e75d5-675c-4177-a063-9f0bb84483ea"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/laura-ashley/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240911T123100Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin"><span class="h2" style="color: #323338;">About Laura Ashley Tiles</span></h2>
+        <p class="extra-small-bottom-margin"><span style="color: #323338;">Equal parts bold and timeless, the Laura Ashley collection of porcelain tiles is a beautiful way to add pattern and elegance to the walls and floors of your home. The Laura Ashley collection features six distinctive styles, each available in a tightly curated range of shades so you can mix and match to create beautiful space that feels custom and cohesive. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b99a360b-66a3-4282-997e-91f1dc80a8e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T123208Z

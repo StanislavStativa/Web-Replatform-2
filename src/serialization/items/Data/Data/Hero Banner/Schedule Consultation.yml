@@ -1,0 +1,52 @@
+﻿---
+ID: "3edfd351-ba02-43cc-92a9-17bd4bc35680"
+Parent: "a317aedf-1388-43a5-b4f9-3f23a031e119"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Data/Hero Banner/Schedule Consultation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T102345Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p class="rte-align-center">Get inspired!<br />Come in to browse our huge selection of tile options at a store near you.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5506527d-7014-4a44-8bad-bc743c13f34c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="FIND A STORE NEAR YOU &gt;" linktype="external" url="/store-locator" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T081952Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SCHEDULE YOUR DESIGN CONSULTATION" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{570C59CF-53CD-42B5-904D-A1C36465D4BE}" />

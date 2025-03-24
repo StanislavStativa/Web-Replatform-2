@@ -1,0 +1,38 @@
+﻿---
+ID: "6357d82c-c67f-4a86-942b-f63713a49a24"
+Parent: "c084cf08-92c5-4531-838f-10c5e2ba3c3b"
+Template: "98439906-d788-481d-b1cf-57be6e613e45"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Inspiration/Blog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T082035Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4552ab5-039e-4e6f-85f7-366be0456856"
+    - ID: "a9c786f3-5f55-4c57-86fe-2f71701ed3ae"
+      Hint: Title
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T074652Z
+    - ID: "f2c0048e-40ec-4e1c-9918-1509fc8fb0e1"
+      Hint: Link
+      Value: |
+        <link text="Blog" linktype="external" url="/blog" anchor="" target="" />

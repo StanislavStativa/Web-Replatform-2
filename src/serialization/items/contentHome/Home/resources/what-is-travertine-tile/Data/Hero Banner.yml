@@ -1,0 +1,54 @@
+﻿---
+ID: "3442669e-8fc6-4f57-b5f6-70c26727565e"
+Parent: "0cb718bf-80a6-435c-ab4b-03fa35a3a3e9"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/what-is-travertine-tile/Data/Hero Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T083612Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: "Still Have Questions About Tile?"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: "We host Saturday morning workshops where we can answer any tile-related questions you have or talk with you about your project."
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Still Have Questions About Tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "We host Saturday morning workshops where we can answer any tile-related questions you have or talk with you about your project."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa153d87-f9f1-4308-922b-e4c2eb7f8f84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Back to Top" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6BD298A-8212-4DBC-89C4-901E2644278D}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T075743Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: SMM_Callout_Her
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Sign Up" linktype="external" url="https://www04.timetrade.com/app/tileshop/workflows/TILESHOP001/schedule?appointmentTypeGroupId=tile-workshop&amp;appointmentTypeId=tile-workshop" anchor="" target="|Custom" />

@@ -1,0 +1,60 @@
+﻿---
+ID: "0c4aceb9-2d41-4205-a214-c2e33e0027ee"
+Parent: "4d2dc9e9-d96a-4d7a-be6f-6d27cf522ac6"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Feature/TTS/Banner/Rewards Banner/gold-tier-bullet"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/0C4ACEB92D414205A214C2E33E0027EE.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 39
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0c4aceb9-2d41-4205-a214-c2e33e0027ee"
+  Value: /9j/4AAQSkZJRgABAQEAeAB4AAD/4QBmRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAAExAAIAAAAQAAAATgAAAAAAAAB4AAAAAQAAAHgAAAABcGFpbnQubmV0IDQuMS41AP/bAEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwHCQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAB8AJwMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APz58HeEdQ8e+KLHRdJtpLzUdSmWCCJByzH19ABkk9AASeBX6RfD39hj4e+EvA+mabqXh/S9c1C0g2XF/PDiS5kJLMx56ZJAHOFAGeK8t/4Jlfs6R6J4fk+IGq24N9qO6DSA68wQDKvKPdzlQcZCqcHDmvravyXirPqk8R9Ww8mow3adrv5dFt638j7rJctjGl7aqruW1+i/4J5r/wAMd/C//oSdD/79H/GuI/aE/YO8I+MPhZqEPhXQbDRfEFuv2mylt02+e6g/uWycbXzjPY4PbFfQNFfM0c2xlOoqkakrp31ba+aPXqYHDzi4OC18kfjXe2U2m3s1vcQyW9xbu0csUilXjdTgqwPIIIIIPSivqr/gpl+zq3hfxXH4+02P/QdbkWDUY0TAguAoCycdpApzx95ckkvRX7NluPhjMNHEU+u67Pqj8/xmFlh6rpS6fiu5p/8ABMn9o9rLUZPh3qsy/Z7oyXOjuxOVk+9JBnpggM46ch+TuAr7XzX43aXqdxomp295ZzSW91aSrNDLGcNE6kFWB7EEA198/Dv/AIKa+Cb7wTpsniRr6x10whb2G3s2khEgJBKnP3WwGA7ZxzjNfD8U8P1ZV/rOEi5c26S2ff5/n6n0eS5pBUvY15W5dm+3b5H0xQTivAf+Hlfwt/5/NY/8F7/41xP7Qn/BSPw3f/CzULLwTPqEmvagv2ZJZrZoRaRsCHlU5+8BwvoSD2xXzNHIMwqTUPZSV3u00l6nsVM0wsYuXOn8zyn/AIKLftGv8UPiU3hXT5P+JH4WnaOQrn/SbsfLIx9kO5B77zyCKK+cScmiv2DAYOnhKEcPT2ivvfV/M+DxWIlXqurPdn//2Q==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1369
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "b0145335-8735-414b-9169-a1d4e4dc9641"
+  Hint: Software
+  Value: paint.net 4.1.5
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 39 x 31
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 31
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T103618Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c6a8de0-6ea5-47bb-b530-1ca7fb377fa4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T103618Z

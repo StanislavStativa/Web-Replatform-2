@@ -1,0 +1,68 @@
+﻿---
+ID: "bef05a9d-ffae-42cd-9ee6-d5bb207fef65"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/How to Tile a Shower"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T120827Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Tile a Shower
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h2><span class="h2-style">Introduction</span></h2>
+        <br />
+        <p>One of the best ways to make your home feel more personalized and up to date is by replacing tile in your shower. Tiling a shower yourself is a great way to save money and add value to your home all while adding your own personal touch that you get to enjoy every day. In this article, we&rsquo;ll cover how to tile a shower, step by step.</p>
+        <br />
+        <h2><span class="h2-style">Tools You'll Need</span></h2>
+        <br />
+        <p>Before we get started, gather your supplies. Below is a complete list of tools you&rsquo;ll need to tile a shower:</p>
+        <br />
+        <ul>
+            <li>Gloves</li>
+            <li>Sponges</li>
+            <li>Buckets</li>
+            <li>Mixing drill</li>
+            <li>Trowel</li>
+            <li>Tile cutter</li>
+            <li>Level</li>
+            <li>Tile spacers</li>
+            <li>Measuring tape</li>
+            <li>Marking tool</li>
+            <li>Drill</li>
+            <li>Box knife</li>
+            <li>Clean microfiber rags</li>
+            <li>Hole saw</li>
+            <li>Market</li>
+            <li>Grout float</li>
+            <li>Margin Trowel</li>
+        </ul>
+        <p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7886117f-fc9c-4686-9901-a9b97ec2a478"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T100358Z

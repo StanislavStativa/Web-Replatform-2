@@ -1,0 +1,67 @@
+﻿---
+ID: "fee3b4ea-6e41-4782-9896-1523f8abc64d"
+Parent: "8dce78c6-cf3f-4e6e-90a6-1bb7c6a18632"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Backsplash Wall
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T111235Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Backsplash Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Choosing the tile for your backsplash is one of the best parts of redecorating. Why? Since it generally covers a smaller area than your main wall or floor tile, you can have more fun with it! That means incorporating pops of color, unique materials or visually striking shapes feels less risky.
+        
+        Whether you opt for a detailed mosaic or classic subway tile, you’ll find something you love from our hundreds of options. For more detailed backsplash tile ideas, visit our inspiration page.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4fc3b86-21ed-40ad-81c0-cca898bab530"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T112358Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "COSpringsShoot_TasminSideC:Category_Intro_Image_V2"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {B38CB827-599A-46FC-877A-39C44BDC30DD}
+        {54037E0C-A8F5-4F23-A485-63A2845B6018}
+        {19EEB5BC-9988-4AFA-A799-6649FFB38492}
+        {C3C838F9-FE1A-448A-BCFA-AACA68208E13}
+        {3BCF7D62-110C-4F2D-A0AB-1AA9CC336BBC}
+        {C3D08E6F-5ABA-4935-85A9-3300F0B0DD98}
+        {72B59E68-1CEF-42C2-9BD7-3E77AA7B3C46}
+        {C915E86F-FCC0-4530-82AF-C698BCD44334}
+        {C9BDCB07-CA89-4F6A-A6D0-988B1619C595}
+        {8422C83B-817D-4715-9EB8-ABDC99FA483E}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

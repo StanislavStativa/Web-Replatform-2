@@ -1,0 +1,55 @@
+﻿---
+ID: "0d4676d6-8e2f-40d1-8949-098acdc93c66"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Cut the Tiles"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: |
+        <p>
+        Allow grout to set for the amount of time specified in the manufacturer's directions, usually 15 to 30 minutes, then begin gently wiping off the excess grout with a clean, damp sponge. Rinse the sponge frequently, using one bucket for getting the excess grout off the sponge and the other for re-dampening the sponge. Be sure to replace the water in both buckets frequently to keep it from getting too dirty. As you wipe, be careful not to remove grout from the joints.</p>
+        <p>
+        After approximately 30 minutes, you can use a grout shaper to trim excess grout from the edges of the tiles. This will give the grout a crisp, professional look.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cut the Tiles
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>The tiles that meet the cabinets and the wall will need to be cut to size. To achieve a clean cut, it's important to use the right tool. You can use a snap cutter, a wet saw, or an angle grinder to cut your tile. Remember to measure and mark the tile carefully before cutting.<br />
+        <br />
+        It is also very important to wear safety equipment, such as eye protection and a respirator, while cutting tile. This will protect you from errant tile shards and dust. It's also important for both your own safety and the quality of the cut that the cutting tools are in good condition.<br />
+        <br />
+        For more detailed instructions, see our guide on <a class="font-bold" href="/resources/how-to/how-to-cut-tile">How to Cut Tile</a>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a53c07b-ef7f-4298-b2fd-395bd85ae873"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T101644Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "YellowBrickHome_Condo_HowToTileABacksplash_UsingWetSaw:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 5

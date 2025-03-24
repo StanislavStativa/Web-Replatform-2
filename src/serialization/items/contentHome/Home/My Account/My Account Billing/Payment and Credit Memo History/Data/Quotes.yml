@@ -1,0 +1,37 @@
+﻿---
+ID: "6b5f6dca-d0c9-40fd-ae12-881419d77ae2"
+Parent: "85885ce7-c8e6-4366-ad53-7ae741986bf8"
+Template: "f737a722-39c9-490d-9845-3b3246f83ae9"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/My Account Billing/Payment and Credit Memo History/Data/Quotes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T093404Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8763966D-1D80-4E20-B670-C525A7A4EBDF}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Search for Payments/Credits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66ec86bf-627f-4097-a49f-fa313ae01d2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T065234Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SEARCH" anchor="" linktype="internal" class="" title="SEARCH" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

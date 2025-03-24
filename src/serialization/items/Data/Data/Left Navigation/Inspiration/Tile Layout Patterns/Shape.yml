@@ -1,0 +1,39 @@
+﻿---
+ID: "9133a567-4fe5-4117-8bd3-f1b8edecae19"
+Parent: "7b48dc6d-c25f-421d-b3a2-ea9db304e673"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Inspiration/Tile Layout Patterns/Shape
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T125958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c4734f0-45c9-4470-ab56-5667cad8e788"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T130033Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shape" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3C8E7F0C-5035-427B-B3A3-52560D13C768}" />

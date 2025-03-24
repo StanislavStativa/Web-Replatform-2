@@ -1,0 +1,45 @@
+﻿---
+ID: "65c42aa1-0302-4bdd-9352-5249ed99e3c5"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/High Quality Tile Advice
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240519T144216Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section class="c-rich-text">
+        <div>
+        <h2 class="h1">High Quality Tile with Expert Service and Professional Advice</h2>
+        <div class="richText-max richText">
+        <p>Tile&rsquo;s combination of durability and style makes it a wise choice for wall and floor installation in your home. The Tile Shop offers a range of long-lasting materials, interesting patterns, unique shapes and vivid colors that will enhance the appearance of any room. From modern to rustic and colorful to contemporary, there is a tile solution that can accentuate any decor. Stop into your nearest The Tile Shop to see the latest designs for yourself. Our expert store associates can walk you through the process of selecting the perfect tile for your project.</p>
+        </div>
+        </div>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8040dc33-813e-4870-9594-cae18eb12de9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240519T144650Z

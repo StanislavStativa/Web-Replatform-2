@@ -1,0 +1,42 @@
+﻿---
+ID: "747baa0b-3854-4209-9c59-078350083b45"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/10"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Moroccan Patterns
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Based on traditional Moroccan-style tiles, the <a class="font-bold underline" href="/products/kasbah-star-terracotta-porcelain-wall-and-floor-tile-65-x-65-in-484288">Kasbah Star</a> and <a class="font-bold underline" href="/products/kasbah-cross-terracotta-porcelain-wall-and-floor-tile-47-x-47-in-484286">Cross Terracotta</a> tiles will add an artisanal look to your bathroom floor. These tiles feature an undulating surface and a warm orange color that will create a calming, spa-like atmosphere in your space. For added interest, try mixing the Terracotta tiles with the <a class="font-bold underline" href="/products/kasbah-star-bone-porcelain-wall-and-floor-tile-65-x-65-in-484287">Kasbah Bone</a>.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1c6d2ad-2020-4990-919c-def0c8b9ed47"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123834Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "kasbah_terracotta_vendor_render_bathroom2:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 10

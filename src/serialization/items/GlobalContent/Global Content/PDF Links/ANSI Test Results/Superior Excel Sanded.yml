@@ -1,0 +1,37 @@
+﻿---
+ID: "2ea5c9c6-d9ab-41cd-a42b-457bafcba28e"
+Parent: "194fa059-572b-4a8c-a421-34e7c8a9c4d1"
+Template: "cfaeca9f-7f6a-4ecb-835b-8a727cce9462"
+Path: /sitecore/content/TTS/Global Content/PDF Links/ANSI Test Results/Superior Excel Sanded
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T165155Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kulsh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kulsh
+    - ID: "87ec6bf1-640f-4263-a96e-92cf4ae4f12f"
+      Hint: Link
+      Value: "test-sheets/Superior_Excel_Sanded_IPA_Lab_Test_2023.pdf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f0d6c5d-bcdf-438c-857b-73b461de50fe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "c30e24d9-e876-4923-9b67-5738162437a7"
+      Hint: Name
+      Value: Superior Excel Sanded Grout
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T155318Z

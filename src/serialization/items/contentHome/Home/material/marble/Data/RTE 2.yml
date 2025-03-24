@@ -1,0 +1,43 @@
+﻿---
+ID: "093a376b-5ad5-4eed-a87c-13e84df24daf"
+Parent: "98ef61c7-0b3f-4900-820c-bb582328d123"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        <p><span>&nbsp;</span></p>
+        <p><span>We know there’s a lot to consider when shopping for marble tiles, and we want you to feel confident about your choice. We offer complimentary </span><a href="/DCA" class="font-bold">design consultations</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"><a href="/DCA" class="font-bold">,</a> and our friendly sales associates are here to help when you’re ready. </span><a href="/store-locator/" class="font-bold">Visit your local Tile Shop showroom</a><span> to learn more. </span>
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47ae5d90-2fff-4e88-b85e-571626370562"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123201Z

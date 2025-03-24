@@ -1,0 +1,57 @@
+﻿---
+ID: "9ca1b5bd-9391-412a-a9ca-826871739c97"
+Parent: "abc7d33e-4ab0-4493-88b3-330590157730"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/TTS/Header/HeaderCTAs/find-a-store"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9CA1B5BD9391412AA9CA826871739C97.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 12
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e77417ef-4d5f-4efa-9f78-06a76131e013"
+  Value: PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxMiAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0xLjMxODEzIDcuODk2NEwxLjU3MDQ0IDguNTYyMDRMNS4xNzY2IDE4LjA4MkM1LjI0NjYyIDE4LjI2NzEgNS4zNzEzMiAxOC40MjY0IDUuNTM0MSAxOC41Mzg4QzUuNjk2ODggMTguNjUxMyA1Ljg5MDA0IDE4LjcxMTUgNi4wODc4OCAxOC43MTE1QzYuMjg1NzIgMTguNzExNSA2LjQ3ODg4IDE4LjY1MTMgNi42NDE2NiAxOC41Mzg4QzYuODA0NDQgMTguNDI2NCA2LjkyOTEzIDE4LjI2NzEgNi45OTkxNiAxOC4wODJMMTAuNjI1OCA4LjUwNzY4TDEwLjg1NTYgNy45MDA1QzExLjU0MDcgNi4wOTIyOSAxMS4xMDA3IDQuMDI4NyA5LjY4ODM5IDIuNzA4N0M4LjY4ODYzIDEuNzc0MjggNy4zNjQ3NSAxLjI2NTE1IDUuOTk2NTEgMS4yODg4OEM0LjYyODI2IDEuMzEyNjEgMy4zMjI4NCAxLjg2NzM1IDIuMzU2MDggMi44MzU4OEMxLjAzNjA4IDQuMTU3OTQgMC42NTc2MjIgNi4xNTA3NiAxLjMxODEzIDcuODk2NFoiIHN0cm9rZT0iIzNEMzkzNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPg0KPHBhdGggZD0iTTguNzAwMjUgNi4zMjU3MUM4LjcwMDI1IDQuODgyNjkgNy41MzA0NSAzLjcxMjg5IDYuMDg3NDMgMy43MTI4OUM0LjY0NDQxIDMuNzEyODkgMy40NzQ2MSA0Ljg4MjY5IDMuNDc0NjEgNi4zMjU3MUMzLjQ3NDYxIDcuNzY4NzMgNC42NDQ0MSA4LjkzODUzIDYuMDg3NDMgOC45Mzg1M0M3LjUzMDQ1IDguOTM4NTMgOC43MDAyNSA3Ljc2ODczIDguNzAwMjUgNi4zMjU3MVoiIHN0cm9rZT0iIzNEMzkzNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPg0KPC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 891
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 20
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240419T061910Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Find A Store
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e0013e6-f92f-415a-bf7a-1840df40fc05"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T052942Z

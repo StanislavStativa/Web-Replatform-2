@@ -1,0 +1,63 @@
+﻿---
+ID: "71c269ae-8e2c-45a7-8eb5-32802b250a00"
+Parent: "077862b5-dcbe-4cf5-9d84-738c91ac03be"
+Template: "cb84870e-7068-44a6-bf49-3d0393e548ad"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Data/Rewards Card
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c769bd1-f95e-43ab-a8e3-323b6678fbda"
+      Hint: Platinum_Pro
+      Value: |
+        <image mediaid="{AF7A1522-AEFC-4FE5-BBE6-1D4BF226A88B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T105918Z
+    - ID: "4581cf69-fc08-4591-aeb4-cf1e03e5c42c"
+      Hint: EnableProUsers
+      Value: 1
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: THE TILE SHOP PRO NETWORK
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: api/Rewards/GetRewardDetails
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5e575729-6d9f-4529-ac5e-287612412da0"
+      Hint: Diamond_Pro
+      Value: |
+        <image mediaid="{19E184E0-D2A1-45F8-AA83-E03A2D3268F6}" />
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: WELCOME
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51f092a6-5975-4ac7-9842-0e71230a383a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T114525Z
+    - ID: "dfce674a-84e8-4a94-8409-03bde211ae74"
+      Hint: Gold_Pro
+      Value: |
+        <image mediaid="{F1DD0484-C081-47DA-8EBA-D823D8F7AAA7}" />
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="MY REWARDS" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{03D9DAF0-85C4-41B3-84F0-C4E1E0CB9D60}" />
+    - ID: "f67140e7-2cc3-4f75-b7cb-8a8ba6acf768"
+      Hint: Silver_Pro
+      Value: |
+        <image mediaid="{88147622-77B7-4694-BEAB-885FB7D28309}" />

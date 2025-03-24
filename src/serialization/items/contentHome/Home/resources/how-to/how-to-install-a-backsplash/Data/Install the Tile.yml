@@ -1,0 +1,56 @@
+﻿---
+ID: "e7785bfe-0958-4da7-823e-5725fe4bb0ee"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Install the Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install the Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <img class="rtc__list-item-with-image__image" alt="Using tile spacers between the kitchen counter and first row of a subway tile backsplash ensures the correct width for the expansion gap." src="https://s7d1.scene7.com/is/image/TileShop/YellowBrickHome_Condo_HowToTileABacksplash_UsingWedges:3x2" />
+        <br />
+        <p>
+        Carefully press the first tile into the adhesive, using a slight twisting motion to ensure even contact with the adhesive. Avoid sliding the tile too much, which can cause the adhesive to spread unevenly and affect the tile's final position. Be sure to leave a 1/8 expansion gap between the counter and the tile. 
+        </p>
+        <br />
+        <p>
+        As you add more tiles, insert tile spacers at the corners of each tile to maintain consistent grout lines. The size of the spacers depends on the desired width of your grout lines and the type of tile being used.
+        </p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="Using tile spacers to ensure even, level spacing of white subway tile when installing a kitchen backsplash." src="https://s7d1.scene7.com/is/image/TileShop/YellowBrickHome_Condo_HowToTileABacksplash_UsingSpacers:3x2" />
+        <br />
+        <p>Regularly check for alignment and level, both horizontally and vertically. Catching any mistakes early will help ensure you get the best results. Use a level or a straightedge to ensure that each row or column of tiles remains straight.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="Using a level helps to ensure each row of tiles is straight before moving on to the next row." src="https://s7d1.scene7.com/is/image/TileShop/YellowBrickHome_Condo_HowToTileABacksplash_CheckingLevel:3x2" />
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "102ce380-18f3-424d-9762-32065cf2b9e4"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T190153Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 7

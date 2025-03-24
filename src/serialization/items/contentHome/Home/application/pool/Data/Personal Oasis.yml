@@ -1,0 +1,49 @@
+﻿---
+ID: "5fc8a821-4da2-4540-9c3b-e1c2c60404f1"
+Parent: "17be743b-68e6-4676-99bc-ffc2716b1afc"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/application/pool/Data/Personal Oasis
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T123013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Create a Personal Oasis with Pool Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p class="extra-small-bottom-margin"><span style="background-color: #ffffff; color: #323338;">Beyond performing a necessary function for a pool’s structure, your choice of swimming pool tile can transform your home’s aquatic space from a simply a fixture into a true feature—and a seamless extension of your overall home design. With a wide variety of shapes and rainbow of available colors, and hundreds of mosaic styles for ease of installation, today’s pool tile eliminates any need to choose between form and function in your swimming environment.</span></p>
+        
+        
+        <h3 class="extra-small-bottom-margin">Different Styles of Pool Tile</h3>
+        <p class="extra-small-bottom-margin"><span>Our selection of pool-rated tiles includes something for every aesthetic. We offer minimalist and modern pool tile for those looking to create a spa-like environment at home, as well as many shades of glass pool tile that amplifies water’s movement and light. Black pool tile used on the bottom of a pool is a dramatic design choice that creates an illusion of greater depth. Our&nbsp;<a class="font-bold underline" href="/free-design-services">design consultants</a>&nbsp;will even help you select the perfect pool waterline tile to complement the walls and floor of your pool and make a smooth visual transition from above and below the water’s surface.&nbsp;&nbsp;</span></p>
+        
+        <h3 class="extra-small-bottom-margin">About Pool Tile Materials</h3>
+        <p class="extra-small-bottom-margin">In order to be suitable for use in a pool, tile must be “pool-rated.” At The Tile Shop, the majority of our current selection of pool-rated tile is made with glass. Porcelain tile can be pool-rated, but it is on a case-by-case basis depending on factors like that particular tile’s water absorption, fading, chemical resistance, etc. The good news is that product included in our Pool Tile selection has been rated for use in pools, so you can shop porcelain pool tile with confidence. And we are constantly expanding our product offerings in this category, so check back often to see the newest arrivals.&nbsp;</p>
+        
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        
+        <p class="extra-small-bottom-margin">We know there’s a lot to consider when selecting swimming pool tiles. Simplify the process with a visit to&nbsp;<a class="underline font-bold" href="/store-locator/">one of our showrooms</a>, where our friendly sales associates can help you choose the right pool tile for your style and budget, creating a space your family will enjoy for years to come.&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48a70ade-63e5-423e-8f54-ca097d886143"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T025254Z

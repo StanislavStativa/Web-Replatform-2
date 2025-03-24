@@ -1,0 +1,58 @@
+﻿---
+ID: "940d004f-3d75-464c-8f79-851a72ec1f5e"
+Parent: "5f04807f-08b1-4c66-ade0-895abb2c71f3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/room/entryway/Data/Secondary Banner
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240814T170538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Entryway Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Tile is a great entryway option for busy homes, especially those with kids and pets, because it’s easy to clean. Go a step further with non-slip entryway tile that adds an element of safety to your design. Ensure that your floors last a long time in this high-traffic area with a beautiful and functional tile.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3912119f-676a-4753-968a-42c0b5244f37"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T171201Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 210503_MorrisCo_Entryway%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {E7F7E282-FA17-435F-A6EC-B067F987ECA0}
+        {CB2325C3-198F-4107-A0A3-ABBE30C57A55}
+        {18B7BFBE-0117-46F9-92F5-60DAFD0A2583}
+        {998807A0-1DF6-47A7-956F-2D946C6ECD2A}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

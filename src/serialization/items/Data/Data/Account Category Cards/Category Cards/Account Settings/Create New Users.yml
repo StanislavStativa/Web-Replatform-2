@@ -1,0 +1,35 @@
+﻿---
+ID: "3fa17eb6-9a2e-4f1f-9dfd-23dcdd3c5fb3"
+Parent: "54a864e4-77fa-499b-b18f-a3444f8c9e15"
+Template: "10fc4b69-11e8-4b22-90b5-ef2d6c1eae0f"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Account Settings/Create New Users
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240827T064240Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bca3594-9d04-48bf-acec-1a06fbc5da0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T064314Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Create New Users" anchor="" linktype="internal" class="" title="Create New Users"  querystring="" id="{207CD426-EF35-40DA-A26B-DDC68A9CB6A9}" />

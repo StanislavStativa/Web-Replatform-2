@@ -1,0 +1,78 @@
+﻿---
+ID: "6757830a-d52c-4ce2-bb85-22c1666e864d"
+Parent: "5daf090f-a242-4746-b538-283de2711f55"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/porcelain-vs-ceramic-tile/Data/Porcelain Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T073036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p /><h2 style="margin-left: 40px;">Porcelain Tile</h2>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;">What is porcelain tile?</h3>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;"><a class="font-bold" href="/material/porcelain">Porcelain tile</a>&nbsp;is made from a more refined version of the same clay mixture used for ceramic tiles that fired at higher temperatures. This process results in a tile that is denser, less porous, and highly durable, making it suitable for both indoor and outdoor applications such as patios, showers, and&nbsp;<a class="font-bold" href="/room/kitchen/backsplash">kitchen backsplashes</a>.</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;">Advantages of porcelain tile</h3>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <ul>
+            <li style="margin-left: 80px;"><strong>Durability</strong>. Porcelain tiles are incredibly durable, making them suitable for high traffic areas such as entryways, hallways, and kitchens.</li>
+            <li style="margin-left: 80px;"><strong>Low porosity</strong>. Porcelain's low water absorption rate makes it ideal for use in high-moisture environments like bathroom floors and shower surrounds or in outdoor spaces like patios.</li>
+            <li style="margin-left: 80px;"><strong>Versatility</strong>. Porcelain tile is available in a wide range of finishes, from matte to high gloss, and can mimic stone, hardwood, and other natural materials.</li>
+        </ul>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;">Disadvantages of porcelain tile</h3>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <ul>
+            <li style="margin-left: 80px;"><strong>Cost</strong>. Porcelain tile tends to be priced higher than ceramic tile due to its relatively superior durability and water resistance as well as requiring a more energy-intensive manufacturing process.</li>
+            <li style="margin-left: 80px;"><strong>Installation</strong>.&nbsp;Their density and hardness make&nbsp;them&nbsp;more challenging to cut and install. This can potentially increase installation costs and require a higher level of skill and use of specialized tools for DIYers.</li>
+            <li style="margin-left: 80px;"><strong>Specialized adhesive</strong>. Porcelain tile's low porosity means that you will need to use a thinset adhesive with a higher latex count. This type of adhesive can be more expensive compared to thinsets that are suitable for use with ceramic tile.</li>
+        </ul>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;">Where to use porcelain tile</h3>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">Porcelain tiles are durable enough to be used almost anywhere. They are an excellent choice for floors in high-traffic areas,&nbsp;<a class="font-bold" href="/room/outdoor/patio-floor">outdoor patios</a>&nbsp;and by the pool. Their moisture resistance also makes them ideal for bathrooms, kitchens and&nbsp;<a class="font-bold" href="/room/laundry">laundry rooms</a>.</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;">Cost of porcelain tile</h3>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">As with ceramic tile, it is possible to find porcelain tile that is less expensive than ceramic. But porcelain tile is generally at a higher point than ceramic tile. Prices vary based on the tile's design, size, and the quality of the material, but the average range for porcelain tile is $8 to $15 per square foot.</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <h2 style="margin-left: 40px;">Which Material is Best for You?</h2>
+        <p style="margin-left: 80px;">&nbsp;</p>
+        <p style="margin-left: 40px;">Choosing between porcelain and ceramic tiles depends on several factors, including your budget, the environment where the tile will be installed, and your aesthetic preferences. For high-traffic or outdoor areas, porcelain will usually be the better choice because of its durability and moisture resistance. For areas with lighter foot traffic or projects where budget is a concern, ceramic tiles offer a cost-effective and attractive option.</p>
+        <p style="margin-left: 40px;">The best way to determine which material is best for your specific project is to&nbsp;<a class="font-bold" href="/store-locator/">visit one of our locations</a>&nbsp;to consult a tile expert. Our staff can help you navigate the specifics of your project to help you find the type of tile that will suit your aesthetic, durability, and budget needs.</p><p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa2b38d0-a923-466d-aea3-88bacc274ef5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240909T103642Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "1f26898d-eade-4757-9c1c-e3f8e1afd035"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/How to Finish Tile Edges"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T045211Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>It might seem like a minor detail, but properly finishing tile edges as the final step of your tile installation can have a major impact on the overall look of a space. In addition to protecting your installation from wear and tear, finishing the edges of a tiled area will give your project a polished, professional quality that can’t be achieved when raw edges of tile are visible.</p>
+        <p>In this article, we’ll demonstrate step-by-step instructions for three common methods for finishing tile edges: 1) bullnose tile, 2) pencil trim pieces and 3) metal profile pieces. Whether you’re wondering how to finish tile backsplash edges, create an attractive shower bench, or complete any other tile project, using one of these techniques will instantly elevate your installation.</p>
+        <p>All three are effective and attractive solutions to the question of how to make exposed tile edges look finished, but each offers a different look; ultimately, your decision will come down to which one you prefer. Watch the accompanying video to compare the finished looks and make the best design choice for your project.</p>
+        <p>&nbsp;</p>
+        <h2><span style="font-size: 40px;" class="h2-style">Materials and Tools</span><span class="h2-alt"></span></h2>
+        <p>In most cases, the <a href="/installation-care/installation/tools">tools and equipment</a> you need to finish tile edges are the same ones you already have out for your tile installation, such as thinset, a margin trowel, a notched trowel, a bucket of water with a sponge, and tile spacers.</p>
+        <p><img class="rtc__list-item-with-image__image" alt="Materials and tools needed for finishing the edges of a tile installation. Items include a miter box and hacksaw, bucket of clean water and a sponge, bucket of thinset mortar, various trowels, and tile spacers and wedges." src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_1:16x9" /></p>
+        <p>You may also need to use <a href="/installation-care/installation/tools/tile-cutting">tile-cutting tools or saws</a> to cut down larger pieces of trim materials to the correct size for your project area. A wet saw is our top pick for cutting bullnose tile and pencil trim, while a miter box with a hacksaw is a safer choice for cutting metal profile trim.</p>
+        <p>Whatever saw type your project requires, always use appropriate protective equipment to cover your eyes, ears and/or face when cutting tile or trim pieces.</p><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8dacd773-71f9-44cd-9a05-33bcd048e6fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240919T103039Z

@@ -1,0 +1,48 @@
+﻿---
+ID: "14688143-1726-4a08-afb6-48ee3832cd83"
+Parent: "7d588e8b-5333-45fd-b308-67cc2e10a515"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Shape/Herringbone
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1468814317264A08AFB648EE3832CD83.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6e1d7c67-5041-49d5-b836-11826f81283e"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iIzhGOEY4RiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJtMTMuNTkyIDE2LjgwOCA2LjAyNS02LjAxIDIuODQzIDIuODM2LTYuMDI1IDYuMDEtMi44NDMtMi44MzZabTEzLjU0IDAgNi4wMjQtNi4wMUwzNiAxMy42MzNsLTYuMDI1IDYuMDEtMi44NDQtMi44MzZabS0xMy41NTYgNy4xODYgNi4wMjUtNi4wMSAyLjg0NCAyLjgzNy02LjAyNSA2LjAxLTIuODQ0LTIuODM3Wm0xMy41NTUgMCA2LjAyNS02LjAxTDM2IDIwLjgyMWwtNi4wMjUgNi4wMS0yLjg0NC0yLjgzN1ptLTEzLjU1NSA3LjE3IDYuMDI1LTYuMDEgMi44NDQgMi44MzZMMTYuNDIgMzRsLTIuODQ0LTIuODM3Wm0xMy41NTUgMCA2LjAyNS02LjAxTDM2IDI3Ljk5IDI5Ljk3NSAzNGwtMi44NDQtMi44MzdaTS4wNDEgMTYuODA3bDYuMDI1LTYuMDEgMi44NDMgMi44MzYtNi4wMjQgNi4wMUwuMDQgMTYuODA4Wk0wIDI0LjAybDYuMDI1LTYuMDEgMi44NDMgMi44MzYtNi4wMjQgNi4wMUwwIDI0LjAyMVptMCA3LjE0MiA2LjAyNS02LjAxIDIuODQzIDIuODM3TDIuODQ0IDM0IDAgMzEuMTYzWk0wIDkuNTk2bDYuMDI1LTYuMDEgMi44NDMgMi44MzctNi4wMjQgNi4wMUwwIDkuNTk2Wm0xMi44NDEgNi40NjMtNi4wMjQtNi4wMUw5LjY2IDcuMjEybDYuMDI1IDYuMDEtMi44NDQgMi44MzdabTEzLjU5MyA3LjIxMy02LjAyNS02LjAxIDIuODQ0LTIuODM3IDYuMDI1IDYuMDEtMi44NDQgMi44MzdabTAgNy4xMTYtNi4wMjUtNi4wMSAyLjg0NC0yLjgzNyA2LjAyNSA2LjAxLTIuODQ0IDIuODM3Wk0xMi44IDguODQ2bC02LjAyNC02LjAxTDkuNjE5IDBsNi4wMjUgNi4wMUwxMi44IDguODQ3Wm0uMDQxIDE0LjM4NC02LjAyNC02LjAxIDIuODQzLTIuODM3IDYuMDI1IDYuMDEtMi44NDQgMi44MzdabTAgNy4xNTYtNi4wMjQtNi4wMSAyLjg0My0yLjgzNiA2LjAyNSA2LjAxLTIuODQ0IDIuODM3Wk0yNi4zOTIgMTYuMDZsLTYuMDI0LTYuMDEgMi44NDMtMi44MzcgNi4wMjUgNi4wMS0yLjg0NCAyLjgzN1ptLS4wMTMtNy4xOC02LjAyNS02LjAxTDIzLjE5Ny4wMzJsNi4wMjUgNi4wMUwyNi4zOCA4Ljg4Wm0tMTIuNzg3Ljc1OCA2LjAyNS02LjAxIDIuODQzIDIuODM3LTYuMDI1IDYuMDEtMi44NDMtMi44MzdabTEzLjU0IDAgNi4wMjQtNi4wMUwzNiA2LjQ2NGwtNi4wMjUgNi4wMS0yLjg0NC0yLjgzN1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1273
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240730T051101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dd1ccb8-bdc0-4f90-bbbc-7a717b4193fe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T051102Z

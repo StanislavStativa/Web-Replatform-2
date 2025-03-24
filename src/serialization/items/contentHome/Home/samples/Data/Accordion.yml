@@ -1,0 +1,46 @@
+﻿---
+ID: "633b2e39-a55c-4f31-84d3-0d9c2ae26c4b"
+Parent: "1c66cfe8-7692-498a-b650-9a099658af4b"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {7CA290CC-F988-4765-B43A-B4A90C45AFCC}
+        {188AAF25-5851-4565-B76E-D44F333DEE60}
+        {CAEFD63A-16E1-492F-9A90-2BAD06544317}
+        {25029F2E-A096-432B-BA16-E2865F736432}
+        {FBBA81A6-E4DA-42F9-B260-911261C1D172}
+        {88D56990-7391-40F2-9A48-943F0A4CEF1C}
+        {4FCF1249-2574-4BFD-8D2F-0275F2E21E93}
+        {46A56164-9FF0-41E7-AEDE-023444D1E5B1}
+        {E8F89BC8-BC0E-4F63-9B1D-6688155A55DE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072613Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed985f16-19aa-4463-a6f7-42f0108f6801"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T101226Z

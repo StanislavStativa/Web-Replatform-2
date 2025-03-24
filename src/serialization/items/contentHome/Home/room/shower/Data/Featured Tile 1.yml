@@ -1,0 +1,44 @@
+﻿---
+ID: "4a7875d2-8c23-4394-aeab-48f429163290"
+Parent: "cba6a3e9-064f-469a-a64e-3c3ede3b771f"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/shower/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {B09237A4-40C4-495F-8CFA-89A5ED963054}
+        {3061B50E-4AA3-4BD3-B881-31DD0BA9324C}
+        {44A4A069-AFD8-4D2D-9C29-58330826D0D1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Use Shape for Designs With Interests and Movement
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p class="extra-small-bottom-margin">Since it’s such a small part of your home, the shower is a good place to play with shape. We have a wide range of tile shapes that will add depth and a sense of movement to a small space.</p><p><a href="/shape/herringbone" target="_self" class="font-bold">Herringbone shower tile</a> is an elegant way to refresh you throughout the day. Use contrasting grout to highlight zigzag lines and create a sense of movement. <a href="/shape/diamond" target="_self" class="font-bold"></a><a href="/shape/diamond" class="font-bold">Diamond-shaped tile</a> can be installed in a diamond or cube pattern. Alternate colors to create an interesting and chic design.  <a href="/shape/penny-round" class="font-bold">Penny round tile</a> comes in a variety of sizes and colors with a mesh backing for easy installation. Choose from solid colors and pre-made patterns or mix colors to create a customized design.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abddf7e1-8d7a-4e2a-b172-ec8393a1bddd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T135500Z

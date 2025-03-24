@@ -1,0 +1,40 @@
+﻿---
+ID: "5ce330da-6cec-4c03-a06f-81bf63705b19"
+Parent: "a0cb9766-e764-4380-b3e6-89b4893e0710"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Entryway/Data/3 Tile Card 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T192224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: The light color and larger size of these tiles make this room feel much bigger.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "304a19c3-7a6c-4ab0-84b6-7dacd2df76e1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T091054Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Screen-Shot-2018-04-30-at-11.21.30-AM_2C:2_Column_All"

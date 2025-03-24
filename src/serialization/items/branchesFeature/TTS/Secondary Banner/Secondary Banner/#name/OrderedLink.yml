@@ -1,0 +1,23 @@
+﻿---
+ID: "48a61019-3631-40e6-b648-9074dc5a984b"
+Parent: "27efc5a6-0bdd-4c09-b38e-a9e0c446b8ef"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/templates/Branches/Feature/TTS/Secondary Banner/Secondary Banner/$name/OrderedLink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T182953Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "711ac473-d05d-4e3b-aee5-07ad206e1aa2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T182953Z

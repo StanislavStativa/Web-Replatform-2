@@ -1,0 +1,51 @@
+﻿---
+ID: "c960f669-29ad-4af5-ac42-83ed3818f984"
+Parent: "3252f0c0-2510-4181-865e-c19c17f56dad"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-fix-chipped-or-cracked-tile/Data/What You will Need"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T152834Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: What You will Need
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        <img class="rtc__list-item-with-image__image extra-small-bottom-margin" alt="wet saw" src="https://s7d1.scene7.com/is/image/TileShop/How_to_Fix_Chipped_Tile_1:16x9?fmt=png-alpha" /></p>
+        <p class="extra-small-bottom-margin"><span data-contrast="auto" class="TextRun SCXW107003733 BCX0" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"><span class="NormalTextRun SCXW107003733 BCX0" style="margin: 0px; padding: 0px;">Start by gathering the following tools and equipment:</span></span><span class="EOP SCXW107003733 BCX0" data-ccp-props="{}" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"></span></p>
+        <ul class="extra-small-bottom-margin" style="margin-left: 40px;
+            line-height: 28px;
+            padding-left: 20px;">
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Painter's tape</li>
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Utility knife</li>
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Hammer</li>
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Chisel</li>
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Flat-head screwdriver</li>
+            <li style="list-style-type: disc; margin-bottom: 0.3em;">Small or medium-sized crowbar(s)</li>
+        </ul>
+        <p><strong>Important Safety Note</strong>: Always wear appropriate eye and face coverings when demolishing tile.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3acb3c55-a698-46f2-8193-bc8581a97cf5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T104631Z

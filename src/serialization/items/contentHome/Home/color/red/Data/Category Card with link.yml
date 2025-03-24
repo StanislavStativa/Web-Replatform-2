@@ -1,0 +1,64 @@
+﻿---
+ID: "1fc09623-966a-4d8a-bb67-6e6a8b07146c"
+Parent: "87d72334-59da-49c7-bbb5-aee8065084da"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/red/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Red Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Cut through monotony with a bold shade of red that adds a rich tone to your walls. Choose a textured porcelain tile with the authentic appeal of expose brick, or a bright hue that provides the pop of color your kitchen has been missing. From cheerful candy-apple glass to deep burgundy marble, there’s a red tile available in every shade.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02b81a17-c560-404b-af6a-e103866469c0"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153851Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Woodsman_autumn_STL%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {5F009B01-201A-467D-802D-6EF005B73762}
+        {B5EC314C-7B70-462F-9CE9-E2184596ECE9}
+        {D54B3FBF-2A31-484B-823C-172D97F81B6F}
+        {BCACF005-8AD6-448F-9996-5FF163E35089}
+        {BE0F586D-EE30-446A-BEAC-7DC624B49DAC}
+        {5FE5656C-96E0-4570-B462-36DCDE5D6CBC}
+        {F7BE370E-D3D9-40B5-888C-CE98A6521A53}
+        {A3C14286-4EFC-4A82-9209-A087A7C6EF09}
+        {A1471714-CCE5-48BA-B93F-013A5BFF9B92}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

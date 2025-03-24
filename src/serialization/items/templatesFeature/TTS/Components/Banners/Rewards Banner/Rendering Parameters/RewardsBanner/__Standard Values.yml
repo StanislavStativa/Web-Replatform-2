@@ -1,0 +1,27 @@
+﻿---
+ID: "3d0c97d1-6c66-42cf-b256-5d975ffad494"
+Parent: "8c891893-f1ce-454d-a5d4-59a4b753995e"
+Template: "8c891893-f1ce-454d-a5d4-59a4b753995e"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Rewards Banner/Rendering Parameters/RewardsBanner/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64b79ba8-5805-4cda-8d2f-d11065993ea8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T181651Z

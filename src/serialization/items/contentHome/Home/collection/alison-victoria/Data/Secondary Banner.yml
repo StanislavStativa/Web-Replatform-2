@@ -1,0 +1,58 @@
+﻿---
+ID: "513ba88d-a8cd-4789-84c2-d8a0504bb62b"
+Parent: "1104836c-7310-4416-8a42-5e85088e5d63"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/alison-victoria/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Alison Victoria Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Introducing The Alison Victoria collection. This exclusive tile collection pays homage to the renowned HGTV interior designer's hometown of Chicago, IL, while infusing Alison's signature "City Chic" style into each and every piece. With the rich colors, charming shapes, unique textures and luxurious finishes from this collection, you can transform spaces with stunning softness and everyday elegance — just like Alison's world-famous renovations.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00d4aba8-1732-4d2b-bef6-a80f0753fc4d"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T122438Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "AV_Gem_Bar_Horizontal_9x16:Category_Intro_Image_V2"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {BFE4AB3E-8811-4775-9BC1-17BC4621586D}
+        {4814A37D-9165-4CCF-8E0D-6175124DA061}
+        {6CF6E8E8-CDB1-4053-8BC5-FF2D132A2490}
+        {12C5C6FC-B878-48D5-BE9A-3A3AC56F2791}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

@@ -1,0 +1,41 @@
+﻿---
+ID: "7894d313-9a66-4682-96bc-f04ccf5d1854"
+Parent: "bfa7a3cc-5548-433b-80d4-86a8615f5ed9"
+Template: "70ccd466-590c-49bd-95e3-5a0aaae949e2"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/My Account Billing/Invoice Payment/Data/InvoicePayment
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03c72d65-0eba-47c2-a389-f23a9e70d392"
+      Hint: ApiEndPointGetInvoiceDetails
+      Value: "/api/myaccount/GetPayOpenInvoices?siteId={{SiteId}}&paymentDocumentTypeId={{paymentDocumentTypeId}}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240710T114252Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8763966D-1D80-4E20-B670-C525A7A4EBDF}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Invoice Payment
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4bf3b53-13e7-4dcf-9c9f-d5485d26a9dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="BACK" anchor="" linktype="internal" class="" title="BACK" target="" querystring="" id="{6DE18597-56BF-42D9-8D84-0053A131578B}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T070121Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SEND" anchor="" linktype="internal" class="" title="SEND" target="" querystring="" id="{57624C09-4433-4461-A91F-3E4B129D8A19}" />

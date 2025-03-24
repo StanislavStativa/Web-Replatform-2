@@ -1,0 +1,48 @@
+﻿---
+ID: "85929a2f-6c33-4e0b-a45c-e4ffede7b377"
+Parent: "4f8d2b19-9471-441a-892e-ad55eb07e82f"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/grout/colors/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {A7489874-F730-493F-911D-D4C9C421D74F}
+        {7FC0423E-10F8-41F2-BBBC-1EFEBD1A5C20}
+        {8B833087-D4FA-478B-B777-412350A84A82}
+        {38C85E87-7A71-43C1-AA43-195B6BC08919}
+        {B082CB49-4D13-4CDE-AD06-028533B20F01}
+        {47AF04D6-6A50-434A-838C-101A5D1416FB}
+        {53988AAA-C162-44E9-8897-0D896BFAC0B2}
+        {44384043-3A61-425F-819C-F631A5691E56}
+        {A204CB79-BF5E-4D16-8CB3-9D5DF3FC2233}
+        {DFD49DC9-1289-48DD-B0AC-49D4F38D49ED}
+        {09AE88CD-F6C4-4B8D-A02D-547B08A76273}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ed8c397-cb99-476f-a793-d8e7d09356b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T082958Z

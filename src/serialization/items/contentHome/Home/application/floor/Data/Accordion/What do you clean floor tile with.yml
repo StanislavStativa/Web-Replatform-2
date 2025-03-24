@@ -1,0 +1,38 @@
+﻿---
+ID: "90b45ec5-9608-4090-a3ec-ca0d87ce21b0"
+Parent: "b23a1211-471d-453c-8452-511893a10737"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Accordion/What do you clean floor tile with
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T050215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What do you clean floor tile with?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>We recommend using our <a href="/products/superior-grout-and-tile-neutral-cleaner-1-quart-021650" class="font-bold">Superior Grout &amp; Tile Neutral Cleaner</a> for everyday maintenance because it can be used on any material. This nonacidic, antibacterial cleaner is perfect for man-made tiles like porcelain and ceramic as well as marble and stone. <a href="/products/superior-natural-stone-deep-clean-1-quart-220159" class="font-bold">Superior Natural Stone Deep Clean</a> is great for deep cleaning set stains on stone tiles. Ask a store associate what type of cleaning product is best for your needs.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d68a43c4-0061-4823-9a60-64e6678e7862"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240717T173605Z

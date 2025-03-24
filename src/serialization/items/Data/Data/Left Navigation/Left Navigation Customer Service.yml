@@ -1,0 +1,47 @@
+﻿---
+ID: "c9b14e82-675d-415d-9f02-2fdcc16f1612"
+Parent: "1d1d2291-d14c-4d3e-8943-1f44eadd2466"
+Template: "4dac0981-40bd-427d-9354-680969c88e58"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Left Navigation Customer Service
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T100910Z
+    - ID: "36bb3b83-fbc3-4d04-bd1f-7790fdd91140"
+      Hint: Links
+      Value: |
+        {B43BFD59-0B32-405E-957A-DA549DEB0B0D}
+        {1CC69638-85C8-4014-B24A-7443BA7E8CB6}
+        {CF53D47A-2510-43BE-97C1-FBB916F8AAB3}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Customer Service
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bda01614-3f4f-42c5-8b3e-fc49d07668af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240604T063745Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link linktype="internal" text="Customer Service" querystring="" target="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

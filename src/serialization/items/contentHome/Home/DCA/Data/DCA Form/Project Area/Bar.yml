@@ -1,0 +1,34 @@
+﻿---
+ID: "7b74d23a-c4d9-4f1c-a107-cb617feb48e1"
+Parent: "44285b75-9940-48c9-be19-93b5f6db9861"
+Template: "80cdabae-036e-4bf3-8b7a-a480c25c2276"
+Path: /sitecore/content/TTS/TileShop/Home/DCA/Data/DCA Form/Project Area/Bar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T175758Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71fb3625-b679-4481-b58c-e89c139fcd20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T180016Z
+    - ID: "f84a70db-4d71-42d5-bf2b-b7e795dd1487"
+      Hint: Key
+      Value: Bar

@@ -1,0 +1,55 @@
+﻿---
+ID: "fc53e890-0833-4bb7-9d8c-f490f50fd1c0"
+Parent: "9dfb7f38-ffb6-47e4-9622-d631a89d4c8e"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/wall/Data/Multi Asset Banner
+BranchID: "6da4f1e0-56f7-4121-88e1-bc39a9c116e7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Kitchen Wall Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        Think beyond the backsplash. We love the idea of tiling a floor-to-ceiling accent wall (or even all four walls) in a kitchen. This allows you to embellish with pattern, color or texture while protecting walls from all the messes of a kitchen at the same time. Advances in technology mean you can replicate almost any design or color with tile.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {FE7D9FEC-2BBD-4B0F-9374-C15A2C359520}
+        {98B0DA0C-C9FF-40DD-B52C-990A0998792B}
+        {077B2535-DB6F-48A7-A3D8-0090CA6CCAC9}
+        {3B9DCCB1-51CE-44AA-B845-CC140C8CA0AF}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "823f7bf9-7372-429d-b4e3-53fdb3d0ec90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T104340Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "CuratedCollections_Cali_Kitchen_V1:3x2"

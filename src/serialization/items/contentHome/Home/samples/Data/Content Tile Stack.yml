@@ -1,0 +1,31 @@
+﻿---
+ID: "32fa42ce-9fcc-401f-935b-b491b8ecfe25"
+Parent: "1c66cfe8-7692-498a-b650-9a099658af4b"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Content Tile Stack
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {578078A3-C606-4FD4-8396-B8B94857AF21}
+        {ABAA2541-0167-4FF0-B308-575D8CB05F91}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T091110Z
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04b18000-88ed-4cd9-ac2e-fac1229a88a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T103434Z

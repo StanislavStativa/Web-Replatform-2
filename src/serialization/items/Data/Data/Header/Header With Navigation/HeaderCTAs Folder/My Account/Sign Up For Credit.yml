@@ -1,0 +1,42 @@
+﻿---
+ID: "27e5c54a-ba1b-4e36-aabf-db0fa1ae3021"
+Parent: "61654867-2ca2-4e1f-b9f0-7d9f8a67aa60"
+Template: "c82cef69-6f78-4e99-8b16-3c53a20ce082"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/HeaderCTAs Folder/My Account/Sign Up For Credit
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240822T072243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2221a6f-7415-402e-b314-d7d17b492928"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c3b26db7-edd2-4d70-9343-d13b5080a600"
+      Hint: IsVsibleOnlyForProUser
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T072432Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Sign Up For Credit" linktype="external" url="/pro-network#NT30" anchor="" target="" />

@@ -1,0 +1,45 @@
+﻿---
+ID: "43f31e8d-44c8-4aea-b79d-592e5c774970"
+Parent: "289486d2-a26c-4e05-8155-e6db3e3351d9"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-travertine-tile/Data/Cleaning Travertine Tile FAQ/What should you not use on travertine tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What should you not use on travertine tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Travertine tile is made of natural stone and has specific cleaning and maintenance requirements. As such, there are several things you should absolutely avoid using on travertine tile.</p>
+        <ul>
+            <li><strong>Acidic cleaners</strong>.&nbsp;Vinegar, citrus cleaners, and other acidic products can eat away at the calcium carbonate in travertine, causing permanent damage.</li>
+            <li><strong>Abrasive tools</strong>.&nbsp;Skip anything with rough or gritty textures, like steel wool, scouring pads or stiff brushes. These can scratch the soft surface of the stone.</li>
+            <li><strong>Generic tile cleaners</strong>.&nbsp;Many commercially available tile cleaners contain harsh chemicals or undisclosed ingredients that might not be suitable for travertine.</li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2703ff94-68cf-4b57-ab6d-79535fcbb050"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T180042Z

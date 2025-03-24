@@ -1,0 +1,27 @@
+﻿---
+ID: "ee97ff2d-2e72-4efe-81d4-60d5d5baed94"
+Parent: "c247041c-2801-430c-9546-7619f3501385"
+Template: "c247041c-2801-430c-9546-7619f3501385"
+Path: /sitecore/templates/Feature/TTS/Components/Search Invoice/Rendering Parameters/Search Invoice/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d77206fc-a6c6-4897-ba0a-fefaa5d9838e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240702T080956Z

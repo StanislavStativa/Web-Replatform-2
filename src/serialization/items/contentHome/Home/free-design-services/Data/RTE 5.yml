@@ -1,0 +1,44 @@
+﻿---
+ID: "908bf032-0ad4-45ed-95e3-d5dfa5ece883"
+Parent: "d0d827cc-aaf0-4fdd-b18f-0336eab806c8"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/RTE 5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240807T110853Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>&nbsp;</p>
+        <h1 style="text-align: center;">MEET A TILE SHOP DESIGNER, SHARI</h1>
+        <p><center><img alt="Tile Shop Design Associate" src="https://s7d1.scene7.com/is/image/TileShop/Meet_our_designers_Shari_circle325px" /></center></p>
+        <div style="max-width:800px; margin:auto"><p style="text-align: center;"><em>“What I like most about my job is that I’m helping make customers’ dreams reality.<br />I love hearing from happy people I’ve helped, and knowing I had a hand in creating a part of their home they will enjoy for years.”</em></p></div>
+        <p style="text-align: center;">—Shari Goodchild, Plymouth, MN</p>
+        <p>&nbsp;</p>
+        <br /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e573a1a-2f92-43c2-bb2d-805c70341b12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T115708Z

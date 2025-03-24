@@ -1,0 +1,27 @@
+﻿---
+ID: "c9d9265d-2f9b-4f9f-a1b0-93b8539c8560"
+Parent: "e568a523-653f-4c67-8079-8c8bd58cb4cb"
+Template: "e568a523-653f-4c67-8079-8c8bd58cb4cb"
+Path: /sitecore/templates/Feature/TTS/Components/Pro Registration Option/Rendering Parameters/ProformSelection/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67c1c774-dded-4f52-bb5a-f547262de8bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240529T153612Z

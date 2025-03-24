@@ -1,0 +1,49 @@
+﻿---
+ID: "8b43ca49-06ee-4c94-b971-3363e774e3ba"
+Parent: "0e5df92b-51b2-4b63-a8a8-4538e4a23a16"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {E40D73EE-A9B3-4074-B1B9-9CB87911FF80}
+        {147FFE1F-842C-4306-AB3F-3869C084698A}
+        {25EE585A-EA33-423C-98FC-081B77185922}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T153642Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Location
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bdb1151-7870-478d-b898-357b0409ac33"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <div class="rich-text md:px-10 px-10" style="text-align: justify;">
+        <p style="text-align: justify;"><span>Border tiles are often used in kitchens and bathrooms but can be installed in any room. Run a listello across the backsplash on your natural stone kitchen walls or in your porcelain-tiled bathroom. Interesting borders can be integrated into floors, too. Use listello as a border in a tile rug or install it in your shower pan.</span></p>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T062435Z

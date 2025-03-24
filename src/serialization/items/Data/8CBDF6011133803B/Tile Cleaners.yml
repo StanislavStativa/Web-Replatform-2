@@ -1,0 +1,30 @@
+﻿---
+ID: "93600e8b-d039-45db-be06-0cdfa96fceed"
+Parent: "53bcd35a-cbfc-41b1-b1ec-08d112dcb75e"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Care and Maintenance/Tile Cleaners
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T074440Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Cleaners
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6f600d7-fa5c-4584-bd1b-a10458cc1581"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T080841Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tile Cleaners" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{342EF27E-501A-4890-956C-894A7781008F}" />

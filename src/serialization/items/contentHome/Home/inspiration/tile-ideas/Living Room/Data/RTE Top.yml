@@ -1,0 +1,43 @@
+﻿---
+ID: "0d512ed5-b70a-4beb-b831-42b8889be4ef"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/RTE Top"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="font-latoLight mb-8">Living Room Tile Design Ideas</h1>
+        <p class="mb-4">
+        Tile can be a stylish way to add personality to your living room. It&rsquo;s durable and easy to maintain which makes it a sensible choice for your high-traffic areas. Advances in wood-look tiling has made it a fashionable, cost-effective alternative to the real thing. Our associates at The Tile Shop are expertly trained to help you find the perfect tile for any decor.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "438adc04-4be6-428d-80f5-f64caab253a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T144549Z

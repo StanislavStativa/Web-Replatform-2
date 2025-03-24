@@ -1,0 +1,62 @@
+﻿---
+ID: "86bd342f-1bcc-4727-8ecb-77abefd1853a"
+Parent: "d94e448d-bccd-4eaf-993f-83c359871b84"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/featured/zellige/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Zellige Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Introduce the organic beauty of handmade Moroccan tile into your space with the Zellige collection. Each piece of this carefully crafted tile is individually shaped and glazed by hand before being unevenly heated in the kiln. Through this meticulous process, incredible variation in color and surface texture from tile to tile is achieved, giving each piece its own unique look and feel. Offered in a variety of rich neutral colors and a dynamic range of shapes, the Zellige collection effortlessly embodies refined artisanal style</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04e2de89-c937-4b45-9f70-342ae781d7a1"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240707T162015Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Zellige_group_Horizontal_V3%3aCategory_Intro_Image_V2
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {0F82E3CD-9A7C-4A1C-8E1B-025C299B7A03}
+        {514F8254-4DFC-4221-A7E5-DB6AFFF756CA}
+        {6004658D-5E3D-4211-9461-C95210D1EA8F}
+        {51271F51-869C-4537-850D-4FA262DC1F78}
+        {AD5BAF77-0AED-4F5B-93ED-2ECEFE6AA6F5}
+        {23FA28E4-D541-40D4-9CAE-8DB01A07B31D}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,165 @@
+﻿---
+ID: "d134f1d3-f12d-4edd-a16a-e2e165a318e3"
+Parent: "a95c3edc-df3f-4dbb-8d78-a1574c7de9dc"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/floor
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C3712E14-0D0F-467C-86D0-A0BDF8B7A6B5}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B92D18EC-7898-49BC-ADC0-F0404B53CC75}"
+          p:before="*"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{2D953279-0067-4233-A24E-268D25B95C7B}"
+          p:after="r[@uid='{B92D18EC-7898-49BC-ADC0-F0404B53CC75}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{2D953279-0067-4233-A24E-268D25B95C7B}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B22852DD9-6525-4BDB-AB70-7B7FD874FA0D%7D&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier=DesignIdeasAnchor&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{58B58564-AD96-4707-9D44-C8E8DC286B66}"
+          p:after="r[@uid='{DA85CF3E-0243-4124-98A6-9C506D21746D}']"
+          s:ds="local:/Data/Featured Tile 2"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{1D27A8D4-98EB-48B0-8D35-8A30B8147828}"
+          p:after="r[@uid='{58B58564-AD96-4707-9D44-C8E8DC286B66}']"
+          s:ds="local:/Data/Featured Tile 3"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+        <r
+          uid="{C46DBAC4-AA51-4DBC-BF9A-D7AD18C797F4}"
+          p:after="r[@uid='{1D27A8D4-98EB-48B0-8D35-8A30B8147828}']"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="headless-main" />
+        <r
+          uid="{52507A9D-E1E0-4435-BB11-07338DB013C0}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Accordion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier=Accordion-FAQ&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03620094-96fb-429c-ba8e-6d506705b509"
+      Hint: Application
+      Value: "{EDD4FBF4-03B6-4E24-9CFB-E07F6612C63B}"
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Ceramic floor tile is durable, classic and, best of all, versatile. The variety of shapes, styles and colors that ceramic tile comes in is a large part of its appeal and popularity.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{EF5264BB-3C89-4308-BF3D-1A491610FF75}" querystring="" anchor="" title="" linktype="internal" text=" Ceramic Wall" url="/TTS/TileShop/Home/tile/material/ceramic/wall" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: |
+        <link text="FAQs" linktype="anchor" url="Accordion" anchor="Accordion" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T183539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Ceramic Floor Tiles for Bathroom, Kitchen & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Ceramic Floor Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a033750-5e83-4daf-b146-a614481c81f9"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Ceramic Floor Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{A95C3EDC-DF3F-4DBB-8D78-A1574C7DE9DC}" querystring="" anchor="" title="" linktype="internal" text="Ceramic" url="/TTS/TileShop/Home/tile/material/ceramic" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "The Tile Shop offers a selection of ceramic floor tiles for kitchens, bathrooms & more. Shop in-store or online today. Order a sample for only $3."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240917T134645Z
+    - ID: "f036ae92-0b0e-4866-a056-fdf3f7952f4b"
+      Hint: ProductHierarchy2
+      Value: "{FCF5C01E-AA89-4F40-ACA8-14226E93ACEC}"
+    - ID: "f35220e0-1521-4df8-8e63-828af4fde1ce"
+      Hint: DefaultItemsPerPageMobile
+      Value: 24
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />

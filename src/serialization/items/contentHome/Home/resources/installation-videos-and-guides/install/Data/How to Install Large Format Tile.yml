@@ -1,0 +1,40 @@
+﻿---
+ID: "4f896757-2ac1-4147-98ad-bfb574f63ad3"
+Parent: "9a483365-1501-435a-a024-d818eccba061"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/install/Data/How to Install Large Format Tile"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084303Z
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bbf0740-94e3-4f90-a840-c069c65ec9ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="How to Install Large Format Tile" anchor="" linktype="internal" class="" title="How to Install Large Format Tile" target="" querystring="" id="{3DC8D3E2-5E40-4206-B0D7-C024A299BB6C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240522T121219Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: pdf/resources/How_to_Install_Large_Format_Tile_01012019.pdf

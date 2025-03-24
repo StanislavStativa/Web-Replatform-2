@@ -1,0 +1,33 @@
+﻿---
+ID: "b5fa479b-770a-411f-ab91-524209651dcf"
+Parent: "9370cc92-b65d-48a1-96a4-082096020fe3"
+Template: "9370cc92-b65d-48a1-96a4-082096020fe3"
+Path: /sitecore/templates/Feature/TTS/Components/Secondary Banner/Folder Templates/Secondary Banner Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {787B638A-C8F3-461E-8FD9-FCC9E73C1F17}
+    {9370CC92-B65D-48A1-96A4-082096020FE3}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92b93300-44cc-402b-9a3d-7f790688dbf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T094158Z

@@ -1,0 +1,188 @@
+﻿---
+ID: "5f436d9b-f540-4af7-b2a1-ddb44654378d"
+Parent: "90f75c4f-6da5-421b-a51b-9313c376b146"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/geometric-tile"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{021B8103-2353-47AF-8018-97F762D6C412}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{918230BD-1D8E-4535-8CB2-C99AD07D2348}"
+          p:after="r[@uid='{021B8103-2353-47AF-8018-97F762D6C412}']"
+          s:ds=""
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{34B00E27-170B-4993-A68A-127EB8E8DF92}"
+          p:after="r[@uid='{918230BD-1D8E-4535-8CB2-C99AD07D2348}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{4780C0B6-63AC-4912-8898-4D5CB52E7919}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01740a82-a02d-42ec-9792-57c44e4e8923"
+      Hint: Collection
+      Value: |
+        {8733314C-12DC-4A3F-925E-C68F17B030BB}
+        {8ACA81FA-08EA-410C-BED5-72AB881959E2}
+        {F6A95CA8-029C-4E3E-B44D-FA1DA662E784}
+        {83A40198-E950-45F2-8A47-08CC50B7D9B3}
+        {D4ABDDA3-3B48-47EB-8470-0D0971E0B1D1}
+        {3D1E31A9-FD0A-4DDB-A692-CC04A3409B95}
+        {521E74A8-38F0-4218-91E7-E3B9585F5553}
+        {2BE3369A-5B1D-4AEB-9885-6B4F8381D2A0}
+        {B849BA8E-C327-46D4-B0D7-1D296C6D4E5F}
+        {1DB9003A-8728-45AE-BCD3-88736D740F65}
+        {B98E7377-847C-48DA-B848-CC720AEB4E93}
+        {D2A816E2-33A9-4C66-AE61-C8F7B226B420}
+        {81A4414F-324B-4C88-9934-21DAD66089A1}
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: The extravagant movement, iconic shapes and energetic patterns of geometric tile allow you to make a statement in any space. These tiles aren&rsquo;t just an addition to a design &mdash; they ARE the design. Geometric shapes include squares, rectangles, triangles, polygons, hexagons, diamonds and pyramids. With so many different variations and shapes in geometric tile, the possibilities are endless.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{7E7B1042-D4C6-4AA5-B89D-AADE84F8908C}" anchor="" target="" title="" linktype="internal" text="Brick Look" url="/TTS/TileShop/Home/tile/featured/brick-look" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{5B047EDA-68E1-4E73-8F4A-9DD7B16EA7F3}" anchor="" target="" title="" linktype="internal" text="Large Format" url="/TTS/TileShop/Home/tile/featured/large-format" />
+    - ID: "223fce0e-44cf-45db-887f-358e111cb3f0"
+      Hint: AdditionalSKUs
+      Value: |
+        {C991AAC1-1E57-4EE8-BB86-CC754C30904D}
+        {9E98A3E4-17BF-48F7-81DE-9C0B3E9D6396}
+        {834C705A-6717-4B6B-9DC0-06C30A0A0054}
+        {EB0D69F5-6C19-4BC2-A6E8-05B9B0ED7A56}
+        {EFC5C284-1DFA-4E99-880D-F75F51EEF72D}
+        {72ADE997-B80E-4847-9AD7-CBD4098E169D}
+        {50130963-07AF-4E65-83DF-6992C1312372}
+        {B90B8A86-D517-475C-B501-12D1D9846AA7}
+        {32ECA081-B03D-42DE-BA1B-CA7785C630A6}
+        {4C92E260-26B5-4529-91C0-E37DB5C680C4}
+        {CDA58909-4D4F-4183-8183-C3767CA0D6B7}
+        {CDA58909-4D4F-4183-8183-C3767CA0D6B7}
+        {304C2B32-2636-480C-AE47-2D527FAB298A}
+        {414E3B40-5C71-400E-96F7-E0AE2B6D79D1}
+        {C349EF19-5385-4CB7-9BA7-A3DF7B95F7E6}
+        {5E6B287D-5DB0-4606-A634-C91B9514CB14}
+        {EA902ABC-5E37-42A1-8ABF-ACFBE86ABE0F}
+        {13FFAB11-56A8-41BB-B108-B19F69D25C48}
+        {4D6B3447-99E9-44A0-BA9A-30D90ABBEC84}
+        {85889DBF-21A1-4D3D-B819-2A1E349BBFFB}
+        {E15BB0C6-7611-4AF2-AB9C-B67D968A91CB}
+        {DAB88E87-F6D5-473B-88C1-DA23F82B99AC}
+        {777DD619-5047-4561-88BA-332B870463AE}
+        {2A48FC68-BE8C-4FB0-875E-04C285BC8B8C}
+        {2A48FC68-BE8C-4FB0-875E-04C285BC8B8C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181218T182725Z
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Geometric Tile for Floors, Backsplashes & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Geometric Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jandersen2
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" querystring="" id="{1B5DEE5E-27CC-42AF-BBB0-55B8A2057E6E}" anchor="" target="" title="" linktype="internal" text="Art Glass" url="/TTS/TileShop/Home/tile/featured/art-glass" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Connect_Buildout_Wall_KJ2_Cat:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b03a75ca-b2eb-430f-9ca4-2a86ec786bee"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Geometric Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{F3F91C13-F2A3-4D82-AC9F-695541B443D1}" querystring="" anchor="" target="" title="" linktype="internal" text="Subway" url="/TTS/TileShop/Home/tile/featured/subway" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop the look of unique shapes and patterns in geometric tile at The Tile Shop. Get your Free Design Consultation at a local store.
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" querystring="" id="{8A4DADE1-3878-4DA5-B153-FB384E3AD080}" anchor="" target="" title="" linktype="internal" text="Wood Look" url="/TTS/TileShop/Home/tile/featured/wood-look" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T125802Z
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" querystring="" id="{F649CC4B-392F-41E4-A30B-CE4FB7EB1E40}" anchor="" target="" title="" linktype="internal" text="Mosaics" url="/TTS/TileShop/Home/tile/featured/mosaics" />

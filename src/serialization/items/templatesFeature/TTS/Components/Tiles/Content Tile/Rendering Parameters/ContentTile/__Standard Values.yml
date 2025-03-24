@@ -1,0 +1,27 @@
+﻿---
+ID: "2ba2cfdb-d19f-401e-9d69-a1a33d8bd963"
+Parent: "a5d1e880-f6ee-4d52-bc45-7410bf8302ca"
+Template: "a5d1e880-f6ee-4d52-bc45-7410bf8302ca"
+Path: /sitecore/templates/Feature/TTS/Components/Tiles/Content Tile/Rendering Parameters/ContentTile/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d94a64f5-e221-4430-ae1b-364c2cd431fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T031413Z

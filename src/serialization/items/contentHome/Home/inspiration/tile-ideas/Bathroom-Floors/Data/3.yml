@@ -1,0 +1,42 @@
+﻿---
+ID: "75a4f567-67af-4a86-86ac-eb456f38287a"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Posh Polka Dots
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Elegant and whimsical, this chic bathroom designed by <a class="font-bold underline" rel="noopener noreferrer" href="https://beginninginthemiddle.com/" target="_blank">Beginning in the Middle</a> features a custom polka dot design using the <a class="font-bold underline" href="/products/firenze-calacatta-honed-2-in-hex-marble-mosaic-tile-650239">Firenze Carrara</a> and <a class="font-bold underline" href="/products/black-marquina-polished-marble-hex-mosaic-wall-and-floor-tile-2-in-650292">Black Marquina</a> marble tile. <a class="font-bold" href="/shape/hexagon">Hexagon tile</a>, available in a wide variety of colors and materials, is perfect for creating a personalized pattern for your bathroom floor.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4025a3ee-c255-4e05-adaa-6e5e7fd72114"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T124324Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "BeginningInTheMiddle_ORCSpring2020_Bathroom_038:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 3

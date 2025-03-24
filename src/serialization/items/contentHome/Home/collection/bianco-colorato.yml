@@ -1,0 +1,148 @@
+﻿---
+ID: "f4fa16c7-d602-469f-9bf3-e9c3438af491"
+Parent: "352b24cb-9b91-4ade-971b-3496f587e50f"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/bianco-colorato"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2BF42842-96F9-4173-B2CF-E0690BDC3C17}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{7965E5B5-B4CB-4090-A873-F8FEFD38CAAC}"
+          p:after="r[@uid='{2BF42842-96F9-4173-B2CF-E0690BDC3C17}']"
+          s:ds="{F4FA16C7-D602-469F-9BF3-E9C3438AF491}"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{35F236D7-7EA9-4A8D-813F-28D27BDD3A8A}"
+          p:after="*[1=2]"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01740a82-a02d-42ec-9792-57c44e4e8923"
+      Hint: Collection
+      Value: "{87945D34-0C85-4F87-A41C-DCFBB57CF160}"
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: With a wonderful mix of warm and cool tones, the Bianco Colorato Marble Collection will infuse your space with elegant luxury. Sourced from Turkey, every piece in this extensive collection features a brilliant white background with bold grey and light taupe veining with a polished finish. The shiny, slightly reflective surface and beautiful natural color variation will complement a range of contemporary and traditional styles and are perfect for virtually any indoor space.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: 
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{6A6D98FE-F7D8-4707-BB18-18081FE43798}" anchor="" title="" linktype="internal" text="Black Marquina" url="/TTS/TileShop/Home/tile/collection/black-marquina" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T143710Z
+    - ID: "397ca1bd-6dda-4aac-b479-d9281b757b38"
+      Hint: RelatedLink10
+      Value: |
+        <link class="" querystring="" id="{1EA31E61-5FF4-4637-BAB7-9561D95D8A7D}" anchor="" title="" linktype="internal" text="Noir Travertine" url="/TTS/TileShop/Home/tile/collection/noir-travertine" />
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link class="" id="{364D8BD6-D628-46E5-BFC2-480D500D7A8D}" querystring="" anchor="" title="" linktype="internal" text="Silver Mist" url="/TTS/TileShop/Home/tile/collection/silver-mist" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Bianco Colorato Marble Tile for Floors & Walls | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Bianco Colorato Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" id="{53FB7D19-9006-435B-A222-FFC5A5D5B003}" querystring="" anchor="" title="" linktype="internal" text="Victoria Grey" url="/TTS/TileShop/Home/tile/collection/victoria-grey" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "650983_kitchen_render:Category_Intro_Image_V2"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: |
+        <link class="" querystring="" id="{67F37255-E209-4445-BA73-F9D7A56E1366}" anchor="" title="" linktype="internal" text="Legno Limestone" url="/TTS/TileShop/Home/tile/collection/legno-limestone" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bb7c1e8-2d5b-4e38-9b0d-b1f045b96b85"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Bianco Colorato Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop the beautiful Bianco Colorato marble tile collection at The Tile Shop. Shop in-store or online today to get started. Free design consultations."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" querystring="" id="{E33D3946-EBA0-469C-8742-2FC00955B85F}" anchor="" title="" linktype="internal" text="Firenze" url="/TTS/TileShop/Home/tile/collection/firenze" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090412Z
+    - ID: "efb31bd2-611a-4001-bdd8-40e0994c5645"
+      Hint: RelatedLink9
+      Value: |
+        <link class="" querystring="" id="{A3A01D62-A23E-482A-89FB-908112052618}" anchor="" title="" linktype="internal" text="Arctic White" url="/TTS/TileShop/Home/tile/collection/arctic-white" />
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" querystring="" id="{D84404D0-3358-4998-A66C-6B56AEBAE51F}" anchor="" title="" linktype="internal" text="Hampton Carrara" url="/TTS/TileShop/Home/tile/collection/hampton-carrara" />

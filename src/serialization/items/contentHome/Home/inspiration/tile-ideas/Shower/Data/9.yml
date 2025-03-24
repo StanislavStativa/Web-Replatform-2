@@ -1,0 +1,42 @@
+﻿---
+ID: "6837c762-83fa-4c40-9965-cb1e656cf3a0"
+Parent: "245b6f15-d04d-421d-b80e-33ab5ff3f5a0"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Shower/Data/9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add Texture With Sculptural Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Take your shower to new dimensions with sculptural or <a class="font-bold underline" href="/featured/3d">3-D tile</a>. Soft waves, geometric shapes and intricate floral designs will add captivating depth and texture to your shower wall. The&nbsp;<a class="font-bold underline" href="/blanco-waves-ceramic-wall-tile-8-x-24-in-494248">Blanco Waves tile</a> shown here creates a pattern of light and shadow on this shower wall that looks just as  dry as it will under a cascade of water.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5d0d043-abae-41dc-a89e-5b5123c9f589"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 27
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T142239Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Brynley_B_Roseville_1:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 9

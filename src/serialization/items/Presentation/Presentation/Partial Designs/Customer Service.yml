@@ -1,0 +1,62 @@
+﻿---
+ID: "8038b4e3-4749-4e14-8ff8-88293906b490"
+Parent: "978b27e5-026c-4fff-b117-0bd5c5e19c07"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/TTS/TileShop/Presentation/Partial Designs/Customer Service
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "tile-partial"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{92F6C3C5-F3DE-4F99-9FD7-DD3FC6B4002B}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AA0A6F1D-3237-4305-9CE1-B9F73C9672AE}"
+          p:before="*"
+          s:ds="{C9B14E82-675D-415D-9F02-2FDCC16F1612}"
+          s:id="{E858E7D6-51D2-4936-AF17-8D3E634754D4}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BBB879C33-F027-47EF-846F-A9593B33C9D1%7D&amp;Styles&amp;SectionHeadingTag=h3&amp;SectionHeadingSize=h3&amp;HeadingSize=h5&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/column-1-3" />
+        <r
+          uid="{7884FAFC-18DF-4A0F-A87F-E0B6C7F3AF90}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B07AD312B-A353-440C-8C51-7B2F1E3A80E3%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B8A3D5D1C-63A4-4CB2-B98C-2D919FBEF0E8%7D%7C%7B4BE4C4E9-F0AA-4359-8D35-D53E30966FD6%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B37BB08FE-34AF-4636-A5BE-693C98FE83C8%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T080930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8b7697e-c7b8-4778-9674-fb5c8b0e9fd1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T154120Z

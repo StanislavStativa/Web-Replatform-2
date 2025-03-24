@@ -1,0 +1,42 @@
+﻿---
+ID: "6da10c8a-7594-48e6-9947-456f24996206"
+Parent: "de473b6f-98f0-42f8-abb0-3363911026aa"
+Template: "98368640-3077-439d-a06f-1a59606b1fbc"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/My Account Billing/Pay On Account/Data/PayOnAccount
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240708T191036Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8763966D-1D80-4E20-B670-C525A7A4EBDF}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Make Payment on Account
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb6b6f8e-ad3c-46c6-9dd1-2713af2bd518"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T191133Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="CONTINUE" anchor="" linktype="internal" class="" title="CONTINUE" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

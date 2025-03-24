@@ -1,0 +1,30 @@
+﻿---
+ID: "9e52e67e-eaa9-4d41-b2ed-cbd278560578"
+Parent: "4bc430c7-3a31-4f0e-bc9e-ed6daa945c79"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: "/sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Luxury Vinyl/Luxury Vinyl Looks/Wood-Look luxury Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T065224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0683f8e-1cd1-4af2-bcbb-d4d01b5d524c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T072206Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Wood-Look luxury Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1C8984DD-D17D-4333-AA3F-6454DA18E343}" />

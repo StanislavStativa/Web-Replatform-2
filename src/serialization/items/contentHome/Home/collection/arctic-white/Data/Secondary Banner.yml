@@ -1,0 +1,63 @@
+﻿---
+ID: "98fcbc62-fdd2-40f8-a2d3-56e28445a2d8"
+Parent: "0b1b8e07-7d9c-456b-9b48-1c609e4819e3"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/arctic-white/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Arctic White Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>A single quarry in Turkey is the source of these rare and top-grade marble tiles. The Arctic White collection displays unique ivory tones, lending a subtle warmth to any space that is not often found among white marbles. With a complete collection of floor and wall tiles, mosaics, trim and accessories all originating from the same location, designing a fully coordinated and customized look is simple.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a3a56eb-c44f-49af-ba36-13e3ecb9251c"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T093202Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "arctic_white_wall_buildout_v1:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {2BA5C0D3-BC76-42EA-B6E8-111065AFF4EE}
+        {3011524E-CE4C-440F-812D-6D8A212C67D6}
+        {58EF7532-BCE9-4CE2-A238-503012079928}
+        {BB4B314B-85A1-4D4B-9EC1-46CC98013F0D}
+        {1DE2C94E-04BE-4718-AB6F-8633F7FF3DB1}
+        {E465E22A-546E-4C88-A4BB-9F4213842CA9}
+        {1597175A-4C0C-4B3D-BAD1-4C7306371132}
+        {A94ABFB9-9A9D-49C8-BC72-5F5BB100661F}
+        {233A9F4F-F1F0-49DC-A1A2-0F03DB8B94ED}
+        {55382F2C-06ED-43F1-904E-9FF4D91B2907}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

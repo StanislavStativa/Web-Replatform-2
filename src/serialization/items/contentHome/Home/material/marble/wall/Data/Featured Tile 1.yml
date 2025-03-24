@@ -1,0 +1,47 @@
+﻿---
+ID: "2f40f50c-029a-446f-a31d-2fc64bc64684"
+Parent: "4c713274-4364-4a82-93ef-9fba2437cb64"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/wall/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {242509F0-0126-46CF-A848-31F73534FBB0}
+        {5BB14921-515D-4231-8673-0387DE5D3CD0}
+        {9460E2D1-72B2-43C0-8F08-E4B59EAD368F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Using Marble Tile for Walls in Every Room of the House
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>We think marble wall tiles look great in every room of a home, but there are two spaces where we see customers being especially happy with the results of installing marble wall tile: bathrooms and kitchens. </span></p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <ul><li><strong>Bathrooms:</strong><span> Whether you want to create a spa-like sanctuary, or simply give a plain powder room a high-impact upgrade, adding marble wall tile to a bathroom is always a good move. You can unify all the parts of a bathroom by choosing the same color of marble throughout, and add visual interest with different shapes or patterns. For instance, you could stagger </span><a href="/featured/subway" class="font-bold">subway tile</a><span> horizontally on the main walls, and vertically orient the same marble tile for shower walls.</span></li><li><span></span><strong>Kitchens:</strong><span> In the heart of your home, marble kitchen wall tiles can be used to achieve a variety of looks. We especially love exploring different marble finishes in the kitchen—brushed or tumbled tiles look more rustic and timeworn, while the more reflective surface of a polished marble wall tile adds an elegant, minimalist vibe.</span></li></ul></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b42ef65-624c-4220-b201-5632dc1d8753"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T074036Z

@@ -1,0 +1,43 @@
+﻿---
+ID: "b012086a-6a9b-47ab-bea3-33cb4d7d6c39"
+Parent: "bf2ef789-9b01-4b97-a7f6-ca3718526dac"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Material/Data/RTE Top"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T191844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="font-latoLight mb-8">Patterns for Different Tile Materials</h1>
+        <p class="mb-4">
+        <strong>Tile Layout Ideas by Material</strong></p>
+        <p>From ceramic to porcelain to natural stone, the material you choose for your tile installation can drastically impact the character of your floors and walls. Learn about different patterns and layouts to get some inspiration then stop in to The Tile Shop location near you to check out more examples in person.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9bd4a288-0426-494e-95b1-469ed85dc72b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T144942Z

@@ -1,0 +1,175 @@
+﻿---
+ID: "fc1b590d-d036-4537-8505-f54a823ab913"
+Parent: "48387828-6cc3-4b08-939d-e4140cac821f"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{DEC3419E-AA77-4F02-94CF-F39732ACC120}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h1&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main" />
+        <r
+          uid="{19622CBF-2C50-4F8F-A138-E7513257E590}"
+          p:after="r[@uid='{DEC3419E-AA77-4F02-94CF-F39732ACC120}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{19622CBF-2C50-4F8F-A138-E7513257E590}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B22852DD9-6525-4BDB-AB70-7B7FD874FA0D%7D&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{DCF69BF4-5703-4E7B-BF83-FB932182DEB0}"
+          p:after="r[@uid='{DA85CF3E-0243-4124-98A6-9C506D21746D}']"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{C692295E-4400-44AD-9D0B-ADCA17160E3E}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Accordion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03620094-96fb-429c-ba8e-6d506705b509"
+      Hint: Application
+      Value: "{2748C150-952C-4C75-BE8A-82E98032AB45}"
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Installing a striking tile design around your fireplace is a great way to establish it as a focal point in your living room. Available in stone, marble, glass, slate, ceramic and more, our tile materials offer a durable, heat-resistant surface that also adds style to your fireplace surrounds, mantels, back panels and hearths."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{308D998F-172F-477B-9219-8FD3DE5661FD}" anchor="" title="" linktype="internal" text="Fireplace Hearth Floor" url="/TTS/TileShop/Home/room/fireplace/hearth-floor" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: |
+        <link text="FAQs" linktype="anchor" url="Accordion" anchor="Accordion" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T182525Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Modern Fireplace Wall Surround Tiles | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Fireplace Wall Surround Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "JeweledInteriors_ORCFall2021_Fireplace_010:Category_Intro_Image_V2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0034c527-d8fc-47b2-a134-017f8fb94f13"
+    - ID: "97d3baa4-e854-4132-bf76-d04276f03662"
+      Hint: ExcludedSKUs
+      Value: |
+        {C77E4A72-4DA3-4354-B810-55322833CBBB}
+        {EF24E81D-DEB3-418D-BC1C-800F2268F310}
+        {32F71BC6-9553-4796-A76C-66176CED3DBE}
+        {43CB8D86-9931-43A1-B97F-47B4CFD11FB4}
+        {5019C6F4-D3A9-4D4B-BF8B-2C2A216B4E30}
+        {DA545FC0-C42D-4828-8A84-892B4A1FB994}
+        {BC714AA3-1FD1-4383-A76B-2D6AC443B62E}
+        {BD2AC0BF-24DB-4F82-B325-97A0FEE0F2EE}
+        {260BC46F-55CC-4CEB-97BD-2DC86FD9E516}
+        {08A84DBB-21C9-4A7D-971D-D113EB5809A3}
+        {B1228CF7-5484-4CFF-B260-6B5A46771BBC}
+        {385C0CE3-A5FF-48B3-BE70-0C21B05BC9B6}
+        {4795611A-0922-4DC9-A63A-86736741017D}
+        {9C9071F4-7425-4729-9311-A0C2B68CDDEF}
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Fireplace Wall Surround Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{48387828-6CC3-4B08-939D-E4140CAC821F}" anchor="" title="" linktype="internal" text="Fireplace" url="/TTS/TileShop/Home/room/fireplace" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Explore fireplace wall surround tile at The Tile Shop. Shop in-store or online today to get started. Order a sample for only $3 with free shipping."
+    - ID: "c40acd03-ffab-4749-bb1a-7d2cc07fa64d"
+      Hint: RoomBoost
+      Value: "{72B93909-5445-44AF-8AE7-68C40373AB86}"
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" querystring="" id="{98347312-756F-4122-82C9-8794408CB88D}" anchor="" title="" linktype="internal" text="Fireplace Mantle Accent" url="/TTS/TileShop/Home/room/fireplace/mantle-accent" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T125751Z
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />

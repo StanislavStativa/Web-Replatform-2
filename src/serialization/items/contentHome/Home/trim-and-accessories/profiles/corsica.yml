@@ -1,0 +1,146 @@
+﻿---
+ID: "d77c6e2c-3caf-4b98-94d9-72523944744a"
+Parent: "e03e2e3a-e074-43f0-a01a-69f88dedcafa"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/corsica"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 825
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{08AABBDC-6922-4E94-9CE9-8E44D48A70B1}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{B1223BB4-CA0C-4AAA-ACC5-CD8ECA77230C}"
+          p:after="r[@uid='{08AABBDC-6922-4E94-9CE9-8E44D48A70B1}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{BEBE28BE-B9D1-474C-9D05-39EA23961F30}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Add a touch of high-end style to your walls with an elegant Corsica tile fixture. Made from limestone, marble or travertine, this wall trim tile is perfect for completing your look. Corsica tile will look sophisticated whether you install it in the corner of a high-end bathroom or a contemporary living room."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{84A40610-E614-455B-89F9-84E40D6261CE}" querystring="" anchor="" title="" linktype="internal" text="Somerset &amp; Pencil" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/somerset-pencil" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" id="{705F4FE6-2176-45F2-BC1C-0B6BF27A6A5E}" querystring="" anchor="" title="" linktype="internal" text="Durand" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/durand" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T191849Z
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link class="" id="{053439F3-14AE-4CA0-B4DD-DEC170F55A37}" querystring="" anchor="" title="" linktype="internal" text="Capital" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/capital" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Corsica Tile Profiles - The Tile Shop"
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Corsica
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" id="{BA705950-305A-4C5E-9BD3-39B82120F4FB}" querystring="" anchor="" title="" linktype="internal" text="Barnes" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/barnes" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Biltmore_Charlotte-F_Hero_Plymouth_2_Cat:Category_Intro_Image"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: |
+        <link class="" id="{2730FDE9-7E29-49A2-B322-F7D68479B3D6}" querystring="" anchor="" title="" linktype="internal" text="Cornice" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/cornice" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7a1db08-6399-418f-9d92-f831b96c3ba6"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Corsica
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{03DD0CC7-FE06-49AA-A527-BD9D938CE5F6}" querystring="" anchor="" title="" linktype="internal" text="Bullnose &amp; Trim" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/bullnose-trim" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop our huge selection of corsica tile profiles and get expert advice and assistance from The Tile Shop. Visit us today for your free design consultation!"
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090416Z
+    - ID: "e8b113e6-1244-4089-ba43-a9ad3527b22b"
+      Hint: MaterialGroup
+      Value: "{419B2618-856B-4271-A8C8-E58FCE482BB8}"
+    - ID: "efb31bd2-611a-4001-bdd8-40e0994c5645"
+      Hint: RelatedLink9
+      Value: |
+        <link class="" id="{A64E2350-AA32-42E5-8D12-D6FEFAD15D7A}" querystring="" anchor="" title="" linktype="internal" text="Skirting" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/skirting" />
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" id="{033935B1-AD97-4EAB-B7D3-42B753ACFF42}" querystring="" anchor="" title="" linktype="internal" text="Pepin" url="/TTS/TileShop/Home/tile/trim-and-accessories/profiles/pepin" />

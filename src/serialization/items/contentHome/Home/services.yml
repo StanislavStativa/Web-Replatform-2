@@ -1,0 +1,158 @@
+﻿---
+ID: "1cbb6494-33fd-45ea-9b50-e387944386a6"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: /sitecore/content/TTS/TileShop/Home/services
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4C307F64-AB76-4E66-A761-A0F2E85EFDD9}"
+          p:before="*"
+          s:ds="local:/Data/OUR SERVICES"
+          s:id="{05FB6376-7942-46D4-99FE-BAD1A5ABC0FF}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main" />
+        <r
+          uid="{717E8546-FE34-4F74-90E8-FF591E8AE39D}"
+          p:after="r[@uid='{4C307F64-AB76-4E66-A761-A0F2E85EFDD9}']"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main" />
+        <r
+          uid="{A7650970-7637-4185-A56F-324C3F4A560D}"
+          p:after="r[@uid='{717E8546-FE34-4F74-90E8-FF591E8AE39D}']"
+          s:ds="local:/Data/Video"
+          s:id="{AEDAE2CD-F5A8-4EEE-B56A-8C312BF38A19}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;TitleAlignment=Left&amp;HeadingSize=h2&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main" />
+        <r
+          uid="{3B41FA4D-7B37-46C5-A39A-71D3AF09D6F9}"
+          p:after="r[@uid='{A7650970-7637-4185-A56F-324C3F4A560D}']"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main" />
+        <r
+          uid="{6B1480EE-610C-4E72-A8DF-112C81E4E1C6}"
+          p:after="r[@uid='{3B41FA4D-7B37-46C5-A39A-71D3AF09D6F9}']"
+          s:ds="local:/Data/HOW DO I GET STARTED"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="FieldNames&amp;HorizontalAlignment=Left&amp;FinanceBanner=0&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;VerticalAlignment=Bottom&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;BackgroundColor=Light&amp;IsPinterestEnable=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;MobileVerticalAlignment=Bottom&amp;CTASize=Small&amp;DynamicPlaceholderId=5&amp;Opacity&amp;MobileHorizontalAlignment=Left"
+          s:ph="/headless-main" />
+        <r
+          uid="{741CF59A-0331-47D5-A639-6282CA77943A}"
+          p:after="r[@uid='{6B1480EE-610C-4E72-A8DF-112C81E4E1C6}']"
+          s:ds="local:/Data/RTE 3"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main" />
+        <r
+          uid="{D2C92D77-24B6-4888-BB8A-03A218B0EA70}"
+          p:after="r[@uid='{741CF59A-0331-47D5-A639-6282CA77943A}']"
+          s:ds="local:/Data/Content Tile Stack List"
+          s:id="{5F4114CA-55C9-424E-9733-66F405FAFB25}"
+          s:par="FieldNames&amp;IsImageOnRight=0&amp;SectionHeadingTag=h2&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;IsImageClickable=0&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;TitleAlignment=Left&amp;BackgroundColor=Light&amp;IsPinterestEnable=1&amp;CTAColor=Black&amp;HeadingSize=h2&amp;SectionHeadingSize=h2&amp;CTASize=Small&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main" />
+        <r
+          uid="{ED31A89F-F5DE-4270-99F0-2E522F916068}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Olapic Widget"
+          s:id="{EA45EBC8-600B-4663-87B6-1B2F1A61056C}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles=%7b4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7d%7c%7bA37A93DA-8C99-4022-9579-B6A49433D41C%7d&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;IsCTATextInCaps=1&amp;HeadingSize=h2&amp;DynamicPlaceholderId=9"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D2C92D77-24B6-4888-BB8A-03A218B0EA70}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsImageOnRight&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;TitleAlignment=Left&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7" />
+            <r
+              uid="{ED31A89F-F5DE-4270-99F0-2E522F916068}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9" />
+            <r
+              uid="{23ED3A25-5BAD-4F3E-8E03-EA5818F791B4}"
+              p:after="r[@uid='{ED31A89F-F5DE-4270-99F0-2E522F916068}']"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="headless-main" />
+            <r
+              uid="{8D0B725B-C3CD-4C74-8B19-0940FC4D58C7}"
+              p:after="r[@uid='{23ED3A25-5BAD-4F3E-8E03-EA5818F791B4}']"
+              s:ds="84f04213-c535-46eb-bffc-ab0f613db54d"
+              s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsIcon&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/column-1-10" />
+            <r
+              uid="{D59D1755-CF9E-49DD-AB1F-FC64A1F5FEAE}"
+              p:after="r[@uid='{8D0B725B-C3CD-4C74-8B19-0940FC4D58C7}']"
+              s:ds="fc0dee56-3b63-47c5-a8ee-b25517a6d01b"
+              s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsIcon&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/column-2-10" />
+            <r
+              uid="{3246913F-ABB9-4972-BEC8-50611DA91C29}"
+              p:after="*[1=2]"
+              s:ds="643546da-21d3-43c4-8c54-ddeb4406eab9"
+              s:id="{5245A452-738D-48D7-B93C-D62294C41D1B}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsIcon&amp;IsIconImage&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+              s:ph="/headless-main/column-3-10" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T082910Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: OUR SERVICES
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Our Services | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05819195-a4d0-46ae-a955-b8fefe62bb78"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: services
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Explore our exclusive design services to help you create your dream space with the perfect tiles. Professional guidance available.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T125905Z

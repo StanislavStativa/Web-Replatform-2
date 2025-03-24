@@ -1,0 +1,157 @@
+﻿---
+ID: "869f151c-b8c0-4013-8762-a23d05f910c4"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A2776C32-E812-4312-A3C2-CEB5A5C04842}"
+          p:before="*"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B3BB695C0-73EF-4E97-AA87-127ED6752F8D%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B4BE4C4E9-F0AA-4359-8D35-D53E30966FD6%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B3BB695C0-73EF-4E97-AA87-127ED6752F8D%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{6AAA6390-20F7-47FA-9219-E1C5C32844E8}"
+          p:after="r[@uid='{A2776C32-E812-4312-A3C2-CEB5A5C04842}']"
+          s:ds="local:/Data/How to Cut Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D%7C%7B75E7A917-C00D-4BC0-B3AE-C4DF9A90A238%7D&amp;HeadingSize=h1&amp;HeadingTag=h1&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{1C59295C-FFEE-4EAE-A0DD-B59D7BB43641}"
+          p:after="r[@uid='{6AAA6390-20F7-47FA-9219-E1C5C32844E8}']"
+          s:ds="local:/Data/VideoAsset"
+          s:id="{AEDAE2CD-F5A8-4EEE-B56A-8C312BF38A19}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B478C2B89-E637-4F44-92E2-13D7439E29F0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;TitleAlignment=Left&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{33BBFCD4-9F37-45E7-9BAF-899B6933E219}"
+          p:after="r[@uid='{1C59295C-FFEE-4EAE-A0DD-B59D7BB43641}']"
+          s:ds="local:/Data/Cutting Tile With a Wet Saw"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{1EC05DF8-5632-4816-9983-B9D9F5B651DD}"
+          p:after="r[@uid='{33BBFCD4-9F37-45E7-9BAF-899B6933E219}']"
+          s:ds="local:/Data/Cutting Tile With a Wet Saw FAQ"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{E281DCCB-086F-4985-BD35-ACA9578E1570}"
+          p:after="r[@uid='{1EC05DF8-5632-4816-9983-B9D9F5B651DD}']"
+          s:ds="local:/Data/Top Tips for Cutting Tile With a Wet Saw"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{59DFA0EA-27FB-4397-BA42-302EA293561B}"
+          p:after="r[@uid='{E281DCCB-086F-4985-BD35-ACA9578E1570}']"
+          s:ds="local:/Data/Cutting Tile With a Snap Cutter"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption=1&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{84D83EB8-7121-48D6-83D6-910DC70EE288}"
+          p:after="r[@uid='{59DFA0EA-27FB-4397-BA42-302EA293561B}']"
+          s:ds="local:/Data/Cutting Tile With a Snap Cutter FAQ"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{19816DF7-EEE5-4747-A061-9D8AC2A25093}"
+          p:after="r[@uid='{84D83EB8-7121-48D6-83D6-910DC70EE288}']"
+          s:ds="local:/Data/Top Tips for Cutting Tile With a Snap Cutter"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{C81272FE-80E0-46A4-9F92-49889F893C55}"
+          p:after="r[@uid='{19816DF7-EEE5-4747-A061-9D8AC2A25093}']"
+          s:ds="local:/Data/Cutting Tile With an Angle Grinder"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption=1&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{1609B53E-AEE4-46BF-B42C-0DD51D35ABA4}"
+          p:after="r[@uid='{C81272FE-80E0-46A4-9F92-49889F893C55}']"
+          s:ds="local:/Data/Cutting Tile With an Angle Grinder FAQ"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{ED4E2798-7CB3-4E99-B460-EF50F9CB664F}"
+          p:after="r[@uid='{1609B53E-AEE4-46BF-B42C-0DD51D35ABA4}']"
+          s:ds="local:/Data/Top Tips for Cutting Tile With an Angle Grinder"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/column-2-6" />
+        <r
+          uid="{BB5FAEBC-DEF9-43F7-8C12-9A98418A4DD4}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/How to Smooth Edges of Cut Tile"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption=1&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/column-2-6" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How to Cut Tile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: How to Cut Tile
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: How To Cut Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "772ed1ca-5327-4292-913e-273748521884"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: How to Cut Tile
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T102132Z

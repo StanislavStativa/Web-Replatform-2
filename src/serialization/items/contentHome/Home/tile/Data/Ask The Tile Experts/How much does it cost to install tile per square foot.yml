@@ -1,0 +1,45 @@
+﻿---
+ID: "6e42fa06-83ea-4c53-9132-935b7716575f"
+Parent: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts/How much does it cost to install tile per square foot
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063725Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How much does it cost to install tile per square foot?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>It varies. The quality of the tile you choose is the most important factor in determining how much your project will cost. You never know what you might encounter when you are preparing your floor to tile. If you need a recommendation, The Tile Shop has contractor lists in our stores that we are happy to share with you. We do recommend you get at least three estimates and always go with the person you feel most comfortable with.</p>
+        
+    - ID: "85fb977b-e828-4832-b565-efc8c5ea486a"
+      Hint: OpenbyDefault
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39a865ad-d3e5-43c1-9bc8-c4e3d8d0dfd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240519T152358Z

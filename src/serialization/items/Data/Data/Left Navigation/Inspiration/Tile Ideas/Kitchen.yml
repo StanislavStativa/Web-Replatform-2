@@ -1,0 +1,35 @@
+﻿---
+ID: "56683159-6fcd-4799-8311-11e6ce503a5a"
+Parent: "64ecaac2-204e-4cc6-8b21-a9c6d993b89c"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Inspiration/Tile Ideas/Kitchen
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T123111Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4041816f-da1f-4906-8b5b-c9919eda3d20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T123137Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Kitchen" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1BACC8AA-DAA5-4216-8DBB-38889C37EBC1}" />

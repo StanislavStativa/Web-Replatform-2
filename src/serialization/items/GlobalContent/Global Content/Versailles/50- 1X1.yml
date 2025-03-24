@@ -1,0 +1,37 @@
+﻿---
+ID: "22853c11-ec47-4f1f-a990-eb76d359af3e"
+Parent: "8143e8ee-0954-459d-90b3-7a74fab11969"
+Template: "c62c022a-5051-4011-9c55-360bba154d50"
+Path: "/sitecore/content/TTS/Global Content/Versailles/50- 1X1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240119T161436Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "5e3e06e1-a7a7-4819-9db3-9c53d2ffda48"
+      Hint: VersaillesId
+      Value: "50- 1X1"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a80c312f-35ad-4a3f-b0f1-35a3a7a7761f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240119T161436Z
+    - ID: "e40b6f96-6e24-453c-b5f8-901c992c6556"
+      Hint: VersaillesName
+      Value: "50- 1X1"

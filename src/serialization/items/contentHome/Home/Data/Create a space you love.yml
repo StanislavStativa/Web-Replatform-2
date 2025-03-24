@@ -1,0 +1,63 @@
+﻿---
+ID: "e1be34ab-5f10-4ade-84c8-bad51cab8cd3"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Create a space you love
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T060305Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: "Homepage_Hero_{0}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: |
+        <div class=" rich-Text"><p /><h3><span class="h3">Create a space you love <br />
+        with our free design services.</span></h3><br />
+        <p>Take the guesswork out of your next project.</p> 
+        </div>
+        
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class=" rich-Text"><h3><span class="h3">Create a space you love <br />
+        with our free design services.</span></h3><br />
+        <p>Take the guesswork out of your next project.</p>
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bb9dcc7-3b19-41d0-80a2-87ccde934a62"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T053845Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Hero_DCA
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{570C59CF-53CD-42B5-904D-A1C36465D4BE}" />

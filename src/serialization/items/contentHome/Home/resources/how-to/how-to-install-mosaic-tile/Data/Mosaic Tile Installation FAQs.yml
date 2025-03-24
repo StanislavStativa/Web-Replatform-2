@@ -1,0 +1,40 @@
+﻿---
+ID: "12a9f13e-d7c5-43dc-af09-3d2cd8cd7cc4"
+Parent: "c9404b5e-d89c-46d0-a8d7-8c409b5550a3"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile/Data/Mosaic Tile Installation FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {F0FAA675-B454-46DE-9749-F6063F08EF36}
+        {71BD1788-AA5D-482D-8D2C-4153A39EA35F}
+        {73D56512-CC87-4DED-A3F6-47A971039117}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T133239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mosaic Tile Installation FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4b85e96-4745-4b23-9945-4be12bf97276"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T094550Z

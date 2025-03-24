@@ -1,0 +1,27 @@
+﻿---
+ID: "2a12a5f7-b787-4eb0-aab8-5877968844d3"
+Parent: "fed2f4a3-0493-469e-be4f-491305d94b60"
+Template: "fed2f4a3-0493-469e-be4f-491305d94b60"
+Path: /sitecore/templates/Feature/TTS/Components/Contact Us Form/Rendering Parameters/ContactUsForm/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cd0324e-4d3f-4a7f-b5be-ecf9cfc1da22"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T072826Z

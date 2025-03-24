@@ -1,0 +1,44 @@
+﻿---
+ID: "adb6ec66-0a19-4f59-8a7c-1408526fa592"
+Parent: "02fdeb3b-e1e9-4f63-9f3c-069b4a9371e8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/floor/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {87B6CF8C-AC84-45CD-A253-E36BD26692D4}
+        {B16CD8CA-B688-488C-898B-30058F729FBB}
+        {8F8F4FF8-025B-45D6-94A4-CB3EE79ACCA1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Designing With Color
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Blue, red, green, orange, grey, black, brown and classic white—ceramic tile comes in a rainbow of beautiful colors, adding to its appeal. With our wide selection of colored tile, faux finishes and patterns, you can create just about any look with ceramic tile, from </span><span></span><a class="font-bold" href="/room/kitchen/floor" class="font-bold">kitchen floors</a><span> that are as durable as they are beautiful to functional and inviting </span><a class="font-bold" href="/room/entryway" class="font-bold">entryways</a>.<span></span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25281737-fe42-47af-b78b-e429e6e545ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T100518Z

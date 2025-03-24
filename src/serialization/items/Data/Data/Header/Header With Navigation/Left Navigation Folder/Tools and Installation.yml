@@ -1,0 +1,44 @@
+﻿---
+ID: "e688b14e-53eb-43cb-95f2-722479c97e80"
+Parent: "ab4518be-cd34-4543-b183-e3aa8c73e7e0"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T060221Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tools & Installation
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Feel confident installing your tile with our selection of high-quality tools and materials trusted by the pros."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d74a830-2d2b-42a6-9c0a-f2dc89a0f2f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {B2195700-5458-482B-A093-9C2ABE47F500}
+        {1BFF310D-D302-4FE3-A434-5885A52165C0}
+        {A38B0436-70D0-44EC-BC05-8A3AD269F48C}
+        {53BCD35A-CBFC-41B1-B1EC-08D112DCB75E}
+        {2F1DE0FC-45DF-46C8-9144-9CE73756F6F3}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T120027Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ProProducts_ToolRun_Spacers_FlatLay:Asset_Grid_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tools &amp; Installation" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BC5343F0-5424-4BA7-A3B4-AAFDD24706C4}" />

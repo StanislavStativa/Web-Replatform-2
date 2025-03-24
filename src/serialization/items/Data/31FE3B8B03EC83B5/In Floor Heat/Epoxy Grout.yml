@@ -1,0 +1,26 @@
+﻿---
+ID: "c9b14f8f-a328-44e8-bd3f-381464b63b1f"
+Parent: "e578c5ae-a89b-4adb-a886-517505d1a45c"
+Template: "a61643fd-149a-4c31-b09b-2d3778a5c5f5"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Installation Materials/In Floor Heat/Epoxy Grout
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T074202Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Epoxy Grout
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3587a661-fa75-43c6-b344-431a23eef3e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T140326Z

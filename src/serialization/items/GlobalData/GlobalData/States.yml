@@ -1,0 +1,27 @@
+﻿---
+ID: "cf85bfa9-37ce-4939-baa9-080f730be975"
+Parent: "5bd8cb9d-510a-4e4c-a98e-81ddd5060339"
+Template: "cbc95a30-cad2-421d-9c58-e11b6d35ba3b"
+Path: /sitecore/content/TTS/GlobalData/States
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181213T170622Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5bd5b131-4a58-4300-a757-96f083b4b35c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240429T071435Z

@@ -1,0 +1,58 @@
+﻿---
+ID: "c18bf91f-1e54-465b-af8e-2cb12cdcc6bb"
+Parent: "001c6120-695d-4c0c-a580-47144cc79115"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/collection/imperial/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Imperial Ceramic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Make any space you&rsquo;ve visualized a reality with the rainbow of offerings in the Imperial ceramic collection. Over 600 pieces in a variety of shapes, sizes and colors mean that you can express your individual style and personality however you imagine. From soft and subtle to bold and bright, discover the perfect hue for you with Imperial.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "128dd148-fee6-4e8e-918c-343985d0ed11"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T180421Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Imperial_Color_Flatlay_Hero_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {CB798211-18FB-4BE3-A8FB-A4221C7D7AAA}
+        {1D0B9955-F207-4840-BCE7-17F829980595}
+        {0B149AD0-55F6-474A-97F1-1FEC06CEDE93}
+        {C3D0F00C-2914-4080-A6CD-0ED72C58529C}
+        {02E772F5-5BB6-4420-9A9C-9FA5880F595D}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

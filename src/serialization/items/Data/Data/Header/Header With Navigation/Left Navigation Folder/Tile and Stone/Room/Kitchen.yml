@@ -1,0 +1,41 @@
+﻿---
+ID: "f2db8e5c-7c36-479f-ac18-fd69e88aaef3"
+Parent: "69d7f7b2-38f9-48d5-a1ee-334ca8591bb8"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Room/Kitchen
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194739Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b15c5da5-1fc0-45db-a250-352a53020424"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {B9FF5506-570E-4714-A97B-3EB2B8EC99D9}
+        {5CB47D5D-C67C-46AE-AD37-1FDBB59B2244}
+        {86321324-CD08-474F-88EC-57D8D21A5FA7}
+        {1D91FB4E-A96E-4729-ACB8-558FED16860C}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T085340Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Kitchen" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D9A98582-E972-43EB-A3C4-9411989BDC8B}" />

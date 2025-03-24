@@ -1,0 +1,42 @@
+﻿---
+ID: "c6aa87f3-dbef-4204-8715-54ff0da5c188"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/19"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pretty Pink Blossoms
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        We love the versatility of the Imperial Hexagon tiles, like the <a class="font-bold underline" href="/products/imperial-sienna-gloss-hex-ceramic-mosaic-wall-and-floor-tile-2-in-667869">Sierra Gloss Hex</a> and the <a class="font-bold underline" href="/products/imperial-pink-gloss-hex-ceramic-mosaic-wall-and-floor-tile-2-in-667849">Pink Gloss Hex</a> tile shown here. These <a class="font-bold underline" href="/material/ceramic">ceramic tiles</a> come on a mesh backing for easy installation, but the tiles can be removed for a customizable pattern like this charmingly whimsical flower blossom pattern designed by <a class="font-bold underline" rel="noopener noreferrer" href="https://www.thegoldhive.com/" target="_blank">The Gold Hive</a>.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a64597d2-5d0e-48fa-a80d-4ea497e25c41"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123942Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "The_Gold_Hive_Bathroom1_001:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 19

@@ -1,0 +1,43 @@
+﻿---
+ID: "681090c7-6e76-4a70-9852-efbe7973c8be"
+Parent: "28051098-a77f-483e-88ac-b07a047c6dc0"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Outdoor/Data/1 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8"> 2024 Patio Tile Ideas & Trends</h2>
+        <p class="mb-4">
+        Outdoor tile has become an integral part of the design of a home and its landscaping&mdash;we now expect to have some extension of our spaces into the outdoors. Whether for entertaining, relaxation or utility, outdoor escapes are more important than ever. We love using natural stone textures to add a unique look and a special tactile element to exterior surfaces and flooring. In warmer climates, it&rsquo;s become common to extend your interior tile design to your outdoor area. If you live in a colder region, our porcelain tile is well-suited for seasonal freezing and thawing conditions. Wherever you live and whatever the climate, our experienced associates at The Tile Shop can help you find the perfect solution for your home.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2e53b2e-2e1d-47e2-8abc-b3365064b999"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200748Z

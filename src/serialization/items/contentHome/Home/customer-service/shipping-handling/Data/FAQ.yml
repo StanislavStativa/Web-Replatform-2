@@ -1,0 +1,47 @@
+﻿---
+ID: "d46654ab-3547-4140-9e25-776c2597c769"
+Parent: "c09cf47d-52e7-49e1-8782-72948d406db3"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/shipping-handling/Data/FAQ"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {63422649-EECB-46CB-A5D6-EE02B1DA3F40}
+        {6CD89F7F-90A3-4587-9A8D-696A585218F2}
+        {571D7D46-F4DA-4E82-B04C-76AF09864063}
+        {35936DF5-D477-4EBF-A278-CCE64AD2B052}
+        {27E6D431-76F5-4B8A-8EF8-F0AB413F61AF}
+        {7B0D6860-BC56-46FD-8566-EDD7DD4CA463}
+        {BAF779E8-6CF9-4A55-A713-161EBB2118AE}
+        {47CB2197-592E-4595-8E77-D10AC2586CA6}
+        {97E8346B-0317-491A-99BF-EBB814D819EE}
+        {4B5091AF-ED0A-4D93-BE42-BC3432AAD96D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T124328Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32a78c06-514b-4672-95e3-464869510a50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T102234Z

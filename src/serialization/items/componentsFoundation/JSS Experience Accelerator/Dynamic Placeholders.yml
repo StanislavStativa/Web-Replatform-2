@@ -1,0 +1,20 @@
+﻿---
+ID: "c2420291-c9e1-433c-9f91-f93a05499dcb"
+Parent: "108240cb-6175-464b-ae01-a3ae79b3c433"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Foundation/JSS Experience Accelerator/Dynamic Placeholders
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T131548Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1169164b-5863-4070-b4a9-7d0e64db40c4"

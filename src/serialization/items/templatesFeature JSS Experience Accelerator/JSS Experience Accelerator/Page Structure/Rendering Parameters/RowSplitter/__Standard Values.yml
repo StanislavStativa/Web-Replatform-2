@@ -1,0 +1,20 @@
+﻿---
+ID: "ebf4f937-c991-4d49-b577-b9521380f3ea"
+Parent: "db88efa8-e015-4b96-ba0e-348d8b510563"
+Template: "db88efa8-e015-4b96-ba0e-348d8b510563"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/RowSplitter/__Standard Values
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130304T135400Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "274a9de0-15d2-4995-9001-fc0728db95e5"

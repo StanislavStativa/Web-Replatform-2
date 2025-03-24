@@ -1,0 +1,40 @@
+﻿---
+ID: "282b8376-30d1-48cc-89dc-d624b6b7b191"
+Parent: "3c07db8f-2f9f-472f-8ada-46fbdf957361"
+Template: "5ee24929-801f-4a31-99aa-bb9a717b79ea"
+Path: "/sitecore/content/TTS/TileShop/Home/shopping-cart/Data/headingsection"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T163309Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shopping Cart
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6328c03c-a93e-4acb-ade6-6e29e9d09428"
+    - ID: "933cb3a0-c18d-45fa-a074-e9ee3974b20e"
+      Hint: ApiEndPoint
+      Value: /api/Cart/GetCartListItems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T044323Z
+    - ID: "ea610ad1-7df3-440d-952d-937698a4e5a3"
+      Hint: CTALabel
+      Value: Remove All items

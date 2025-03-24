@@ -1,0 +1,26 @@
+﻿---
+ID: "485fde8a-783c-4067-b95a-a0f7c011cd16"
+Parent: "111cec11-b563-4995-b4d3-36b2e6ef959a"
+Template: "45ba6248-de0f-4a32-a21e-b0a57ee4e0c5"
+Path: /sitecore/content/TTS/Global Content/Rooms/Bedroom
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181026T140855Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3737786b-5ddb-494a-8442-de7446ae7cb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181026T140855Z
+    - ID: "f77d90b6-3e65-477b-8b5f-71a9e38ed290"
+      Hint: RoomName
+      Value: Bedroom

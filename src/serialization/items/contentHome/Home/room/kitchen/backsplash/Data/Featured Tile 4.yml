@@ -1,0 +1,44 @@
+﻿---
+ID: "9a72b89c-8ad1-45d9-bcaa-9fdec5f8a648"
+Parent: "98dbb9b2-6d6f-47a3-ba50-8b6d2c63afb8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/backsplash/Data/Featured Tile 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {59DEE1B4-44ED-42FD-900A-A923EA85C417}
+        {970D24B7-CDE9-4565-86F8-F969BBFDE83A}
+        {A8B5A9FF-3BD1-4477-9590-0814F2B9A686}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Gorgeous Mosaic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>Mosaic tiles, available in porcelain, ceramic, marble or glass tile, create a beautiful kitchen backsplash. Shape and color variation make mosaics a great option to add interest to your kitchen. With a wealth of materials and styles to choose from, a </span><a href="/featured/mosaics" class="font-bold underline">mosaic tile</a><span> backsplash will make a statement.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "390f81ce-1bd0-45e4-a518-936afaa0fe73"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240815T113124Z

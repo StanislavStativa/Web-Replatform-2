@@ -1,0 +1,47 @@
+﻿---
+ID: "54a864e4-77fa-499b-b18f-a3444f8c9e15"
+Parent: "28d26961-7aa6-4330-accd-5bb155c16439"
+Template: "84129a16-aeff-495d-9b35-7cdbc2b6578d"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Account Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2140e16d-d3d7-4341-80d0-7f7ce02fcc3e"
+      Hint: CardList
+      Value: |
+        {AAE1319F-95E3-4C21-9394-AC1DD12F1919}
+        {5C82A8FD-26D4-4F7F-AC85-908F7BBDDB98}
+        {647A7C42-49E9-4CEF-9916-D64E6635BCCF}
+        {1614117B-D6F7-4393-B4EB-5ED25D2D139F}
+        {2E5E411A-DFEC-4882-821E-B1B9CECB7AC9}
+        {3FA17EB6-9A2E-4F1F-9DFD-23DCDD3C5FB3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240609T083253Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{9B110963-15D3-4513-ACD6-CF2EF429A97E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5473f31f-d383-4f5c-9e0e-3a615cedaa60"
+    - ID: "9db5e89c-e2f3-4395-baf6-362932ad0c99"
+      Hint: Title
+      Value: Account Settings
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T064325Z

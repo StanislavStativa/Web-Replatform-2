@@ -1,0 +1,48 @@
+﻿---
+ID: "1f58c993-9127-4378-a2be-267774495542"
+Parent: "190f8b18-625f-49b2-8c3e-b20bd4d7f63f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/general-faqs/Data/FAQ/Accordion Item 11"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131707Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is your return policy? "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="color: #000000;">If you are dissatisfied with the product for any reason, you must promptly notify the product sales representative of The Tile Shop in order to receive a full credit for the purchase price and the return of the product.</span></p>
+        <ul>
+            <li><span style="color: #000000;">A refund will be issued for full boxes of current tile returned in original packaging and good sellable condition within sixty (60) days of pickup or shipment date</span></li>
+            <li><span style="color: #000000;">Sealed liquid products and setting materials may be returned within sixty (60) days of pickup or shipment date.</span></li>
+            <li><span style="color: #000000;">No returns are allowed on Special Order material or discontinued material.</span></li>
+            <li><span style="color: #000000;">Installation of product constitutes acceptance of material. Once the product is installed, it may not be returned under any circumstances.</span></li>
+            <li><span style="color: #000000;">Delivery/freight is nonrefundable.</span></li>
+        </ul>
+        <p><span style="color: #000000;">For our full purchase agreement and terms click&nbsp;<a href="/customer-service/returns-exchanges">here</a>.</span></p>
+        <ul>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a51ebc9-deb2-45c8-b240-e7adf44a93c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T085633Z

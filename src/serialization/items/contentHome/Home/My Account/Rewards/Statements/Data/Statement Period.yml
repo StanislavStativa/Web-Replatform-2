@@ -1,0 +1,47 @@
+﻿---
+ID: "cce23102-7c01-4243-9333-edd443077b55"
+Parent: "7c9b5a4f-12e6-4509-8390-22e095369da4"
+Template: "85d6e47e-25b9-4e5a-808e-e56febb3a5ba"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Rewards/Statements/Data/Statement Period
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240705T111214Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{B61C4FD8-7497-4DF3-AA91-C3675A9A5057}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "${Month} Statement"
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: api/rewards/GetRewardDetails
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Rewards statement in a brief
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12c0adcb-f7d7-4837-a17d-8f01a2907257"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d86d8571-4d23-4f03-b414-b5ee1320f1c6"
+      Hint: EnableProUsers
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240705T111510Z

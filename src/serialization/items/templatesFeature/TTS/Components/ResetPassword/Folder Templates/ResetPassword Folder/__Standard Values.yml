@@ -1,0 +1,33 @@
+﻿---
+ID: "bd750409-6eff-477f-af54-60cfdf5e4680"
+Parent: "f88a0435-e4de-4ea2-9e56-c9453bd50417"
+Template: "f88a0435-e4de-4ea2-9e56-c9453bd50417"
+Path: /sitecore/templates/Feature/TTS/Components/ResetPassword/Folder Templates/ResetPassword Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {564DAA31-ADDF-451E-AA25-020574DC7BC3}
+    {F88A0435-E4DE-4EA2-9E56-C9453BD50417}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd5b263f-4bd0-4bfd-9293-cc0ef5ba39d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T155858Z

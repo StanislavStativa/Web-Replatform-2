@@ -1,0 +1,47 @@
+﻿---
+ID: "e2e91932-ae04-4457-bc92-6d2a09c8262d"
+Parent: "02fdeb3b-e1e9-4f63-9f3c-069b4a9371e8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/floor/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {98346372-B5ED-4E06-B754-BA2A9CA75AFD}
+        {E2751290-E90F-4CAB-9E33-843B24AAAC73}
+        {624D620C-3FFB-4D18-BCC0-E0293219F68D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Natural Stone- and Wood-Look Ceramic Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        
+        <p><span>If you like the look of natural wood or stone but want a material that’s easier to maintain, ceramic is a great option. Install wood-look ceramic tile in a bathroom for an easy-to-clean and durable floor that matches your main floor. You don’t need to limit yourself to the bathroom or kitchen, wood- or stone-look bedroom floor tiles will lend an air of distinction.&nbsp;&nbsp;</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da1785a0-5417-48dc-890f-87a1500149fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240711T153136Z

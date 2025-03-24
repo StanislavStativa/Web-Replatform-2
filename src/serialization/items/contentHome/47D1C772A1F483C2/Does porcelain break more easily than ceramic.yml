@@ -1,0 +1,40 @@
+﻿---
+ID: "e1382a28-facd-483c-afca-78b90fe165d9"
+Parent: "fdc09f1e-80af-4fd6-ad53-a3ae6b62c927"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/porcelain-vs-ceramic-tile/Data/Porcelain vs Ceramic FAQs/Does porcelain break more easily than ceramic"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T073530Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Does porcelain break more easily than ceramic
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>No, porcelain is actually generally less likely to break than ceramic. Their high density and low porosity mean they are not as susceptible to breaking, chipping or cracking when compared to ceramic.</p>
+        <p>Ceramic tile is also more porous on one or both sides, which means they are less equipped to handle freeze/thaw cycles if they are exposed to moisture. When water penetrates the tile, over time, the continuous freezing and thawing can cause the tile to crack or pull away from the substrate. The low porosity of porcelain means weather-related breakage is much less likely.</p>
+        <p>However, not even porcelain tiles are indestructible. When a porcelain tile is subjected to a sharp impact or is not properly installed over a supportive substrate, it can crack or chip. Proper installation of both porcelain and ceramic tiles is key to ensuring they are as durable as possible.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fcc3ff0-306d-4ef4-be61-3f1f4e66e10d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T073552Z

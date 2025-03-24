@@ -1,0 +1,41 @@
+﻿---
+ID: "d036cbbe-11b7-4ee8-b4ad-a7019900a222"
+Parent: "3e68123f-7238-485c-a4b0-79dc4972497f"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Inspiration
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T195015Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Inspiration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "312b12f0-e5f9-4283-8231-58774a79aebd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {09C7C069-75AF-4BD0-85E7-8AB34C9D614E}
+        {A05ABA42-5EA1-4E58-BD3C-5F78C6DA90D3}
+        {2B67C8E4-45A5-4767-8672-BE0DDC3561A4}
+        {EB4222E0-3F80-4ABC-A8B7-A371352F4870}
+        {459C202A-3C25-450B-883E-0101211398E6}
+        {E9A4A137-02AA-443B-8454-39A987509743}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T062829Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Lookbook24_NavFlyout:3x2?fmt=png-alpha"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

@@ -1,0 +1,55 @@
+﻿---
+ID: "c931493c-3165-4d93-9a7a-9b247d7cf0d1"
+Parent: "b6b89ccb-1cef-48f9-a265-0525508c299c"
+Template: "cff072ea-be77-4f1e-9e29-7600b50756c3"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Settings/Create New Users/Data/CreateChangeUser
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b6e4f19-0758-45b0-a705-4e42ca88e6a5"
+      Hint: CreateUserTitle
+      Value: CREATE NEW USERS
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T115536Z
+    - ID: "30ee8eac-1a2a-4271-863c-943b005b6544"
+      Hint: NextLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{3356FCD2-CC5F-40BB-9AB0-70B548BB0882}" />
+    - ID: "39e3ebd9-04f6-4914-bd77-dbfcddf4b3db"
+      Hint: ChangeUserAPI
+      Value: api/user/ChangePersonalData
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{58368F31-636E-4405-8013-E6DA8F1A0994}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "58b75dfe-9d39-4e7e-9311-8426f70fc6a4"
+      Hint: BackLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{8DF2EC53-E547-43D6-B5DD-B5248ADE4B62}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "771a6d73-c7e2-45a3-a02b-056dc47d6248"
+    - ID: "97b5b9de-232e-4342-a156-0767d8b71863"
+      Hint: ChangeUserTitle
+      Value: CHANGE USERS
+    - ID: "bad76c21-2b9d-4145-b6e8-96da70de2609"
+      Hint: EmarsysDetails
+      Value: "{89118E99-B74B-49FA-940B-B6FEEC880B52}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T055838Z

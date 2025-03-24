@@ -1,0 +1,171 @@
+﻿---
+ID: "bb3dd4aa-8b1f-4a51-8fbb-267983e5288a"
+Parent: "f6af462b-f3cd-45c5-b8c3-67ff7e859a23"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{E8362E72-B15A-45B0-AC19-B386DD7AAFDE}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{F79AC402-4110-4D40-A0E3-50DF126893FF}"
+          p:after="r[@uid='{E8362E72-B15A-45B0-AC19-B386DD7AAFDE}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{07A532BB-47A5-4370-96F7-AB840134356D}"
+          p:after="r[@uid='{F79AC402-4110-4D40-A0E3-50DF126893FF}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{64749C5D-1D82-4C74-B211-B8CCC2F668F9}"
+          p:after="r[@uid='{07A532BB-47A5-4370-96F7-AB840134356D}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main" />
+        <r
+          uid="{CC6D6C8B-2577-4A6F-BC25-A3AF5BD8B708}"
+          p:after="r[@uid='{64749C5D-1D82-4C74-B211-B8CCC2F668F9}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D%7C%7B5B947AFB-2F24-4796-9000-9200942C45EA%7D&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main" />
+        <r
+          uid="{CCF0D4B9-33F8-42BB-810C-E3F9B272C193}"
+          p:after="r[@uid='{CC6D6C8B-2577-4A6F-BC25-A3AF5BD8B708}']"
+          s:ds="local:/Data/Featured Tile 2"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D%7C%7B5B947AFB-2F24-4796-9000-9200942C45EA%7D&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main" />
+        <r
+          uid="{36E80373-6A68-4649-8397-1C342CAEB8FB}"
+          p:after="r[@uid='{CCF0D4B9-33F8-42BB-810C-E3F9B272C193}']"
+          s:ds="local:/Data/Featured Tile 3"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D%7C%7B5B947AFB-2F24-4796-9000-9200942C45EA%7D&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main" />
+        <r
+          uid="{B3E843A0-450F-491E-AADC-0AF09C917779}"
+          p:after="r[@uid='{36E80373-6A68-4649-8397-1C342CAEB8FB}']"
+          s:ds="local:/Data/Accrodion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main" />
+        <r
+          uid="{D08DFE45-525B-43F3-B654-AE60D60D0769}"
+          p:after="*[1=2]"
+          s:ds="{65D4F0FD-648F-459E-B642-5F548A0F1111}"
+          s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Listello is a band of border tile that is a great way to add an interesting element to walls and floors. It&rsquo;s a smart approach if you want to incorporate a decorative element without overwhelming your space.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: 
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: |
+        <link text="FAQs" linktype="anchor" url="Accordion" anchor="Accordion" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T192259Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Listellos & Border Tile for Showers & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Listellos
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Biltmore_April_Detail1_Haltom:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a98dacbd-e092-442b-889d-9aa9e02abf15"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Listellos
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{3753262F-12E9-4AF8-8686-439B26F36EC9}" querystring="" anchor="" title="" linktype="internal" text="Mosaics" url="/TTS/TileShop/Home/tile/trim-and-accessories/accents/mosaics" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "The Tile Shop carries a huge selection of listellos & border tiles for walls & floors. Shop all materials, colors, shapes & sizes in-store & online."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T125803Z
+    - ID: "e8b113e6-1244-4089-ba43-a9ad3527b22b"
+      Hint: MaterialGroup
+      Value: "{22730D09-6E86-4972-9B88-70291DF43B29}"
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />

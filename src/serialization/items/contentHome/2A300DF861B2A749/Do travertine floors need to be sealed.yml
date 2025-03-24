@@ -1,0 +1,43 @@
+﻿---
+ID: "c1d49f99-70cd-42d1-9a48-5f7f3f937041"
+Parent: "289486d2-a26c-4e05-8155-e6db3e3351d9"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-travertine-tile/Data/Cleaning Travertine Tile FAQ/Do travertine floors need to be sealed"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do travertine floors need to be sealed?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Travertine tile is made from&nbsp; natural, porous stone, so your travertine floors need to be sealed regularly to keep them free of damage. That porosity means the tile's surface can easily absorb liquids, which can lead to mold and mildew growth, staining or otherwise damage your tiles. Sealing creates a barrier that helps prevent water and other liquids from penetrating the tile.</p>
+        <p>Sealed travertine floors are also easier to clean and maintain. Dirt and debris stay on the surface and don't get absorbed into the stone, making them simpler to wipe away. This helps prevent particulates from scratching the tile surface and ruining its natural beauty.</p>
+        <p>You will have to reseal your travertine floors regularly to maintain this protective layer. For areas that see light to moderate foot traffic, resealing every three to five years is usually sufficient. For higher traffic areas, you may need to seal as often as every one to two years.</p>
+        <p>If you are unsure about the state of your travertine floor's sealer, pour a small amount of water in an inconspicuous spot. Look to see whether the water beads or starts to seep into the tile. Water seeping into the tile means it is time to reseal your floors.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "750a0754-93aa-4d01-b795-b7c75af869ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T180129Z

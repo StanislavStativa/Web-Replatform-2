@@ -1,0 +1,49 @@
+﻿---
+ID: "b79eb1cd-4555-4c7c-8b42-40f0e01912a0"
+Parent: "0e5df92b-51b2-4b63-a8a8-4538e4a23a16"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos/Data/Featured Tile 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {B1D632CE-2759-4369-9225-7AD69DC7B23D}
+        {99CA9BAF-4975-4E50-973D-D73F8D9F60C8}
+        {5E0BDC9A-02EE-4CBD-A19A-645FB7EB3884}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T153849Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Size
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3123f3e6-cfe1-4b63-9ca7-79de420e151a"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <div class="rich-text md:px-10 px-10" style="text-align: justify;">
+        <p style="text-align: justify;"><span>Whether you&rsquo;re looking for a border or corner tile, there&rsquo;s a size and shape that will fit your space. 4&rdquo; x 12&rdquo; is our most common size of listello tile, but they can vary in width and length depending on the design. Stop into your local store to have one of our expert associates help you choose the right tile for your home.</span></p>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T062500Z

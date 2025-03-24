@@ -1,0 +1,33 @@
+﻿---
+ID: "de0abc26-30d1-4f45-95f2-2122a3629c78"
+Parent: "b2c74298-9764-44c2-87e5-c682f0c3c59b"
+Template: "b2c74298-9764-44c2-87e5-c682f0c3c59b"
+Path: /sitecore/templates/Feature/TTS/Components/Quotes/Folder Templates/Quotes Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F737A722-39C9-490D-9845-3B3246F83AE9}
+    {B2C74298-9764-44C2-87E5-C682F0C3C59B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd1b71bf-9686-4f86-be8f-479d98e6b308"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T091159Z

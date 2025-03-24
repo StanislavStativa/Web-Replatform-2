@@ -1,0 +1,59 @@
+﻿---
+ID: "23ba5078-bbc0-4d14-ad63-ed5bec9de8a5"
+Parent: "fa122941-ab06-4c17-869e-aed7b3f4a722"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/hexagon/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Hexagon Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Trendy hexagon tile is a vintage look that’s new again, making it a great fit for old home updates and new homes alike. It’s a unique shape but is simple enough to blend into a design. And the variations are endless. Hex tile is available in ceramic, porcelain and natural stone, as well as in a variety of sizes, starting from 1- and 2-inch hexagon tiles and going up to 12-inch tiles. For a classic look, try an allover hexagon tile floor in a solid color in your bathroom or a hexagon mosaic backsplash in your kitchen. To dip your toe into a trendy look, mix and match different colored hexagon tiles, especially those in coordinating colors. But we’re warning you—it might be hard to stop there.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eea1d8af-60eb-4110-99fa-fd08eaaece29"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T184415Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 650858_Floors_V2%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {2914FBFD-2FF5-47F6-A12C-7593E3A586EF}
+        {A31178BF-8DC8-42AC-8F0C-B47023AE8739}
+        {AAF35658-589D-47E4-AA7B-D628A12319C8}
+        {55D2A0F8-E8B2-4C52-AE45-CB1F4624B428}
+        {85EA9741-AA16-4774-A22F-19911709B0B5}
+        {AB358485-76F3-4490-B724-7BFE07114D5F}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

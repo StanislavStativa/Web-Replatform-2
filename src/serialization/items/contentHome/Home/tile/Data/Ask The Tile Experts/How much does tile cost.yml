@@ -1,0 +1,39 @@
+﻿---
+ID: "8c53df7e-ba79-4916-99d6-9505bd84113a"
+Parent: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts/How much does tile cost
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How much does tile cost?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>The selection of materials, difference in room sizes and other options available for tile mean that costs vary widely from project to project. While it will sometimes be a larger initial cost, a tile floor lasts longer and wears better than many other flooring types, like carpet or wood, which means it’s a better long-term investment. Tile floors also have a high resale value which is important to consider if there’s a chance you’ll be moving in the future. The best way to estimate the cost of your project is to schedule a design consultation with an in-store associate who will guide you along the process. Whatever your project goals are, The Tile Shop has a way to achieve them.</p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3706b24-5022-4ae5-9916-d3ceb7d8b246"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T054845Z

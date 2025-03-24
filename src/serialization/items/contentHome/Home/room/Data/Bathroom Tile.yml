@@ -1,0 +1,49 @@
+﻿---
+ID: "ebe0da74-ab99-4182-97dd-6e2e0a82f957"
+Parent: "89219669-c9ff-4658-964a-713d238c05ed"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/room/Data/Bathroom Tile
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom Tile
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {5D2ADAA2-BF71-4552-A1A1-5C0FF8A181F9}
+        {F931DDD8-CE3B-45B3-B521-F1925011DD1B}
+        {658D3615-2BD1-46E1-975E-6D9B547E66AE}
+        {E175DFF1-B3BD-4D01-880B-3F40BBC8D137}
+        {9A6C88C4-328B-4616-AC9B-36E0B6F920AA}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Show off your creativity and personality with a fashionable yet functional bathroom tile design.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a76c4dc6-ae26-497f-9562-b31786001bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T111143Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Volakas_Bath:Hover_Image_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{31BD1507-C491-44DD-917D-2F62937403EC}" />

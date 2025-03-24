@@ -1,0 +1,48 @@
+﻿---
+ID: "78aa436c-84c3-439e-834f-9a25a50affd9"
+Parent: "7d588e8b-5333-45fd-b308-67cc2e10a515"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Shape/Penny Round
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/78AA436C84C3439E834F9A25A50AFFD9.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "425e8300-35c7-450e-b50c-decd086054f6"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIyOSIgZmlsbD0ibm9uZSI+PGVsbGlwc2UgY3g9IjMuNiIgY3k9IjEwLjg3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjMuNiIgY3k9IjI1LjM3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjExLjgyOSIgY3k9IjEwLjg3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjExLjgyOSIgY3k9IjI1LjM3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjIwLjA1NyIgY3k9IjEwLjg3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjIwLjA1NyIgY3k9IjI1LjM3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjI4LjI4NSIgY3k9IjEwLjg3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjI4LjI4NSIgY3k9IjI1LjM3NSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjcuNzE0IiBjeT0iMy42MjUiIGZpbGw9IiM4RjhGOEYiIHJ4PSIzLjYiIHJ5PSIzLjYyNSIvPjxlbGxpcHNlIGN4PSI3LjcxNCIgY3k9IjE4LjEyNSIgZmlsbD0iIzhGOEY4RiIgcng9IjMuNiIgcnk9IjMuNjI1Ii8+PGVsbGlwc2UgY3g9IjE1Ljk0MyIgY3k9IjMuNjI1IiBmaWxsPSIjOEY4RjhGIiByeD0iMy42IiByeT0iMy42MjUiLz48ZWxsaXBzZSBjeD0iMTUuOTQzIiBjeT0iMTguMTI1IiBmaWxsPSIjOEY4RjhGIiByeD0iMy42IiByeT0iMy42MjUiLz48ZWxsaXBzZSBjeD0iMjQuMTcxIiBjeT0iMy42MjUiIGZpbGw9IiM4RjhGOEYiIHJ4PSIzLjYiIHJ5PSIzLjYyNSIvPjxlbGxpcHNlIGN4PSIzMi40IiBjeT0iMy42MjUiIGZpbGw9IiM4RjhGOEYiIHJ4PSIzLjYiIHJ5PSIzLjYyNSIvPjxlbGxpcHNlIGN4PSIyNC4xNzEiIGN5PSIxOC4xMjUiIGZpbGw9IiM4RjhGOEYiIHJ4PSIzLjYiIHJ5PSIzLjYyNSIvPjxlbGxpcHNlIGN4PSIzMi40IiBjeT0iMTguMTI1IiBmaWxsPSIjOEY4RjhGIiByeD0iMy42IiByeT0iMy42MjUiLz48L3N2Zz4=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1169
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240730T044239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "087b7c0e-fbe7-4f84-b894-a30f8a683b21"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T044239Z

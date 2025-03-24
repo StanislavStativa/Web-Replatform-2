@@ -1,0 +1,209 @@
+﻿---
+ID: "46337c52-4e92-4495-aadc-001465dcc7b9"
+Parent: "352b24cb-9b91-4ade-971b-3496f587e50f"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/collection/volakas
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{33ACF3F9-991A-46A5-B609-93A84F78F05F}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{DD28288A-4AD0-48EE-BEF5-F0C432CB24E8}"
+          p:after="r[@uid='{33ACF3F9-991A-46A5-B609-93A84F78F05F}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{53CCA132-EFDC-4704-BE2D-4FAB83A16967}"
+          p:after="*[1=2]"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01740a82-a02d-42ec-9792-57c44e4e8923"
+      Hint: Collection
+      Value: |
+        {583399ED-3B14-46CB-87AE-A5211118B201}
+        {2FFD5EAD-44CE-4533-87B6-308AE41AEDEA}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{33ACF3F9-991A-46A5-B609-93A84F78F05F}"
+              p:before="*"
+              s:ds="local:/Data/Secondary Banner"
+              s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{DD28288A-4AD0-48EE-BEF5-F0C432CB24E8}"
+              p:after="r[@uid='{33ACF3F9-991A-46A5-B609-93A84F78F05F}']"
+              s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{53CCA132-EFDC-4704-BE2D-4FAB83A16967}"
+              p:after="r[@uid='{DD28288A-4AD0-48EE-BEF5-F0C432CB24E8}']"
+              s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+              s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{D6432AB4-7CB6-4AA3-B750-C8682498A150}"
+              p:after="*[1=2]"
+              s:ds="{65D4F0FD-648F-459E-B642-5F548A0F1111}"
+              s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Bring natural color, beauty and warm tones into your home with the Volakas collection. This authentic Greek marble was used for thousands of years in statues and is guaranteed to bring distinctive style to any space. Its matte finish and variation in color and veining brings the marble into a more contemporary style, great for bathrooms, fireplaces and showers.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: 
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T143934Z
+    - ID: "38503162-7288-4c45-84dc-548ca6050bcc"
+      Hint: Style
+      Value: 
+    - ID: "397ca1bd-6dda-4aac-b479-d9281b757b38"
+      Hint: RelatedLink10
+      Value: 
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5486c24a-ecff-47c1-aad4-2b31d79504dd"
+      Hint: SuperBoost
+      Value: |
+        {4CE0AF99-02A8-4261-98DC-1528C696230F}
+        {84109E1A-E307-46EF-BE21-790E628560EB}
+        {AAB637B7-27F0-46C3-A3AB-A8F823A63264}
+        {ACC149D2-7A1E-4AC8-B012-C4CA4B9C9092}
+        {BE4BF654-C232-494E-85AF-D6E1AECD6431}
+        {E403D3C6-0482-4473-A682-8F6CB59FF8D9}
+        {28218CB3-16D9-4BFF-9585-2BC1A2E4D1F9}
+        {B3EDE5A7-C1E8-4E95-B251-DB7548754AA8}
+        {2268C4E7-4591-440E-83ED-E4A05597C7F4}
+        {96A6BB00-502B-479F-BC5A-80780D7A84C6}
+        {619A9150-8C5B-4C5B-8E65-A7AB87F0BAAB}
+        {CBE1540E-9FF4-4357-ADD6-4508C5A5E5E9}
+        {93234949-F628-4800-B754-93D616733A63}
+        {F5A6CD52-BDD6-476E-B2BF-B22D2FE86A38}
+        {56241ACC-1C2A-49A2-92C4-8BC428FD5F63}
+        {CC1CEA5E-E182-43A2-8299-5033B7F59430}
+        {6597BDB5-1BCC-4380-BF29-7E04ABAE1535}
+        {8D673D9E-F2CB-4C51-801E-1F517C61EB88}
+        {24E41D40-9113-472C-8501-77F5C540B7C0}
+        {1A9C679E-FA6D-484A-ADA6-2E9A53AD2C95}
+        {525CB0B3-EAE4-4F88-B3F6-8FBF65CF3DD0}
+        {1EF69965-F8CF-4FD9-8CE3-5EDB3783D6E7}
+        {8D3905A5-4F68-49C5-90EE-8E8F2433AB13}
+        {1ACE60FD-7A8F-46C8-A02B-8DDE973665F6}
+        {A2AE18A6-20C5-4271-BD23-512758E7016E}
+        {79BB0FE0-F94C-4BD1-87B6-FA7B6EF2172A}
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Volakas Marble Tile Collection | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Volakas Tile Collection
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: 
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Volakas_Bath_SHOWER_ANGLE_Cat:Category_Intro_Image"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1fcb5d6-5068-44b5-95b9-80ed735e3d36"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Volakas Tile Collection
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop our beautiful selection of Volakas marble floor & wall tile at The Tile Shop. Shop in-store or online today. Order a sample for only $3."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090414Z
+    - ID: "efb31bd2-611a-4001-bdd8-40e0994c5645"
+      Hint: RelatedLink9
+      Value: 
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: 

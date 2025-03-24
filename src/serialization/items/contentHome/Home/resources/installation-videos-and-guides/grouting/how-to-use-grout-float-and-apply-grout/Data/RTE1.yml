@@ -1,0 +1,60 @@
+﻿---
+ID: "39e65401-5f4c-4154-8763-2042c635bb97"
+Parent: "6d14e26b-388a-44fb-81d1-cec8d507c410"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/grouting/how-to-use-grout-float-and-apply-grout/Data/RTE1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T070802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <h2 class="h1">1. Gather the Right Tools</h2>
+        <p>First things first – having the right tools is crucial for a successful grouting job. Here's what you'll need:</p>
+        <ul>
+            <li><strong>Two Buckets</strong>: Prepare two buckets for your job site – one for mixing <a class="font-bold underline" href="/installation-care/installation/grout"><strong>grout</strong></a> and another for clean rinse water.</li>
+            <li><strong>Grouting Sponges</strong>: Invest in good-quality <a class="font-bold underline" href="/products/pro-sponge-3-pack-343204"><strong>grouting sponges</strong></a>. These sponges make the grouting process smoother and more efficient.</li>
+            <li><strong>Grout Float</strong>: A reliable <a class="font-bold underline" href="/installation-care/installation/tools/trowels-and-floats"><strong>grout float</strong></a> is your go-to tool for packing the grout into the joint. Make sure you have one on hand for precise application.</li>
+        </ul>
+        <h2 class="h1">2. The Packing Technique</h2>
+        <p>Now that you have your tools ready, it's time to get to work. Follow these steps for a seamless grouting process:</p>
+        <ul>
+            <li><strong>Pack It In</strong>: Start by packing as much grout as possible into the joint using your grout float. This ensures that the joint is filled uniformly and prevents air pockets.</li>
+            <li><strong>Sponging Manicure</strong>: After packing the joint, use your <a class="font-bold underline" href="/products/sealer-sponge-tile-installation-tool-343205"><strong>grouting sponge</strong></a> to manicure the grout. The key here is to move in small circles, gently smoothing and shaping the grout for a clean finish. This step helps distribute the grout evenly, for a polished and professional look.</li>
+        </ul>
+        <h2 class="h1">3. Striking the Joint</h2>
+        <p>Striking the joint is an essential step in achieving a professional result. Here's how to do it effectively:</p>
+        <ul>
+            <li><strong>Use the Sponge</strong>: Take your sponge and apply a bit of pressure with your middle finger. Run it across the grout joint in one smooth motion.</li>
+            <li><strong>Flip and Repeat</strong>: Flip the sponge and repeat the process by applying pressure with your middle finger. This step helps in compacting the grout further and gives it a neat appearance.</li>
+            <li><strong>Rinse</strong>: After striking the joint, rinse your sponge in clean water. Rinsing the sponge helps eliminate any excess grout haze, ensuring a clean and pristine finish.</li>
+        </ul>
+        <p>By following these tips and techniques, you'll be well on your way to grouting like a pro. Remember, practice makes perfect, so don't be discouraged if your first attempt isn't flawless. With a bit of patience and the right tools, you can achieve beautiful grout lines that enhance the overall look of your DIY project.</p>
+        
+        <p>So, go ahead and tackle that grouting task with confidence, and soon enough, you'll have a finished project that you can proudly call your own. If you ever need more help, feel free to <a class="font-bold underline" href="/store-locator/">stop by your local Tile Shop</a> and we’ll be happy to talk your project through with you.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3266e18-807a-4aa2-84b9-352520c1db7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T174715Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "2a9ee5d4-9270-4c1a-a186-838fc20cb263"
+Parent: "29e54b25-1ed7-4258-b29a-dc4b330f54ed"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/pink/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">The Playful Fun of Pink Tile</h2>
+        <p class="extra-small-bottom-margin">Using pink tile in your home's interior design offers a unique opportunity to infuse multiple spaces with warmth, personality and a touch of whimsy or sophistication, depending on the shade and context. From light and airy to saturated and bold, pink tile may be the twist you need to make a room your own.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Where to Use Pink Tile</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Bathrooms</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A pink tile bathroom is a timeless favorite. Vintage or pastel pink tiles can evoke a retro feel, while bolder pinks can add a modern twist. Pink shower tile is an especially popular way to ensure a cheerful start to each day.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Kitchens</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Pink subway tile is an excellent choice for a backsplash in your kitchen, especially with white cabinets or butcher block countertops. Consider using light pink tones to create an airy feel or pair pink with other colors like white, gray, or<strong> <a href="/color/black" class="font-bold"><span style="text-decoration: underline;">black tile</span></a></strong> for a more modern look.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Entryways or mudrooms</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Adding pink <a href="/room/entryway/floor" class="font-bold"><strong><span style="text-decoration: underline;">floor tile in entryways</span></strong></a> or mudrooms can make a striking first impression. Paired with complementary wall colors and decor, they can set a cheerful tone for the rest of the home.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Fireplace surround</span></h4>
+        <p style="margin-left: 40px;">Pink tiles can add a unique touch to a traditional feature and become a focal point in your living room. The juxtaposition of light, calming pink tile around a tumultuous, roaring fire will create a stunning visual centerpiece for your living room.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "804844ef-47cc-4e39-a766-c300ab6457a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T073035Z

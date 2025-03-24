@@ -1,0 +1,35 @@
+﻿---
+ID: "96c44f8a-bca8-4cd5-bf0d-92f379d170b4"
+Parent: "981809a1-a4d4-4c84-9c51-0e963d41231b"
+Template: "10fc4b69-11e8-4b22-90b5-ef2d6c1eae0f"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Rewards/My Rewards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240820T062942Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfb5117b-8645-45bb-b9f7-64006773a6d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T063122Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="My Rewards" anchor="" linktype="internal" class="" title="My Rewards" target="" querystring="" id="{03D9DAF0-85C4-41B3-84F0-C4E1E0CB9D60}" />

@@ -1,0 +1,38 @@
+﻿---
+ID: "ab9d7598-941c-4410-94e1-8e44939198ea"
+Parent: "68993f1c-f79c-4b11-aee4-244bd9c1d694"
+Template: "bfd77b97-316d-4058-bb13-b54317534f93"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation/Resources/Net30 Application
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T155355Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24f23893-743d-4b9d-ad97-cef6071b887c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "c3b26db7-edd2-4d70-9343-d13b5080a600"
+      Hint: IsVsibleOnlyForProUser
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240717T085733Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Net30 Application" linktype="external" url="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/pro-forms-and-applications/net30-application-forms/Net_30_Application.pdf" anchor="" title="Net30 Application" target="_blank" />

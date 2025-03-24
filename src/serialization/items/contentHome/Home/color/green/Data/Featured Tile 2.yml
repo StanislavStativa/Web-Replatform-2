@@ -1,0 +1,48 @@
+﻿---
+ID: "c2746884-019b-4859-865f-fafa302ce206"
+Parent: "76f6dfca-4202-4b40-94fd-a762bda86225"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/green/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0D8EE9A5-3AAB-4513-901A-5815909E0C67}
+        {85B09A3D-61D6-4E9B-A5CE-A617CE225BAF}
+        {5590623F-1DD3-4D73-8E58-257D5E09C1AA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Brighten the Heart of Your Home with Green Kitchen Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>A lot of life happens in the kitchen, and color can set the tone. Lighter shades of green are surprisingly neutral, while still adding a fresh energy to your home’s main gathering space. Bolder colors—and shapes—create a bold and inviting tone for family and visitors alike. Even introducing smaller amounts of this color with a green tile backsplash behind the stove or bar area can have a big visual impact.</p>
+        
+        
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55936d33-8589-4b7f-b3ff-8a0ecd3ad9c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T065320Z

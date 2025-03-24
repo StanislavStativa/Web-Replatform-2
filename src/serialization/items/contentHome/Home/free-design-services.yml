@@ -1,0 +1,122 @@
+﻿---
+ID: "570c59cf-53cd-42b5-904d-a1c36465d4be"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services"
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B30D8470-C12D-4187-B0F1-89A6A204A576}"
+          p:before="*"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Bottom&amp;CTAColor=OutlineWhite&amp;CTASize=Large&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{FE51BDAD-FB65-4404-BDCB-9D4731C9CD0F}"
+          p:after="r[@uid='{B30D8470-C12D-4187-B0F1-89A6A204A576}']"
+          s:ds="local:/Data/RTE Top"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{1314679B-D991-4542-888A-FF7648AC6F93}"
+          p:after="r[@uid='{FE51BDAD-FB65-4404-BDCB-9D4731C9CD0F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="headless-main" />
+        <r
+          uid="{DAEDEF30-E2F2-4A8F-9652-4B763720CB60}"
+          p:after="r[@uid='{1314679B-D991-4542-888A-FF7648AC6F93}']"
+          s:ds="local:/Data/Content tile stack"
+          s:id="{5F4114CA-55C9-424E-9733-66F405FAFB25}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsImageOnRight&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;TitleAlignment=Left&amp;CTAColor=Outline&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{AFE00BE1-28CB-4308-8716-B162FE810CCB}"
+          p:after="r[@uid='{DAEDEF30-E2F2-4A8F-9652-4B763720CB60}']"
+          s:ds="local:/Data/RTE 5"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="headless-main" />
+        <r
+          uid="{91308212-2724-4D0A-A670-5AA673C9133C}"
+          p:after="r[@uid='{AFE00BE1-28CB-4308-8716-B162FE810CCB}']"
+          s:ds="local:/Data/Hero Banner 2"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Center&amp;CTAColor=OutlineWhite&amp;CTASize=Large&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="headless-main" />
+        <r
+          uid="{CA147419-8D04-4642-8921-6674B9D65C98}"
+          p:after="r[@uid='{91308212-2724-4D0A-A670-5AA673C9133C}']"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="headless-main" />
+        <r
+          uid="{B8D9A716-5E59-4092-9679-AA5BE02D5B4F}"
+          p:after="r[@uid='{CA147419-8D04-4642-8921-6674B9D65C98}']"
+          s:ds="local:/Data/Feature Tile"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="headless-main" />
+        <r
+          uid="{4EBB4304-6B22-417D-93E9-5C492F551851}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Hero Banner 3"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Bottom&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Bottom&amp;CTAColor=OutlineWhite&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T124654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: "free-design-services"
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Create Your Dream Room - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0f85e62-40b6-4884-964f-c836707d17a8"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: "free-design-services"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Design your dream tile project with a free design consultation from The Tile Shop. Our experts will create a custom design that meets your needs & budget.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T103329Z

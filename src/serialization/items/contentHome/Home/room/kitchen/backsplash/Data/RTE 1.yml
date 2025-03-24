@@ -1,0 +1,40 @@
+﻿---
+ID: "f1ce1c85-44f9-4a3c-bfc1-d530a34956b3"
+Parent: "98dbb9b2-6d6f-47a3-ba50-8b6d2c63afb8"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/backsplash/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text   extra-small-bottom-margin">
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Kitchen Backsplash Form and Function</h2>
+        <p>Make a statement and protect against mess with a backsplash that displays your style. From bold to simple, modern to classic, patterned to monochromatic, the kitchen backsplash is where form meets function. Easy-to-clean tile not only protects your walls, but it can create an eye-catching look to enliven your cooking area.&nbsp;</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9f0c0db-3d7d-4509-9e4e-571880234b71"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055633Z

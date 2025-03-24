@@ -1,0 +1,38 @@
+﻿---
+ID: "3578ef4c-0191-4e4b-9de8-64c91d1b5ca3"
+Parent: "710f84f6-8bfb-4cd0-a551-1682e20455a1"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/floor/Data/Accordion/Accordion Item 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113550Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you clean marble floors?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Sweeping your marble floors regularly will remove any dirt or debris that could scratch its surface. In addition, clean your floors monthly with a soapless cleaner that has a neutral pH. Be sure to avoid acidic cleaners that contain vinegar, ammonia or citrus elements. Grout &amp; Tile Neutral Cleaner from Superior Adhesives &amp; Chemicals is available at The Tile Shop. After mopping, it’s important to use a soft towel to dry the floor so moisture isn’t allowed to leech into the marble. Wipe up any spills immediately so they don’t stain the marble’s porous surface. The Tile Shop offers a <a href="/products/superior-marble-poultice-stain-remover--75-lb-220118" class="font-bold underline ">poultice stain remover</a> that can remove oil and grease stains without scrubbing.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2390956e-826d-4fda-be1e-ad052774347c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T134316Z

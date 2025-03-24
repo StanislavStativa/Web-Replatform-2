@@ -1,0 +1,30 @@
+﻿---
+ID: "686d4d22-5bad-451f-a5f9-c63aee8c303b"
+Parent: "3d3de9a8-5d3e-4424-87f6-823f03a843b3"
+Template: "a61643fd-149a-4c31-b09b-2d3778a5c5f5"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Room/Bathroom/Shop All Bathroom
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194753Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shop All Bathroom
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0040f9bb-e923-4789-a579-b68d746b34d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T070333Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shop All Bathroom" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{31BD1507-C491-44DD-917D-2F62937403EC}" />

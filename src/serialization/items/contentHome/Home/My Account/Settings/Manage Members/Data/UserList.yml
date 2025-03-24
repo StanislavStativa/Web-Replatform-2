@@ -1,0 +1,42 @@
+﻿---
+ID: "5e0ad6f8-4664-4218-bc1d-f6403ef33c23"
+Parent: "b7ebd38c-bf62-4691-a31b-3483c3fe2a93"
+Template: "ea00ec99-de74-4684-892b-0253cc1ac636"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Settings/Manage Members/Data/UserList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T114509Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{58368F31-636E-4405-8013-E6DA8F1A0994}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "56e01a19-1478-4da6-bbdf-87b594ef874b"
+      Hint: ChangeUserURL
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{207CD426-EF35-40DA-A26B-DDC68A9CB6A9}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: COMPANY'S USER LIST
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1f9d0d5-1868-471b-8869-ad96603e7a5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T104557Z

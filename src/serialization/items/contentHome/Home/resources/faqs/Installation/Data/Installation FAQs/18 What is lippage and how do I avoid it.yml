@@ -1,0 +1,41 @@
+﻿---
+ID: "695297f6-bf68-416e-8538-b1f18742e646"
+Parent: "8fb5af14-6b23-4c33-a4e3-d5316eee024f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/resources/faqs/installation/Data/Installation FAQs/18 What is lippage and how do I avoid it
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063621Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is lippage and how do I avoid it?  "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>As defined by ANSI (American National Standards Institute) standard A108.02, Section 4.3.7: "Lippage refers to differences in elevation between edges of adjacent tile modules." In other words, there is often a difference in height between tiles that touch one another, which create a warped ridge surface that isn't completely flat.</p><p>There are a few steps tips for installing large format tiles that will help avoid lippage:</p><ul><li>The Tile Shop offers products and tools, such as the Raimondi System and Leveler, to determine if your subfloor is flat enough to receive tile. If it is not flat, you'll need to replace the subfloor. Replacing the subfloor will vary depending on the material of the floor so we recommend speaking with a Tile Shop Associate in regards to your specific project before moving forward.</li><li>Create a grout joint that securely holds your tiles in place. It's recommended to have a minimum width of 3/32 inches between adjacent tiles because the closer the edges, the more the lippage will be accentuate by any abrupt changes in plane.</li></ul><p><br /></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfe6f467-22c4-49f7-91b5-c34a8300dc57"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T130556Z

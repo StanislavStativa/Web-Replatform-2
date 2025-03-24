@@ -1,0 +1,54 @@
+﻿---
+ID: "c451b1b3-8f41-491b-aeee-08a244443a1d"
+Parent: "6e23b428-380e-4189-9f0c-d5160bf51aad"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/metallic/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">The Many Looks of Metallic Tile</h2>
+        <p>With options ranging from matte to glossy and everything in between, metallic tiles can make any surface more visually interesting, and work equally well as a neutral backdrop or bold focal point. The wide variety of tones and finishes available makes metallic tile a popular choice across a wide variety of interior design contexts. Whether you're seeking tile for an <a href="/application/accent" class="font-bold"><strong><span style="text-decoration: underline;">accent wall</span></strong></a>, backsplash or floor, metallic tiles can help you achieve the look you&rsquo;re after.</p>
+        <p>&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Finish</span></h3>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">High gloss finishes are a hallmark of metallic tile. Metallic backsplash tile can bring a whimsical sense of nostalgia to your kitchen. Or consider metallic subway tile made of glass for a more subtle look. Even when not using actual metal, metallic colors can add texture and depth, recreating the appearance of aged metal for a cozy, lived-in feeling.</p>
+        <p style="margin-left: 40px;">
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Shapes and Mosaics</span></h3>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">Our selection of metallic tiles offers a variety of shapes to choose from. This includes the standard square and subway tile shapes, but also <a href="/shape/hexagon?pageNumber=1&amp;pageSize=24&amp;facet_finish=facet_idTWV0YWxsaWM*" class="font-bold"><strong><span style="text-decoration: underline;">hexagon tiles</span></strong></a>, round, and even stunning mosaics in unusual shapes.</p>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">In a mosaic tile design, metallic tones can take center stage or serve as a highly effective accent. Black metallic tile with accents of silver or gold makes for especially striking and dramatic mosaics, adding depth to the already alluring visual interest of the tessellation.</p>
+        <p style="margin-left: 40px;">
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">A Touch of Gold</span></h3>
+        <p style="margin-left: 40px;">Gold metallic tile is a great way to bring a touch of elegance and sophistication to your interior design. A gold-accented marble tile mosaic elevates a neutral space with touches of pure luxury. Going bolder and centering gold as your main tile color can make an even bolder impression.</p>
+        <p>&nbsp;</p>
+        </p>
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6687e74-f338-4123-ac82-c215b0b05f65"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T052545Z

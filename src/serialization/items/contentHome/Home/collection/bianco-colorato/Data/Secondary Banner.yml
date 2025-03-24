@@ -1,0 +1,63 @@
+﻿---
+ID: "acb67c83-5f77-4f8a-931c-93857f6cea4e"
+Parent: "749f1140-231e-4fec-a2c2-724a9d407130"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/bianco-colorato/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bianco Puro Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Channel the beauty and intrigue of the stunning Turkish islands with a clean white marble quarried from their mountains. Dolomite mineral deposits give Bianco Puro its high quality and pure appearance containing very little veining or movement. The simplicity and versatility of this full honed tile collection mean it will look sophisticated anywhere from a high-end bathroom to a contemporary living area.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c30eba6e-cc53-4149-a4c5-1af41d6f0ffd"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T104249Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "bianco_puro_wall_buildout_edited:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {083E0D77-0C19-4E43-9E5A-AF8D440662EE}
+        {F95752F4-19D5-4177-8D82-66B67006229A}
+        {26A021D2-320C-4364-B6E0-56D844ECF610}
+        {AC25D3F2-628B-4116-B7F7-968BE0E6AB3C}
+        {38EDA5B7-8EAC-4D06-B97F-907EEAE7E75F}
+        {A08C8452-A0D3-4518-83B9-60BB4E271A0D}
+        {FEEB2D64-8817-461A-BBCA-E75859900900}
+        {71231186-5A98-435D-9B85-BE2090B2EEFF}
+        {BCE6F89F-FAE1-464D-A8CB-8BA413AD777F}
+        {50F9D0E4-5B70-4747-8DB2-93D6D9281E3A}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

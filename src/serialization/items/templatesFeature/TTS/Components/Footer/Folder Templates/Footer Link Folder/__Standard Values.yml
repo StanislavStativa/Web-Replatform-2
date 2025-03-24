@@ -1,0 +1,31 @@
+﻿---
+ID: "e77a62e9-afb6-4712-ae92-66f9df7a944f"
+Parent: "35f49eb6-eaa0-40e6-977e-911ddc1e5a44"
+Template: "35f49eb6-eaa0-40e6-977e-911ddc1e5a44"
+Path: /sitecore/templates/Feature/TTS/Components/Footer/Folder Templates/Footer Link Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{EDA1A11D-4B30-432B-94C0-65BF932CACDE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f042076-c2ef-4bdb-a7f9-f6a7e857eeda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240420T070347Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "e873c975-7942-4135-aaf2-a23c3c13aa9e"
+Parent: "d0d827cc-aaf0-4fdd-b18f-0336eab806c8"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Content tile stack"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {DF3010EB-0B49-4457-8EBF-B0A1ABC5E19A}
+        {FC529935-D09A-488F-9088-4D73969E0F5C}
+        {111E9A94-1E77-4212-A0DB-E85509F32290}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150411Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "886f5e5c-4eb7-4c0d-8228-e57a1c4d79ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T103316Z

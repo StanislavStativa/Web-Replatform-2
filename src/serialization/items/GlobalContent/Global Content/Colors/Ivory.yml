@@ -1,0 +1,37 @@
+﻿---
+ID: "dfd3ec97-6383-47c4-83c5-737fbbdcf138"
+Parent: "bc6296dc-dae3-4d1d-be82-9c34745d4e73"
+Template: "e362a263-ccd6-4083-9906-37c6befe1ef9"
+Path: /sitecore/content/TTS/Global Content/Colors/Ivory
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T041850Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2daa0042-f28a-448a-8424-032be435eb7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c2f2d86b-85fe-42ce-bfac-dca87a77e7af"
+      Hint: ColorId
+      Value: IVORY
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181203T041850Z
+    - ID: "e6a636b1-ff87-4879-9e14-5574d9234b3c"
+      Hint: ColorName
+      Value: Ivory

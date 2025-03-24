@@ -1,0 +1,63 @@
+﻿---
+ID: "c80e7bb7-4222-4917-8041-d512090f9f77"
+Parent: "31e8c9bc-ce07-42af-9b0d-16f1d148e965"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/blue/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Blue Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Blue tile is a simple way to add a refreshing vibe to your home, with a variety of hues that pair effortlessly with any style. Pale ceramic tile can provide a lived-in, vintage feel, perfect for adding character to walls and floors. Royal blue grid tile with a glossy finish is a clean look for a bathroom or kitchen. From light to dark, you will love exploring our wide selection of beautiful blue hues.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84885c53-7a83-4550-afc5-93ce39d1c32c"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153850Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 484099_Shower_Vendor_Render.jpg%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {530BA57F-C94E-4524-B6D6-8EE8C7221490}
+        {7CB27A16-39AA-4FF1-81EA-5116EA06E3D9}
+        {77FAD73D-6909-480D-9CFA-CF69F04E8425}
+        {4AA680A0-1AAD-44E9-87EE-06B68D99CCF5}
+        {794FDE8A-89A2-48FB-B89E-943642450480}
+        {73B7CF7E-E37F-4B59-99FF-61CC2AD9035C}
+        {DD08BE63-34D8-4F0C-A2B5-FA3FD0A8876E}
+        {ED063260-6098-4DCD-907C-E54CA0A54ED6}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

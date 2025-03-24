@@ -1,0 +1,34 @@
+﻿---
+ID: "a8d0c64d-491f-453f-9c4d-7815a1e8cc23"
+Parent: "f1be12bc-46c9-4459-89e5-c96cc9ef49cd"
+Template: "f1be12bc-46c9-4459-89e5-c96cc9ef49cd"
+Path: /sitecore/templates/Feature/TTS/Common/Interface Templates/Content/_SectionDescription/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T081901Z
+    - ID: "4d5c9232-a74b-494f-a300-0da74590101f"
+      Hint: SectionDescription
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa6fc5f6-14ca-4514-a75a-4e827eaf7c45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240531T092129Z

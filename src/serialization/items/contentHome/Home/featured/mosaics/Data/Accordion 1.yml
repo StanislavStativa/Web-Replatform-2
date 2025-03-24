@@ -1,0 +1,44 @@
+﻿---
+ID: "6138f70a-4063-4021-a402-1971c600ce67"
+Parent: "a36d8e51-e0e7-49ad-8bab-79e4d28705ba"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/Accordion 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {DEBE2440-2D6F-4FF1-8AD4-0AADF727D9D6}
+        {E8C2DF88-9439-4DE1-B222-27DF6D95C3B2}
+        {E6CA260C-3991-44C2-AC59-6AE32A870141}
+        {126D5CA4-C16F-4DE5-8C12-9FA056BEBA60}
+        {7A59623F-40B1-426B-BD42-0F62B5EA1EFE}
+        {F36BF9A0-03FF-41C6-8827-4FDD9DEC3E32}
+        {066ABFA7-5B01-435D-82C8-A38E4CE91635}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T174928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask The Mosaic Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e88e2b7-b5bc-43fc-8f7c-6a3cefe83a92"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T151011Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "db56de12-4df2-4270-9802-14719e09812a"
+Parent: "1d1d2291-d14c-4d3e-8943-1f44eadd2466"
+Template: "4dac0981-40bd-427d-9354-680969c88e58"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Inspiration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T120451Z
+    - ID: "36bb3b83-fbc3-4d04-bd1f-7790fdd91140"
+      Hint: Links
+      Value: |
+        {163FAABE-1F90-4394-8D54-85C63386B037}
+        {85475CDC-9566-404B-A340-1B65EED66901}
+        {1AC3C474-DE63-44B6-8FF3-6B3E7232A742}
+        {64ECAAC2-204E-4CC6-8B21-A9C6D993B89C}
+        {7B48DC6D-C25F-421D-B3A2-EA9DB304E673}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Inspiration
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99ef2f6e-7fe7-4835-a4d1-47d784c92329"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T130826Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Inspiration" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5089C88E-CEB4-47B8-B70B-47D0206931B9}" />

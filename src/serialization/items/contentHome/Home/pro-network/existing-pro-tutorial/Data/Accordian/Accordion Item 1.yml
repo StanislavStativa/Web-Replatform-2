@@ -1,0 +1,40 @@
+﻿---
+ID: "90e15699-3552-442b-85b7-8b87ac370d11"
+Parent: "f4a6b7f5-800e-445e-89ac-30d2662120f9"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/existing-pro-tutorial/Data/Accordian/Accordion Item 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T064328Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Where can I find my Customer ID?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText"><p>Your Customer ID can be found on a recent receipt or quote under the reference Customer Number. If you do not have a recent quote or receipt you can call your local store or customer service and they will provide this to you.<br />
+        <br />
+        <a rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/TTS-mock-receipt.pdf" target="_blank">See an example receipt here &gt;</a></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e00ed46-8409-4a14-95fe-c7f039674adf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T064417Z

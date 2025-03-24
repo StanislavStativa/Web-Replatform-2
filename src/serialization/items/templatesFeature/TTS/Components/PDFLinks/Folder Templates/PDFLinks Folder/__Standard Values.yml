@@ -1,0 +1,33 @@
+﻿---
+ID: "ff213fdc-e51b-4769-ac8c-aded3bb2e165"
+Parent: "f05924d4-e13f-42af-aefa-dcc9b399fe4f"
+Template: "f05924d4-e13f-42af-aefa-dcc9b399fe4f"
+Path: /sitecore/templates/Feature/TTS/Components/PDFLinks/Folder Templates/PDFLinks Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {44D5545F-873F-4B15-9F27-883A22D3BDBF}
+    {F05924D4-E13F-42AF-AEFA-DCC9B399FE4F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce293484-2020-4e8b-80d3-7ad094380cd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240510T140839Z

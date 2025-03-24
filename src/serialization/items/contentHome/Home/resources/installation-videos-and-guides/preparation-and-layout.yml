@@ -1,0 +1,202 @@
+﻿---
+ID: "79e87dd0-ab67-4d68-bb10-0dce71d5ab8b"
+Parent: "4b210320-ed61-4469-b729-d663c3e77733"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{EA4B2D93-B2F4-4D4F-AF70-2850518B1E0B}"
+          p:before="*"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D%7C%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=32"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{D456017C-707B-4D1C-9BAB-87D0E869B5F7}"
+          p:after="r[@uid='{EA4B2D93-B2F4-4D4F-AF70-2850518B1E0B}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{488CA870-74A8-4CBE-AEAB-2F53507EC9F3}"
+          p:after="r[@uid='{D456017C-707B-4D1C-9BAB-87D0E869B5F7}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BCC168BAE-2B0D-4966-B3F0-DE4982FCE0A8%7D%7C%7BA21202C6-A684-4B7E-BA0A-21DE6DD590E3%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{FAB8143A-C36C-416B-BF7A-0F7F283EB4DD}"
+          p:after="r[@uid='{488CA870-74A8-4CBE-AEAB-2F53507EC9F3}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B07AD312B-A353-440C-8C51-7B2F1E3A80E3%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{A79A7433-2529-4922-B024-CA7961A6771C}"
+          p:after="r[@uid='{FAB8143A-C36C-416B-BF7A-0F7F283EB4DD}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{8AC9D0C7-4447-4A3E-A83D-8EAD8CFDF86B}"
+          p:after="r[@uid='{A79A7433-2529-4922-B024-CA7961A6771C}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B3A72FC8-4C94-45C9-A8F6-F5CE90023850}"
+          p:after="r[@uid='{8AC9D0C7-4447-4A3E-A83D-8EAD8CFDF86B}']"
+          s:ds="local:/Data/Learn Tile Design Styles"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-14" />
+        <r
+          uid="{964E8277-C604-48E0-AE8E-B3B13950A110}"
+          p:after="r[@uid='{B3A72FC8-4C94-45C9-A8F6-F5CE90023850}']"
+          s:ds="local:/Data/How to Plan Your New Tiled Space"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-14" />
+        <r
+          uid="{3F301740-0AB4-4334-88C7-E48AACDCD688}"
+          p:after="r[@uid='{964E8277-C604-48E0-AE8E-B3B13950A110}']"
+          s:ds="local:/Data/Thinset and Grout Coverage Info"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-15" />
+        <r
+          uid="{44B425EC-8A44-4BD6-975C-E9E763ECDABC}"
+          p:after="r[@uid='{3F301740-0AB4-4334-88C7-E48AACDCD688}']"
+          s:ds="local:/Data/How to Install Backer Board and Recess Shelves"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-15" />
+        <r
+          uid="{9B4BFC4E-6A6F-490C-BAA3-D9D4AF15DE88}"
+          p:after="r[@uid='{44B425EC-8A44-4BD6-975C-E9E763ECDABC}']"
+          s:ds="local:/Data/How to Plan the Layout of a Shower"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-16" />
+        <r
+          uid="{48A42F5B-8E51-48ED-84D3-B34A21891FA4}"
+          p:after="r[@uid='{9B4BFC4E-6A6F-490C-BAA3-D9D4AF15DE88}']"
+          s:ds="local:/Data/How to Install a Shower Seat"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-16" />
+        <r
+          uid="{20A5B798-8232-4F2C-93A7-2327499253BF}"
+          p:after="r[@uid='{48A42F5B-8E51-48ED-84D3-B34A21891FA4}']"
+          s:ds="local:/Data/How to Install a Recess Shelf"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-16" />
+        <r
+          uid="{B96DCF30-17DD-4DDE-99EF-65DBD2BB91BF}"
+          p:after="r[@uid='{20A5B798-8232-4F2C-93A7-2327499253BF}']"
+          s:ds="local:/Data/How to Install Radiant Heat Wire Self Leveler"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-17" />
+        <r
+          uid="{AC826EFA-FE9B-4884-92C4-3277201CDC08}"
+          p:after="r[@uid='{B96DCF30-17DD-4DDE-99EF-65DBD2BB91BF}']"
+          s:ds="local:/Data/How to Install Noble Value Seal"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-17" />
+        <r
+          uid="{854DBFF4-CA6D-4B5D-BBFA-6A4EF0199872}"
+          p:after="r[@uid='{AC826EFA-FE9B-4884-92C4-3277201CDC08}']"
+          s:ds="local:/Data/How to Install an Easy Pan Shower Kit"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-17" />
+        <r
+          uid="{7DCB9B22-8603-4585-8ABA-B57595C84020}"
+          p:after="r[@uid='{854DBFF4-CA6D-4B5D-BBFA-6A4EF0199872}']"
+          s:ds="local:/Data/Pro Heat Thermostat Programming Guide"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h6&amp;HeadingTag=h6&amp;IsImageClickable&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=29"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-18" />
+        <r
+          uid="{8EA475F6-82B0-4E2A-8561-08D9D1238827}"
+          p:after="r[@uid='{7DCB9B22-8603-4585-8ABA-B57595C84020}']"
+          s:ds="local:/Data/How to Install a Glass Shelf"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h6&amp;HeadingTag=h6&amp;IsImageClickable&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable=1&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=30"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-18" />
+        <r
+          uid="{375CC4B2-D9AF-4FED-B355-51C79D69AE32}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Superior Pro Heat User s Manual"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h6&amp;HeadingTag=h6&amp;IsImageClickable&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable=1&amp;IsUnderline&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=31"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-18" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: preparation and layout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T090221Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: preparation and layout
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Preparation &amp; Layout - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7867363c-1c5a-45ff-a8ee-96671ff567c7"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: preparation and layout
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Preparation &amp; Layout - The Tile Shop"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T102134Z

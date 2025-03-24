@@ -1,0 +1,44 @@
+﻿---
+ID: "436d7ec9-aac6-43dc-9a26-0ef3a24129cc"
+Parent: "4a6682ad-732a-403d-ab77-0596539b8f5f"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/wall/Data/Featured Tile 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0E5E6CF6-2CCB-4AA4-87FC-3AEA8CE2EC85}
+        {161B9ED2-8A1E-4FBD-A20F-595CBC75C501}
+        {23677510-28E7-4CB8-97EA-2698B13BD926}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Distinguish Your Walls With Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Add a finishing touch to your walls with </span><a href="/trim-and-accessories" class="font-bold">trim and accessories</a><span>. A band of colorful trim can add a playful pop to a white tile bathroom wall. Trim provides smooth and luxurious transitions when used as wainscoting to separate a half wall of tile or two separate wall tiles, or as skirting along the bottom edge.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74c93d6f-4636-4a8c-824c-7f3d84bd84ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T070335Z

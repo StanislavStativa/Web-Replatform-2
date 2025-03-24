@@ -1,0 +1,35 @@
+﻿---
+ID: "fbd3e30b-22d2-4337-8caa-77493efc0d17"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "395c4301-9f68-4fc9-9663-a9859ccdc79b"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Products Carousel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T044133Z
+    - ID: "286af7fc-d200-4b33-8453-07b9bdbac0d3"
+      Hint: DefaultItemsPerPageMobile
+      Value: 10
+    - ID: "2bb73a63-6e95-447e-ac0a-f75560ee1309"
+      Hint: DefaultItemsPerPageDesktop
+      Value: 10
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: Seasonal Picks
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a23d436-bc99-4186-9825-23bee7425ffd"
+    - ID: "a6fa7681-7758-4c2c-a331-38a2f23bf628"
+      Hint: DiscoverRfkId
+      Value: seasonal_picks
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080844Z

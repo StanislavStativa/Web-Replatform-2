@@ -1,0 +1,47 @@
+﻿---
+ID: "612e0c3e-6426-4c72-b12d-761e8af10efa"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Clean and Reassemble the Area"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Clean and Reassemble the Area
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        Once the grout has cured and has been sealed, clean up any dust and debris left over from the project. At this point you can put appliances back and replace the outlet and switch plates.<br />
+        <br />
+        This is also when you will remove the ledger board. Using a pry bar or hammer, gently pull the ledger board away from the wall. Take care not to mar the tiles or grout when you do this.
+        </p>
+        <img src="https://s7d1.scene7.com/is/image/TileShop/j_nelson_mudroom_3%3aImage_Caption_Hero_V2" alt="A subway tile backsplash on wall above counter. White subway tile is laid horizontally in stacked columns of tile for a modern and minimalist feel." title="A subway tile backsplash on wall above counter. White subway tile is laid horizontally in stacked columns of tile for a modern and minimalist feel." />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79e1d9d3-36e8-44b4-a630-6e2add4e9127"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T191227Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "YellowBrickHome_Condo_HowToTileABacksplash_Sponging:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 10

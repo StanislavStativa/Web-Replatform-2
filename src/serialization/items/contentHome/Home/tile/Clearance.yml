@@ -1,0 +1,139 @@
+﻿---
+ID: "5258a5d9-8d2e-48d3-aeb3-dbc9641d7cd3"
+Parent: "bc5343f0-5424-4ba7-a3b4-aafdd24706c4"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/tile/clearance
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D316ABE5-DDE5-49A4-82DB-5D8C65A322C8}"
+          p:before="*"
+          s:ds="local:/Data/Clearance Tiles Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{9482EC17-07E0-4023-A2A6-5425491C06D9}"
+          p:after="r[@uid='{D316ABE5-DDE5-49A4-82DB-5D8C65A322C8}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{C9224633-3DA8-43A6-9142-815ABB2709B4}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Enjoy incredible savings on high-quality products with our selection of clearance tile in-store and online.&nbsp; Available in a variety of timeless styles and designs with significantly discounted prices, our clearance tiles allow you to bring beautiful spaces to life at a fraction of the cost. But don&rsquo;t wait &ndash; once these tiles are gone, they&rsquo;re gone!"
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240531T131352Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5486c24a-ecff-47c1-aad4-2b31d79504dd"
+      Hint: SuperBoost
+      Value: |
+        {6F390E9C-BAED-4080-9E0C-CB56FA7FB302}
+        {1BEF043D-8F3E-4A6C-AA43-EC007B09828A}
+        {A1527D5B-A7DB-47F9-9AAF-CE30CD60E6B9}
+        {25421058-1FC7-4279-B090-48B73072C3AA}
+        {9E3313E1-5E00-4202-B6C5-75DC47A5A267}
+        {2FCDBAE3-F42C-45FA-9BB1-84D276B189C6}
+        {597EDD8E-B61D-484C-BA1B-0FEBA9850E80}
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Clearance Tile | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Clearance Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "210503_MorrisCo_Entryway_Floor_Overhead:Category_Intro_Image_V2"
+    - ID: "894ababc-8ec2-4de9-981e-3cdbb8235106"
+      Hint: IsClearance
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c78cbc0-aead-4e73-9445-e7c6de2cf59e"
+    - ID: "97d3baa4-e854-4132-bf76-d04276f03662"
+      Hint: ExcludedSKUs
+      Value: |
+        {DEB8B836-6E41-4904-B714-7F0FF8E1A8A7}
+        {A7B7C8AF-DF5D-40E2-89C4-0EE2D157374B}
+        {C0B8625F-36AD-4672-BE04-B6DC76E1AB8D}
+        {EE55C1D1-23B5-498A-ACD0-BD28D9F2133D}
+        {9130206C-2E2E-4D68-8777-0F173060AED0}
+        {F5F94C20-BCCF-4A76-A26D-D284D1B65BC0}
+        {1A7C54F0-3A8D-42A3-AB33-5474A0820698}
+        {D4546744-7881-45A4-946A-21C8ED8F3B40}
+        {5419DB7D-4DE7-483A-A6CF-DD07730DD73F}
+        {0075F0BB-7A99-442F-BC7B-D2A9A90AFF66}
+        {E6E1C16F-3845-4F94-B207-CCC3F032120F}
+        {D55139E1-12B4-40EB-83D1-8CD809594DB6}
+        {39CD08AE-BAAE-489A-83A2-793CF1C02B73}
+        {8FE097E6-D9DB-410E-AB6A-F65AD8C645C5}
+        {D40BEABB-C1DE-4CE8-9FFD-5C3534D4EF39}
+        {C30F5B8E-8B61-45CD-89AB-EC3D90595423}
+        {1765A2E3-DAE2-4299-AA5E-13E9CDA3516E}
+        {93276626-8D5B-4BAF-875C-76D6EA5C43C4}
+        {E6A1A92B-4C3B-44DE-94D7-E72FAAC5EEE5}
+        {251AAFC2-EBAD-4560-956B-0AB0DA50BF49}
+        {4FCA711D-F7E3-4DB0-B0DB-1F900FA1DD60}
+        {DDEB80DF-1172-4507-AD75-092EE473DC86}
+        {95EB29E7-7EAA-4952-B045-452AE8637809}
+        {3E218AB4-9082-47E0-850E-BDB4B2DED330}
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Clearance
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Get beautiful tile for less at The Tile Shop's clearance sale. Choose from a wide variety of styles, materials & colors. Shop today.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090407Z

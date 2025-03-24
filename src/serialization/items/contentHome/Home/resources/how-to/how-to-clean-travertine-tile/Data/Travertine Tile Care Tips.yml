@@ -1,0 +1,56 @@
+﻿---
+ID: "82d2adc3-1e10-479f-919b-fed07694fac9"
+Parent: "ec66310b-e223-4416-a5f6-6c0bdb7df895"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-travertine-tile/Data/Travertine Tile Care Tips"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Travertine Tile Care Tips
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h3 style="margin-left: 40px;">Cleaning Schedule</h3>
+        <br />
+        <p style="margin-left: 40px;">For both floors and shower walls, a weekly cleaning is recommended to keep tiles looking pristine and to prevent the buildup of dirt or soap scum. If either area is used heavily or starts to look dirty before a week has passed since the last cleaning, consider cleaning it every two to three days. Spills or other more urgent cleaning needs should be tended to as quickly as possible to prevent staining. </p>
+        <br />
+        <h3 style="margin-left: 40px;">How to Make Travertine Tiles Last Longer​</h3>
+        <br />
+        <p style="margin-left: 40px;">There are a few simple steps you can take to help your travertine tiles last longer. The first and most important step to take is to ensure your travertine tiles are properly sealed. Whether they are installed on your living room floor or in your shower, sealing travertine tiles will protect them against moisture, scratching and other potential natural stone hazards.</p>
+        <br />
+        <p style="margin-left: 40px;">To make your travertine floor tiles last longer, place doormats at entrances to trap dirt and debris before it gets tracked onto the <a class="font-bold" href="/application/floor">floor tiles</a>. When these little bits of abrasive material accumulate, they can begin to scratch the tile surface. Area rugs in high-traffic areas can also help protect the travertine from scratches and wear. </p>
+        <br />
+        <h3 style="margin-left: 40px;">How to Clean Grout Lines</h3>
+        <br />​
+        <p style="margin-left: 40px;">
+        If your grout lines need a more thorough cleaning than the travertine tile surrounding them, it's important to take extra care to clean them without damaging the delicate stone surface. The simplest way to do this is by giving extra attention to the grout lines during your routine cleaning process. Spend a little extra time going over the grout lines with the mop or sponge.
+        </p>
+        <p style="margin-left: 40px;">For grout lines that need more deeper cleaning, you can apply a mixture of equal parts water and baking soda. Allow this mixture to sit for a few minutes and then scrub it with a small, soft bristle brush such as a grout brush or a toothbrush. </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d541b55e-7408-4b27-b40c-cce2c0ce0dc9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T180435Z

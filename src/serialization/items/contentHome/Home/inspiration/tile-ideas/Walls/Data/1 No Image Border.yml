@@ -1,0 +1,37 @@
+﻿---
+ID: "c853649f-9e2d-4be0-9d99-d8143fd86fa3"
+Parent: "70c7d220-552c-4b4f-b1ae-0bf0f854a870"
+Template: "3dca0024-f294-428b-82dd-8f29f5268a28"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Walls/Data/1 No Image Border"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102441Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64ddb35a-d00c-4a0a-846c-e07b9950f916"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "beb4d9d6-35de-4e71-8ef2-be077da07ff5"
+      Hint: Caption
+      Value: We love this Ted Baker designer tile for adding the perfect amount of faded pattern without being too bold.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T120350Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Ted-Baker_Plymouth_Hero_Img:Image_Caption_Hero"

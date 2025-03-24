@@ -1,0 +1,61 @@
+﻿---
+ID: "8087c01d-1a3c-48d3-9fd6-2dcfb3ffef9b"
+Parent: "b794768a-77fb-4857-9970-5394ebd53a42"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Selecting the Right Material
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {4506D2DC-1941-456C-9ED2-CE6D14568004}
+        {F973EC5B-DA22-4294-BEDA-00ACDCDADC90}
+        {13F825FB-B9D7-47A3-B00C-115BCB858DC3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Selecting the Right Material
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p class="extra-small-bottom-margin">With tile flooring, there is a way to achieve the look you want for any lifestyle. Luxurious can be kid-friendly, gleaming floors can share a house with four-legged friends, and warm wood-look tile planks can be water resistant.</p>
+        
+         
+        
+        <p>Here are just a few of the materials you can choose from when it comes to selecting tiles for your floor:</p>
+        
+        <ul>
+        <li><strong>Natural stone</strong>, including <a href="/material/marble/floor">marble</a>, travertine and slate, is a perennial favorite for its beauty and durability. From luminous white marble to the dark matte slate, the range of colors and textures of these natural materials never ceases to amaze.</li>
+        </ul>
+        
+        <li><strong>Porcelain:</strong> One of the most impressive features of porcelain floor tiles is their ability to replicate the appearance of other materials, like wood and stone, with stunning realism. Porcelain’s natural density also holds up well to moisture and humidity, and resists stains, scratches and other signs of wear.</li>
+        <li>
+        <strong>Luxury vinyl</strong> tile is a popular option for those who want to create the look of natural wood or stone floors on a budget. While less realistic than porcelain, luxury vinyl flooring is particularly good in spaces like finished basements, where there is the potential for flooding but you still want the appearance of wood floors.
+        </li>
+        <li>
+        <strong>
+        Cement </strong> and <a href="/material/ceramic/floor">ceramic floor tiles</a> deliver big on style and family-friendly function. They come in a variety of shapes, patterns and colors; will stand up to years of wear and tear; and are easy to clean/maintain.
+        </li></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ed19e9b-7f3d-4d0f-9574-5babb1edeb41"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T023610Z

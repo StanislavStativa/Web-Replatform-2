@@ -1,0 +1,40 @@
+﻿---
+ID: "de2985ff-6e5e-4f85-82cc-22ac79db039b"
+Parent: "fbf5ef50-a5cc-48f3-810a-7d936ddeb322"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/Vinyl Plank Flooring Cleaning and Care FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {3A0AEFC0-DC15-4A80-A4E6-0E34579E03B8}
+        {38FFD872-3C9C-4731-B998-11FC4B486BC5}
+        {328F10F9-6A11-40E6-9444-24F36531060B}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T070459Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Vinyl Plank Flooring Cleaning & Care FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b37667f-5625-4351-bb0d-fce18b06382c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T182726Z

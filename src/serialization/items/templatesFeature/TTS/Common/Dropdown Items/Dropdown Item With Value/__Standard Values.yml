@@ -1,0 +1,37 @@
+﻿---
+ID: "aa4afd5d-08e2-4618-8740-b1eb502f2a86"
+Parent: "b8cebf60-4429-4d46-a4a5-08e708cd5adf"
+Template: "b8cebf60-4429-4d46-a4a5-08e708cd5adf"
+Path: /sitecore/templates/Feature/TTS/Common/Dropdown Items/Dropdown Item With Value/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T111420Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cca14df1-caa1-479f-85d0-33099561988c"
+    - ID: "ba1d21ce-b537-42bb-b06e-0e4ad4a589c5"
+      Hint: DisplayName
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T111604Z
+    - ID: "db4aece4-8079-470f-b51e-397e9b5fcac5"
+      Hint: Value
+      Value: $name

@@ -1,0 +1,42 @@
+﻿---
+ID: "3c30abcd-3a06-41b4-b7ee-f9aa68bfa388"
+Parent: "61654867-2ca2-4e1f-b9f0-7d9f8a67aa60"
+Template: "c82cef69-6f78-4e99-8b16-3c53a20ce082"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/HeaderCTAs Folder/My Account/Sign Out
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240524T070717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e66a59ca-9ff6-46cc-8802-3b021cedca67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c76d2ab2-acfb-40db-b226-372feaae0b85"
+      Hint: IsSignOutCTA
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T072419Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Sign Out" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

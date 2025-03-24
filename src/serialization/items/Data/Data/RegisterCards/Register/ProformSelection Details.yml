@@ -1,0 +1,45 @@
+﻿---
+ID: "0dfbf51a-6988-4ce6-9a19-85c4f6ba558b"
+Parent: "e400a257-c08f-498d-bb93-69130a841c42"
+Template: "d1c4a089-7012-4c76-95a0-a248d276ae56"
+Path: /sitecore/content/TTS/TileShop/Data/RegisterCards/Register/ProformSelection Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T161010Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro Registration Option
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Explore with login with or without Customer ID</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "350b07c0-417e-4a76-8cdc-1adb82aef5d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link class="" querystring="" id="{8AC42EC7-1C15-4DCB-AE69-3B91850E8CBE}" anchor="" target="" title="" linktype="internal" text="Yes" url="/TTS/TileShop/Home/Register/pro-user-with-customerId" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T172211Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{73F0DED0-16DD-40CE-B751-2E762B0CE92A}" querystring="" anchor="" target="" title="" linktype="internal" text="No" url="/TTS/TileShop/Home/Register/pro-user" />

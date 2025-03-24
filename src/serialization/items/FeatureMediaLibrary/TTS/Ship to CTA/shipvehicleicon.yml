@@ -1,0 +1,60 @@
+﻿---
+ID: "0ff7c65d-aef6-4d5e-9861-e112eec91a00"
+Parent: "a9ba0a6b-4e04-48ca-aa71-5724bae170e8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Ship to CTA/shipvehicleicon
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/0FF7C65DAEF64D5E9861E112EEC91A00.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 40
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d72e3da6-ce50-4413-a104-151099a96d05"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK9SURBVHgB7ZdNTBNREMdnDTe397ZXuz138QpyMDHS6E2QJiYKfiYgjUn9aowRP9DESLBoghZoPBiBJiYmKFfRxIOhLVe7nLs9272vMyO7tMu2aVm67GF/DWHfS9uZNzP/mVdBR8DDHAGP4zvoFN9Bp/gOOsXzDvYYD/FTJyEiSdANqqoKmbfzEAyFoFNMByNRCTJv5qEbPH/6GPaLX4NO6QGXyK98AjEQaNijmhyMn2n5OdciGIlG2SHjjwWJ96jJ8Rssoma4FsFQMATTKJZY73Fea1oNBHyNXr4K6XspFqg1wq46SMjo3P0HD821opRh7vUMDA0nIL+6zM5aOVSRSFIU5BhGVAAoFQu2qT50FQ+dH4H1b2scWUq11UlXU6wofyCJorAjIAbg2YuXWKdTXApmuvUdbo5f17vF9JMpXa1U2n7/Yvadnpl9xc+ea9TbKJxwOAw/NzZ47WqK2yG/sgxBbEkkHMKTo660VTCfm0awqlb4NJqmgSiKqLbEvq5LrdgqFTGV39mGMfYmkrd4nZz4LybbCK5/XYP03dvQd2IALqGa6D+NJNo/KOjwSwvvTRsxuRdtprgGQ3WBEEgp9EAXVgnnI3lfq9Vg9fOXhi/UcG8ST0XtoFPUqsqjzvwutKHja+nDxz02xi5eYAdLGN0fv37vpphCPHrlGoc8gh3eCs3JwfhZnqHyzjxtlxxG6txIwjwcZYIiZ2eDSolsKIrCe6aD/fgBGjd0Wrp52CEGRDxZATqFLgjb5bK5VrG+W0EzmiYMY22SxcImN1b7hvtILxY3daeQDaMRW0nfSemVuqa+RySUPqqP3GK2YT+3kIWjmCJZ7iy9dpANBSNKQjGg+pubnYFj+NvIViRWSGHUBgRBQNH8hb7+ARjDGj1IrDZOY5sZxhqsp6mDXsH/VecU30Gn+A46xfMO/gPKvyCmCL8lIwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 808
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 40 x 40
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T064440Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Ship to New or Saved Address
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c489bf70-e041-400c-913a-4b16252025a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T113646Z

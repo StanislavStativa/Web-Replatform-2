@@ -1,0 +1,57 @@
+﻿---
+ID: "55502d00-fc6b-4989-9d59-cc1b73f279c2"
+Parent: "abc7d33e-4ab0-4493-88b3-330590157730"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Header/HeaderCTAs/cart
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/55502D00FC6B49899D59CC1B73F279C2.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "423d52e0-a919-4ec6-870f-ef0fbb7e47d4"
+  Value: PHN2ZyBjbGFzcz0iY2FydC1pY29uIiB3aWR0aD0iMjQiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMiAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMy41Njg4NSAzLjk0NzExSDEyLjgzODZIMjFMMTguNTYyNSAxMy41NTgzSDYuMDA3NzEiIHN0cm9rZT0iIzNEMzkzNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPjxwYXRoIGQ9Ik0wIDFIMi44MjEwNUw2LjQxNDE1IDE1LjE2MTdIMTguMjgzOCIgc3Ryb2tlPSIjM0QzOTM1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+PHBhdGggZD0iTTkuNDE0MTkgMTlDMTAuMDEzNSAxOSAxMC40OTk0IDE4LjUxNCAxMC40OTk0IDE3LjkxNDRDMTAuNDk5NCAxNy4zMTQ5IDEwLjAxMzUgMTYuODI4OSA5LjQxNDE5IDE2LjgyODlDOC44MTQ4NSAxNi44Mjg5IDguMzI4OTggMTcuMzE0OSA4LjMyODk4IDE3LjkxNDRDOC4zMjg5OCAxOC41MTQgOC44MTQ4NSAxOSA5LjQxNDE5IDE5WiIgc3Ryb2tlPSIjM0QzOTM1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+PHBhdGggZD0iTTE1LjMxNyAxOUMxNS45MTYzIDE5IDE2LjQwMjIgMTguNTE0IDE2LjQwMjIgMTcuOTE0NEMxNi40MDIyIDE3LjMxNDkgMTUuOTE2MyAxNi44Mjg5IDE1LjMxNyAxNi44Mjg5QzE0LjcxNzYgMTYuODI4OSAxNC4yMzE4IDE3LjMxNDkgMTQuMjMxOCAxNy45MTQ0QzE0LjIzMTggMTguNTE0IDE0LjcxNzYgMTkgMTUuMzE3IDE5WiIgc3Ryb2tlPSIjM0QzOTM1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+PC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 813
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 20
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240419T061910Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Cart
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7b6ca49-88ea-47da-8ce7-a1e2224fef67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T052928Z

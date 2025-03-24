@@ -1,0 +1,54 @@
+﻿---
+ID: "442233de-7e70-4778-bfe2-1a8220d01e4f"
+Parent: "e110b149-ef79-4418-ad4a-6c5b2696feb2"
+Template: "74c757e8-fc76-4e29-b346-ed978e7d8225"
+Path: /sitecore/content/TTS/TileShop/Home/products/*/Data/PDP Info
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06a711ec-0533-4923-a09f-339a68c28098"
+      Hint: EnableiIcon
+      Value: 
+    - ID: "081d0c40-030a-4a40-8a57-e01c7ec6866d"
+      Hint: Prop65Warning
+      Value: |
+        <div class="prop65-warning">
+        <p class="prop65-label font-latoBold text-dark-gray">CALIFORNIA RESIDENTS</p>
+        <p class="prop65-link text-sm">
+        <a class="underline" href="/customer-service/california-legal-notice">Click here</a> for Prop 65 Warning</p>
+         </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T120503Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "545c1a5f-14a4-49a1-a41b-a87886553ebe"
+      Hint: VideoURL
+      Value: 
+    - ID: "570d30b1-ae4a-484b-9967-f0d17bbc3f6f"
+      Hint: Image
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Product Information
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f09831f9-7366-4b92-b2e1-7fafb1819628"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cbdabde2-aa03-4494-b50e-7a19a0c3d609"
+      Hint: CTA
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T092621Z

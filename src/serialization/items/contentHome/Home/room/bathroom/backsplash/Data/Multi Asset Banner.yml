@@ -1,0 +1,57 @@
+﻿---
+ID: "15fb53fa-533b-44ae-b294-ff43cb6dd477"
+Parent: "6f9ace36-3531-4b92-b637-6783f7bc21b2"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/backsplash/Data/Multi Asset Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom Backsplash Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        As one of the smaller tiled areas of the bathroom, the backsplash is an opportunity to have fun. Experiment with a bold accent color, a metallic finish or a 3-D, textured tile to really make your bathroom backsplash pop. Create the popular wallpaper effect with floor-to-ceiling patterned tiles for a statement look that helps this small space stand out.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {20802860-821F-47A8-AE7C-1A869FEFE5B2}
+        {DE0773EE-38FE-4489-9810-504763DAB5D5}
+        {23213437-C647-4DA7-9F94-C676AD6F8692}
+        {72AD5AA8-3DEF-47E9-846C-7BA37E8C42BC}
+        {2302A5B4-FD64-4D14-AAB3-5FDA0CD8AABD}
+        {127FD902-B957-4E7B-8F55-EDAE8ED8428B}
+        {B0FD6594-3F52-4DF7-B122-8604B82EA2C9}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65b13f16-bf34-40d2-99d5-d50082930fb0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T141826Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Zellige_Vanity_Detail:3x2"

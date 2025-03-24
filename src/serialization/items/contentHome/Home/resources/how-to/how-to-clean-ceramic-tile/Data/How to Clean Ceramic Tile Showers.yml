@@ -1,0 +1,56 @@
+﻿---
+ID: "a445582e-6179-4605-9645-81238757477c"
+Parent: "7cedc9c8-bf00-4827-b3be-d7426fe6be9b"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-ceramic-tile/Data/How to Clean Ceramic Tile Showers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Ceramic Tile Showers
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br />
+        <img alt="The floor of this living space features square ceramic stone-look tiles." src="https://s7d1.scene7.com/is/image/TileShop/Cary_Mallory_A_DETAIL_HERO:16x9" />
+        <h3><br />Step 1. Daily Care<br />​</h3>
+        <p>To minimize water spots and reduce the buildup of minerals from water, use a squeegee on the tiles after each shower. It is also helpful to ensure proper ventilation during and after showers to reduce the humidity, which promotes mold and mildew growth.</p>
+        <br />
+        <h3>Step 2. Rinse Away Dirt<br />​</h3>
+        <p>Start by removing loose dirt and other debris from the ceramic tiles. You can do this by rinsing the shower walls with warm water. </p>
+        <br />
+        <h3>Step 3. Spray With a Specialized Cleaner<br />​</h3>
+        <p>Use a non-abrasive, <a href="/installation-care/care-maintenance/cleaners">pH-neutral cleaner</a> suitable for ceramic tiles. Make a mixture of tile cleaner and water and put it in a spray bottle. Spray the solution generously on the tiles and let it sit for a few minutes to break down soap scum and oils.</p>
+        <br />
+        <h3>Step 4. Scrub the Tiles Gently<br />​</h3>
+        <p>Use a soft-bristled brush or non-scratching scrubbing pad to gently scrub the tiles and grout. Pay extra attention to areas with significant soap scum buildup or mildew.</p>
+        <br />
+        <h3>Step 5. Rinse and Dry<br />​</h3>
+        <p>Rinse the shower walls and floor with clean water to remove any remaining cleaner and loosened debris. You can use a handheld showerhead or a bucket for this. Finally, dry the shower with a dry towel or squeegee.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08362664-d996-4843-9810-90b8f73f55bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061912Z

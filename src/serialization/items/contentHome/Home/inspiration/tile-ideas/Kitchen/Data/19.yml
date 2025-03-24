@@ -1,0 +1,44 @@
+﻿---
+ID: "c1d3c722-8994-4537-8fc3-140d6954abc4"
+Parent: "6e1b0ae0-14f7-428d-9c16-37c30ea8131d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Kitchen/Data/19"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Stylish Grey Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        Grey remains popular for its elegance and versatility. Soft and neutral, this color works with a wide variety of design styles and can easily be punched up with the addition of other colors. We love how this grey backsplash designed by <a class="font-bold underline" href="https://www.timbertrailsdc.com/">Timber Trails</a> contributes to the light airiness of this kitchen while still providing a visual focal point to the room. Shop our vast assortment of <a class="font-bold underline" href="/color/grey">grey tile</a> for an on-trend neutral to match your style.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da8cc2e6-9c0b-473e-9e2a-e9d909f4766f"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T140045Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_CaliforniaCoastal_Kitchen_015:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 19

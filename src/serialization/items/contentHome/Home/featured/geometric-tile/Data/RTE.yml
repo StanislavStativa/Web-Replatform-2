@@ -1,0 +1,55 @@
+﻿---
+ID: "1666b608-f543-4161-bd16-ef79d31975d4"
+Parent: "cc01212e-6772-4817-8319-d14e7b8f85e9"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/geometric-tile/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T164614Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">Liven Up Your Living Space with Geometric Tile</span></h2>
+        <p style="margin-bottom:0.67em;">Installing geometric tiles is an excellent way to inject personality and style into a space. Whether it's a simple tessellation of hexagons or an elaborate design embedded into <a class="font-bold underline" href="/shape/square">square tiles</a>, geometric patterns are a sure way to please both your guests and yourself with a touch of decorative whimsy.</p>
+        
+        <h2 class="extra-small-bottom-margin"><span class="h2">Where to Use Geometric Tiles</span></h2>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3-style">Floors</span></h3>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Geometric floor tiles are a great way to create an inlaid border to help anchor an area of a larger, open concept space. You can even go one step further and create a solid shape with the geometric tiles, creating a rug effect in the center of the room. Both of these approaches are a great way to add color and visual texture without needing to care for a rug.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">In smaller spaces, consider laying geometric tile across the entire floor. When doing this, be sure to consider the scale of the pattern in relation to the room. Highly intricate patterns that repeat frequently can make a small room appear more confined, whereas simpler patterns in larger formats will add detail while making the space feel more open.</p>
+        <p style="margin-left: 40px;"> </p>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3-style">Backsplashes</span></h3>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">When deciding on a geometric tile backsplash, consider the size of your backsplash and choose tiles that are proportionally appropriate. The fun of a geometric tile pattern is repetition, so it is important to pick a tile that allows the design to repeat either horizontally or vertically.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">For small backsplashes, this means going with a smaller geometric tile. Conversely, a small geometric pattern might get lost in a bigger backsplash, so a <a class="font-bold underline" href="/featured/large-format">larger format tile</a> may be a better choice.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3-style">Accent Walls</span></h3>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Using geometric tiles for accent walls is a bold design approach that can dramatically transform any space, adding visual interest. The choice of pattern, whether it's the design on the tile or the shape of the tile itself, should complement the decorative and architectural features of the room.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Geometric tiles themselves can be quite striking, and even more so when they span a full accent wall. Bold and contrasting colors will make a strong statement, while neutral tones provide a subtler touch that can reinforce other design elements.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2-style">We're Here to Help</span></h2>
+        <p>Love the look of geometric tile but not sure where to start? You can schedule a <a class="font-bold underline" href="/free-design-services">free design consultation appointment</a> and one of our design experts can help you navigate the world of geometric tile, working with you to discover your new favorite tile.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d50e0c4f-43bb-4e3d-b32b-bd4d79798f02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124231Z

@@ -1,0 +1,189 @@
+﻿---
+ID: "d46f1460-8c07-4b66-ac74-49ad03321b19"
+Parent: "31bd1507-c491-44dd-917d-2f62937403ec"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1C2E81A9-F67F-419E-AA42-332E83E0B047}"
+          p:before="*"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{B3719F77-49C1-40AF-B578-68560A3F97AD}"
+          p:after="r[@uid='{1C2E81A9-F67F-419E-AA42-332E83E0B047}']"
+          s:ds="local:/Data/Multi Asset Banner"
+          s:id="{236A5377-7CAF-4551-A84D-E9F3628F0E90}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{B3719F77-49C1-40AF-B578-68560A3F97AD}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B22852DD9-6525-4BDB-AB70-7B7FD874FA0D%7D&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{C13E5326-62C2-4A22-99A8-5C5CF7CE808D}"
+          p:after="r[@uid='{DA85CF3E-0243-4124-98A6-9C506D21746D}']"
+          s:ds="local:/Data/RTE 4"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D%7C%7B8A7D17A3-CD2B-4420-8EC9-7209037EF62F%7D%7C%7B7CE54E6B-A9E5-448B-B398-C73F2E74E0F4%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="headless-main" />
+        <r
+          uid="{C692295E-4400-44AD-9D0B-ADCA17160E3E}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Accordion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03620094-96fb-429c-ba8e-6d506705b509"
+      Hint: Application
+      Value: "{EDD4FBF4-03B6-4E24-9CFB-E07F6612C63B}"
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Mosaic tiles are the most popular choice for shower floor tiles. The small size of the individual tiles means they conform to the slope and shape of the shower floor better than a larger tile would. There are also more grout lines present between mosaic tiles, offering much-needed slip resistance in the shower."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link querystring="" id="{AF33613C-50FF-49F3-8A4C-76876245DE61}" target="" linktype="internal" text="Bathroom Floor" url="/TTS/TileShop/Home/room/bathroom/floor" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link querystring="" id="{29B1DDF9-2DE0-43F6-A2B3-19BB091C43B5}" target="" linktype="internal" text="Bathroom Backsplash" url="/TTS/TileShop/Home/room/bathroom/backsplash" />
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: |
+        <link text="FAQs" linktype="anchor" url="Accordion" anchor="Accordion" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T181944Z
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link querystring="" id="{4D5E078B-A599-4459-9B9D-3C755EEF977E}" target="" linktype="internal" text="Tub Surround" url="/TTS/TileShop/Home/room/bathroom/tub-surround" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Shower Floor Tile | Pebble, Mosaic & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Shower Floor Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link id="{A88AC647-67B6-4555-A308-90BA84885F33}" querystring="" target="" linktype="internal" text="Shower Accent" url="/TTS/TileShop/Home/room/bathroom/shower-backsplash" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "AnnieSelke_PalmSprings_OfficeBath_Argento_shower_Floor:Category_Intro_Image_V2"
+    - ID: "79d65727-8470-4bff-9daf-0d48ea48e466"
+      Hint: AreaBoost
+      Value: 
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d42101e-165d-4b53-b8e3-5b48ffdd6c03"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Shower Floor Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link querystring="" id="{31BD1507-C491-44DD-917D-2F62937403EC}" target="" linktype="internal" text="Bathroom" url="/TTS/TileShop/Home/room/bathroom" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Explore our huge selection of shower floor tile at The Tile Shop. Browse natural stone, ceramic, porcelain and mosaics in-store and online today."
+    - ID: "c40acd03-ffab-4749-bb1a-7d2cc07fa64d"
+      Hint: RoomBoost
+      Value: "{7A51A240-B581-4E12-8EA2-C7B9CEDBD4B9}"
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link querystring="" id="{D9B01B95-4C67-406E-A9AB-629539D1CDA1}" target="" linktype="internal" text="Bathroom Wall" url="/TTS/TileShop/Home/room/bathroom/wall" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T133155Z
+    - ID: "e06dc89c-3fcd-4dcc-a5f7-c76d9502f288"
+      Hint: Material
+      Value: 
+    - ID: "e8b113e6-1244-4089-ba43-a9ad3527b22b"
+      Hint: MaterialGroup
+      Value: 
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link querystring="" id="{7727AA1A-6DC2-466E-9BDF-DA81687F58FA}" target="" linktype="internal" text="Shower Wall" url="/TTS/TileShop/Home/room/bathroom/shower-wall" />

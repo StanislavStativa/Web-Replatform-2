@@ -1,0 +1,53 @@
+﻿---
+ID: "f6857e23-3edf-4d9b-9f00-bdb31d20ef67"
+Parent: "b0e1c77f-a916-455e-8a67-03216391b39c"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/mosaic/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {66B7849A-C375-414F-BCB5-432108CBDC63}
+        {D58D0456-C5A3-4CB6-B7AC-DB1755586FB0}
+        {32AF4656-6814-43BE-8629-82BFDE43C491}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Marble Mosaic Tile Throughout Your Home
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Marble mosaic tiles </span><span></span><span>are an attractive choice for every room in the home, and our in-house design experts can help you discover all of the beautiful possibilities. Here are just a few ideas to get you started:</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span><strong>• Entryways and Mudrooms:</strong><span> Turn “that patch of floor inside the front door” into a memorable entryway with marble mosaic floor tile. Even in a small home, </span><a href="/application/floor" class="font-bold">floor tile</a><span> can turn your threshold into a visually distinct space worthy of appreciation.</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span><strong>• K</strong></span><strong>itchens:</strong><span> The kitchen is the heart of the home, and adding a marble mosaic backsplash  will make yours an even more inviting space to cook and gather. Even a compact galley kitchen feels grand with a touch of this timeless natural stone.</span></p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <p><span></span><strong>• Bathrooms:</strong><span> For maximum before-and-after magic, you can’t beat a marble mosaic tile bathroom floor. Design tip: If you have a bathroom with a shower stall, we particularly love how a black or gray </span><a href="/material/marble/floor" class="font-bold">marble shower floor</a><span> looks when paired with white marble mosaic tile on rest of the </span><a href="/room/bathroom/floor" class="font-bold">bathroom floor</a><span>. No shower? Achieve a similar effect in a powder room by installing a contrasting marble mosaic tile on the wall above your sink, instead.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aff5346-9a38-45cb-b42e-92fbdeceb7bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T074854Z

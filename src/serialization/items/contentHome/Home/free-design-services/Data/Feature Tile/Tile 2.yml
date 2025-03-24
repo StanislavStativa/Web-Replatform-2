@@ -1,0 +1,43 @@
+﻿---
+ID: "e8fd531e-3cc7-4d85-838d-193d771e8dfd"
+Parent: "36637585-d2e1-48b7-8b4e-a12793aeef3f"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Feature Tile/Tile 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T160416Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86eed097-7782-4b7b-a413-df45d2252b30"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <div class="rich-text">
+        <p>&nbsp;</p>
+        <h4 class="extra-small-bottom-margin">Swatches</h4>
+        <p><span>SWATCHES</span><strong>&nbsp;&ndash;&nbsp;</strong><span>Share samples of anything already in your space or that you plan to use, including paint, cabinets, countertops and fabrics.</span></p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240916T143142Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Swatches_design-services_DI%3aDesign_Ideas_All"

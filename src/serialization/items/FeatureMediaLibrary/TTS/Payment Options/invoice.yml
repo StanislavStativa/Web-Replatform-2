@@ -1,0 +1,60 @@
+﻿---
+ID: "141249fd-750f-4c95-9da4-14ff44a26abf"
+Parent: "3e296b1f-d7d0-42f6-b35a-a5156d62b522"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Payment Options/invoice
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/141249FD750F4C959DA414FF44A26ABF.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 40
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "53586e81-d5c7-4a0c-8bf9-3874c35b9c6d"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKPSURBVHgB7ZhNaBNBGIbfiMfNfbdXs56NvRoVPEhqwYNNUqFg2rQ38Qfxp0R6EK1BpdrGg6BRix78AUGo1mNNem3iufHc3fvuXecbDBhxk28mzTSEPjBkM8my787s+827E/slwABzEIqEQYAwDJXOsSwLVjwOHZQFlpcfo9HYUjon4R7GYukhdIh1muJXlef49nWtrS8Qo3ev9ADJ5Cg4+J6H7LmzcBynrd92RnDx8lW4QryWwPKTJdAP04U5xP+anvt378Dzd+DYI+AQhoG4qQArT5+19Teb2yjevI6Xq287Tn/kFNM0LpYetYkj8oVZ/GjUoULiP6NEI5c8Oormz+2OsxEpMMoIjpgaaqY4gAGHLZDKy2b1O0zDKjMkbiY/JR1JpqGmUw8J1ZrIEyiEkDiCzDONOfn58f07qEI3R+bYVYG2qGHzxQUhqi4vQKSOn5St37BXkvSZcdlMMzwu3ivYAskQhQtTcokyCesZJAeXl5fkMQUISibk4teVF1BlIjeJVOoE+/8sgVS7bNuB73tiXXVlH33Pz8xClUSX9KInUBTWD58+wxMj2YpNptZkJZP8m+lMMDwurlU3ZIhtLXmmYIeF4q0b8tgTRiEX+96OcnAljohwais8KuylzrLiMr7TJ0HvJp7GaB5yA9jYZYHk4srqGzlix/7UMIrsrmLJ0IE9gqajfovhCgtkFtOwBdLL99jpU1opuhfYYaFV/2q1DWTEgr8udhzoJV6V+dsLSI/xgy878k9kc9isVZHJTMo+uojKhXRhu/jSlWuymWY/8vdKpEAKqf2GU7Yin8F0ehwrIuZnc+fRDxr1Lfl+022fseMG5vqXNVlO+gFF/4y4+W4hODbom+j7Lu6V31Xn9luEHHF1AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 762
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 40 x 40
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 40
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240708T062604Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: invoice
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f038aee-b94f-4482-86c6-db2a6edd04f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T062613Z

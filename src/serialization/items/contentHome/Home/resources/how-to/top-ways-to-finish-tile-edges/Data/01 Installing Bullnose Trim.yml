@@ -1,0 +1,47 @@
+﻿---
+ID: "f928e83a-2af1-43f7-82e9-cf00a01ce0d8"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/01 Installing Bullnose Trim"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T045259Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installing Bullnose Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <img alt="Example of shower wall tile with a bullnose edge. Installing bullnose tile is a simple way to create a transition from a tiled area to another surface." class="rtc__list-item-with-image__image" src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_17:16x9" />
+        <p><span><a href="/trim-and-accessories/profiles/bullnose-trim?pageNumber=1&amp;pageSize=12&amp;facet_shape=facet_idRmluaXNoaW5nIFBpZWNl">Bullnose tiles</a> are regular tiles that have a rounded edge on one side. Installing tiles with a bullnose edge around the outer border of a tiled area is a simple method for finishing tile edges.</span></p>
+        <p><span>You can often buy matching bullnose pieces designed to coordinate with the rest of your tile, like <a href="/products/imperial-bone-crazed-long-side-bullnose-ceramic-wall-tile-4-x-8-in-440721">long side bullnose tiles</a>, <a href="/products/imperial-bianco-gloss-short-side-bullnose-ceramic-subway-wall-tile-4-x-8-in-441962">short side bullnose tiles</a>, and even <a href="/products/imperial-bone-crazed-double-bullnose-ceramic-wall-tile-6-x-6-in-440727">double bullnose</a> shapes for the corners of a tile perimeter, depending on the needs of your design.</span></p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf38469f-cfab-48b1-b953-360cb03cdeaf"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 3
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

@@ -1,0 +1,57 @@
+﻿---
+ID: "18652a86-f83b-45d5-ad40-17b1e9bf6ff6"
+Parent: "1188c3f8-8e28-4717-a526-df350f6551c1"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-porcelain-tile/Data/How to Clean Ceramic Tile Showers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean a Porcelain Tile Shower
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br />
+        <img alt="The floor of this living space features square ceramic stone-look tiles." src="https://s7d1.scene7.com/is/image/TileShop/NikkiChu_OfficeBath_Shower_V3:16x9" />
+        <br />
+        <h3>Step 1. Wipe Down Wet Tile Daily</h3>
+        <br />​
+        <p>The most effective way to keep the porcelain tile in your shower clean is to dry it off after each use, or at least once a day. Make sure you rinse any soap residue from the tile, then use a squeegee to remove excess water. You can also use a clean, dry washcloth or towel. </p>
+        <br />
+        <h3>Step 2. Thoroughly Clean the Tile and Grout Weekly​</h3>
+        <br />
+        <p>While a good daily wipe down will keep your shower looking fresh, you should still plan to clean the tile with a specialized, pH-neutral tile cleaner once a week. Use a soft cloth or non-abrasive sponge to apply the cleaning solution to the tiles. Gently scrub the tiles to remove soap scum and grime.<br />
+        <br />
+        The grout between each tile generally sits lower, so it may not always get the cleaning attention it needs with big strokes over the surface of the tiles. You can use your finger to press the cloth or sponge into the grooves between tiles, or you can use a toothbrush dipped in the cleaning solution. Rinse the shower tile with clean water to remove any soap residue.</p>
+        <br />
+        <h3>Step 3. Deep Clean Monthly​</h3>
+        <br />
+        <p>If your porcelain tiles have hard water or soap scum buildup, it's time for a deep clean. For the best clean, you can use either a specialized tile cleaner or a mixture of water and white vinegar. Generously spray the solution on walls, floor and fixtures, focusing on areas with soap scum, mildew or hard water stains.<br />
+        <br />
+        For tougher grime, make a paste of baking soda and water. Apply it to the stained areas, leave it for a few minutes, then scrub gently with a soft brush or sponge.<br />
+        <br />
+        Be sure to rinse every surface you have scrubbed and then dry it with a clean towel.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491d7a65-b290-4097-9969-843e9ffc86dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240617T124932Z

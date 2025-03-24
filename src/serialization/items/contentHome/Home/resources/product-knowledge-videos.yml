@@ -1,0 +1,111 @@
+﻿---
+ID: "ebbe9f62-48df-4d9d-b09a-ef186d2c14ae"
+Parent: "1bec6927-e494-4e9f-8eff-ef86c92a0100"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/product-knowledge-videos"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{77136196-E13A-4226-875E-FD963D793856}"
+          p:before="*"
+          s:ds="local:/Data/Heading"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{A3F74E3D-4197-4C70-AE57-C6F3B21B3885}"
+          p:after="r[@uid='{77136196-E13A-4226-875E-FD963D793856}']"
+          s:ds="local:/Data/How to Identify Types of Tile Trim and Decorative Pieces"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{CA5C0466-07A3-497D-AE86-3B71F891555D}"
+          p:after="r[@uid='{A3F74E3D-4197-4C70-AE57-C6F3B21B3885}']"
+          s:ds="local:/Data/Marble Tile Types and Finishes"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{133153E8-E8CB-4CA5-A650-98F6A48C55AE}"
+          p:after="r[@uid='{CA5C0466-07A3-497D-AE86-3B71F891555D}']"
+          s:ds="local:/Data/Slate Tile Types and Finishes"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7829BFE3-B682-4E79-8A36-0FB931D8BFDC}"
+          p:after="r[@uid='{133153E8-E8CB-4CA5-A650-98F6A48C55AE}']"
+          s:ds="local:/Data/Granite Tile Types and Finishes"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{97A39EA3-E0E8-44F2-9F6D-400E48122625}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/The Benefits of Large Wall Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Product Knowledge Videos
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e4357f-e613-4c29-b6e4-11e3582db4f5"
+      Hint: MetaKeywords
+      Value: "Product Knowledge Videos - The Tile Shop"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T092625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Product Knowledge Videos
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Product Knowledge Videos
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4b4a4e1-716a-4481-9363-99024f8f34d3"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: product knowledge videos
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Product Knowledge Videos - The Tile Shop"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T102135Z

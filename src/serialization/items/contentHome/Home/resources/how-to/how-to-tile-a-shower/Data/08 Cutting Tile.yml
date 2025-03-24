@@ -1,0 +1,49 @@
+﻿---
+ID: "476b1944-f192-4e62-b004-159242e754fb"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/08 Cutting Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 8: Cutting Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>At some point when tiling your shower, you will need to consider cutting your tiles. I would recommend a manual snap cutter, a wet saw, and some hole saw bits for making your cuts.</p>
+        <br />
+        <ul>
+            <li><strong>Manual snap cutter</strong>. Can be purchased in various sizes and used on ceramic or porcelain tiles. Note: If you chose to install a mosaic sheet tile or natural stone, a manual snap cutter would not be the best route for you.</li>
+            <li><strong>Wet saw</strong>. A wet saw will be your most versatile option. It can get the job done on almost any tile material, the only limitation being the size of the tile you choose to install</li>
+            <li><strong>Diamond hole saw bits</strong>. When tiling a shower, you will need a diamond hole saw bit to make circular cutouts in your tiles for shower heads and tub spouts. You can purchase these as an add-on bit to your drill/driver or as an add-on to your angle grinder.</li>
+        </ul>
+        <br />
+        <p><strong>See our article on <a class="font-bold" href="/resources/how-to/how-to-cut-tile">How To Cut Tile</a> for detailed instructions and helpful tips on cutting different types of tiles with various types of saws.</strong></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee170657-ae1a-42ea-b927-2296da7fb547"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T072357Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 8

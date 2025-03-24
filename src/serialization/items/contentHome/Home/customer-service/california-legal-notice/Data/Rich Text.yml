@@ -1,0 +1,41 @@
+﻿---
+ID: "5b8538f6-915e-4401-9da4-f381762c209a"
+Parent: "bc070ffe-f44d-4198-be31-003d0ecd3ddd"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/california-legal-notice/Data/Rich Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T135251Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: California Legal Notice and California Proposition 65
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>California&rsquo;s Proposition 65 entitles California consumers to special warnings for certain products that contain chemicals known to the state of California to cause cancer, birth defects, reproductive harm, respiratory harm or other health problems.</p><br />
+        <p>We are providing the following warning for products linked to this page.</p><br />
+        <p>WARNING: This product contains chemicals known to the state of California to cause cancer and birth defects or other reproductive harm.</p><br />
+        <p>For more product-specific information on chemical content, please visit <a class="font-bold" href="/resources/Specifications/Safety Data Sheets">here</a>&nbsp;for our SDS sheets or contact The Tile Shop at 888-398-6595.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e053e07-bff2-468b-b54a-9640d359637f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240729T111856Z

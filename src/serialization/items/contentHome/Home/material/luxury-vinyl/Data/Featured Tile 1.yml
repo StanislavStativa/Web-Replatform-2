@@ -1,0 +1,48 @@
+﻿---
+ID: "fd3d355c-5d8f-4e3b-9ea2-594bbdbd22a3"
+Parent: "d77b0a5d-fb2f-4701-8de0-6682c77197b5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0D49F91C-4318-435D-8245-A55114EE897E}
+        {47FDF32C-998D-45D7-B2A6-7F2E52DC1F39}
+        {1BDD8596-3EE8-4258-9E88-47415F6F80DE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Vinyl Floor Features and Benefits
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Luxury vinyl is a top choice for homeowners and trade professionals alike for a variety of reasons. Luxury vinyl tile and planks can withstand everyday wear and tear in high-traffic areas like </span><a href="/room/laundry" class="font-bold">laundry rooms</a><span>, in-home gyms, and mudrooms by providing maximum scratch, dent and stain resistance. </span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span>Available in both tile and plank sizes, our floating vinyl flooring ensures installation will be efficient and hassle-free with a simple click-lock system, while offering increased sound absorption and added underfoot comfort. Our luxury vinyl planks and tiles offer scratch, stain and dent resistance so you can get more from your floors.</p>
+        <p><span>&nbsp;</span></p>
+        <p><span>Learn even more on the Tile Shop blog with our in-depth </span><a href="/blog/your-guide-to-luxury-vinyl-tile/" class="font-bold">Guide to Luxury Vinyl Flooring</a><span>. </span></p><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a74b4f6b-2d89-4da4-8add-64a78b45753e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T082519Z

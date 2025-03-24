@@ -1,0 +1,39 @@
+﻿---
+ID: "d9ebf4fa-33f2-46f6-a19b-05b496b54621"
+Parent: "78d20275-22c7-4fd5-8c6c-fa8d8c08a5e5"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor/Data/RTE 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <p><span>If you’re looking to achieve a more modern look, we also have a wide assortment of larger tiles for a floor that reflects your aesthetic. Whatever your vision, we have tile in all sizes, shapes and styles to create your perfect shower floor design. Explore our assortment on our website or <a href="/store-locator/" class="font-bold">come into one of our showrooms</a> to consult with one of our expert sales associates to find the tile to complete your project.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fd357f1-7216-4938-876a-af942b2a7de4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055632Z

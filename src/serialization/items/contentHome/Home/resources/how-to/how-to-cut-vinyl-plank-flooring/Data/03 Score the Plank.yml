@@ -1,0 +1,54 @@
+﻿---
+ID: "20ccf563-785b-4c16-8b79-edf78b53c376"
+Parent: "dffffd93-c479-45b8-8126-14a80d208d07"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring/Data/03 Score the Plank"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T114837Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Score the Plank
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>(Note: If you are cutting the plank with a jigsaw or <a href="/products/13-in-multi-floor-cutter-350497">cutter</a>, you will not need to score the plank. Proceed to the next step.)<br />
+        <br />
+        Set your plank on the floor or on a table. If you are setting it on the floor, be sure to put it on top of a protective layer such as a spare piece of vinyl plank to avoid accidentally cutting through the plank into the floor. If you are setting it on a table, move the section to be scored just off the edge of the table.<br />
+        <br />
+        Using the straight edge or T-square as a guide, score along the marked line with your utility knife. Apply firm pressure to make a deep score about halfway through the plank. You may need to make multiple passes with your blade to get a sufficiently deep score.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52b97021-46ad-400a-9a1d-233d47485026"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 5
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T094446Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 3

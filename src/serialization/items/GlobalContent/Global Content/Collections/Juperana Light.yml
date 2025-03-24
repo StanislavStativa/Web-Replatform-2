@@ -1,0 +1,40 @@
+﻿---
+ID: "0e1ea98c-1152-4ea3-9a37-1b68a720414e"
+Parent: "5b7b8fac-bf77-47a0-8475-c8e3ca758987"
+Template: "4ff74399-e9f2-46c6-919d-67fab8a67d6a"
+Path: /sitecore/content/TTS/Global Content/Collections/Juperana Light
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T041942Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "586303b7-41de-4351-98ea-d37193280a1a"
+      Hint: CollectionName
+      Value: Juperana Light
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4fd966cf-8035-498d-a72a-3e418aa28331"
+    - ID: "b082b188-84eb-4b2f-ab37-056591e5650b"
+      Hint: CollectionCode
+      Value: 524
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "c4e2c36e-f12b-4b11-8213-2856762d96fa"
+      Hint: SAPMACollection
+      Value: Juperana Light
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210727T072429Z

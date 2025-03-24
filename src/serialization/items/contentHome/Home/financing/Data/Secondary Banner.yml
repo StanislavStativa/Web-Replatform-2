@@ -1,0 +1,52 @@
+﻿---
+ID: "6dbc3ecd-8fd5-4acb-9a4f-c617e3e45c68"
+Parent: "a335bf66-e9d8-4b16-986e-96819b32aaff"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/financing/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T081405Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Buy Now, Pay Over Time
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class=" rich-text"><p>Bringing your dream space to life just got easier with Citizens&nbsp;Pay<sup>®</sup>.</p>
+        <p>Use Citizens&nbsp;Pay<span><sup>®</sup></span> for Tile Shop purchases and enjoy zero down and interest as low as 0% APR for 6-12 months, then 29.99% for the remaining term of 24-60 months.*</p>
+        
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e67aa9a-3f0e-4ddf-a47e-1de12c8c6a1a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T082003Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "citizens-hero2%3aHomepage_Hero_Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="CHECK ELIGIBILITY" linktype="external" url="https://thetileshop.citizensbank.com/?src=1&amp;cm=5" anchor="" target="" />

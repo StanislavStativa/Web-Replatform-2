@@ -1,0 +1,37 @@
+﻿---
+ID: "a38b0436-70d0-44ec-bc05-8a3ad269f48c"
+Parent: "e688b14e-53eb-43cb-95f2-722479c97e80"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Tools
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T065904Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tools
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "151b716d-2a7a-41fb-94cc-f744e9756309"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {98AA0A20-69E9-4C8F-BAE2-2C9B66B7B0C2}
+        {B83B90C1-779D-4FD8-8BCE-2FB04EFEBC2C}
+        {6660324E-0374-400E-82DC-2C37C5FA7E92}
+        {F2AEF6A7-0C10-4D69-A89D-913DA89617CA}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T121656Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tools" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3379D274-13FF-4478-933B-DB87DE5C3081}" />

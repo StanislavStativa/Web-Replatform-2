@@ -1,0 +1,33 @@
+﻿---
+ID: "d4414612-a99b-45e5-9f35-5d50bbdc61ea"
+Parent: "71820940-6c9a-4887-8ed3-518540d9ff9c"
+Template: "71820940-6c9a-4887-8ed3-518540d9ff9c"
+Path: /sitecore/templates/Feature/TTS/Folders/Rooms Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {45BA6248-DE0F-4A32-A21E-B0A57EE4E0C5}
+    {71820940-6C9A-4887-8ED3-518540D9FF9C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180823T210220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54d00ef5-7102-4398-a4cc-d2ee2ca128d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180823T210257Z

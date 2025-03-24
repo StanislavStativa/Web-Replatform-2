@@ -1,0 +1,37 @@
+﻿---
+ID: "9e6f0e68-6aaa-4b47-93ee-c23a2d42e305"
+Parent: "53c2e3a0-36af-44b4-90e1-5f5c5df4b958"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/location/Data/Shower Tile Pattern Ideas"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T174055Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 4. Shower Tile Pattern Ideas
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: A quick way to elevate the look and feel of your bathroom is by installing an interesting tile pattern in your shower area. Create a focal point by making your largest wall (or the most visible one) into an accent wall with a striking mosaic, herringbone or geometric layout. Even subway and 1/3 offset patterns can make your shower area stand out when you select a stylish finish. Your shower is a place where you&rsquo;re going to spend a lot of time, so it makes sense to make your space a special one.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90965c4f-f514-47c4-9120-caf34725f3b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T180429Z

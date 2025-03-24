@@ -1,0 +1,30 @@
+﻿---
+ID: "4d9ccf49-fe62-418b-b66c-e1470c9cc53e"
+Parent: "b2195700-5458-482b-a093-9c2abe47f500"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Pro Brands/GoBoard
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T070424Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: GoBoard
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41f628cd-2d86-4969-b661-f0d09dd7f85d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T090124Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="GoBoard" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7CE6C454-22B6-4A17-9920-66A023C43CCA}" />

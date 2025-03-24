@@ -1,0 +1,43 @@
+﻿---
+ID: "7ea1ea54-ce08-43e1-a15c-d0177ac346b5"
+Parent: "c0390909-926a-473a-ad7b-62109853cdae"
+Template: "c9b080b8-7393-4dc5-bc13-bd0465beb014"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/Olapic Widget
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09493703-bec8-4267-ac3b-15b0e97adc7b"
+      Hint: OlapicType
+      Value: Carousel
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T091812Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Real Customer Spaces To Inspire You
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>From weekend projects to full remodels and new builds, check out spaces that were designed and shared with excitement and pride.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5b2ef92-cfd8-41f0-8063-9ae12e6c0758"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T111054Z
+    - ID: "f08602b7-4d07-478f-9f97-859575be0e82"
+      Hint: DataInstance
+      Value: 0a5af33acf72c0f2dc4ecbb918af6ebf

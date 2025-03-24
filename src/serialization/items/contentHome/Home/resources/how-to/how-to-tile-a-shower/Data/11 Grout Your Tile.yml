@@ -1,0 +1,70 @@
+﻿---
+ID: "2851bfbb-052a-48b5-9b9f-c0fb1c7c1a92"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/11 Grout Your Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 11: Grout Your Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>After you have finished cleaning your tile and checking for any built-up thinset left over from tiling, you are ready to grout.</p>
+        <br />
+        <p>Before you begin, you will need to mix up your grout. When mixing grout, always follow the instructions provided by the product&rsquo;s manufacturer. In addition to mixing, instructions may also indicate how long the grout will need to sit on the wall before beginning your first clean.&nbsp; Always check the instructions for the grout you&rsquo;re using before beginning the grouting process.</p>
+        <br />
+        <p>Begin by placing some grout on your <a class="font-bold" href="/installation-care/installation/tools/trowels-and-floats">grout float</a> using your margin trowel.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Using a margin trowel to add grout to a grout float, in preparation of grouting a newly tiled shower wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting1:16x9" /></p>
+        <br />
+        <p>Apply grout to your tile walls, starting with the short side of the grout float.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Using the short side of a grout float to apply grout to shower wall tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting3:16x9" /></p>
+        <br />
+        <p>Go back and use the long side of the grout float to really fill up the grout joint and wipe away a majority of the grout from the surface of your tile.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Using the long side of a grout float to fill grout joints and wipe away the majority of excess grout from a tiled shower wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting4:16x9" /></p>
+        <br />
+        <p>Continue with these steps for the entire shower, paying special attention to inside corners to make sure they don&rsquo;t get filled with grout. These areas need to be left clear for expansion, and will be filled with silicone later.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="A tile pro points at an interior corner grout joint in a shower, which will need to be free of grout in order to properly fill with silicone later." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting5:16x9" /></p>
+        <br />
+        <p>If needed, use a grout brush with some water to clean any grout from inside corners before it dries.&nbsp;&nbsp;</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Using a grout brush to remove excess grout from inside corners before it cures." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting6:16x9" /></p>
+        <br />
+        <p>Once your walls are grouted, let the grout dry for the specified time allotted by the grout of your choice. You can check if the grout is dry by touching it with your finger.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58b02271-b410-4aae-aa36-7376975ade4a"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T073738Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 11

@@ -1,0 +1,34 @@
+﻿---
+ID: "2770df11-ea8c-45d3-9b9f-28aea9ea5626"
+Parent: "9b3c782c-9e4d-4f69-aba4-31397b3eca91"
+Template: "148457b3-ca39-4beb-9eea-f5de2498a285"
+Path: /sitecore/content/TTS/Global Content/New Metro Codes Folder/510
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T215012Z
+    - ID: "4aef759f-d683-4ecb-86b7-0a05fecb465c"
+      Hint: Code
+      Value: 510
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cdb9d61-3af5-448c-aa01-0b11b3bb7879"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190709T215012Z

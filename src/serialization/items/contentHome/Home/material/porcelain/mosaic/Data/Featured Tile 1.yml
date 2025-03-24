@@ -1,0 +1,45 @@
+﻿---
+ID: "89071140-8863-466c-ba6d-c8899f63ce5e"
+Parent: "650687b4-afcf-4e37-a96b-b0245a50a75f"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/mosaic/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {67315434-2C71-4668-9DCE-CCE909257E8F}
+        {183CD72A-F590-44CE-9650-9813ECD0AA42}
+        {CF389CCC-CE9D-4B94-B7AD-0690BC4B0DA7}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Where to Use Porcelain Mosaic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>If you're considering using porcelain mosaic tile for your next home project, we have good news and bad news. The good news: Porcelain is incredibly strong and durable, so all porcelain mosaic tiles can be installed anywhere in your home, from floors to walls. The bad news: With so many beautiful options, your shopping process got a whole lot harder. Beyond your personal taste and style preferences, where the tile will be installed in your home is probably the most important consideration in narrowing down your options.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a68e3cbf-86e1-4591-a785-5fce4a0486e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240711T110425Z

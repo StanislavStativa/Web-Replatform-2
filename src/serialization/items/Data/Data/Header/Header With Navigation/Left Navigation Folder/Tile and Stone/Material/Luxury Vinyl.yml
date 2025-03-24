@@ -1,0 +1,45 @@
+﻿---
+ID: "c92886ea-06dd-4a2b-91d7-cea3f9f01e4b"
+Parent: "2be8f39f-85dd-49f0-b3b8-64c681bbc95c"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Material/Luxury Vinyl
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T110323Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxury Vinyl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4225e79e-e764-47b4-88de-2be79f8fc213"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {C821D85B-1C06-447A-B219-E7309CE80ED3}
+        {B5BACC54-F53D-4C3B-918A-F5D7A4F65C9B}
+        {98A7EE64-9276-452E-A96C-BFBE8C150AEA}
+        {B6934EFA-5DE7-4D7C-8AC7-18E05861F730}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T113041Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Luxury Vinyl" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8A9A1BC2-AECD-4FC7-B133-80110056B838}" />

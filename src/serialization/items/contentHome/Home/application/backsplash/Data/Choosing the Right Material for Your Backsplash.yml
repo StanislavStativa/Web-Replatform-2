@@ -1,0 +1,45 @@
+﻿---
+ID: "035cc2f0-295e-4221-8353-82ba52a76827"
+Parent: "8dce78c6-cf3f-4e6e-90a6-1bb7c6a18632"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Choosing the Right Material for Your Backsplash
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {A0696B8D-19ED-4396-8F43-B24A44675359}
+        {A6E68F47-9EE6-4C60-87C4-DFCB5B53C206}
+        {FC4BC91F-84AB-4C05-AA09-A88FA3EBCB03}
+        {49B4D2A7-B8D1-44C4-857A-C2896410EE57}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Choosing the Right Material for Your Backsplash
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">The Tile Shop has a wide variety of materials, including porcelain, ceramic, natural stone, and </span><a href="/material/glass" class="font-bold">glass tile</a><span style="margin: 0px; padding: 0px; border: 0px; color: #ff642e;"></span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">to design a backsplash that reflects your style. Each material creates a distinct look full of character and charm. Since backsplashes add an accent or act as the focal point in rooms, this is the perfect time to explore our expansive selection of available tiles. </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0eafc66-38a3-42bc-9469-6db40e361175"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061712Z

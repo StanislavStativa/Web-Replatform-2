@@ -1,0 +1,59 @@
+﻿---
+ID: "6d048f4d-767a-4ae5-af7c-48e747e9144d"
+Parent: "204a60e4-f5ef-4582-a132-54cd5347ad42"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/purple/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText ">
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Where to Use Purple Tile</span></h2>
+        <p>Purple is a fun and versatile color for adding tile to surfaces in just about any room in your home.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">Kitchens</span></h3>
+        <p class="extra-small-bottom-margin">Purple backsplash tile in the kitchen is a great opportunity to use more saturated varieties of purple because of the limited amount of space it takes up. This is especially true in <a href="https://www.tileshop.com/blog/20-creative-kitchen-backsplash-ideas-to-pair-with-white-cabinets/"><strong><span style="text-decoration: underline;">kitchens with white or light wood cabinets</span></strong></a>, as the contrasting light and dark motif makes for a delightfully dramatic look.</p>
+        <p><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #323338;">You can also use purple mosaic tile for the backsplash to add depth and interest. Mixing shades of purple or incorporating other colors can create a custom look.</span></p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">Accent Walls</span></h3>
+        <p>Showcase your creativity with a purple tile <a href="https://www.tileshop.com/application/accent?facet_color=facet_idUHVycGxl"><strong><span style="text-decoration: underline;">accent wall</span></strong></a>. The shade of purple you choose will significantly influence the mood of the room. Lighter shades like lavender can create a calm, relaxing atmosphere, perfect for bedrooms. Darker shades like eggplant or royal purple can add a sense of sophistication and drama, ideal for living areas or dining rooms.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">Bathrooms</span></h3>
+        <p class="extra-small-bottom-margin">Purple is not a color that is typically used in<strong> <a href="https://www.tileshop.com/inspiration/tile-ideas/bathroom"><span style="text-decoration: underline;">bathroom tile designs</span></a></strong>, so installing purple tiles will immediately set your bathroom apart and make it feel more personalized. You can enhance the sense of luxury and depth by pairing your purple tile with high-quality finishes and fixtures.</p>
+        <p>To keep the bathroom feeling balanced with darker purple shades, consider a tile wainscoting and a lighter color paint for the top portion of the wall. For a space that feels lighter and more unified, extend lavender tile from the shower to the wall behind the sink.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">Entryway Floors</span></h3>
+        <p>Installing purple<strong> <a href="https://www.tileshop.com/room/entryway/floor"><span style="text-decoration: underline;">floor tile in your entryway</span></a></strong> is an unexpected and lighthearted way to welcome visitors. For smaller entryways,<strong><span style="text-decoration: underline;"> <a href="https://www.tileshop.com/featured/large-format">larger tiles</a></span></strong> with a lighter shade of purple will make for a laid back and charming feel. Have a larger entryway? Feel free to go big and bold with both deep purple tones and busier patterns.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3-style">We're here to help</span></h3>
+        <p>To see how your favorite purple tile looks in your home, you can <a href="https://www.tileshop.com/samples"><strong><span style="text-decoration: underline;">order a sample</span></strong></a>. If you'd prefer to browse from our wide selection, visit one of our showrooms.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62e013ab-6e79-459d-966f-397fcf95806c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T073441Z

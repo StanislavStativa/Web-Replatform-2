@@ -1,0 +1,126 @@
+﻿---
+ID: "e97e47be-b1dc-4d3e-857e-23155ba79bd7"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CF9228A7-FBAB-4F78-9619-CC5E9C25CD1E}"
+          p:before="*"
+          s:ds="local:/Data/How to finish Video asset"
+          s:id="{AEDAE2CD-F5A8-4EEE-B56A-8C312BF38A19}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h1&amp;HeadingTag=h1&amp;TitleAlignment=Left&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{965C9F4C-857D-4557-AF9B-9E5D0CEACB02}"
+          p:after="r[@uid='{CF9228A7-FBAB-4F78-9619-CC5E9C25CD1E}']"
+          s:ds="local:/Data/How to Finish Tile Edges"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{D70DCCA5-43B5-47C7-B3C5-8342975422E7}"
+          p:after="r[@uid='{965C9F4C-857D-4557-AF9B-9E5D0CEACB02}']"
+          s:ds="local:/Data/01 Installing Bullnose Trim"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B7F48BA0-B2C5-4E76-9532-89F4EB3AD1C8}"
+          p:after="r[@uid='{D70DCCA5-43B5-47C7-B3C5-8342975422E7}']"
+          s:ds="local:/Data/Steps to Install Bullnose Trim"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{31B3E6FD-C7E5-4BCC-962C-206D6000202A}"
+          p:after="r[@uid='{B7F48BA0-B2C5-4E76-9532-89F4EB3AD1C8}']"
+          s:ds="local:/Data/02 Installing Pencil Trim"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{E52C42DD-9249-4B24-8101-CB2A25F56758}"
+          p:after="r[@uid='{31B3E6FD-C7E5-4BCC-962C-206D6000202A}']"
+          s:ds="local:/Data/Steps to Install Pencil Trim"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{FC18AD70-751C-47EE-9878-C7C1DEC4695C}"
+          p:after="r[@uid='{E52C42DD-9249-4B24-8101-CB2A25F56758}']"
+          s:ds="local:/Data/03 Installing a Metal Profile Piece"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{128E8989-DCE7-48DD-8CD5-554287F49CEC}"
+          p:after="r[@uid='{FC18AD70-751C-47EE-9878-C7C1DEC4695C}']"
+          s:ds="local:/Data/Steps to Install Metal Profile Pieces"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{9D816126-A96B-4822-9AFF-305D4E524133}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Top Tips for How to Finish Tile Edges"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: top ways to finish tile edges
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Top ways to finish tile edges
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Top Ways To Finish Tile Edges
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bff6d1d8-cec3-42f7-874a-9aa7f00aec95"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Top ways to finish tile edges
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240919T103104Z

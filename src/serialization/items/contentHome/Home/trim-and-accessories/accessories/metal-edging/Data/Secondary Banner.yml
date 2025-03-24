@@ -1,0 +1,56 @@
+﻿---
+ID: "a3fe90fd-3a12-414a-a6cb-b150eda1c852"
+Parent: "0c460065-3303-4c72-b1ff-659b12772882"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/metal-edging/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Metal Edging
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Make transitions between flooring in your home flow together seamlessly and stylishly with our selection of metal edging trim profiles.&nbsp; Choose from a variety of finishes and sizes to make sure you achieve the look and transition that your taste and flooring demand. Whether you want your trim to blend in quietly or stand out and make a statement, there’s a metal edging that fits the bill. To add a touch of glamour to your project, shop our DURAL premium metal profiles featuring Swarovski crystals, high-end metals and other elegant details.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4f59133-0253-4e70-80c2-05c498fe439d"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T134607Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Ashford_Dural_Ally-B_Detail1_Franklin:Category_Intro_Image+"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {DA236F61-D416-47EC-8FE2-0E2E48E75531}
+        {C06659FC-C8CB-4641-B306-806CCC9D8F7A}
+        {CCEFAD7E-A15F-423C-A1D4-11E14001F1E0}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

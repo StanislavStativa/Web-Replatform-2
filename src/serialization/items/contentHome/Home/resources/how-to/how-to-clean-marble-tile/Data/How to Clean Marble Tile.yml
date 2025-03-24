@@ -1,0 +1,57 @@
+﻿---
+ID: "dbe345e8-dc43-467c-a40a-9d4d39463b64"
+Parent: "ad280140-5136-48e6-94b6-10611c6b26dc"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-marble-tile/Data/How to Clean Marble Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T051847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Marble Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Volakas_Floor_Detail%3aImage_Caption_Hero_V2" alt="Aerial shot of a white marble subway tile floor with a small table." title="Aerial shot of a white marble subway tile floor with a small table." />
+        <br />
+        <p />Cleaning marble tile floors and showers requires careful handling to maintain their beauty and prevent damage. In this article we will provide step-by-step instructions for safely and effectively cleaning&nbsp;<a class="font-bold" href="/material/marble/floor">marble tile floors</a>&nbsp;and showers.
+        <br />
+        <br />
+        <h2>What You'll Need<br />
+        <br />
+        </h2>
+        <ul>
+            <li>Dish soap or commercial stone tile cleaning product</li>
+            <li>Bucket</li>
+            <li>Soft mop or microfiber cloth</li>
+            <li>Soft towels or squeegee</li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7511f6a-9c19-4dec-bc6e-e1cbe5b4ee33"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T160131Z

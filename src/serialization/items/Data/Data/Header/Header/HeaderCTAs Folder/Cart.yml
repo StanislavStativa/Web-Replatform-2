@@ -1,0 +1,64 @@
+﻿---
+ID: "751198b1-b6f5-41dc-a7ee-c42c50c41bed"
+Parent: "de4f3d05-67ed-49bd-8d4e-9e10acf1e8ee"
+Template: "1cc93858-89fb-4af3-9b06-b77831c8bf83"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header/HeaderCTAs Folder/Cart
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00372376-dad3-4a73-b9f4-e3ab947b2a74"
+      Hint: OverlayCTA
+      Value: |
+        <link text="View Cart" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2E02F0E9-69C3-4485-8C0C-A571FC29C38A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240418T111809Z
+    - ID: "318b401d-78ed-4307-80ee-8b1b0ff8351e"
+      Hint: ItemIcon
+      Value: |
+        <image mediaid="{68914CF2-2B12-4F4B-8AAE-D19A61396084}" />
+    - ID: "32aeb692-778d-4a8f-9dc5-e49494d94fcb"
+      Hint: CTAType
+      Value: Cart
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{55502D00-FC6B-4989-9D59-CC1B73F279C2}" />
+    - ID: "447bd7dc-bfe3-4e70-97a8-1c81bac8cd27"
+      Hint: OverlayCTASize
+      Value: Medium
+    - ID: "530fb142-4708-4e6f-a9ad-dfd598597b2c"
+      Hint: SampleIcon
+      Value: |
+        <image mediaid="{F886747C-9528-495B-A729-ED6B905346BF}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cart
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: /api/Cart/GetCart
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a9c22a4-112e-4a19-8b7a-39b51de338a0"
+    - ID: "97d0e7d0-0121-4636-a1f1-94b730a17722"
+      Hint: OverlayCTAColor
+      Value: Black
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "cc512514-796e-4950-9b0d-3ee45f82d4d4"
+      Hint: OverlayDescription
+      Value: View the Cart
+    - ID: "cf9c3a11-a58b-474e-8b3c-f3664185ec02"
+      Hint: OverlayTitle
+      Value: View Cart
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240712T115918Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="View Cart" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2E02F0E9-69C3-4485-8C0C-A571FC29C38A}" />

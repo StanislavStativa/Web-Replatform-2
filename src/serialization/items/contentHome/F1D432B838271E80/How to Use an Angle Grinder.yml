@@ -1,0 +1,42 @@
+﻿---
+ID: "63ca7410-d8af-4649-b5e1-ff0bbf9a91c0"
+Parent: "455a2100-70bb-4271-b6a6-9817804662ba"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile/Data/Cutting Tile With an Angle Grinder FAQ/How to Use an Angle Grinder"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Use an Angle Grinder
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>When you first start off your cut, you want to have a nice light pressure and let the blade start the cut for you. To get the straightest cut possible, continue to hold the grinder lightly—using two hands to keep it stabilized—and let the blade do the cutting for you.</p>
+        <br />
+        <p>If you’re looking for a perfect, factory-straight cut, the angle grinder isn’t the best tool to achieve that. (It’s hard to get a that result with a handheld tool operated by a human.) But an angle grinder is very useful when a project calls for intricate cuts, L cuts, or cuts to fit unusual angles.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b48c147-ec00-4163-89c9-f737ea80d9e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T122733Z

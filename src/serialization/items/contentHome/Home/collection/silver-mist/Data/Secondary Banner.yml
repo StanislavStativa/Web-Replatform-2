@@ -1,0 +1,63 @@
+﻿---
+ID: "8ec1361c-daad-4308-a651-d0e91b69d1ff"
+Parent: "29e62215-4aff-4d1f-9a31-225af1168cfc"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/silver-mist/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Silver Mist Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>The Silver Mist collection is made up of chic limestone wall and floor tiles in cool grey tones. Silver Mist tiles are perfect for elevating the look of any kitchen or bathroom with their smooth, honed surfaces and veins of light and dark grey. This collection comes in a number of shapes that mix and match together perfectly. Subway tiles, mosaics, including square, hexagon and chevron, and finishing pieces are all available in the Silver Mist collection. Pair different styles from this collection for a modern look with the beautiful appearance of the truest expression of natural travertine stone.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff4f532c-331f-49b6-b295-1d2a861931dc"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T115913Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Silver-Mist_Alice_Hero_WestAllis:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {E4F059A6-C9A8-4C5C-A51E-97D392A9031A}
+        {3B42A2DC-9483-4C86-A9FC-1E87F04BB347}
+        {5630DDB9-B41E-4801-BDED-48AABFD8E2CC}
+        {528FD33D-52B6-4FC0-A6A2-B6C91AC43838}
+        {F9D39E37-998A-4BA2-8873-AB0B3A253DFE}
+        {A70FC1C2-65AC-42D2-A9AB-C44919CE4B7F}
+        {01311CEE-4BDD-417B-AE8F-DBB76FA1DF3E}
+        {63DC442B-52E1-4CB4-9734-0598778CD13B}
+        {772BEBCB-D568-472B-97B9-89B30C9AC25E}
+        {0E65239D-AFF2-4B9A-9006-AF4BEE563737}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

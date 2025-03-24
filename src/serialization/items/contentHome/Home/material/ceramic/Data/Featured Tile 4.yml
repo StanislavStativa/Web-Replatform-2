@@ -1,0 +1,44 @@
+﻿---
+ID: "6767a000-b99b-4764-8fd7-fb5afee1b22e"
+Parent: "667296dd-7d9f-41bc-a1b4-83574a611cf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/Data/Featured Tile 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {682D39C9-2405-464E-A79D-CFAEB04C78DE}
+        {3E9AF072-D5A3-43C8-BB0D-3F6C8AAFEB06}
+        {32406DEB-470F-403C-A296-943A2877A2F1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ceramic Wall Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>When you decide to use ceramic tile as a wall covering, you unlock a world of design possibilities; while only certain tiles are rated for use on floors, almost any tile can be installed on a vertical surface (I.e., a wall). With that functional requirement out of the equation, the only question you have to ask yourself is, “Which </span><a href="/material/ceramic/wall" class="font-bold">ceramic wall tile</a><span> do I like best?” </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80acb6ad-eff9-4832-8dda-582d3302739b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185212Z

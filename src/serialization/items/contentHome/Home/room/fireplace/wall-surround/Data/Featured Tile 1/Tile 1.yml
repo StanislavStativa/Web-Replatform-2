@@ -1,0 +1,38 @@
+﻿---
+ID: "be7993df-2e5c-4775-9b7f-35aad13a02c8"
+Parent: "0315cf0a-4f6a-4dfb-9240-741778eec6a4"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround/Data/Featured Tile 1/Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "423b6f89-d4f0-4d6a-8fc1-3b3fb5037c5e"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a href="/products/laura-ashley-mr-jones-midnight-matte-porcelain-wall-and-floor-tile-13-x-13-in-681390" class="font-bold">Laura Ashley Mr. Jones Midnight</a><p>Featured Tile:&nbsp;<a href="/products/marmi-classico-nero-venato-ret-pol-porcelain-floor-tile-24-x-47-in-680804" class="font-bold">Marmi Classico Nero Venato</a></p></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140430Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: TimberTrails_CaliforniaCoastal_Basement_Fireplace_001%3aDesign_Ideas_All_V2

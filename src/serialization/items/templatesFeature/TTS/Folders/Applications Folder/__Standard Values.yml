@@ -1,0 +1,33 @@
+﻿---
+ID: "8bd94ac3-4628-4787-b078-46d2d33c0e8f"
+Parent: "8eb3d882-cb3e-437e-abc3-761cb7ddf246"
+Template: "8eb3d882-cb3e-437e-abc3-761cb7ddf246"
+Path: /sitecore/templates/Feature/TTS/Folders/Applications Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {ABB8B8F4-84DA-4EEA-8EB3-1E6C654D5151}
+    {8EB3D882-CB3E-437E-ABC3-761CB7DDF246}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180823T212747Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63523211-f938-4d8e-9e92-4f76774ae849"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180823T213541Z

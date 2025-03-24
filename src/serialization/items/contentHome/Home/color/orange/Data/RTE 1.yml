@@ -1,0 +1,62 @@
+﻿---
+ID: "d7e3393b-34f5-4f63-b41c-b3b958c5615b"
+Parent: "580a7f33-c442-4f46-95eb-d6262c4247d5"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/orange/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Create the Just the Right Feeling with Orange Tiles</h2>
+        <p class="extra-small-bottom-margin"><span>From the unexpected brightness of citrusy orange to terracotta's feel of soothing warmth, orange tiles are highly versatile but always evocative.</span></p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Mosaic Tile</span></h3>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">Mosaic tiles offer a variety of design possibilities.<strong> <a href="/material/glass/mosaic" class="font-bold"><span style="text-decoration: underline;">Glass mosaic tile</span></a></strong> is an especially popular choice for adding a combination of texture and energy to both <a href="/room/bathroom/shower-wall" class="font-bold"><strong><span style="text-decoration: underline;">shower walls</span></strong></a> and floors. Pairing your orange mosaic tiles with neutral tones and simple fixtures can allow the mosaic's complexity and color to stand out without overwhelming the space.</p>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;"><a href="/products/scabos-tumbled-cobble-12-x-12-in-659241?g2=color&amp;c=orange&amp;sc=" class="font-bold"><strong><span style="text-decoration: underline;">Tumbled cobble</span></strong></a>, on the other hand, has whispers of orange speckles. This style orange mosaic tile works particularly well on the floor in your sunroom, as it gives a subtle and calming sense of the outdoors while still being easy to walk on. Pull out the orange hues in this material by placing orange accent pieces throughout the room.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Subway Tile</span></h3>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">Orange subway tiles offer a modern twist on a classic design known for its clean lines. Rather than going with the traditional <a href="/featured/subway?facet_color=facet_idV2hpdGU" class="font-bold"><strong><span style="text-decoration: underline;">white subway tile</span></strong></a>, orange subway tile can make a space feel livelier.</p>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;"><span>To make a big statement, use them on an entire wall. For a subtler effect, use them as an accent strip or in a specific area, like behind the stove or sink.</span></p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Floor Tiles</span></h3>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">Orange floor tiles are a bold choice that can brighten up a space and add a dash of whimsy.</p>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">When using orange floor tiles, it's important to remember that lighting can significantly impact how the color is perceived. Warm lighting can enhance the cozy feel of orange tiles, while cooler lighting can make the space feel more vibrant and energetic.</p>
+        <p class="extra-small-bottom-margin" style="margin-left: 40px;">For a cheerier space, pair bright orange tile with cool white light or natural light. For a moodier and cozier space, burnt orange tiles can be accentuated with the warm white light of a few table lamps, making the room feel warm and inviting.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">We Can Help</span></h2>
+        <p>Not sure which direction to go with your orange tile? No problem! Visit <a href="/store-locator/" class="font-bold"><strong><span style="text-decoration: underline;">one of our showrooms</span></strong></a> and our tile experts can help you.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f729652-abb2-4385-8ff8-df25b34b1ce2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T071716Z

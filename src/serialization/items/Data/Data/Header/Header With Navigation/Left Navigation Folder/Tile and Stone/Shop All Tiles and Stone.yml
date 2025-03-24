@@ -1,0 +1,43 @@
+﻿---
+ID: "39e992a1-e27c-421d-b3ba-5faa5a1fc799"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Shop All Tiles and Stone
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194835Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Shop our thousands of tile and stone options to find the look and material to fit your space and style.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03ed1786-755d-434e-9e1e-9498c03e6fdc"
+    - ID: "a87cd54a-ff74-4337-bd75-189dccceec59"
+      Hint: IsVisibleOnMobile
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T115637Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Flatlays_Feb2023_NewArrivals:Asset_Grid_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{13785B7A-731B-4BAD-AF87-68B64BA551B3}" querystring="" anchor="" target="" title="" linktype="internal" text="Shop All Tile &amp; Stone" url="/TTS/TileShop/Home/tile/view-all-tile" />

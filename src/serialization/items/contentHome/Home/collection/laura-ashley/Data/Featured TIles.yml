@@ -1,0 +1,53 @@
+﻿---
+ID: "3f498845-9112-44de-b3ca-fd6bff98652a"
+Parent: "2d6e75d5-675c-4177-a063-9f0bb84483ea"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/laura-ashley/Data/Featured TIles"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {030A00B2-8BEB-46B3-9990-48115F454D08}
+        {52963C63-FE1F-4B8A-B5A1-D394E308F1CC}
+        {4A038F5C-857E-4582-9E60-7F753EE14ABB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240911T123549Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Explore Our Full Line
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <ul>
+            <li><a class="underline" href="/products/laura-ashley-wicker-dove-grey-matte-porcelain-wall-and-floor-tile-13-x-13-in-680669">&nbsp;Laura Ashley Wicker Tiles</a> are available in four soothing tones that effortlessly mix and match with other pieces in our Laura Ashley collection. Their unique pattern is at once intricate and geometric.</li>
+            <li><a class="underline" href="/products/laura-ashley-sunflower-white-with-charcoal-porcelain-wall-and-floor-tile-8-x-8-in-681764">L</a><a href="/products/laura-ashley-sunflower-white-with-charcoal-porcelain-wall-and-floor-tile-8-x-8-in-681764">aura Ashley Sunflower Tiles</a> feature a sunflower pattern inspired by an original Laura Ashley sunflower fabric, and available in three colors, this will instantly bring a design to life with fresh energy.</li>
+            <li>With an on-trend shape and a playful star pattern (inspired by an archival Laura Ashley Collection print) rendered in white against your choice of three linen-effect background colors, the <a class="underline" href="/products/laura-ashley-louise-star-cloud-blue-hex-porcelain-wall-and-floor-tile-10-x-9-in-681557">Laura Ashley Louise Star Hex Tile</a> is sure to shine brightly in your space.</li>
+            <li>The statement-making pattern on the <a class="underline" href="https://www.tileshop.com/products/laura-ashley-mr-jones-charcoal-matte-porcelain-wall-and-floor-tile-13-x-13-in-680666">Laura Ashley Mr. Jones Tiles</a> is both contemporary and timeless. It features a Laura Ashley Heritage Collection geometric print and is available in three colorways.</li>
+            <li>Inspired by the natural scenery in the English countryside, the curved shapes of <a class="underline" href="http://https://www.tileshop.com/products/laura-ashley-leaf-sea-spray-porcelain-mosaic-wall-and-floor-tile-11-x-13-in-681663">Laura Ashley Leaf Porcelain Mosaic Tile</a> are sure to bring the organic beauty of the outdoors into your space. Available in six colors.</li>
+            <li><a class="underline" href="/products/laura-ashley-pale-slate-beveled-ceramic-wall-tile-6-x-16-in-484110">Laura Ashley Beveled Ceramic Wall Tile</a> makes classic subway tile feel new again with touches of transitional style&mdash;and three endlessly pairable colors&mdash;that would be at home with any d&eacute;cor. (If you are interested specifically in Laura Ashley floor tiles, please note that while this style is rated for use on walls only, the other five products in this collection are suitable for use on both walls and floors.)</li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baa3d632-d250-4c2f-8256-4b14bfda284e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T125201Z

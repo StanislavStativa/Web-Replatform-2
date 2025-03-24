@@ -1,0 +1,44 @@
+﻿---
+ID: "1471356a-e905-4780-91e0-ae876ef39887"
+Parent: "c522e319-7fb7-4a51-8d9c-8851ff69c702"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Express Your Personality
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T114307Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Express Your Personality with Wall Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text "><p class="extra-small-bottom-margin">
+        The walls of your home are a blank canvas; turn yours into a masterpiece with decorative wall tiles. Because these surfaces don’t need to hold up to foot traffic, and heavy objects don’t fall on walls the way they might be dropped on floors, choosing wall tile is all about individual style. You’re only limited by your imagination, and the “best wall tile” is whatever you like best
+        
+        </p>
+        <p>
+        Of course, having more options means having more choices to narrow down, but that’s where we come in!  Here are a few materials our customers love:
+        </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "890d3227-9834-4603-a376-a493f8b274ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T024143Z

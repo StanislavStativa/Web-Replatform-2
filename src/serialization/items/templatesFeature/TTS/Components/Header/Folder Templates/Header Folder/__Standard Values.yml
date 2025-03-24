@@ -1,0 +1,31 @@
+﻿---
+ID: "0fb86824-1092-4fd4-a1d0-11d9f9702388"
+Parent: "2ea837ee-3c4e-4103-a5a5-11e9e7ba2444"
+Template: "2ea837ee-3c4e-4103-a5a5-11e9e7ba2444"
+Path: /sitecore/templates/Feature/TTS/Components/Header/Folder Templates/Header Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{66107D3F-4BE7-47A3-97ED-0DCEA10E0668}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dcdc314-39f3-46b5-add6-d16f42bd0c1b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240423T120427Z

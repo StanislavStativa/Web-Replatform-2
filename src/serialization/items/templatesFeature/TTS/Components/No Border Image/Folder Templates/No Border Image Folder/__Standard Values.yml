@@ -1,0 +1,33 @@
+﻿---
+ID: "9d34b783-7d26-4a2d-89b8-30a99580f2cc"
+Parent: "3d22c8f4-27bb-496e-ba01-769c17accd67"
+Template: "3d22c8f4-27bb-496e-ba01-769c17accd67"
+Path: /sitecore/templates/Feature/TTS/Components/No Border Image/Folder Templates/No Border Image Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {3DCA0024-F294-428B-82DD-8F29F5268A28}
+    {3D22C8F4-27BB-496E-BA01-769C17ACCD67}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b6449a0-0382-4702-b4dc-b98903f69727"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T162113Z

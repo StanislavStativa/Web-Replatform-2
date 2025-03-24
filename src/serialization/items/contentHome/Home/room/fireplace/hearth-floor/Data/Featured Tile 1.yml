@@ -1,0 +1,44 @@
+﻿---
+ID: "0f8b2326-1d03-442e-ab21-6447597abbe3"
+Parent: "9b7f0b8b-a8f7-4d48-83a3-5a2d9644b765"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/hearth-floor/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {C3512491-305E-455C-85DA-C42E64B68B7F}
+        {735ECB06-DB50-48D8-A51B-B2ED52569DAB}
+        {AB70FB3E-8484-4C3C-ADED-51240EFC58D3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Make Your Fireplace a Focal Point
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Whether your fireplace is gas or wood-burning, there is a functional and beautiful tile solution to complete your space. The tile you select for your fireplace hearth can change the look of your room, anchor the space, and even set the tone for your home’s overall design.</p><p>These are just a few of the many ways to shop for fireplace floor tiles and home in on the perfect one for you:</p><ul><li><strong>Materials</strong>: Choose from manmade materials like porcelain, <a href="/material/ceramic" class="font-bold">ceramic </a>and cement, or natural stone fireplace hearth tiles in marble, travertine, limestone and slate</li><li><strong>Colors</strong>: Complement the color of your <a href="/room/fireplace" class="font-bold">fireplace tile</a> with a similar color and tone for a monochromatic look, or select a contrasting color for a bolder statement.</li><li><strong>Shapes</strong>: Rectangular tile in a standard brick layout is a classic choice for all things fireplace, but the options don’t end there. You can choose hexagons, chevrons, <a href="/shape/penny-round" class="font-bold">penny rounds</a> and more for a truly custom look.</li><li><strong>Patterns</strong>: Further coordinate with your space’s décor with fireplace hearth tiles that feature patterns from classic to modern, and graphic to subtle.</li><li><strong>Finishing Pieces</strong>: Of course, every tile project looks best when it’s completed with trim pieces to finish the look. Our sales associates and team of in-house designers will help you choose the perfect accent to elevate and finish the look of your fireplace hearth.</li></ul></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02dc278f-d46a-4c10-9f1d-d91f0109b7f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185207Z

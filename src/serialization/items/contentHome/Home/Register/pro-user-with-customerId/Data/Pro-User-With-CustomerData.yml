@@ -1,0 +1,48 @@
+﻿---
+ID: "8adb1e3e-72d7-4b72-91e6-0e1f2bfecfe6"
+Parent: "f5128402-14e7-4210-b5c9-d2df09b932e4"
+Template: "4bad1686-30bf-4f01-b8da-534e66ebb28a"
+Path: "/sitecore/content/TTS/TileShop/Home/Register/pro-user-with-customerId/Data/Pro-User-With-CustomerData"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dcfdf82-a9ed-4065-bdb1-2a2a4289d60d"
+      Hint: ToolTipText
+      Value: "Where can I find my Customer ID?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T102807Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: REGISTER ON TILESHOP.COM
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "88c6ac75-86dd-42cd-9090-030567c5668a"
+      Hint: CustomerIDImage
+      Value: |
+        <image mediaid="{E9F1A125-1958-40C3-9C4A-04F748E5AFD3}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33912eb5-6092-4017-aaeb-d482c59ad51a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T130751Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{73F0DED0-16DD-40CE-B751-2E762B0CE92A}" querystring="" anchor="" target="" title="prouser" linktype="internal" text="ProUser" url="/TTS/TileShop/Home/Register/pro-user" />
+    - ID: "ea610ad1-7df3-440d-952d-937698a4e5a3"
+      Hint: CTALabel
+      Value: SUBMIT

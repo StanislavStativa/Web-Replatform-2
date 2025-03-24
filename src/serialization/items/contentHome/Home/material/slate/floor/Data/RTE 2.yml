@@ -1,0 +1,45 @@
+﻿---
+ID: "f3d76975-87e6-4055-a9b0-4840be4618f5"
+Parent: "14ca9133-08da-41e7-b1c8-e29ea1fc0db3"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/slate/floor/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin"><span>A Variety of Shapes for Interest and Movement</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p><span>Slate is often associated with freeform pieces of natural stone arranged so that they generally fit together. (This style was especially popular for entryway flooring in mid-century homes.) However, our selection includes slate floor tiles in shapes like square, subway, hexagon and more. We also offer several </span><a href="/featured/mosaics?facet_material=facet_idU2xhdGU*" class="font-bold">mosaic styles</a><span>, including brick-look, and Versailles (a best-selling arrangement of squares and rectangles available in multiple sizes and colors, and the ideal no-pattern pattern for any room).  </span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span></span></p><h3 class="extra-small-bottom-margin"><span>Where Can You Use Slate Floor Tiles?</span></h3>
+        <p><span>&nbsp;</span></p>
+        <ul><li><span><strong>Bathroom</strong>: From floors to walls, slate bathroom tile brings the beauty of nature indoors. It’s long been a favorite for <a href="/room/bathroom/floor" class="font-bold">bathroom floors</a> in particular, thanks to the additional underfoot traction provided by its natural texture.</span></li><li><span><strong>Entryway/Mudroom</strong>: Any of our slate tiles would make beautiful mudroom or <a href="/room/entryway?facet_material=facet_idU2xhdGU*" class="font-bold">entryway flooring</a>. Slate is durable enough to hold up to snow, mud and rain, and as a natural material, it creates a beautiful transitional space between the inside and outside of your home.</span></li><li><span><strong>Outdoor Spaces</strong>: Depending on your climate and the conditions of your outdoor space, outdoor slate tiles might be an option for areas like your backyard, garden path or patio. Visit your local showroom to discuss your project and our friendly and knowledgeable staff will help you find the perfect slate floor tile for your home.</span></li></ul></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3db35759-757c-4cb5-9f76-c492dc4ee912"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123202Z

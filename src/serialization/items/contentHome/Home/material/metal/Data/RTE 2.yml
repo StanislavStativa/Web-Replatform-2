@@ -1,0 +1,49 @@
+﻿---
+ID: "8145c305-5997-4d97-840d-f4c16a424bd1"
+Parent: "af605a71-625f-4b3f-8ddb-ac5379448a73"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/metal/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text "><div>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Versatility of Applications</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p>As a tile material, metal is a fun and surprising tile choice for lots of spaces in your home, from a metal mosaic tile bathroom accent to metal floor tiles and even ceiling details. This versatility allows for a creative way to tie multiple elements of the space together, with metal wall tiles tying into other metal fixtures and furnishings, unifying otherwise disparate elements throughout a space. You can even complete your installation with complementary metal edging for the perfect finishing touch.</p>
+        <p><span>&nbsp;</span></p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Durability</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p>In any application, metal is known for its robust durability---and metal tiles are no exception. The strength and resilience of metal tiles make them a reliable option for a multitude of conditions. Unlike tiles made from softer materials, like porcelain or <a href="/material/ceramic" class="font-bold">ceramic</a>, metal tiles are much less likely to chip or crack, ensuring they maintain their appearance over time, no matter where they are installed.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We Can Help</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p>Whether you are just warming up to the idea of metal or you're a longtime metal fan, our tile experts can help guide you through your design journey. The best way to take advantage of their expertise is to schedule an appointment for our  <a href="/free-design-services" class="font-bold">complimentary design services</a>.</p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b78bc10-9a0c-4fd1-8052-d58491b8fcd5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123204Z

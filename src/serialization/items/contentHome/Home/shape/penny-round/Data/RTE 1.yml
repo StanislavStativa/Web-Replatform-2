@@ -1,0 +1,49 @@
+﻿---
+ID: "29123cbc-2d43-4e18-a33d-bc64c39b5e79"
+Parent: "7d2d7cdf-25d1-4128-b3c5-48bd032a8078"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/shape/penny-round/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin"><span class="h2">Experience the Versatility of Penny Round Tiles</span></h2>
+        <p class="extra-small-bottom-margin"><span id="docs-internal-guid-896c67f4-7fff-44be-16e8-9386a6a8adc6" style="color: #000000;">The effervescent mosaic of penny round tiles provides a distinctive, textured appearance that is at once classic and fresh. These tiles add a clean aesthetic wherever they are installed, which has made them a popular choice for a variety of spaces such as kitchens, bathrooms, and entryways. </span></p>
+        <h3 class="extra-small-bottom-margin"><span class="h2"><span class="h3">Where to Use Penny Round Ti</span><span class="h3">le</span></span></h3>
+        <p class="extra-small-bottom-margin">Penny round tiles are a great choice for any space that calls for tile that is low maintenance and durable. Their distinctive yet subtle design also means they can blend in with just about any aesthetic.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3"><span class="h4">Bathrooms</span></span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Penny round tiles are typically made from porcelain or ceramic, making them ideal for bathroom floors, backsplashes, and shower insets because they are water resistant and easy to clean. When used with contemporary materials or colors, penny round tiles can lend a modern, chic look to a bathroom. For those looking for more of a retro look, consider a black penny round tile floor with contrasting <a class="fobt-bold" href="/installation-care/installation/grout/colors?facet_color=facet_idV2hpdGU*">white grout</a>.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3"><span class="h4">Backsplashes</span></span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The circular shape of penny round tiles adds a distinct texture and pattern to your kitchen walls that provides a welcome contrast to the right angles of counters and cabinets. They can also be used in concert with other types of tile to create an accent band or a niche to infuse your kitchen with a sense of playful energy and personalization.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3"><span class="h4">Floors</span></span><span class="h4"></span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Penny round tile's durability and ease of maintenance make it a go-to option for floors, especially in bathrooms and entryways where slip resistance is a priority. White penny round tile makes for a striking, crisp floor and has been a standard for generations. To help keep the white tile floor grounded, consider installing a blue penny round tile accent. This will break up the mosaic of white tiles, making the space feel cozier.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6cd73699-8103-4784-8cdf-d6092935a727"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T075717Z

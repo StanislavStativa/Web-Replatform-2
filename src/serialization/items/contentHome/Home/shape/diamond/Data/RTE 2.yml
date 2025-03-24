@@ -1,0 +1,48 @@
+﻿---
+ID: "a7be33c0-6cb3-423e-ae9f-c963413144ed"
+Parent: "252a5437-9216-4d57-b13c-70699a507efb"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/diamond/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin"><span class="h3">Where to Use Diamond Tile</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4-style">Floors</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For a twist on a classic look, consider opting for a diamond pattern tile floor rather than a typical <a class="font-bold" href="/shape/square">square tile floor</a>. Large diamond shaped tiles are ideal for flooring, as they can help make an open concept room feel grounded. For smaller spaces like <a class="font-bold" href="/room/entryway/floor">entryways</a>, the higher level of repetition from a smaller diamond tile can help make the space feel bigger.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Showers</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The angular lines and patterns created by diamond shaped tiles can influence the perception of space in your shower. Arranging tiles with an overlapping diamond pattern in a way that points upward can draw the eye vertically, making the shower area feel taller and more spacious.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Kitchen backsplash</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Installing diamond backsplash tile is a fun alternative to the conventional subway tile look. The diamond shape provides a sharp counterpoint to the right angles of counters and cabinets, creating a dynamic and modern feel.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We're Here to Help</span></h3>
+        <p>Not sure how to add the playful energy of diamond shaped tile to your home's decor? Our design experts can help guide you through the selection process. To get started, all you need to do is schedule an appointment for our <a class="font-bold" href="/free-design-services">complimentary design services</a>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48f68e9c-1ad6-4b4c-83db-eb716f3848be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T073609Z

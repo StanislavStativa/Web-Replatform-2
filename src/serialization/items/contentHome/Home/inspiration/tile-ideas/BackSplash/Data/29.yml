@@ -1,0 +1,42 @@
+﻿---
+ID: "9fc64566-85ae-4ebe-981f-630113d7293d"
+Parent: "db8445ba-b5ae-4bc6-ad38-b0252175a341"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/BackSplash/Data/29"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Blue Handmade-Look Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Evoking a bright sky and tranquil waters, blue instantly elevates your mood. This charming blue bathroom designed by <a rel="noopener noreferrer" href="https://ispydiy.com/" target="_blank" class="font-bold underline">I SPY DIY</a> uses <a class="font-bold underline" href="/products/marrakesh-blue-ceramic-wall-tile-6-x-6-in-484099">Marrakesh Blue tile</a>. The undulating surface (variation in color and texture) gives this tile a serene, wavelike feel. For more ideas on how to use blue, check out <a class="font-bold underline" href="/blog/12-of-our-best-blue-bathroom-tile-designs/">12 of our best blue bathroom tile designs</a> and shop our full assortment of <a class="font-bold underline" href="/color/blue">blue tile</a>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d26173e-561b-4aba-8bbc-d89969d4a3f9"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T115837Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ISpyDIY_Loft_Bathroom2_001:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 29

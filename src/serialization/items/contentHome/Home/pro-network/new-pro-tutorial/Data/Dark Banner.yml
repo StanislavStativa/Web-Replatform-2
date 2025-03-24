@@ -1,0 +1,53 @@
+﻿---
+ID: "fe36820e-ffff-4c52-b40e-617d470c6aed"
+Parent: "825f1b6e-5a03-472a-821c-f9a60ec4430e"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/new-pro-tutorial/Data/Dark Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T064823Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="general-hero-content">
+                            <h2 class="general-hero__title h2">Still have questions?</h2>
+                    <div class="general-hero-content__text">
+                        <div class=" richText"><p>Contact your <a href="/store-locator" style="color:#FFFFFF;" class="underline">local store</a> or our customer service department at <a href="tel:888-398-6595" style="color:#FFFFFF;">888-398-6595</a>.</p></div>
+                    </div>
+                    <div class="general-hero-buttons">
+        
+                        
+                        
+                    </div>
+        
+                    
+                </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51fcc8b5-859d-459a-8ff3-bfb1c4a679be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T100103Z

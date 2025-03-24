@@ -1,0 +1,43 @@
+﻿---
+ID: "2f76f91a-2ee4-41bd-b6eb-84e91c120552"
+Parent: "70c7d220-552c-4b4f-b1ae-0bf0f854a870"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Walls/Data/1 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8"> 2024 Wall Tile Design Trends</h2>
+        <p class="mb-4">
+        Installing wall tile in your living space is an opportunity to make a statement. From <a class="font-bold underline" href="~/link.aspx?_id=23E3616B29384A40A5FA25CF70A43679&amp;_z=z">trendy colors</a>&nbsp;to <a class="font-bold underline" href="~/link.aspx?_id=0A5EDBEBE8784450B0E45C0065486A70&amp;_z=z">unique materials</a>&nbsp;to <a class="font-bold underline" href="~/link.aspx?_id=5D5148E6E4974C11B52C9425DF33250F&amp;_z=z">dazzling design patterns</a>, there are more options than ever to create stunning accent or statement walls. To spice up plain white tiles walls, lay them in an unusual pattern to add personality. Accentuate the pattern with a dark grout or take them up to the ceiling for a fresh&nbsp;<a class="font-bold underline" rel="noopener noreferrer" rel="noopener noreferrer" href="/blog/wallpaper-effect/" target="_blank">wallpaper look</a>. For a modern spin on subway tile, use tiles that are longer or textured. Don&rsquo;t forget that tile is also great at enhancing the outdoor appearance of your home. Several materials can withstand the elements while maintaining their beautiful colors and designs, making tile a smart way to add long-lasting character and style.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23b0229d-fd93-43c8-9045-4c9798429453"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200906Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "f6f1f8b8-20a2-4508-9247-a48f707f019a"
+Parent: "47ea6afd-be6d-4b4b-b261-61f4778c6988"
+Template: "47ea6afd-be6d-4b4b-b261-61f4778c6988"
+Path: /sitecore/templates/Feature/TTS/Components/Contact Us Form/Folder Templates/ContactUsForm Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {30F80602-4DC4-47E9-94F0-D5E99AE2C6C8}
+    {47EA6AFD-BE6D-4B4B-B261-61F4778C6988}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9f2b905-ec56-4ef7-b3e9-7515b5c80d11"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T072828Z

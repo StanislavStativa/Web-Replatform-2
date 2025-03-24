@@ -1,0 +1,51 @@
+﻿---
+ID: "1df7ce85-801d-4cf3-b4c8-371e2eff12f3"
+Parent: "c522e319-7fb7-4a51-8d9c-8851ff69c702"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {73B1DFA8-9BD5-40ED-B685-80728ADE05F5}
+        {6DBFDD25-988F-4296-9FA1-5E74C8B49B5F}
+        {B6A9A48F-822B-4C38-8705-3B81F31AE969}
+        {5EA3FA7B-3113-4BCB-AE78-D57413ABC375}
+        {06F8F836-90DB-4EEE-9500-E02F0B1640EB}
+        {6CE70351-904D-4BF0-B894-8D3AB02C3C5B}
+        {D6C42382-235F-4620-960E-A36A7907F570}
+        {A151ADA2-1CFC-45B1-8ECE-2711FC3EC163}
+        {41934B05-4625-4C63-A6ED-1E71C6604F17}
+        {E1FCBDBB-9989-4DBA-8F4B-1F23D194C529}
+        {CB91CFCE-2C00-4152-9717-B81D252C9285}
+        {2F01FF64-9309-4969-97A6-E69633AD5B21}
+        {F8B410F8-CCB4-4F61-9964-003FBA8F911C}
+        {20B0D6B3-2A56-408C-8D69-CE1FFC3E221C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T064704Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "746dece4-fd93-49b0-b94c-82faf0dadb09"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T072934Z

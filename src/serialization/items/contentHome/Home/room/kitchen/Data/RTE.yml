@@ -1,0 +1,51 @@
+﻿---
+ID: "0a7ffa0a-4a86-498f-8efd-db5ec7f81fc4"
+Parent: "b6905066-782d-4ead-8e3f-c43f82d15488"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/Data/RTE
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240815T110913Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text rich-text-margin ">
+        <h2 class="extra-small-bottom-margin">Kitchen Tiles Set the Tone of Your Home</h2>
+        <p class="extra-small-bottom-margin">The kitchen is the heart of any home—the room where you make memories as well as meals. Kitchen tiles, whether they be for the backsplash, floor or walls, set the scene for every cookie baked and dinner shared.</p>
+        <p class="extra-small-bottom-margin">We have a variety of materials to create a backsplash that pops and a floor that grounds your style. Including:</p>
+        <ul class="extra-small-bottom-margin">
+            <li>The ever popular and versatile porcelain and <a class=" underline" href="/material/ceramic">ceramic tile</a></li>
+            <li>Durable and easy-to-install <a class=" underline" href="/material/luxury-vinyl">luxury vinyl flooring</a></li>
+        </ul>
+        <p class="extra-small-bottom-margin">Design your perfect kitchen, modern or classic, with these great looks:</p>
+        <ul class="extra-small-bottom-margin">
+            <li>Simple, yet chic <a class=" underline" href="/featured/subway">subway tile</a></li>
+            <li>Stylish and colorful <a class=" underline" href="/featured/patterned">patterned tile</a></li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "989ed8fb-ba6a-4882-ae5c-acb223700774"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T090829Z

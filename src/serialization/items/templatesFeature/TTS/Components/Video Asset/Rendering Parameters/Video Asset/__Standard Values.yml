@@ -1,0 +1,27 @@
+﻿---
+ID: "c718831c-08e9-47f1-ab6a-72d77b073e9b"
+Parent: "9d67f0d6-f5e7-4407-a313-4e5ccaa05130"
+Template: "9d67f0d6-f5e7-4407-a313-4e5ccaa05130"
+Path: /sitecore/templates/Feature/TTS/Components/Video Asset/Rendering Parameters/Video Asset/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4450da9b-b5f4-4868-a040-6d82a34d0f7d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T144056Z

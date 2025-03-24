@@ -1,0 +1,44 @@
+﻿---
+ID: "1d7e9d6c-0646-4879-a623-72673a7826d9"
+Parent: "7c9b5a4f-12e6-4509-8390-22e095369da4"
+Template: "f16049d2-be3d-4a29-8ecb-7c17947f67c8"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Rewards/Statements/Data/Rewards Statements
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T141330Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{B61C4FD8-7497-4DF3-AA91-C3675A9A5057}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Rewards Statements
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Explore Rewards Statements in Detail
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7986f9e5-e093-4aaa-a991-7550485f6948"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T142449Z
+    - ID: "f9dba44f-8a38-4fae-9ea0-08e5c0775730"
+      Hint: EnableProUsers
+      Value: 1

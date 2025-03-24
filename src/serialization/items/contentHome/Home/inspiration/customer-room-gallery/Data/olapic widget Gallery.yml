@@ -1,0 +1,43 @@
+﻿---
+ID: "1a8d3fc6-6ec3-4ed5-b0c7-e765166969bb"
+Parent: "14f2a097-0aea-481d-9712-6f286cfb4dde"
+Template: "c9b080b8-7393-4dc5-bc13-bd0465beb014"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/customer-room-gallery/Data/olapic widget Gallery"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09493703-bec8-4267-ac3b-15b0e97adc7b"
+      Hint: OlapicType
+      Value: Gallery
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240508T043645Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Customer Room Gallery
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Explore real customer spaces featuring our tile for fresh design inspiration.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51201f94-e3da-4557-93aa-878cebb8793d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240531T101451Z
+    - ID: "f08602b7-4d07-478f-9f97-859575be0e82"
+      Hint: DataInstance
+      Value: e40a50b901efa832c4ce82bff0a72cec

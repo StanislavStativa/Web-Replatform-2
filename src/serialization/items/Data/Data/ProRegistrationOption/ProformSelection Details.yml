@@ -1,0 +1,45 @@
+﻿---
+ID: "07535bb2-701b-4382-bc0f-a8630c16b34c"
+Parent: "4ed035a1-ae59-4198-9485-b29f6b851a71"
+Template: "d1c4a089-7012-4c76-95a0-a248d276ae56"
+Path: /sitecore/content/TTS/TileShop/Data/ProRegistrationOption/ProformSelection Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T161010Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro Registration Option
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Do you have a Tile Shop Customer ID?</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e8193fe-4c39-43b4-b55a-503bfad410dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Yes" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8AC42EC7-1C15-4DCB-AE69-3B91850E8CBE}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T145228Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="No" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{73F0DED0-16DD-40CE-B751-2E762B0CE92A}" />

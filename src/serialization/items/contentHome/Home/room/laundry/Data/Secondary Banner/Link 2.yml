@@ -1,0 +1,35 @@
+﻿---
+ID: "d5ddad82-87e8-4881-ae44-b2c2e6f9e424"
+Parent: "1ac26842-7862-4b46-8038-58326ba05de3"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/content/TTS/TileShop/Home/room/laundry/Data/Secondary Banner/Link 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240814T154335Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a030c8e-39fa-4359-b4fc-20cdc3c98e81"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T154356Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Laundry Room Wall Tile" anchor="" linktype="internal" class="" title="Laundry Room Wall Tile" target="" querystring="" id="{A0242AF2-2994-4FFA-A71E-BE301B697D41}" />

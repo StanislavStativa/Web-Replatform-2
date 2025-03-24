@@ -1,0 +1,47 @@
+﻿---
+ID: "513b818f-d40b-43df-83c2-adcf0f8d6a93"
+Parent: "28d26961-7aa6-4330-accd-5bb155c16439"
+Template: "84129a16-aeff-495d-9b35-7cdbc2b6578d"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Resources
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2140e16d-d3d7-4341-80d0-7f7ce02fcc3e"
+      Hint: CardList
+      Value: |
+        {F7181449-34A5-421E-BC5B-FFAD3D0D899C}
+        {8F257D95-FD3B-42CC-BB0E-D13A9BA88A9E}
+        {02E0338B-AAC1-4991-B80C-24D543953047}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T100926Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{6073D47F-45FD-4E44-A2F5-3D0B9ED8315D}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e247776-51cd-4b3e-8065-83adeddfbd6b"
+    - ID: "9db5e89c-e2f3-4395-baf6-362932ad0c99"
+      Hint: Title
+      Value: Resources
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c3b26db7-edd2-4d70-9343-d13b5080a600"
+      Hint: IsVsibleOnlyForProUser
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T065608Z

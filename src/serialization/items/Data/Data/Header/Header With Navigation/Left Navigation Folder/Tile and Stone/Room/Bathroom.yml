@@ -1,0 +1,41 @@
+﻿---
+ID: "3d3de9a8-5d3e-4424-87f6-823f03a843b3"
+Parent: "69d7f7b2-38f9-48d5-a1ee-334ca8591bb8"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Room/Bathroom
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T194739Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b5c6ba8-3af2-4c23-abf3-898b4e1065c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {E11D27F3-ADFA-4373-85A7-4B7389ABC952}
+        {0C8FA876-AE75-4C60-8EB7-4469BAE37D71}
+        {411DB62D-11F5-406C-9FC0-A8D41717EEBE}
+        {686D4D22-5BAD-451F-A5F9-C63AEE8C303B}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T070350Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Bathroom" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{31BD1507-C491-44DD-917D-2F62937403EC}" />

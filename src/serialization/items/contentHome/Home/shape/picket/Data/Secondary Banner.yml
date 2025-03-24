@@ -1,0 +1,59 @@
+﻿---
+ID: "a0fad177-fa9b-4e65-b09e-a0ef3f0997c2"
+Parent: "a5f7ba0b-537b-4180-a1bc-627c8cc04c7e"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/picket/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Picket Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>The picket tile, a more contemporary take on the classic hex tile, features six sides with a thin, elongated middle, giving it the shape of a picket fence post. Only continuing to grow in popularity, picket tiles are ideal for creating eye-catching visual interest and dimension. Available in countless materials, like porcelain, ceramic, marble and glass, along with styles featuring beveled edges, sculptural surfaces and handmade-look textures, there's a picket tile for every style and taste.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0d75069-808e-4f23-8ffe-cf921a3eb27b"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T183819Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: SplendoursPicket_KitchenBackSplash_Horizontal_V1%3aHover_Image_All_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {A4ABAF5B-B581-4CED-947E-CC58B32EF0F4}
+        {329F18DD-0C81-4C01-AE5D-D15702D8DCB5}
+        {EF4817F1-4C9A-41AB-9C6B-91C94EC1B388}
+        {2FD4BC2B-C769-41B1-BB22-19A9113EFE53}
+        {BF3363AE-A571-413F-9A32-14237E39DD28}
+        {14C1BEAD-91A4-4D05-87D3-B00C8D8C744F}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

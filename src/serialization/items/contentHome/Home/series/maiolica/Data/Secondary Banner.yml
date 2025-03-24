@@ -1,0 +1,63 @@
+﻿---
+ID: "6887ecdb-c8a7-4c59-b750-e5092377238e"
+Parent: "89ca6620-c831-4b21-99e1-2a961bd6b339"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/series/maiolica/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Maiolica Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Create a bright and bold Mediterranean getaway with the Maiolica series. In cobalt blues and crisp whites, these 4" x 4" square tiles feature patterns and coordinating solids that will inspire vivid designs on the walls of your home. The series is made to be mixed and matched with the variety of patterns possible limited only by the imagination.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "259f8792-ddad-4117-bb53-c6f1cb1dcf2c"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T044208Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: maolica_mix_wall_buildout_shelf_KJ%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {64FCD670-CDE4-4157-AB99-6D69A11A70FD}
+        {F341E576-1842-4841-B548-BED481C812BE}
+        {FE11F51A-A739-4001-9437-3B46E205B087}
+        {EC4E3BCD-B21A-4034-9C8A-48362A2A1D4E}
+        {8F5C2C6D-7534-48F8-BB82-E2CBBAC24971}
+        {CE230E36-F97D-4D5D-AC36-B0DCE2F98645}
+        {679D0CAB-54AA-47A7-90A2-C19F80A68643}
+        {55D332D4-F705-479F-BDF3-1F3EA77EC02B}
+        {331F26D9-A642-409F-A3BC-E776518AEEE7}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

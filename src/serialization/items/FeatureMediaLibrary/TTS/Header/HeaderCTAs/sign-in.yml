@@ -1,0 +1,57 @@
+﻿---
+ID: "76cfb277-f58f-4388-a12c-74f861b4452b"
+Parent: "abc7d33e-4ab0-4493-88b3-330590157730"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/TTS/Header/HeaderCTAs/sign-in"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/76CFB277F58F4388A12C74F861B4452B.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 15
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "27c9939c-494a-4b43-b154-b0d8b210737b"
+  Value: PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNSAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik0xNC4zMzA4IDE1LjI2MzRDMTQuMzMwNSAxMy45NDQ4IDEzLjkzNCAxMi42NTY3IDEzLjE5MjggMTEuNTY2MkMxMi40NTE2IDEwLjQ3NTYgMTEuMzk5OCA5LjYzMjk2IDEwLjE3MzggOS4xNDc0NkM5LjQ0ODYxIDkuNjAyODMgOC42MDk2NSA5Ljg0NDM5IDcuNzUzMzIgOS44NDQzOUM2Ljg5Njk4IDkuODQ0MzkgNi4wNTgwMiA5LjYwMjgzIDUuMzMyOCA5LjE0NzQ2QzQuMTA2MjIgOS42MzI1OSAzLjA1MzggMTAuNDc1MiAyLjMxMjE3IDExLjU2NkMxLjU3MDUzIDEyLjY1NjggMS4xNzM5MiAxMy45NDU0IDEuMTczODMgMTUuMjY0NCIgc3Ryb2tlPSIjM0QzOTM1IiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48L3BhdGg+DQo8cGF0aCBkPSJNMTAuMTc0MSA5LjE0NzE0QzExLjAxMDkgOC42MjE4NCAxMS42NTQzIDcuODM4NjEgMTIuMDA2OSA2LjkxNTY0QzEyLjM1OTYgNS45OTI2NiAxMi40MDI1IDQuOTgwMDIgMTIuMTI5MiA0LjAzMDUxQzExLjg1NTkgMy4wODEgMTEuMjgxMiAyLjI0NjE1IDEwLjQ5MTggMS42NTE5MkM5LjcwMjM4IDEuMDU3NjkgOC43NDExMyAwLjczNjMyOCA3Ljc1MzA3IDAuNzM2MzI4QzYuNzY1IDAuNzM2MzI4IDUuODAzNzUgMS4wNTc2OSA1LjAxNDM0IDEuNjUxOTJDNC4yMjQ5NCAyLjI0NjE1IDMuNjUwMjIgMy4wODEgMy4zNzY5MSA0LjAzMDUxQzMuMTAzNTkgNC45ODAwMiAzLjE0NjUyIDUuOTkyNjYgMy40OTkyIDYuOTE1NjRDMy44NTE4OCA3LjgzODYxIDQuNDk1MTggOC42MjE4NCA1LjMzMjA0IDkuMTQ3MTQiIHN0cm9rZT0iIzNEMzkzNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PC9wYXRoPg0KPC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 921
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 16
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240419T061910Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Sign In
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c90d8279-5e21-4cb8-905e-c8e4a41ad84d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T052953Z

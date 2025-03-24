@@ -1,0 +1,46 @@
+﻿---
+ID: "8d66eed8-2563-48c6-8c7e-95352d938690"
+Parent: "6fcbec2f-0b52-49c4-893a-73d310bae2d4"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-wall/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {91B7E556-B05A-4718-BFD2-DE1953ED2500}
+        {0CD6B598-D6AF-4C9F-BDAD-9DCA40F1BF8C}
+        {1E19C2A0-9C6E-4233-81DD-D6DC6BE24EA3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: The Stylish Versatility of Subway Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>There’s a reason </span><a href="/featured/subway" class="font-bold">subway tile</a><span> is a classic. It comes in a wide variety of sizes, colors and styles—from brilliant white to bright blue, in marble- and handmade-look—and, depending on how you install it, can be used to create a variation of designs. Stagger the tile for a layered-brick look. Stack the tile vertically or horizontally for neat, clean lines. Or, if you’re really bold, try arranging them in a zig-zag </span><a href="/shape/herringbone" class="font-bold">herringbone pattern</a><span>. However they’re arranged, picking subway tile for shower walls is a chic and timeless choice.  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26c85933-7198-470f-a028-42376b6f5591"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T064604Z

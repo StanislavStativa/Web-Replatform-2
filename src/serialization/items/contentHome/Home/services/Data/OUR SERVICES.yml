@@ -1,0 +1,44 @@
+﻿---
+ID: "8b35e821-7506-4f27-b0bf-386fb39069a0"
+Parent: "c0390909-926a-473a-ad7b-62109853cdae"
+Template: "10d1687c-e7f3-44f9-b592-d8c99cf4defd"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/OUR SERVICES
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T084103Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: From inspiration to installation, we’ll make your tile journey fun and easy
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="designer-tile-text">Whether you’re flipping your first space or designing your dream home, we’re here to help every step of the way to make sure your project is a success. With over 30 years in the business, we know tile. <br /><br />We are not your big box store, and here’s why. We’re experts, so we can help you figure out how to waterproof your shower and know how much tile to buy. We’re designers, so we can help you create a unique space that speaks to your style. And, most importantly, we’re your partner, so we’ll work with you every step of the way to make sure you get the most value out of this investment into your home. Let’s get to work. <br /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b39ecc95-a49a-4673-86c5-a81d13a71eb0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: OUR SERVICES
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T085306Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TileShop_DesignConsultation_services_Her:Desktop"

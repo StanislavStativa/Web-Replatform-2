@@ -1,0 +1,59 @@
+﻿---
+ID: "f58851b2-bb76-4a4d-b261-0b1658c8415a"
+Parent: "0cb718bf-80a6-435c-ab4b-03fa35a3a3e9"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/what-is-travertine-tile/Data/Colors of Travertine"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T081737Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Colors of Travertine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Travertine offers a stunning variety of natural colors. The colors include variations of beige, brown, taupe and even lustrous silver grey. The stunning variety of color options prove that this stone dominates with versatility in the world of design.</p><p><br /></p>
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Claros-Stacked-Stone_Beth_Detail_Franklin_Img%3aImage_Caption_Hero" alt="travertine fireplace" title="travertine fireplace" />
+        <p><br />Because travertine is a natural stone, it may have a high variation in coloration and movement. High variation means no two projects will ever be the same, even if the same stone is used. It’s important to lay out your tile in the design you desire before it is installed to ensure you get the look you want.</p><p><br /></p>
+        <h3>Cost of Travertine<br />​</h3>
+        <p>The price of travertine depends on the type you choose. Travertine can be one of the more reasonably priced stone options. Its reasonable price and rich look make travertine an affordable luxury.</p><p><br /></p>
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Precision_Builders_Oak_Bluff_main_room_Img%3aImage_Caption_Hero" alt="travertine floor" title="travertine floor" />
+        
+        <h3><br />Is it often installed in certain rooms?</h3>
+        <p>Travertine is a common natural stone that is used in bathrooms. Unpolished travertine stone has a naturally nonslip texture. This makes it great for being installed in bathrooms, showers and floors. Travertine is a great stone for being installed around pools if you live in climate that is warm year-round.</p><p><br /></p>
+        
+        <img src="https://s7d1.scene7.com/is/image/TileShop/TileBarnShower_Img%3aImage_Caption_Hero" alt="travertine tile shower floor" title="travertine tile shower floor" />
+        
+        <h3><br />Durability</h3>
+        <p><span><br />Travertine is not as soft as marble but not as hard as granite. It can scratch if not protected, so be careful when moving heavy objects on your travertine floors. Be conscious of the finish you choose and what kind of area you’re installing it in.&nbsp;Like other natural stone, travertine can lengthen its timeless beauty with proper installation and maintenance. </span><span style="color: black;">Proper installation plays a large part in the durability of travertine.<br /> </span></p><p><br /></p>
+        
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Oakley_Home_Builders_Img%3aImage_Caption_Hero" alt="travertine kitchen backsplash" title="travertine kitchen backsplash" />
+        
+        <h3><br />Where is Travertine Sourced?<br /></h3>
+        <p><span><br />Travertine can be sourced from all over the world. A majority of our stone is sourced from Peru, Mexico, Turkey and China. Travertine is quarried the same way most natural stones are. It is collected in large blocks and then cut down to the desired shape.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bfeb79c-1de8-4169-95af-60d274b00e0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T083312Z

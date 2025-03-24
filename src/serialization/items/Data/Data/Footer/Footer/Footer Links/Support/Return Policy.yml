@@ -1,0 +1,39 @@
+﻿---
+ID: "8633debd-287e-4b4c-927c-0ec2181cf3bf"
+Parent: "851393d9-94f1-4277-9281-2e7ce1332365"
+Template: "98439906-d788-481d-b1cf-57be6e613e45"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Support/Return Policy
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T101334Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ceb14e26-b3da-4b0a-9a1a-7fcf4bdb6e0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T114312Z
+    - ID: "f2c0048e-40ec-4e1c-9918-1509fc8fb0e1"
+      Hint: Link
+      Value: |
+        <link text="Return Policy" anchor="" linktype="internal" class="" title="Return Policy" target="" querystring="" id="{3B92E69D-16D8-4B11-8D3F-19673E75A7AB}" />

@@ -1,0 +1,35 @@
+﻿---
+ID: "49e5786e-01d2-4c0d-b630-1483f6a2d240"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "9d84023b-0099-4bd0-acef-ef2ab7e1f9bb"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Shop by Application
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06061c6d-1bb6-451c-825a-3aac5a47a565"
+      Hint: CardList
+      Value: |
+        {6A37B99A-1922-4433-8EB4-9F19EE7CF9A0}
+        {63D5F50A-DDEC-4983-83DA-78A5CBDA3EE3}
+        {20B359EA-EE3B-4C4B-8A9F-D8B368254AE9}
+        {FFB261C6-A23D-4AE3-96A5-7B69EF9EB6D6}
+        {64BA3878-4033-42C0-A1F5-71260557B447}
+        {BDF9AD0B-20CD-4146-AC23-F76A7922942A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T113713Z
+    - ID: "4e408861-5643-422f-9f90-fe37ce6e0010"
+      Hint: Title
+      Value: Shop by Application
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0709717a-f810-414a-867f-f6a167e4348b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T094504Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "1e217bdc-76e4-4d25-83b9-a60bb8e0ed21"
+Parent: "e400a257-c08f-498d-bb93-69130a841c42"
+Template: "ec1b500d-ff55-4847-a220-ed95d5e0dad3"
+Path: /sitecore/content/TTS/TileShop/Data/RegisterCards/Register/Personal Account
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T072053Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8DF14967-FB81-41F5-B131-F876FA84C356}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Personal Account
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+            <ul>
+                <li>Save time at checkout.</li>
+                <li>Easily organize your projects.</li>
+               </ul>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d564a474-0266-4cbb-bdee-faa99686a462"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cca9581d-0250-4c0d-8a88-dcf8b100695d"
+      Hint: SubTitle
+      Value: I’m a homeowner.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240913T055721Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="CREATE RETAIL ACCOUNT" anchor="" linktype="internal" title="Personal User" id="{9E067224-5972-4620-90AA-4141F7559FEC}" />

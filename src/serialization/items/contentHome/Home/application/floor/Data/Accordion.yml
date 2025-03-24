@@ -1,0 +1,46 @@
+﻿---
+ID: "b23a1211-471d-453c-8452-511893a10737"
+Parent: "b794768a-77fb-4857-9970-5394ebd53a42"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {A15E3636-D961-43B0-8759-EEB6D75CFEB0}
+        {FEB20AF6-09F7-4C45-8612-059C4DF1C1B8}
+        {E056AF75-86F6-428B-9D8A-0FB557ACB2A9}
+        {ECC9E9F3-B6DC-42F1-B5EC-F55A2762A809}
+        {C52FD7D6-A1E8-47FA-8D4E-90A2B8DEDB40}
+        {90B45EC5-9608-4090-A3EC-CA0D87CE21B0}
+        {19C72C12-D422-4F74-ABB2-3283BD3A2983}
+        {CCF600B0-B9E5-4178-B8ED-2748DE9474E2}
+        {6F1DC003-CE62-477E-BA97-3BBA333A5C0F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T143209Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask The Flooring Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8a2527e-54f5-4f7c-8b39-9b6bc410be75"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T022424Z

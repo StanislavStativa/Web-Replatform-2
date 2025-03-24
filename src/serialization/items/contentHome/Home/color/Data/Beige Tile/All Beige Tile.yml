@@ -1,0 +1,38 @@
+﻿---
+ID: "c136fce6-281c-4c6e-a43b-ae784674f783"
+Parent: "40236e7d-b3e3-4e7c-a98e-fa9612d88de9"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/content/TTS/TileShop/Home/color/Data/Beige Tile/All Beige Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T052038Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce3cdcc0-f34d-4624-9bac-d589f0287972"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153757Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link linktype="internal" id="8d070e93-8916-49b3-bafa-4151d126924a" anchor="" querystring="" target="" class="" text="All Beige Tile" title=""/>

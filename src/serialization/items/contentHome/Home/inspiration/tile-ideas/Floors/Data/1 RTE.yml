@@ -1,0 +1,40 @@
+﻿---
+ID: "6f4e6dca-82c8-4c4d-a023-ca34c3a8e42c"
+Parent: "ab120a54-99f6-4e66-aae0-5a7186a7db1c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Floors/Data/1 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div><h2 class="lato-h1 mb-8"> 2024 Floor Tile Design Trends</h2><p class="mb-4">
+        Tile flooring has the ability to seamlessly fit within a multitude of styles, making it perfectly suited for any trend. Bigger is becoming better when it comes to size. <a href="~/link.aspx?_id=5B047EDA68E14E738F4A9DD7B16EA7F3&amp;_z=z" class="font-bold underline">Large-format tiles</a> are more popular than ever, and the minimal grout lines they present give a smooth, cohesive appearance to your floor. We continue to love <a href="~/link.aspx?_id=8A4DADE138784DA5B153FB384E3AD080&amp;_z=z" class="font-bold underline">wood-look tile</a>, which flawlessly replicates the texture and grain of real wood in an extremely durable material. Unique shapes and styles, such as hexagons and mosaics, are the newest trend in wood-look tiles. Natural stone remains a popular look that will never go out of style. Marble, travertine and slate add luxurious sophistication to your kitchen, bathroom and any flooring surface in your home. If natural stone is not for you, manufacturers of <a href="~/link.aspx?_id=A95C3EDCDF3F4DBB8D78A1574C7DE9DC&amp;_z=z" class="font-bold underline">ceramic</a>  and <a href="~/link.aspx?_id=324EC3752447425F8D081262F5D458B9&amp;_z=z" class="font-bold underline">porcelain</a> tiles have mastered the bright, clean marble look with materials that are less porous, more durable and more cost-effective. Stop in to your nearest Tile Shop to check out the latest selections in fashionable tile flooring.
+        </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75e972cf-1e5f-4256-95c9-ff91032019ee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200421Z

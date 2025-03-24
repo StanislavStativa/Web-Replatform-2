@@ -1,0 +1,43 @@
+﻿---
+ID: "c2e9628d-6995-4bbd-a25c-58b4e5f18397"
+Parent: "38cc092b-5b7e-4608-8457-5124f8a565a7"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/tub-surround/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {BCD962B5-8661-4194-A13E-DD9E2C48CC60}
+        {4B9DEF96-001E-4763-9D8E-E3163F82C128}
+        {24AC8604-9F9F-4F20-A2ED-80D69BD8F572}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What Is a Tub Surround?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>At a minimum, a “tub surround” refers to a protective covering—such as a single piece of vinyl, or water-resistant tile—on any walls adjacent to the sides of a bathtub. You can extend the tiled area if you so choose, either by covering additional wall space, or making it so that your tub tile surrounds the exterior of the bathtub itself.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4e99410-3378-460d-b4a8-21f1d94468eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T190241Z

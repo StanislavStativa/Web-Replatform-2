@@ -1,0 +1,40 @@
+﻿---
+ID: "7d95fc7e-aec6-48e3-abd0-67dabccb70b0"
+Parent: "66107d3f-4be7-47a3-97ed-0dcea10e0668"
+Template: "66107d3f-4be7-47a3-97ed-0dcea10e0668"
+Path: /sitecore/templates/Feature/TTS/Components/Header/Datasource Folder/Header/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {5E7BFB00-6915-48FB-A487-0909CAC523BF}
+    {14329A98-0EE0-4273-BA39-D1F6EEA1A63B}
+    {09611E83-AFEC-4333-AF2A-B9E121EDF841}
+    {5B0E2C1D-59B1-46F7-BF7C-6F13E3C6F4DE}
+    {6DBAC6AA-441C-466B-8F93-612A17DBAFB6}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240423T041612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9306765-52f0-40fe-a53f-4d70a75d2077"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T193725Z

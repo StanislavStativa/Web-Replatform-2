@@ -1,0 +1,44 @@
+﻿---
+ID: "f008a517-45fd-41e5-ac53-6833adbd0b31"
+Parent: "cba6a3e9-064f-469a-a64e-3c3ede3b771f"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/shower/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {3AED9D6B-C522-4FD0-9263-046B36BD1A98}
+        {5D10BE0F-256F-431D-A183-97CF735D7C86}
+        {74D90E4F-18C9-45F7-B4D3-BA9E28C8E230}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cool or Warm, Bold or Bright White, Color Sets the Tone
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>The shower tiles in your bathroom can be a great place to display your colors. Set your shower apart from the rest of the bathroom with a bold color or go with a more muted and subtle neutral. </span><span><a href="/color/blue" class="font-bold">Blue shower tile</a></span><span> can create the tranquility of calm water and comes in a wide breadth of shades from pastel sky to deep navy. </span><span><a href="/color/green" class="font-bold">Green shower tile</a></span><span>, whether it’s meant to stand out in bright emerald or a cool, soft mint, adds character to your bathroom. Bold, bright, or blending with the bathroom, we have hues that will make a shower truly you. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f6db087-a60c-4335-a05f-682e21ff4946"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185206Z

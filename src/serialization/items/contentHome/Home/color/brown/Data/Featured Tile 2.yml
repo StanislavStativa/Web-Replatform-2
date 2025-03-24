@@ -1,0 +1,47 @@
+﻿---
+ID: "1d7e9459-dffb-4023-af8c-941ba1f3456a"
+Parent: "1ed362ee-ac9c-494e-9737-ef7e535b67f3"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/brown/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {D75A8D68-6DD3-4221-B4B1-884836F0FA6E}
+        {CDFEE1EE-1EE9-4429-9829-1801DAAC810C}
+        {84C6B60E-0BAA-4410-A724-9D47DA7508CB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Build on Brown Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p class="extra-small-bottom-margin">Brown tile is incredibly versatile as the base on which to build your home decor. As a background color, brown tile provides a striking contrast for brighter colors like turquoise, yellow, and even <a href="/color/white" class="font-bold"><span style="text-decoration: underline;">white</span></a><span style="text-decoration: underline;">.</span></p>
+        <p>For a subtler look, consider lighter shades of brown. Beige and khaki floor tiles serve as a timeless canvas on which you can build the rest of your home's interior design. This neutral look pairs well with the whole spectrum of colors, making it easy to update your style as trends change. A backdrop of light brown gives you the freedom to make bold changes elsewhere without needing to deal with the <a href="/resources/education-and-info/cost-to-retile-bathroom" class="font-bold"><span style="text-decoration: underline;">cost of retiling your room</span></a>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4591835c-9609-4d37-abfa-b411d1a86f3b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T052914Z

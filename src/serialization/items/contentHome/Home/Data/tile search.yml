@@ -1,0 +1,106 @@
+﻿---
+ID: "955107ae-de7e-4977-addf-3ab831e3ab7e"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "ffee2175-73cf-4523-8abb-e8f24f6cda4e"
+Path: /sitecore/content/TTS/TileShop/Home/Data/tile search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T053004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Search
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "605a1695-d7b9-4d7e-9856-f7edea890b96"
+      Hint: Colors
+      Value: |
+        {8D070E93-8916-49B3-BAFA-4151D126924A}
+        {12926EAD-0598-4EBD-B61D-24986848572A}
+        {60A04858-F82A-4C5F-96B2-1AC90340324B}
+        {87BC7EB2-248C-465C-BA77-B82A83EAD864}
+        {D69A8F00-F3A4-47D9-A941-0B2AA51FBE22}
+        {38B07AEE-1C06-43E8-A6F8-9F35D5465F32}
+        {5189A7EE-4B10-4CC5-B6ED-D761D45C7926}
+        {D93BEBF7-5166-4902-BE43-D5B21022DDA2}
+        {03052925-2507-4F24-90D1-0932E85C1675}
+        {69BC85E4-37D4-4DB2-9D0D-3B511498443E}
+        {4A565229-D45D-42D6-AC10-D55EC2BE777A}
+        {E89EA496-FC84-4A27-A43A-F1CC06FB15B2}
+        {B0506400-2684-4368-A028-A93C4A619FD1}
+        {1A182599-C166-4458-8EC0-5C4637322682}
+        {F759954B-72C5-4DC2-98DF-47F7DABE419E}
+        {E0065E67-F1FE-4DE9-8FE5-AC8BA6018951}
+        {CEA66288-6D0A-4FF7-B1A3-7283F87D950E}
+        {A94331EA-3E2D-42AD-9616-69CA8DB8D7E9}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: The Tile Shop offers a robust selection of wall and floor tile. Explore by room, application, collection and more. Shop new arrivals and view all tile now.
+    - ID: "71c30606-fde0-4469-a4c6-b74976ee12f7"
+      Hint: MaterialLabel
+      Value: Material
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a440d85-6f8d-41cf-ae2d-3e1439407651"
+    - ID: "9f004c77-acde-4d56-9d70-68a4f59cec51"
+      Hint: ColorLabel
+      Value: Color
+    - ID: "ae04f17f-47fb-466a-9fe3-e164ee8bd10a"
+      Hint: Shapes
+      Value: |
+        {CD4CD62A-6AEF-472D-9600-C94A94F0C8B1}
+        {19342776-B2D3-4259-9A62-2B4ADCEE33CC}
+        {FC777DA6-9C7C-4EDA-83A4-FA2F1B325EBD}
+        {BEF97942-0D79-4EC6-947B-448489B827BF}
+        {C3A63C7F-DB16-442B-B626-2F395CC2D5C8}
+        {201A1B1D-B948-40DD-836B-26259D08069D}
+        {1C8E8CF0-8AA4-4A49-9A2F-4CA362B32B02}
+        {0C159D67-61B3-4884-88B0-B0AC9D7E1DF0}
+        {644CCF67-F7C4-49A1-8C08-47770D7457D5}
+        {CC050CA3-40D1-4032-9B0F-0BDD7F0692EE}
+        {FED58A0A-E57E-416D-8B70-CDBA2BF88346}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d2bb1008-b612-450e-8443-4c8867975d43"
+      Hint: DiscoverRfkId
+      Value: rfkid_10
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T052837Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "NewArrivals_Q12024_Duochrome_Horizontal_1:4x3"
+    - ID: "f36882ec-0479-40ee-8b06-0a0c9fad650c"
+      Hint: Materials
+      Value: |
+        {722923CE-1BF5-4AA3-A6D7-6D66C8362537}
+        {A95C3EDC-DF3F-4DBB-8D78-A1574C7DE9DC}
+        {BF52EC37-E0A8-43BA-8FDE-F835C8B6C59C}
+        {622A45F1-3A2B-4C61-A82C-A3F5DAC2B1FA}
+        {162AA26F-8EDC-422C-BA17-9EC1CD1B587E}
+        {73444FB7-0A47-44BA-B521-5671847BF19C}
+        {8A9A1BC2-AECD-4FC7-B133-80110056B838}
+        {FEA956F0-3432-49B1-8916-4250A7B0BA97}
+        {01DA0CF6-A33E-411C-A5B5-F50A1F594D97}
+        {DF02C5FF-4781-4758-8492-5CA5447F6BE5}
+        {92F8BAD1-0DC3-4582-9437-570EAEE39856}
+        {324EC375-2447-425F-8D08-1262F5D458B9}
+        {A4C79018-2F5F-4B1F-82B1-8665EE2D5BAB}
+        {1A180838-4A0F-4A54-9BF0-2AFC18AF115D}
+        {972E5242-4D0B-4D1B-9539-E5DBA9D12F28}
+        {AEC0547B-C9DE-48F8-BA7E-42020C98EF3D}
+    - ID: "fafd85cd-0808-4126-9219-c9f745b98684"
+      Hint: ShapeLabel
+      Value: Shape

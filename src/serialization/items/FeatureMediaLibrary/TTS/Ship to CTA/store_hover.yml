@@ -1,0 +1,51 @@
+﻿---
+ID: "93f81992-d162-46d3-8db4-3ae1f7fbd052"
+Parent: "a9ba0a6b-4e04-48ca-aa71-5724bae170e8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Ship to CTA/store_hover
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/93F81992D16246D38DB43AE1F7FBD052.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6b2e5b75-dab3-4ed3-84c0-90077263142d"
+  Value: PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAyOCAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xLjM3NDEgMUMxLjE2NzQ5IDEgMSAxLjE2NjQ4IDEgMS4zNzE4NFY0LjE2MDYyQzEgNC4zNjU5OCAxLjE2NzQ5IDQuNTMyNDYgMS4zNzQxIDQuNTMyNDZIMi4yMTU4M1YyMy42MjgyQzIuMjE1ODMgMjMuODMzNSAyLjM4MzMyIDI0IDIuNTg5OTMgMjRIMTMuOTE5NkgyMC4xNzI3SDI1LjU5NzFDMjUuODAzNyAyNCAyNS45NzEyIDIzLjgzMzUgMjUuOTcxMiAyMy42MjgyVjQuNTMyNDZIMjYuNjI1OUMyNi44MzI1IDQuNTMyNDYgMjcgNC4zNjU5OCAyNyA0LjE2MDYyVjEuMzcxODRDMjcgMS4xNjY0OCAyNi44MzI1IDEgMjYuNjI1OSAxSDEuMzc0MVpNMi45NjQwMyAyMy4yNTYzVjQuNTMyNDZIMjUuMjIzVjIzLjI1NjNIMjAuNTQ2OFY5LjQ5ODM0QzIwLjU0NjggOS4yOTI5OCAyMC4zNzkzIDkuMTI2NSAyMC4xNzI3IDkuMTI2NUgxMy45MTk2SDcuNzMzODFDNy41MjcyIDkuMTI2NSA3LjM1OTcxIDkuMjkyOTggNy4zNTk3MSA5LjQ5ODM0VjIzLjI1NjNIMi45NjQwM1pNMTQuMjkzNyA5Ljg3MDE4SDE5Ljc5ODZWMjMuMjU2M0gxNC4yOTM3VjE3LjgwNTFDMTQuODMxOSAxNy42NDU2IDE1LjIyMzMgMTcuMTUwNiAxNS4yMjMzIDE2LjU2MzNDMTUuMjIzMyAxNS45NzU5IDE0LjgzMTkgMTUuNDgwOSAxNC4yOTM3IDE1LjMyMTRWOS44NzAxOFpNMTMuNTQ1NSAxNy44MDQ5VjIzLjI1NjNIOC4xMDc5MVY5Ljg3MDE4SDEzLjU0NTVWMTUuMzIxNEMxMy4wMDczIDE1LjQ4MDkgMTIuNjE1OCAxNS45NzU5IDEyLjYxNTggMTYuNTYzM0MxMi42MTU4IDE3LjE1MDcgMTMuMDA4NCAxNy42NDUzIDEzLjU0NTUgMTcuODA0OVpNMS43NDgyIDMuNzg4NzhWMS43NDM2N0gyNi4yNTE4VjMuNzg4NzhIMS43NDgyWiIgZmlsbD0iIzNEMzkzNSIgc3Ryb2tlPSIjM0QzOTM1IiBzdHJva2Utd2lkdGg9IjAuNSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1074
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240904T052709Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Store
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ba61e33-71f0-4f4d-8785-61a545e6ce0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T052950Z

@@ -1,0 +1,160 @@
+﻿---
+ID: "3b549360-71bc-439c-a4b9-c905b02b8155"
+Parent: "1bec6927-e494-4e9f-8eff-ef86c92a0100"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/maintenance-and-care-guides"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5B3A7A9C-67A3-4053-827D-1B410B79AE73}"
+          p:before="*"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{39D9FFFA-564A-4FB4-B0F0-A4FCDA42457C}"
+          p:after="r[@uid='{5B3A7A9C-67A3-4053-827D-1B410B79AE73}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{2D75E0C4-11B7-44C9-B9AA-E9817BAC6E1C}"
+          p:after="r[@uid='{39D9FFFA-564A-4FB4-B0F0-A4FCDA42457C}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;SplitterSize=3&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{D37F936F-32B4-4A84-92BF-1A7CF3B34667}"
+          p:after="r[@uid='{2D75E0C4-11B7-44C9-B9AA-E9817BAC6E1C}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;SplitterSize=1&amp;EnabledPlaceholders=1&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;AddSeparator&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{2271F83A-991A-4763-9210-09816EF028E7}"
+          p:after="r[@uid='{D37F936F-32B4-4A84-92BF-1A7CF3B34667}']"
+          s:ds="local:/Data/How to Remove Soap Scum from Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-1" />
+        <r
+          uid="{0541AF41-0EDD-4DE6-8D7B-7B2602F98AF9}"
+          p:after="r[@uid='{2271F83A-991A-4763-9210-09816EF028E7}']"
+          s:ds="local:/Data/Deep-set Stain Removal Guide"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-1" />
+        <r
+          uid="{2F271783-0452-4E33-87E3-739E16391383}"
+          p:after="r[@uid='{0541AF41-0EDD-4DE6-8D7B-7B2602F98AF9}']"
+          s:ds="local:/Data/How to Replace Broken Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-1" />
+        <r
+          uid="{04249A25-9BD8-49C3-94C4-533123C1BF61}"
+          p:after="r[@uid='{2F271783-0452-4E33-87E3-739E16391383}']"
+          s:ds="local:/Data/How to Replace Grout"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-2" />
+        <r
+          uid="{9151E417-EECF-4B5B-A398-29A854895BBD}"
+          p:after="r[@uid='{04249A25-9BD8-49C3-94C4-533123C1BF61}']"
+          s:ds="local:/Data/How to Remove Enhance-N-Seal"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-2" />
+        <r
+          uid="{87939D16-6AA9-4C3E-8F44-7E645373A041}"
+          p:after="r[@uid='{9151E417-EECF-4B5B-A398-29A854895BBD}']"
+          s:ds="local:/Data/How to Remove Grout Haze Residue"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-2" />
+        <r
+          uid="{8EE25A86-4140-4EC1-9A56-D7BE6ACB7B34}"
+          p:after="r[@uid='{87939D16-6AA9-4C3E-8F44-7E645373A041}']"
+          s:ds="local:/Data/How to Recolor Faded Grout"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-3" />
+        <r
+          uid="{EC452BE6-9157-483A-ABC1-949C1DC50B06}"
+          p:after="r[@uid='{8EE25A86-4140-4EC1-9A56-D7BE6ACB7B34}']"
+          s:ds="local:/Data/How to Remove Adhesive from Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-3" />
+        <r
+          uid="{EB536C55-1CC9-4C57-A0D7-5008029CBC01}"
+          p:after="r[@uid='{EC452BE6-9157-483A-ABC1-949C1DC50B06}']"
+          s:ds="local:/Data/How to Remove Sealer Residue from Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-3" />
+        <r
+          uid="{634AAE81-7E99-414F-A7C8-51B1CDCA4EEB}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/How to Remove Mineral Deposits from Tile"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B92F00F35-1B66-43D9-924D-30B15B6F6062%7D%7C%7B5989A7F1-3386-478F-9D04-4E2AE1C807C9%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable=1&amp;IsPinterestEnable&amp;IsThumbnail&amp;IsThumbnailAsPDF=1&amp;IsTitleClickable&amp;IsUnderline=1&amp;IsCTATextInCaps&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-4" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T105503Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Maintenance & Care Guides
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Maintenance &amp; Care Guides - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d54a0b45-0207-468d-ab77-55081b128c90"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Maintenance & Care Guides
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Maintenance &amp; Care Guides - The Tile Shop"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T132128Z

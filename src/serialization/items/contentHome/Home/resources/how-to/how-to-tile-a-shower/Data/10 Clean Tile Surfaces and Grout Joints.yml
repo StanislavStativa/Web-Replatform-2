@@ -1,0 +1,83 @@
+﻿---
+ID: "e4b4cbfe-60a2-4e17-ae25-7b2e1862b7b2"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/10 Clean Tile Surfaces and Grout Joints"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 10: Clean Tile Surfaces and Grout Joints"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>After you have allowed your thinset to cure according to manufacturer instructions, you will need to thoroughly clean the surfaces of your newly installed tiles, as well as the spaces left for grout joints, before you move on to grouting.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="After installing shower wall tile and allowing the thinset mortar to cure, a tile pro cleans all surfaces before moving on to the grouting phase of the installation." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Cleaning4:16x9" /></p>
+        <br />
+        <h3 style="margin-left: 40px;"><span class="h3-style">Cleaning Supplies</span></h3>
+        <br />
+        <p style="margin-left: 40px;">To clean your tile, you will need:</p>
+        <br />
+        <ul>
+            <li style="margin-left: 40px;">Clean bucket of water</li>
+            <li style="margin-left: 40px;">Clean sponges</li>
+            <li style="margin-left: 40px;">Dry microfiber rags</li>
+            <li style="margin-left: 40px;">Grout Brush or toothbrush</li>
+            <li style="margin-left: 40px;">Pick or utility knife</li>
+            <li style="margin-left: 40px;">Scrubbing sponge</li>
+            <li style="margin-left: 40px;">Glass cleaner</li>
+        </ul>
+        <br />
+        <h3 style="margin-left: 40px;"><span class="h3-style">&nbsp;</span></h3>
+        <h3><span class="h3-style">How to Clean Tiles Before Grouting</span></h3>
+        <br />
+        <p>Begin by removing all your <a class="font-bold" href="/installation-care/installation/tools/tile-spacers">tile spacers</a>. If you see any areas where thinset may be sticking out of your grout joints, you can start by trying to scrape it out with the grout brush or toothbrush.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="A tile pro uses a utility knife to remove stubborn thinset from grout joints." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Cleaning8:16x9" /></p>
+        <br />
+        <p>If it&rsquo;s too dry, you may need to use your pick or utility knife. Be careful as you can chip a tile with these tools.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="A tile pro uses a grout brush to remove traces of dried thinset from within grout joints." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Cleaning2:16x9" /></p>
+        <br />
+        <p>Next, you can start scrubbing with your green scrubbing sponge. Afterwards, follow up with your soft sponge.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Using a soft sponge to clean traces of thinset from newly installed tiles." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Cleaning3:16x9" /></p>
+        <br />
+        <p>After you finish sponging the shower and it dries, you may notice a film still present. To remove that film, use an ammonia-free glass cleaner or simple green and your dry clean microfiber rag to clean the surface of your tile</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="A tile pro uses a microfiber rag to do a final, thorough cleaning of any film present on the surface of tiles before applying grout." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Cleaning7:16x9" /></p>
+        <br />
+        <p>Once you are done cleaning, double-check you have not missed any chunks of thinset in the grout joints that may protrude and hinder your grout from filling up a joint completely. If you do see spots, repeat the steps in this section for that area.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "426db6ac-23b5-476b-961c-5ad08472ce08"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T073547Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 10

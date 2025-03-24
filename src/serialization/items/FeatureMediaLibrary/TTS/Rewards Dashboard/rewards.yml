@@ -1,0 +1,60 @@
+﻿---
+ID: "b61c4fd8-7497-4df3-aa91-c3675a9a5057"
+Parent: "b7d6048b-d04d-4898-95c6-2cf898118ee8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Rewards Dashboard/rewards
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B61C4FD874974DF3AA91C3675A9A5057.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "185076f6-90c0-4ce4-b14d-3f9db21506d1"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAsCAYAAAAjFjtnAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKGSURBVHgB7ZjPTxNBFMffGo7b+y7nXc+0xIMHLyYeVpREQ1nESLJFCEZS/wej0cREU4lRgo1HkR6hrUdpOerC2XKlu2d278O8SUtKGLad0M0UMp9kksn82vm+efP27WqEAoKEQRsqvzZhr7kLQRCwtmxuErzFJZjI5hLnHuz78KO8Aa3Wf4ijCGz7Jli04FzDNEEUTVTAIX1wcfUFWJYNeXeOPnScbaRe24HftSpr8wpLoGcyZ+bhmLXSR2g2GjAz6zLBSEgNgHPDMIC37z8wQUIQAYL2Eck/nibl7+vc/jb2P5om3sI8iY6PT9uxjm3es3k6ps2dW95YZ2v3zhuEGyJi0W10XYfC4jK336SnUfryldU/U2t3QZeJo5j2faNj+G5SeL4MhmFCZWsThBBRi1as7Wz3HYcn4dy7S3z/L6lVt1n9Isv3gmO9hadEhDERsXEcn/NtHngS+dm5juUjmHHdCy1/WYRcyHEesIsYdiJPEniZD3yfXvoWOPcf9h2PQlGwJXiJhQTgpoDGrOLqCoscSeBJWbYNE7lcX+tjWMY1cW0MpyJodep3IhMiehkrWz/ZKWDczmYnaUjkx/56FUVq4ExN8deiLrnX2IV9/x9bK+8+gQwNEkIC7ty+RdBSut7ft0cNfCkCCggGiBCjBu4Z9y50B0YRJSAJDI1Y0iRVAWulT6ykiXIh2bBcCHPxNGD+r2kDpR6idNdkLzK4wmiY5mIF85FX9EsL83nDGIdRhLfHsW6ipXUGmbTDSCn1vSy8PaoolMS7N69ZSRN1ArJRAmSjBMhGCZCNEiAbJUA2SoBslADZKAGyuR4/tnoZ5k+uYf/Y4q1zTkDx5QoMm2bjD6TFCagV7azo5xHvAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 753
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 44
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 44
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T190947Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Rewards
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef2382d8-0ebb-48bc-bf0d-996e6900e8f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T070150Z

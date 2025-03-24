@@ -1,0 +1,83 @@
+﻿---
+ID: "5283878d-861f-4748-8a17-b417baa1a017"
+Parent: "eb80c1c3-4e1d-4261-91c8-12c61eeae47c"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/TTS/Navigation/Breadcrumb
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Breadcrumb
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/navigate_right.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query($contextItem: String!, $language: String!) {
+      item(path: $contextItem, language: $language) {
+        url {
+          path
+        }
+        name
+        NavigationTitle: field(name: "NavigationTitle") {
+          value
+        }
+        PageTitle: field(name: "Title") {
+          value
+        }
+        HideInNavigation: field(name: "HideInNavigation") {
+          value
+        }
+        ancestors(
+          hasLayout: true
+          includeTemplateIDs: "{5FCBEA3A-600F-4071-B694-B6B03F8F697A},{31BD1507-C491-44DD-917D-2F62937403EC}"
+        ) {
+          url {
+            path
+          }
+          name
+          NavigationTitle: field(name: "NavigationTitle") {
+            value
+          }
+          PageTitle: field(name: "Title") {
+            value
+          }
+          HideInNavigation: field(name: "HideInNavigation") {
+            value
+        }
+        }
+      }
+    }
+    
+- ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
+  Hint: RenderingCssClass
+  Value: breadcrumb
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240424T102532Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28e41244-d8ba-4265-ae91-2e323c5aaeca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250121T075717Z

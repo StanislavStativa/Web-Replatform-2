@@ -1,0 +1,37 @@
+﻿---
+ID: "5acdee34-2d3e-4193-bd5e-d9f82efa318b"
+Parent: "5c93be4e-dacd-44ba-b444-31c2c26dc8dd"
+Template: "f92aae37-f650-4508-bfe1-e215aad58855"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Data/New content item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T055441Z
+    - ID: "4dafdc3a-4e79-41f0-a371-7c01e05be22c"
+      Hint: SubHeadline
+      Value: New content item
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: New content item
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00a519ac-be3e-4530-a41a-04fff6791a4a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T055441Z

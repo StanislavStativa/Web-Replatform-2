@@ -1,0 +1,40 @@
+﻿---
+ID: "24c68862-99c3-44bf-b0dc-e59f27cd4cc2"
+Parent: "3fcd830b-d08e-4f04-9d96-cb49acc8f10e"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring/Data/Cutting Vinyl Plank Flooring FAQs/Is it difficult to cut vinyl plank flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T114754Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is it difficult to cut vinyl plank flooring?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Cutting vinyl plank flooring is not difficult and can be done by most DIY enthusiasts with the right tools and a bit of patience. The ease of cutting can depend on the thickness of the vinyl plank you are working with and the complexity of the cuts required for your project. Even so, cutting thicker planks and making more complicated cuts can be done without any specialized knowledge; they just take some additional patience.</p>
+        <p>If it's your first time cutting a vinyl plank, it is a good idea to practice on a spare piece to get the hang of it. This will help you feel more confident when it comes time to cut the planks you will install.</p>
+        <p>&nbsp;</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a5833b1-3e92-47f0-bb2a-5e5d7702f948"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T121414Z

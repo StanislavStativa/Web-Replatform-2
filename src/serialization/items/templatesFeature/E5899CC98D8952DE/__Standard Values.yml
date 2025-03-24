@@ -1,0 +1,38 @@
+﻿---
+ID: "2a68fbb3-ce20-40d0-949f-3bd13c1fc1c3"
+Parent: "cc5654ff-0b12-4305-85b3-c929de0bca2f"
+Template: "cc5654ff-0b12-4305-85b3-c929de0bca2f"
+Path: /sitecore/templates/Feature/TTS/Components/Forms/Schedule Consultation Form/Datasource Folder/Schedule Consultation Form/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B732F687-32EE-4BF3-8A21-3E00A56CA543}
+    {909596DC-BC0F-435F-9D0C-DF1CA94714DB}
+    {1B577C82-0E8C-4591-9845-76E8767EF458}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T175409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcccc7f1-5185-44b5-8923-d553f0308f9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T100949Z

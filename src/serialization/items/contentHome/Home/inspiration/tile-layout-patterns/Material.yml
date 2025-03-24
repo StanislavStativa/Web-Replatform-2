@@ -1,0 +1,375 @@
+﻿---
+ID: "5c3d3912-6a4f-4aeb-9c4e-8ad401dc6519"
+Parent: "5d5148e6-e497-4c11-b52c-9425df33250f"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Material"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{487E051E-06C5-4212-97AE-6F922CB6C343}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5B6C4A68-3E2C-4F9D-9C04-BA4A0F51B9C6}"
+          p:before="*"
+          s:ds="local:/Data/5 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-23" />
+        <r
+          uid="{E0C33204-B93D-472E-A0A8-ABB013E0C238}"
+          p:after="r[@uid='{5B6C4A68-3E2C-4F9D-9C04-BA4A0F51B9C6}']"
+          s:ds="local:/Data/5 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=26"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-23" />
+        <r
+          uid="{DFDC951A-A623-4EB8-AE76-5D70D143E9DA}"
+          p:after="r[@uid='{E0C33204-B93D-472E-A0A8-ABB013E0C238}']"
+          s:ds="local:/Data/5 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-23" />
+        <r
+          uid="{B0E4678E-D579-4AD7-8BF8-437AA0793BE6}"
+          p:after="r[@uid='{DFDC951A-A623-4EB8-AE76-5D70D143E9DA}']"
+          s:ds="local:/Data/5 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-23" />
+        <r
+          uid="{9F0507D5-1FF4-42C2-B54D-B2D18EA2C7C4}"
+          p:after="r[@uid='{B0E4678E-D579-4AD7-8BF8-437AA0793BE6}']"
+          s:ds="local:/Data/4 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-18" />
+        <r
+          uid="{1D8DDF63-9DC0-42BC-9195-F7730F78F70C}"
+          p:after="r[@uid='{9F0507D5-1FF4-42C2-B54D-B2D18EA2C7C4}']"
+          s:ds="local:/Data/4 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-18" />
+        <r
+          uid="{354C0DDB-50FC-4C23-AFAE-E8E4E35B0486}"
+          p:after="r[@uid='{1D8DDF63-9DC0-42BC-9195-F7730F78F70C}']"
+          s:ds="local:/Data/4 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-18" />
+        <r
+          uid="{BD7FD371-F738-4590-8726-A49B236FFEA6}"
+          p:after="r[@uid='{354C0DDB-50FC-4C23-AFAE-E8E4E35B0486}']"
+          s:ds="local:/Data/4 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-18" />
+        <r
+          uid="{A8F6AAED-5413-47B2-8903-687B3BDAE40F}"
+          p:after="r[@uid='{BD7FD371-F738-4590-8726-A49B236FFEA6}']"
+          s:ds="local:/Data/3 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-13" />
+        <r
+          uid="{C1D502A5-0777-46D0-A309-A33F3EF79584}"
+          p:after="r[@uid='{A8F6AAED-5413-47B2-8903-687B3BDAE40F}']"
+          s:ds="local:/Data/3 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-13" />
+        <r
+          uid="{5538228B-A106-4D67-8EB3-48C6E8511D8E}"
+          p:after="r[@uid='{C1D502A5-0777-46D0-A309-A33F3EF79584}']"
+          s:ds="local:/Data/3 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-13" />
+        <r
+          uid="{F4AABE10-E1DF-4E86-8FE8-2802A6190701}"
+          p:after="r[@uid='{5538228B-A106-4D67-8EB3-48C6E8511D8E}']"
+          s:ds="local:/Data/3 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-13" />
+        <r
+          uid="{5EFFF486-6F5A-4667-8D3E-BA8AC3822800}"
+          p:after="r[@uid='{F4AABE10-E1DF-4E86-8FE8-2802A6190701}']"
+          s:ds="local:/Data/2 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-8" />
+        <r
+          uid="{1E037030-1462-4815-8F76-80499D2B0588}"
+          p:after="r[@uid='{5EFFF486-6F5A-4667-8D3E-BA8AC3822800}']"
+          s:ds="local:/Data/2 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-8" />
+        <r
+          uid="{D03752A0-28FC-41F4-A93F-8531AACEECF2}"
+          p:after="r[@uid='{1E037030-1462-4815-8F76-80499D2B0588}']"
+          s:ds="local:/Data/2 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-8" />
+        <r
+          uid="{F4B4BAC6-25AF-4E14-AE0D-BEEF07D151F9}"
+          p:after="r[@uid='{D03752A0-28FC-41F4-A93F-8531AACEECF2}']"
+          s:ds="local:/Data/2 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-8" />
+        <r
+          uid="{0D6892CC-E7B1-4EB7-BF82-F8348AC2DD17}"
+          p:after="r[@uid='{F4B4BAC6-25AF-4E14-AE0D-BEEF07D151F9}']"
+          s:ds="local:/Data/1 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-3" />
+        <r
+          uid="{46E3952B-ACBF-4798-9BD0-F9421117BB16}"
+          p:after="r[@uid='{0D6892CC-E7B1-4EB7-BF82-F8348AC2DD17}']"
+          s:ds="local:/Data/1 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-3" />
+        <r
+          uid="{ACF627AA-F840-4534-A58F-04C65C60A5CB}"
+          p:after="r[@uid='{46E3952B-ACBF-4798-9BD0-F9421117BB16}']"
+          s:ds="local:/Data/1 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-3" />
+        <r
+          uid="{8AB82F1B-CDD8-44C4-8238-F10D65656915}"
+          p:after="r[@uid='{ACF627AA-F840-4534-A58F-04C65C60A5CB}']"
+          s:ds="local:/Data/1 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-3" />
+        <r
+          uid="{F7EC3A39-B790-4073-8284-A871F1547CA5}"
+          p:after="r[@uid='{8AB82F1B-CDD8-44C4-8238-F10D65656915}']"
+          s:ds="local:/Data/RTE Top"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{92A33587-0417-4CD9-B344-4FA85119DFAB}"
+          p:after="r[@uid='{F7EC3A39-B790-4073-8284-A871F1547CA5}']"
+          s:ds="local:/Data/1 Best Patterns for Ceramic Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{EBE5A18F-A5BF-4F96-B3DE-6A0EFE3D0C35}"
+          p:after="r[@uid='{92A33587-0417-4CD9-B344-4FA85119DFAB}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{A46FBD80-CC80-41E4-B270-D1D610E34371}"
+          p:after="r[@uid='{EBE5A18F-A5BF-4F96-B3DE-6A0EFE3D0C35}']"
+          s:ds="local:/Data/2 Best Patterns for Wood Plank Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=28"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{544B3221-4D50-4659-95B7-8924B6096679}"
+          p:after="r[@uid='{A46FBD80-CC80-41E4-B270-D1D610E34371}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B0D6A496-D855-43E3-9716-B8C030B03314}"
+          p:after="r[@uid='{544B3221-4D50-4659-95B7-8924B6096679}']"
+          s:ds="local:/Data/3 Best Patterns for Travertine Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=29"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{C615AEDB-1A30-4710-BEB8-0E0861DBF8A8}"
+          p:after="r[@uid='{B0D6A496-D855-43E3-9716-B8C030B03314}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{00F8F9AB-9DC7-4552-B449-808A7AF01A8C}"
+          p:after="r[@uid='{C615AEDB-1A30-4710-BEB8-0E0861DBF8A8}']"
+          s:ds="local:/Data/4 Best Patterns for Marble Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=30"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B522F463-0FDD-43CB-A650-8583F5ED34D0}"
+          p:after="r[@uid='{00F8F9AB-9DC7-4552-B449-808A7AF01A8C}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{711C3472-2D85-441F-966D-DAB39EA5AE95}"
+          p:after="r[@uid='{B522F463-0FDD-43CB-A650-8583F5ED34D0}']"
+          s:ds="local:/Data/5 Best Patterns for Slate Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=31"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{C8E9623A-F339-472F-A9E3-B1D39EB27E50}"
+          p:after="r[@uid='{711C3472-2D85-441F-966D-DAB39EA5AE95}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{82CCE5F3-2E76-406A-86C9-E187A5E9F5AB}"
+          p:after="r[@uid='{C8E9623A-F339-472F-A9E3-B1D39EB27E50}']"
+          s:ds="local:/Data/6 Best Patterns for Porcelain Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=35"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{78301F53-D6FB-42AF-982D-4D56787731BA}"
+          p:after="r[@uid='{82CCE5F3-2E76-406A-86C9-E187A5E9F5AB}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=34"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{03289F55-DF89-4F67-834C-545F0DA6CEDA}"
+          p:after="r[@uid='{78301F53-D6FB-42AF-982D-4D56787731BA}']"
+          s:ds="local:/Data/7 Mixing Materials"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=40"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{6B4A169A-C6D6-4DE8-8FF9-D35F81B752CE}"
+          p:after="r[@uid='{03289F55-DF89-4F67-834C-545F0DA6CEDA}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth2=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth3=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth4=%7B670536BF-55BC-4EBD-BBE5-00D9A5E9AF50%7D&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=4&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=41"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{85C843EF-47E0-4EFA-B952-5ED5F32B24C8}"
+          p:after="r[@uid='{6B4A169A-C6D6-4DE8-8FF9-D35F81B752CE}']"
+          s:ds="local:/Data/RTE Bottom"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=32"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{5AF3690E-761F-482B-AFF5-F568C93ECA10}"
+          p:after="r[@uid='{85C843EF-47E0-4EFA-B952-5ED5F32B24C8}']"
+          s:ds="{5F93D06C-79A5-48A4-A110-96FADB360A80}"
+          s:id="{4973BEE9-ADBE-4D4F-88F6-1CD3543FC349}"
+          s:par="GridParameters&amp;FieldNames=%7B440E1C89-4DA9-4421-A36E-A8D9BDC13F8F%7D&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;BackgroundColor=Dark&amp;HorizontalAlignment=Center&amp;Opacity&amp;VerticalAlignment=Center&amp;MobileHorizontalAlignment=Center&amp;MobileVerticalAlignment=Center&amp;CTAColor=OutlineWhite&amp;CTASize=Medium&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=33"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{0FA0D5BD-2E76-47E5-A62D-5611C7575FF0}"
+          p:after="r[@uid='{5AF3690E-761F-482B-AFF5-F568C93ECA10}']"
+          s:ds="local:/Data/6 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=36"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-34" />
+        <r
+          uid="{439AB58E-59E5-469B-8CCE-3531F14FC02C}"
+          p:after="r[@uid='{0FA0D5BD-2E76-47E5-A62D-5611C7575FF0}']"
+          s:ds="local:/Data/6 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=37"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-34" />
+        <r
+          uid="{4C9DF94C-CA3A-4261-95C1-FADBBA1E7FBA}"
+          p:after="r[@uid='{439AB58E-59E5-469B-8CCE-3531F14FC02C}']"
+          s:ds="local:/Data/6 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=38"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-34" />
+        <r
+          uid="{760CE0BD-4056-4009-B8DD-515914E72F77}"
+          p:after="r[@uid='{4C9DF94C-CA3A-4261-95C1-FADBBA1E7FBA}']"
+          s:ds="local:/Data/6 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=39"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-34" />
+        <r
+          uid="{A49E96C5-408D-404E-8F54-1833FE1CC5D6}"
+          p:after="r[@uid='{760CE0BD-4056-4009-B8DD-515914E72F77}']"
+          s:ds="local:/Data/7 Tile Card 1"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=42"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-1-41" />
+        <r
+          uid="{E8761852-7A70-43BF-A689-9F421DC3DD26}"
+          p:after="r[@uid='{A49E96C5-408D-404E-8F54-1833FE1CC5D6}']"
+          s:ds="local:/Data/7 Tile Card 2"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=43"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-2-41" />
+        <r
+          uid="{0A5B2ADA-DE81-478F-9BCD-4BED2757E26F}"
+          p:after="r[@uid='{E8761852-7A70-43BF-A689-9F421DC3DD26}']"
+          s:ds="local:/Data/7 Tile Card 3"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=44"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-3-41" />
+        <r
+          uid="{24023BA6-C4E7-4DEC-A8D1-0E8649F609FE}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/7 Tile Card 4"
+          s:id="{9A2E8350-FDF5-450D-A88F-24F8050A70CF}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsImageClickable&amp;IsPinterestEnable=1&amp;IsThumbnail&amp;IsThumbnailAsPDF&amp;IsTitleClickable&amp;IsUnderline&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=45"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3/column-4-41" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T122622Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Material
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Patterns for Different Tile Materials | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76a30c09-8363-47e0-9f3f-829f79acd967"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Material
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "View patterns & layout ideas for different tile materials, including ceramic, porcelain & more at The Tile Shop. Shop in-store or online today."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193523Z

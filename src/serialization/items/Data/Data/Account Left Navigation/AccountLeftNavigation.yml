@@ -1,0 +1,47 @@
+﻿---
+ID: "dc86125e-1893-46b7-8811-13090f16d468"
+Parent: "73d3c4b8-af16-49b6-9aef-43e27221113b"
+Template: "4dac0981-40bd-427d-9354-680969c88e58"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T154910Z
+    - ID: "36bb3b83-fbc3-4d04-bd1f-7790fdd91140"
+      Hint: Links
+      Value: |
+        {85948882-A679-4AB6-AB87-22CF01F9A00D}
+        {ED0B6E81-43AC-45C7-B088-05D9B318A97F}
+        {AED5A29C-F38C-43C0-8056-2BB89AFDCC28}
+        {B8550C64-F6E9-4EA1-AD18-59DACFF5DDA0}
+        {68584EDD-BFE0-4B9F-97D7-0578694B71AA}
+        {68993F1C-F79C-4B11-AEE4-244BD9C1D694}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: My Account 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97d139be-abc2-4eeb-8c40-e40d3af41169"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T092222Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="My Account " anchor="" linktype="internal" class="" title="My Account " target="" querystring="" id="{8DF2EC53-E547-43D6-B5DD-B5248ADE4B62}" />

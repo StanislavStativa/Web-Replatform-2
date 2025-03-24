@@ -1,0 +1,58 @@
+﻿---
+ID: "64ecaac2-204e-4cc6-8b21-a9c6d993b89c"
+Parent: "db56de12-4df2-4270-9802-14719e09812a"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Inspiration/Tile Ideas
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T122017Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Ideas
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13bd2e5f-ee9f-4ee1-bee0-0c3d2b992252"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c0dd834e-faa0-4765-9c7c-59366c41cab3"
+      Hint: SecondaryLinks
+      Value: |
+        {B2B756CE-C90A-41C2-A895-786237F9C222}
+        {8DF21A39-EE4B-45BD-AADE-E194F05AF4D4}
+        {26045A47-33F0-4D98-B6C1-04BECAC5922D}
+        {56683159-6FCD-4799-8311-11E6CE503A5A}
+        {E11A29A6-A5AD-40ED-8588-6194CEB5741B}
+        {9BB67270-77D1-4858-AB91-F501F7BE45A6}
+        {1DEA1D68-95CF-4B63-9558-0C07EA2A73AB}
+        {A616E273-98C0-49E1-9F57-3B171E8B0C4D}
+        {CD98F08E-E87E-4912-AF24-2D01AA71D00B}
+        {5EAD1614-814F-4D7F-B247-0E8697C5290A}
+        {8A56AA05-8BDD-414D-BBC4-9EE3E00AB197}
+        {EA10A27E-3A34-49AE-B2E6-59BD0109F319}
+        {0BB7D0FF-4CD0-4045-BFA9-436D1E197772}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T063015Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tile Ideas &amp; Designs" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{8588CBD2-D004-45CC-847E-71B661C6BEC5}" />

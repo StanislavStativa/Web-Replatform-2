@@ -1,0 +1,62 @@
+﻿---
+ID: "ecaed865-65d7-438b-ada0-76a5d615b5ee"
+Parent: "4f3842e5-b8d2-49a7-854b-81e6ee57d87d"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/series/outline/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Outline Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Made up of three different geometric prints on black and white bases, the magnificent Outline ceramic tile series brings life to walls. Precise metallic gold and silver applications with subtle dimension evoke elegance in spaces such as accent walls or shower surrounds. Explore the twelve unique faces of Outline to design a dynamic, customized look.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3b63b12-78bd-4f2a-8774-90412ac593da"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T043615Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: outline_wall_buildout_a%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {80201467-3A9A-4007-B830-58698C336EBE}
+        {F9DAB67E-5503-4019-B6F3-49CFB54EA9F5}
+        {06ACFAAC-4E1A-4CC1-9563-B327EF5DB0F2}
+        {87C7223C-4C42-41AC-BEEB-9BE73F8AAB3E}
+        {BE815E16-F4C3-424C-A595-C479ED526FC8}
+        {89887AD8-7034-4BDD-9B80-74EF6D99ABC5}
+        {9C7F59E6-FDE0-42D5-9F3E-05C92DD3657E}
+        {5F8E6AEE-2054-4F71-B668-0309A98A397D}
+        {994DAA3A-84C9-4330-B2B2-A6B1368C6F67}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

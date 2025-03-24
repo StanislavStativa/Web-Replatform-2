@@ -1,0 +1,37 @@
+﻿---
+ID: "5eaf697b-c8df-4f3f-8702-e3304cc2aaa4"
+Parent: "d87be57f-7f3d-4cba-af09-fe37c1a45997"
+Template: "f5767d2f-603f-4144-a5b2-b3f84a717a58"
+Path: /sitecore/content/TTS/Global Content/New Unit Of Measure Folder/EA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190802T185321Z
+    - ID: "509fa778-1afd-4c9b-9523-c12cda374d4c"
+      Hint: Code
+      Value: EA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a715658-6fb1-4fad-99e4-239074ab2bb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "cbd70aba-295c-4738-9525-5156dff45e84"
+      Hint: Name
+      Value: each
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190808T181010Z

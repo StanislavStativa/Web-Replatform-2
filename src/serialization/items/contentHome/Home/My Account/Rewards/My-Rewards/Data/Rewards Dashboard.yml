@@ -1,0 +1,55 @@
+﻿---
+ID: "b1c9b36f-b53a-4515-a75d-a0cb4f89daee"
+Parent: "cefdbd54-036e-47b1-a20f-d7557f2650f3"
+Template: "5fb83cd6-d31c-4fa1-84db-750e861038b3"
+Path: "/sitecore/content/TTS/TileShop/Home/My Account/Rewards/My-Rewards/Data/Rewards Dashboard"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T190425Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{B61C4FD8-7497-4DF3-AA91-C3675A9A5057}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Rewards Dashboard
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: "/api/myaccount/GetRewardSummary?siteId={{SiteId}}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Enjoy 25% off and ${MemberGroup} Perks"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11927d0e-d2e3-441d-a95a-26e70c0488d4"
+    - ID: "9d1a512d-c8bb-4ffb-a479-a342d04689a5"
+      Hint: PromotionMessage
+      Value: "Spend or refer ${SpentAmount} more by the end of year to reach ${MemberGroup} status"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.tileshop.com/pro-network/rewards/pro-rewards-exclusions" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T062406Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="VIEW STATEMENT" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{ADD608BE-4721-4F97-9876-4BCF848041B6}" />

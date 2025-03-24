@@ -1,0 +1,53 @@
+﻿---
+ID: "f5658f52-c3cd-41ff-9f03-213d2996121e"
+Parent: "d0d827cc-aaf0-4fdd-b18f-0336eab806c8"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Hero Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240802T113020Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Free Design Services
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class=" rich-text"><p /><div style="max-width:800px; margin:auto;">
+        <p class="p1" style="margin: 0px;">Everyone deserves the luxury of beautiful design. We’re here to take the intimidation out of the equation by partnering with you every step of the way. Not sure where to start? Make a free appointment to talk about your project, either in the store or&nbsp;with a remote consultation, anytime. We’re always happy to help and get the conversation started.</p>
+        </div><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "efe7ef6a-9436-465d-9072-aa3a54b507f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T060552Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Design_Table_RC_Her%3aDesktop
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Schedule Now" linktype="external" url="/DCA?sc_trk={5A35FF11-40E8-4C0D-90E3-F7A0507EE80A}" anchor="" target=""/>

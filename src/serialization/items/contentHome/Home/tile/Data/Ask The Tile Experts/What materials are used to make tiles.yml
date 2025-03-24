@@ -1,0 +1,57 @@
+﻿---
+ID: "68804c33-d584-42de-92bc-b745214588eb"
+Parent: "d24cf8f1-6f2e-4d37-89c7-5bf35e1f5fd6"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Ask The Tile Experts/What materials are used to make tiles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052758Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What materials are used to make tiles?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>The Tile Shop has a large variety of tile material options, each with different properties and styles available.</p>
+        <ul style="list-style-type: disc;  padding-left: 20px;">
+        <li>Marble: a high-end, natural stone tile that comes in almost every color and many finishes</li>
+        <li>Encaustic Cement: usually boldly decorated, these tiles replicate old-world styles and geometric patterns with modern colors</li>
+        <li>Wood Look: made of ceramic or porcelain, wood-look tiles are very popular for their appearance and durability</li>
+        <li>Porcelain: this dense and most durable tile is made from heating refined clay</li>
+        <li>Glass: very durable and easy to clean, glass is available in a variety of stylish patterns and colors</li>
+        <li>Travertine/Limestone: a type of limestone, travertine has unique patterns depending on the minerals present when it was formed</li>
+        <li>Ceramic: a man-made, clay-and-mineral tile, ceramic comes in a large selection of shapes and styles</li>
+        <li>Pebbles & Stone: channel the outdoors with the natural beauty and individuality of pebbles</li>
+        <li>Slate: this richly colored rock tile can be used both indoors and outdoors</li>
+        <li>Quartzite: suited to both commercial and business uses, quartzite is a rock that comes in different colors and textures</li>
+        <li>Other: mosaics made up of combinations of materials are also available</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f965fc0-a73c-456c-af32-315cd7f8a9c4"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T114449Z

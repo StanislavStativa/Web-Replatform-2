@@ -1,0 +1,42 @@
+﻿---
+ID: "abab452f-f9cb-4edd-87a9-608feba54a69"
+Parent: "9a2481cd-eb66-4989-b980-9ec78a482b8a"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-regrout-bathroom-tile/Data/Bathroom Regrouting FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {020A2BD8-AE9F-4EA6-9431-981CD9C20A45}
+        {4BD7896B-620B-4D8F-A54A-029561C9C992}
+        {15A2DCA1-4D35-481E-A0F4-0C22F36C553F}
+        {C35E06FE-F740-4AA0-ACBC-9D31DC179DEF}
+        {A7CE25AD-3219-44CA-8562-03036AF42630}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T133239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom Regrouting FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "437c5a95-1002-456e-9a35-b295fbf7f8fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T161756Z

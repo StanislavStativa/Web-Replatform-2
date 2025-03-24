@@ -1,0 +1,38 @@
+﻿---
+ID: "89d2e433-b5bb-4a35-8fb9-a9326446dc3b"
+Parent: "d605f896-8532-44dd-9d47-eb8f7ee19b7d"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/wall/Data/Featured Tile 1/Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ddf83e5-ddc2-41d4-829a-725b615291ae"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile:&nbsp;<a class="font-bold" href="/products/big-sur-by-jeffrey-alan-marks-in-off-the-hook-porcelain-wall-tile-8-x-8-in-484523">Big Sur by Jeffrey Alan Marks in Off the Hook</a></span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T112645Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 484523_render_bathroom1%3aDesign_Ideas_All_V2

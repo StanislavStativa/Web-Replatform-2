@@ -1,0 +1,40 @@
+﻿---
+ID: "020a2bd8-ae9f-4ea6-9431-981cd9c20a45"
+Parent: "abab452f-f9cb-4edd-87a9-608feba54a69"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-regrout-bathroom-tile/Data/Bathroom Regrouting FAQs/Is it hard to regrout bathroom tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is it hard to regrout bathroom tile?  "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        From a skills perspective, regrouting bathroom tile is an easy project. However, it is also a project that requires patience. Removing the old grout can be tedious and time-consuming, especially if you're using manual tools. Applying the new grout also requires some practice to achieve a smooth and professional finish. Having the right tools (like a high quality grout saw or oscillating multitool for removal, and a grout float for application) can make the job easier.
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54dfbd05-9f6a-4f7a-8b78-11d11daae5b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T112032Z

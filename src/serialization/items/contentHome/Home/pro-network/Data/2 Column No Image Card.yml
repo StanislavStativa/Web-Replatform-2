@@ -1,0 +1,39 @@
+﻿---
+ID: "a6a6a918-8ced-4a5b-a5bf-2fc4a2f13279"
+Parent: "eb7bfa1f-8d16-4aaf-bc81-d03b23ed906a"
+Template: "587d5f57-7f4f-4263-8ce0-afd70ccb9588"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/2 Column No Image Card"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02c39ef1-30e4-4c52-9df3-35ded1361ecd"
+      Hint: Cards
+      Value: |
+        {0FEF642F-1FB6-4622-A000-4561E8BB7989}
+        {69D62F63-34CF-4C6A-BA10-51B6B57458D0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T103951Z
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: "Let's get started! Which best describes you?"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6fc52c6c-d398-4739-b7fe-ee23b00e4b90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240607T105946Z

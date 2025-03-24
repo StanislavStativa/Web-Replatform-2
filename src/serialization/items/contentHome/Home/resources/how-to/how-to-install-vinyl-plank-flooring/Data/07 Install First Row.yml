@@ -1,0 +1,67 @@
+﻿---
+ID: "b486d979-f62e-4a60-9514-08d4fc737f08"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/07 Install First Row"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T034401Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install First Row
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>The process for installing the vinyl planks themselves varies depending on which type of vinyl plank you are using.</p>
+        <h4><span class="h4-style">&nbsp;</span></h4>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Click-Lock and Self-Adhesive Vinyl Planks</span></h4>
+        <br />
+        <p style="margin-left: 40px;">Start by positioning the first plank at one corner of the room along the reference line you establish.</p>
+        <br />
+        <p style="margin-left: 40px;">If you're using click-lock planks, place the first plank securely in the corner. Then, insert the tongue of the next plank into the groove of the first plank at a slight angle and press it down to click it into place. Once all planks are laid down, place spacers between the planks and the wall to ensure a properly sized expansion gap.</p>
+        <br />
+        <p style="margin-left: 40px;">If you're using self-adhesive planks, simply peel off the backing and firmly press the plank onto the subfloor.</p>
+        <br />
+        <p style="margin-left: 40px;">Ensure that the first plank is perfectly aligned with the reference line and any spacers placed along the wall to maintain the expansion gap. Use a level to confirm that the plank is flat and even.</p>
+        <br />
+        <p style="margin-left: 40px;">Continue this process until you reach the other side of the room. For click-lock planks, use a tapping block and rubber mallet to ensure secure connections. For self-adhesive planks, use your small hand roller to ensure each plank is perfectly smooth and laying flat against the subfloor.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;"><span class="h4-style">Glue-Down Vinyl Planks</span></h4>
+        <br />
+        <p style="margin-left: 40px;">Start by preparing the adhesive. Use a trowel to apply the adhesive evenly to the subfloor. Wait for the glue to become tacky but not totally dry.</p>
+        <br />
+        <p style="margin-left: 40px;">Place the first plank at one corner of the room, aligning it with the reference line you established. Press the plank firmly into the adhesive, ensuring that it is perfectly aligned with the reference line.</p>
+        <br />
+        <p style="margin-left: 40px;">Lay the remaining planks of the first row one by one, connecting the tongue and groove or the locking mechanism of each plank securely. Use a tapping block and a rubber mallet to ensure a tight fit between planks.</p>
+        <p class="rtc__list-item-with-image mt-4"><span class="EOP SCXW12035340 BCX0" data-ccp-props="{'335559685':720}" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"></span></p><p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edb63a91-4406-43e6-845d-eea9da3b4a7b"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 9
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T054056Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 7

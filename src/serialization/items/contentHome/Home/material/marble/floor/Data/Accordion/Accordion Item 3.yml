@@ -1,0 +1,38 @@
+﻿---
+ID: "ec5cb27b-e51f-416e-a183-8eef75163400"
+Parent: "710f84f6-8bfb-4cd0-a551-1682e20455a1"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/floor/Data/Accordion/Accordion Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113504Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How durable are marble floor tiles?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Marble is a softer stone that requires a few extra steps to install and maintain. <a href="/installation-care/care-maintenance/sealers" class="font-bold underline ">Sealer</a> is something you definitely want to use prior to grouting. Apply the sealer once the marble has been set and cured in thinset mortar, but make sure your floor is clean first so you don’t seal in dirt. Sealer will protect the stone during the grouting process. Once your grout is cured you want to apply more sealer. Carefully follow the directions as each sealer is a bit different. We recommend a 10- to 15-year sealer so that you won’t have to complete the sealing process that often. Just because your floor is sealed doesn’t mean you don’t have to clean it (see below). The sealer only protects it from staining, so spills should be wiped up quickly because the sealer closes the stone’s pores on the surface. If soda or wine sits on the surface for too long, it can etch (take the finish off) the stone or, even worse, stain it. Make sure you use a neutral cleaner that is pH balanced to protect your sealer and clean your floors. We do offer <a href="/products/superior-marble-poultice-stain-remover--75-lb-220118" class="font-bold underline ">cleaners that can help with the stains</a>, but you will need to reseal that area. Also keep in mind that marble’s softer nature means that you shouldn’t drag heavy furniture on it. Marble might require a little more maintenance and upkeep, but nothing can replace its beauty.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be91562a-fc28-4cd6-8014-83bd0d17521a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T134248Z

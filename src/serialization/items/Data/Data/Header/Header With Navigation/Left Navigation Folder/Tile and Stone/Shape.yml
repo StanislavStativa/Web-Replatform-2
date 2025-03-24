@@ -1,0 +1,49 @@
+﻿---
+ID: "b2fad6d2-0e4b-4783-b4fa-43c1f356e684"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Shape
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240516T113629Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shape
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50d95cdf-6542-423c-a1e4-44704d3d241f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {C1F3B526-CD7A-4D12-9428-C9CF2C19A491}
+        {AA08C7F1-42D3-4919-943F-17CC0BCDA953}
+        {46134DA2-3157-4394-A981-9FE5E63ED07E}
+        {B9FA63DF-F42D-447F-9CF4-02BE7654940E}
+        {E63627B9-BD59-497D-815E-5ACB33A0C72E}
+        {2D590B3D-C407-419F-8948-B9C87E41054D}
+        {5F4A2F25-F7AD-433D-9F1F-D42F7896D311}
+        {3EB34CB4-DA2D-42DD-B1C9-9D9EF43AB66C}
+        {6456DFC1-7EEE-47B0-A085-364CBBF3722D}
+        {3D43B402-7BD3-4ED2-84B2-0D6636E048D5}
+        {BDBF46C3-D76F-4076-BB38-61B9BF273330}
+        {DC045850-9015-491C-AD7C-89356267CC08}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T052555Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shape" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F507E7B6-A95A-475F-ABF3-4F3D0F71D1F1}" />

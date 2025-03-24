@@ -1,0 +1,68 @@
+﻿---
+ID: "176afa54-9248-4e75-ba6b-913a242e7eb9"
+Parent: "45d39521-8ab5-406b-b0ea-ab6fd3284057"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout/how-to-install-a-tile-shower-seat/Data/RTE1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T070802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <span style="color: #191b23;">A shower bench is a great addition to any bathroom, especially for people with mobility issues or who simply want to make showering more comfortable. The shower bench installation process is relatively easy, and can be done in a weekend with a few basic tools and materials.</span>
+        
+        <h2 class="h1">Step 1: Choose a Location for Your Shower Bench</h2>
+        
+        <p>The first step is to choose a location for your shower bench. This height is usually 17-19 inches from the floor, whether it's a&nbsp;<a class="font-bold underline" href="/trim-and-accessories/fixtures/corner-seats-and-benches">floating corner seat</a>&nbsp;or a bench. When choosing a location for your shower bench, ensure that it aligns with the studs in the wall for optimal support.</p>
+        <p>To locate studs, you can use a stud finder. Start by sliding the stud finder horizontally across the wall until it signals the presence of a stud. Usually, studs are placed 16 inches apart. Use a stud finder to confirm their position before marking where to attach your bench for safety.</p>
+        
+        <h2 class="h1">Step 2: Prepare the wall</h2>
+        
+        <p>Once you have chosen a location for your shower seat, you need to prepare the wall. If you are installing the shower seat on a tile wall, you will need to notch the&nbsp;<a class="font-bold underline" href="/installation-care/preparation/underlayment">backer board</a>&nbsp;to accommodate the seat. Use a level to mark the desired height of the seat on the wall, then use a saw to cut a notch in the backer board. Be sure to notch the backer board to the studs. This will give the shower seat extra stability.</p>
+        
+        <h2 class="h1">Step 3: Install the Shower Bench</h2>
+        
+        <span style="color: #191b23;">Once the backer board is notched, insert the shower seat into the notch to see how it sits. You can use mesh tape to patch over any gaps on the side of the shower bench before "mudding" over the gaps.</span>
+        
+        <h2 class="h1">Step 4: Pitch the Bench </h2>
+        
+        <p>Next, you need to make sure to pitch your shower bench. This will ensure that no water pools on your bench as you are showering.</p>
+        <p>To pitch your shower bench seat, you will need a couple of wedges or spacers. Place the wedges under the back of the seat between the seat and the wall until the seat is pushed up at a slight angle, about 1/4 inch per foot. This will ensure that water drains off the seat and does not pool.</p>
+        <p>To check the pitch of the seat, place a level on top of it and lift the front of the level until the bubble is level. You should have a 1/4 inch gap between the bottom of the level and the seat at the back. If the gap is larger or smaller than 1/4 inch, adjust the wedges accordingly.</p>
+        
+        <h2 class="h1">Step 5: Seal Around the Bench</h2>
+        
+        <p>Once the shower seat is installed, you need to seal it with silicone caulk. This will prevent water from leaking behind the seat. Apply a bead of&nbsp;<a href="/installation-care/installation/caulk" class="font-bold underline">silicone caulk</a>&nbsp;around the perimeter of the shower seat and then smooth it out with a wet finger.</p>
+        
+        <h2 class="h1">Step 6: Grout the Tiles</h2>
+        
+        <p>Once the tiles are in place, you need to&nbsp;<a href="/installation-care/installation/grout" class="font-bold underline">grout</a>&nbsp;them to help seal the joints and prevent water from leaking behind them. Click here for a complete guide on how to grout tile.</p>
+        
+        
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b85562e7-15ed-4e10-92c5-5a3eb762d4f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T174810Z

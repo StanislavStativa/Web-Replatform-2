@@ -1,0 +1,47 @@
+﻿---
+ID: "21903ec8-47fc-44df-b320-859de7658785"
+Parent: "9fab1590-adec-42e8-9e48-3f8f3a607252"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/pro-referral/Data/Accordion/I referred a customer to The Tile Shop"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "I referred a customer to The Tile Shop, but they forgot to provide my CID number when  placing their order in store. Can I still earn 5% cash back on their order? "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes. You or your referral can add your Customer ID number (CID) to an order after it is placed. To do so, contact Tile Shop Customer Service at 888-398-6595 within 60 days of the order closing, and provide the following information: </p>
+        <p> </p>
+        <p>Order confirmation number  </p>
+        <p>The CID of the Pro  </p>
+        <p> </p>
+        <p><strong>Note: Orders close upon delivery or pickup. For questions or concerns about specific orders, reach out to your Pro Market Manager.</strong></p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac585166-3796-4361-9637-0602dbceda3e"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T081145Z

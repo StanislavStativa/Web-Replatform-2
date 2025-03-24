@@ -1,0 +1,39 @@
+﻿---
+ID: "da0ed4e3-3c31-40e7-b65a-f772ed00967c"
+Parent: "3fcd830b-d08e-4f04-9d96-cb49acc8f10e"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring/Data/Cutting Vinyl Plank Flooring FAQs/Do you need a special blade to cut vinyl plank flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240618T101948Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you need a special blade to cut vinyl plank flooring?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Cutting vinyl plank flooring with a utility knife does not require a special blade. The only consideration with this method is to be sure your blade is sharp. Since installing vinyl plank flooring generally means you'll be cutting multiple planks, it is a good idea to have a few replacement blades on hand to keep your cutting clean and efficient.</p>
+        <p style="margin-bottom: 1em;">When cutting planks with a jigsaw, use a fine-toothed blade. The jigsaw blade's packaging will generally indicate what sorts of materials it is suitable for, so look for a blade that is designated for cutting vinyl planks.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8263bcac-fab6-4ab7-990c-cb9a607e778b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T121346Z

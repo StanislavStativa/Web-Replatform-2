@@ -1,0 +1,40 @@
+﻿---
+ID: "b028ea6c-9dba-48c7-829a-1faaf62d7b8a"
+Parent: "f45b5e4f-4d34-4330-ae40-5ece9b3ac7c3"
+Template: "3ec22ef7-a736-4b22-8b21-a349a3f6d746"
+Path: /sitecore/content/TTS/Global Content/Brands/Best of Everything
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230202T082423Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "60da71bf-a8a8-4b2b-aa50-695b1051b7b2"
+      Hint: BrandName
+      Value: Best of Everything
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c499ed31-e178-4463-9377-1be6129e3f66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "c9118c74-871a-4967-8272-ea96f1bee256"
+      Hint: BrandId
+      Value: BEST OF EVERYTHING
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230202T220912Z

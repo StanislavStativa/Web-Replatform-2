@@ -1,0 +1,35 @@
+﻿---
+ID: "f1b2290b-99cb-4f93-9a8a-ae5ff4409efb"
+Parent: "eb7bfa1f-8d16-4aaf-bc81-d03b23ed906a"
+Template: "9d84023b-0099-4bd0-acef-ef2ab7e1f9bb"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/Unlock Exclusive Pro Benefits"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06061c6d-1bb6-451c-825a-3aac5a47a565"
+      Hint: CardList
+      Value: |
+        {F28DE734-C0C3-44BC-8826-CA037F07B4E2}
+        {5E8110B1-D911-4596-B273-A807ECA851CB}
+        {D36FF062-59F8-4532-A7CF-5A4E1E25824F}
+        {0CCF0352-BF9B-42B3-BB00-D551C8D9B692}
+        {8918EB15-8765-4FD6-B8D6-91C227587C34}
+        {D8A96CB9-E189-46BA-B222-F13D030C3CAE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T113713Z
+    - ID: "4e408861-5643-422f-9f90-fe37ce6e0010"
+      Hint: Title
+      Value: Unlock Exclusive Pro Benefits
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16fe12f6-b7ca-4442-aded-bc2e2345fdd4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240607T112951Z

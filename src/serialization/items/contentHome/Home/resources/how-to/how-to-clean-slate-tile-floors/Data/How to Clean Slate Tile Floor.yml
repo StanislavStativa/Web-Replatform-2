@@ -1,0 +1,65 @@
+﻿---
+ID: "25880f16-96bc-4791-a407-78b62a13c74c"
+Parent: "d3bec511-7b5f-407a-af0b-a88cf66c2b54"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-slate-tile-floors/Data/How to Clean Slate Tile Floor"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Slate Tile Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        Routine cleaning is the key to keeping your limestone floors looking their best. You should plan to clean your limestone floors at least once a week and more often if they are exposed to high foot traffic or if you have active pets.<br />
+        <br />
+        <h3 style="margin-left: 40px;">Step 01 of 05: Dry Cleaning</h3>
+        <br />
+        <p style="margin-left: 40px;">Begin by sweeping the floor thoroughly with a soft-bristled broom or vacuum it using the soft brush attachment to remove loose dirt and debris. Pay close attention to the grout lines, where dirt tends to accumulate. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 02 of 05: Prepare the Cleaning Solution</h3>
+        <br />
+        <p style="margin-left: 40px;">Add a few drops of mild dish soap to a bucket of warm water or prepare a <a class="font-bold" href="/installation-care/care-maintenance/cleaners">commercial cleaner</a> specifically formulated for natural stone surfaces.&nbsp; If using a commercial cleaner, closely follow the instructions on the product label. Do not use acidic cleaners like vinegar or lemon juice, or harsh chemicals or abrasive cleaning tools, as they can damage the slate. 
+        <br />
+        Always test any cleaning solution on an inconspicuous area of the floor first to check for discoloration or etching.
+        </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 03 of 05: Mop the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Dip a soft mop into the cleaning solution, wring it out thoroughly so it's damp but not soaking wet. Excessive moisture can seep into the slate and cause issues, even when it is properly sealed. Mop the floor in sections, following the grout lines. Rinse the mop frequently in clean water to prevent spreading dirt around. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 04 of 05: Dry with a Towel</h3>
+        <br />
+        <p style="margin-left: 40px;">Once you've mopped the entire floor, take clean water in a separate bucket and use a clean mop to rinse away any cleaning solution residue. This prevents a film from forming on the slate after drying. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 05 of 05: Regular Maintenance</h3>
+        <br />
+        <p style="margin-left: 40px;">Allow the floor to air dry completely. You can also use a clean, soft towel to speed up the drying process, especially in areas with high moisture.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9fe6b5a-52e6-4414-8867-2c470f616c02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T174826Z

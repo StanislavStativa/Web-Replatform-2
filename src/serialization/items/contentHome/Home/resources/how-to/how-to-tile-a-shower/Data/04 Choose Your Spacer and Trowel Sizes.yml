@@ -1,0 +1,58 @@
+﻿---
+ID: "f268d38c-97a1-4dc5-917a-13400b7573b8"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/04 Choose Your Spacer and Trowel Sizes"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 4: Choose Your Spacer and Trowel Sizes"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Before deciding on a layout and setting your tile, first choose your spacer and trowel sizes for this project.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="An assortment of blue U-shaped tile spacers, also called horseshoe shims, that will be used for a shower tile installation." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Spacers:16x9" /></p>
+        <br />
+        <p>Some tile boxes will reference which spacer size you will need for your tile. Make sure to follow their guidelines, as some tiles have variations in sizes and not following this can result in an installation that has uneven grout joints.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="There are multiple sizes and types of notched trowels suitable for installing tile, and this image shows a selection of common varieties." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Trowels2:16x9" /></p>
+        <br />
+        <p>Choose a trowel size based on the size of your tile. Here are some guidelines you can follow for choosing a trowel size: </p>
+        <br />
+        <ul>
+            <li>Use a 3/16&rdquo; x 1/4" V-notch trowel for mosaic tiles that come on a sheet</li>
+            <li>Use a 1/4" x 1/4" square-notch trowel for tile sizes 4&rdquo; to 8&rdquo;</li>
+            <li>Use a 1/4" x 3/8&rdquo; square- or U-notch trowel for tile sizes 8&rdquo; to 16&rdquo;</li>
+            <li>Use a 1/2" x 1/2" square- or U-notch trowel for tiles 16&rdquo; and larger</li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f2eb11d-4b1e-4abd-b481-53989ba2c8fe"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T070705Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 4

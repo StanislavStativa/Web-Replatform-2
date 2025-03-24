@@ -1,0 +1,49 @@
+﻿---
+ID: "b390a197-421c-43e4-96dc-62d126bac737"
+Parent: "190f8b18-625f-49b2-8c3e-b20bd4d7f63f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/general-faqs/Data/FAQ/Accordion Item 9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131442Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you offer tile installation education to customers?  "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes, we offer multiple tile installation education tools, including:</p>
+        <ul>
+            <li>
+            <p>One-on-one installation guidance from our store associates in stores or via phone or email, no appointment necessary.</p>
+            </li>
+            <li>
+            <p>Various resources such as "how-to" videos, problem solving tools, and planning and installation tips and guides in the&nbsp;<a href="/resources">Resources</a>&nbsp;section of our website.</p>
+            </li>
+            <li>
+            <p>Free in-store educational "How To Tile" workshops are available in most stores. For more information, please contact your local store.&nbsp;<em style="color: #000000;">*Due to concerns around the spread of COVID-19 our in-store workshops are temporarily postponed until further notice. If you have any tile or installation related questions our local store is ready and able to assist you whether that be in store, over the phone or via email.</em>&nbsp;&nbsp;</p>
+            </li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae042a12-166e-46b3-ae4c-95c5f768d3a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240606T090246Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "8357c1ea-a187-408f-8f0d-2fe4b9b53ba7"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/14"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Elegant Floral Pattern
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        The <a class="font-bold underline" href="/products/morris-&amp;-co-pure-net-cloud-grey-porcelain-wall-and-floor-tile-13-x-13-in-681461">Pure Net Cloud Grey</a> wallpaper-inspired tile from our exclusive <a class="font-bold underline" href="/collection/morris-and-co">Morris &amp; Co. collection</a> makes for an elegant floor. This intricate pattern will infuse your bathroom with artisanal charm and coordinate perfectly with the <a class="font-bold underline" href="/products/morris-&amp;-co-hawkdale-pure-cloud-ceramic-wall-tile-3-x-8-in-484088">Morris &amp; Co. Hawkdale Pure Cloud subway tile</a>.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "faf17ad2-88a1-4c92-a3e0-52edfe0f7639"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123636Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "MorrisCo_Bathroom_FloorDetail_1:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 14

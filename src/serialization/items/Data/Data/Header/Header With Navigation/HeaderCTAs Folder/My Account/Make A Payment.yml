@@ -1,0 +1,45 @@
+﻿---
+ID: "57357036-ecb2-4de2-84e0-34f2ae0351b5"
+Parent: "61654867-2ca2-4e1f-b9f0-7d9f8a67aa60"
+Template: "c82cef69-6f78-4e99-8b16-3c53a20ce082"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/HeaderCTAs Folder/My Account/Make A Payment
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240524T070717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "136271b8-19c9-413b-b3b1-1086813ff308"
+    - ID: "b1f6fb0c-11df-49cc-a422-63c50f74b84f"
+      Hint: IsPaymentCTA
+      Value: 1
+    - ID: "b80bb08c-c825-449e-9de8-bbcca35f9dc3"
+      Hint: IsVsibleOnlyForNT30ProUser
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T072447Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Make A Payment" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6DE18597-56BF-42D9-8D84-0053A131578B}" />

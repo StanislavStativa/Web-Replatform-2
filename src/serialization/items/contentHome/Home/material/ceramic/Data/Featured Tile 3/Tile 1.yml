@@ -1,0 +1,38 @@
+﻿---
+ID: "ad6e01c5-5b12-4b04-b333-90f3792c08b5"
+Parent: "d3cca1b1-aa8b-4bff-9104-f726e3ed8ec3"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/Data/Featured Tile 3/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e2ea613-c122-43d4-ac77-56c8e757636a"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a class="font-bold" href="/products/lanse-matte-black-picket-ceramic-wall-tile-2-x-9-in-484073">Lanse Black</a>&nbsp;&amp;&nbsp;<a class="font-bold" href="/products/lanse-matte-white-picket-ceramic-wall-tile-2-x-9-in-484072">White</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T064822Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "lanse_vendor_render_shower:Design_Ideas_All_V2"

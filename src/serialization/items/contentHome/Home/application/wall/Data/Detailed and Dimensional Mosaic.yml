@@ -1,0 +1,44 @@
+﻿---
+ID: "b3f880b0-f6e5-493b-81cd-017b5e64a418"
+Parent: "c522e319-7fb7-4a51-8d9c-8851ff69c702"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Detailed and Dimensional Mosaic
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {A6E68F47-9EE6-4C60-87C4-DFCB5B53C206}
+        {FC4BC91F-84AB-4C05-AA09-A88FA3EBCB03}
+        {49B4D2A7-B8D1-44C4-857A-C2896410EE57}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Detailed and Dimensional Mosaic
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Add visual interest to any wall with beautiful&nbsp;</span><a href="/featured/mosaics" class="font-bold">mosaic wall tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">. Available in a myriad of shapes, sizes, colors, finishes and materials, mosaics’ mix of color, shape and texture will make your wall a masterpiece.&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a2a1b24-9611-4c6a-a1b8-73ba612f0eff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T184832Z

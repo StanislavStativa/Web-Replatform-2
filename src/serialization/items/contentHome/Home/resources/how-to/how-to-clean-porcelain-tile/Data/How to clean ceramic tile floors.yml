@@ -1,0 +1,57 @@
+﻿---
+ID: "676bca73-7c44-4d85-80cd-478526a26f5e"
+Parent: "1188c3f8-8e28-4717-a526-df350f6551c1"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-porcelain-tile/Data/How to clean ceramic tile floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Porcelain Tile Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="A laundry room features blue cabinets and floor covered in square ceramic tiles with a blue and white motif." src="https://s7d1.scene7.com/is/image/TileShop/AlisonVictoria_Hartzell_Laundry_004:16x9" />
+        <br />
+        <h3>Step 1. Sweep or Vacuum</h3>
+        <br />
+        <p>Start by sweeping or vacuuming your porcelain tiles to remove loose dirt, dust and debris. If you are sweeping, be sure to use a soft-bristle broom. If you are vacuuming, make sure not to use a beater bar, as this could scratch the tile. </p>
+        <br />
+        <h3>Step 2. Scrub with Warm Water</h3>
+        <br />
+        <p>To get any remaining dirt and dust off your porcelain tile, all you need is some water. Using either a soft mop or a sponge, go over the tile with warm water. There is no need to use soap, but mild soap will not hurt your tile. </p>
+        <br />
+        <h3>Step 3. Use a Specialized Cleaner</h3>
+        <br />
+        <p>
+        For tougher cleaning jobs, you may want to use a&nbsp;<a href="/installation-care/care-maintenance/cleaners">specialized tile cleaning product</a>. These products are formulated specifically for use on porcelain tile. Follow the manufacturer's instructions for how to mix the cleaner. Do not use abrasive cleaners, pads or brushes, as they can scratch the tile's glazed surface.<br />
+        <br />
+        Although specialized tile cleaning products are gentle, it is still a good idea to wear rubber gloves when scrubbing your porcelain tiles.<br />
+        <br />
+        <br />
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7dd89b4b-5996-46de-99ab-96450522e461"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240617T124055Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "54c32ed3-db1a-4dd0-975e-e55b5cad640b"
+Parent: "847e698d-c983-46cd-96c2-7d577b688243"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/Data/Accessories/All Accessories"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240525T170228Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3d30b46-ac0f-46c6-9308-ce6643f0af73"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240525T172323Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="All Accessories" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{639A1C87-7273-4FA1-80B7-1B53DD40A12E}" />

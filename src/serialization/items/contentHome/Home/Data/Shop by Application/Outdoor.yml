@@ -1,0 +1,40 @@
+﻿---
+ID: "bdf9ad0b-20cd-4146-ac23-f76a7922942a"
+Parent: "49e5786e-01d2-4c0d-b630-1483f6a2d240"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Shop by Application/Outdoor
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T120221Z
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Outdoor
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18b71394-5dfc-44e6-94c1-86928ef4bb0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T121344Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "AMB_TRUEWOOD_Taupe_23x120:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Outdoor" anchor="" linktype="internal" class="" title="SHOP OUTDOOR TILE" target="" querystring="" id="{F49F505A-848D-446B-88D2-DC0606F5A614}" />

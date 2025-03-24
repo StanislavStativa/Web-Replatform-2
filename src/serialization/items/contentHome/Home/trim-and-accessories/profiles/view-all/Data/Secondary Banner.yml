@@ -1,0 +1,62 @@
+﻿---
+ID: "ed4c6c4b-bdc1-4f6b-8090-3d8d6d639a47"
+Parent: "6ae4f894-d6e0-42a6-b725-0c9abe8b96df"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/view-all/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "View All Finishing Pieces - Profiles"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Make every corner and edge look elegant with the perfect skirting and tile trim. With several options in each material including marble, glass, granite and ceramic, our bullnose tile helps you with the details of your project. Profile pieces like sleek baseboards, beveled skirting corners and rounded cornices craft a sophisticated look while coordinating with your existing decor. Make every corner and edge look elegant with the perfect skirting and tile trim. With several options in each material including marble, glass, granite and ceramic, our bullnose tile helps you with the details of your project. Profile pieces like sleek baseboards, beveled skirting corners and rounded cornices craft a sophisticated look while coordinating with your existing decor.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fc950b6-e6aa-40ab-a74c-4d90a127191d"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T071829Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Diamond_Dark_flatlay_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {88436B2A-37E7-4E04-8ABE-B6BEE8329F4C}
+        {2A8E3131-5688-48A4-8206-0AA9E6F27F30}
+        {98FC6D5B-E1EE-4AEF-8136-705CB5A30470}
+        {59674C08-CD4A-4FBC-93BF-BA10B0CEADE3}
+        {7DDC986D-3020-4943-9A8A-A76DF421D3D7}
+        {96AA372A-45AF-4081-99DB-D8B809C3D3E9}
+        {82E37B52-58B3-4350-AABE-49CD1B87D6BF}
+        {2ED0EFCE-171D-4C59-976E-009A812C77B1}
+        {2430E0BF-830F-482D-95B5-0C492E6F879A}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

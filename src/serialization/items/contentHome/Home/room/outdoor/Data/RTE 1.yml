@@ -1,0 +1,41 @@
+﻿---
+ID: "c4f59805-6395-48f5-94d7-d3361a9501b5"
+Parent: "ed8aa61e-9bb3-447a-a4c1-e4b102908d93"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/outdoor/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h2 class="extra-small-bottom-margin">Create an Outdoor Space You Love</h2>
+        <p class="extra-small-bottom-margin"><span>
+        Whether your ideal outdoor space is geared toward laid-back gatherings, easy entertaining, or action-packed pool days, choosing the right outside tiles means you can enjoy years of fun in your yard.  </span></p><p class="extra-small-bottom-margin"><span>Maybe you want to extend your interior style and create a seamless extension of your primary living space. Maybe you're envisioning a backyard oasis that complements the natural elements of the landscape around you.</span></p><p class="extra-small-bottom-margin"><span>With thousands of options—from engineered materials like glass and </span><a href="/material/porcelain" class="font-bold underline">porcelain tile</a><span> to natural granite or </span><a href="/material/slate" class="font-bold underline">slate tiles</a><span>—The Tile Shop makes it easy to design a custom outdoor space as unique as you are. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97111660-89d2-4ba9-b75b-6a1989a0bd58"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T141904Z

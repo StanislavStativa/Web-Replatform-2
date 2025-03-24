@@ -1,0 +1,64 @@
+﻿---
+ID: "1bbb3476-d809-4a9d-ab75-2171cb10943f"
+Parent: "ad280140-5136-48e6-94b6-10611c6b26dc"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-marble-tile/Data/How to Clean Marble Floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Marble Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h3 style="margin-left: 40px;">Step 01 of 05: Remove Loose Dirt</h3>
+        <br />
+        <p style="margin-left: 40px;">Sweep or vacuum the floor to remove any loose dirt, dust, or debris.</p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 02 of 05: Prepare the Cleaning Solution</h3>
+        <br />
+        <p style="margin-left: 40px;">Fill a bucket with warm water and add a few drops of mild dish soap or a <a class="font-bold" href="/installation-care/care-maintenance/cleaners">commercial stone tile cleaner</a>. Avoid acidic or abrasive cleaners as they can etch the marble.</p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 03 of 05: Mop the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Dip the mop or microfiber cloth into the cleaning solution, wring it out well so it’s damp but not soaking, and mop the floor gently. Avoid using too much water as it can penetrate the marble and cause damage. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 04 of 05: Rinse the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Rinse the mop or cloth with clean water, wring thoroughly, and mop the floor again to remove any soap residue.
+        </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 05 of 05: Dry the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Immediately dry the floor with soft towels to prevent water spots and streaks.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04e79445-95f0-4ab0-ab3f-5b16a7e9867f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T173038Z

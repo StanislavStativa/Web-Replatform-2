@@ -1,0 +1,57 @@
+﻿---
+ID: "f51820f1-2687-4199-8e92-cdb1bda95379"
+Parent: "b707427c-1051-4cef-9556-3d8e7bf9f457"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Hero Banner/Rendering Parameters/Hero Banner
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: sxa/16x16/promo.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {4247AAD4-EBDE-4994-998F-E067A51B1FE4}
+    {5C74E985-E055-43FF-B28C-DB6C6A6450A2}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {3DB3EB10-F8D0-4CC9-BE26-18CE7B139EC8}
+    {15A017DA-6DA2-4B06-9CA2-0D2EB5E4FB67}
+    {105EB29C-C0BD-48A8-B716-7008662C5D89}
+    {0B80CB43-58F3-46AA-B288-0DB9745A59A4}
+    {65FF0FA5-BB1D-4B00-9017-6AE693A0B2AF}
+    {E33EEC67-0B84-41B1-81D4-8F18DBD2C6BC}
+    {22DB8AD9-C0F1-4C6A-A141-DCD4100CDC5B}
+    {270A159B-E883-44D3-92B4-12C91E0246EF}
+    {66E7BBAA-B9F2-4BCE-A917-82C78A2C1D04}
+    {D4827FA1-20E4-46C5-9B28-1BB32CB7A144}
+    {75A4D2D2-AC0F-42C4-8C8D-C332F2E8350E}
+    {8C904277-AC02-48EF-AD56-8EEC0219AC8C}
+    {F9755D54-B168-4397-800F-3CC52134F812}
+    {3DC3AB0A-DFCD-4F4C-A9D8-FEE773E97C81}
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{9378F63E-A8C2-41F7-9E19-09260F8F0BAC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4eb74bf3-e23c-444f-9123-8f6500db2f6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250310T062334Z

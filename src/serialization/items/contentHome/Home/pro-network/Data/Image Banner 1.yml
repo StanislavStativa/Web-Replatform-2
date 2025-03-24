@@ -1,0 +1,47 @@
+﻿---
+ID: "db599dbc-50f2-47c6-9395-87828534c608"
+Parent: "eb7bfa1f-8d16-4aaf-bc81-d03b23ed906a"
+Template: "f38cfc12-cb66-470a-92cb-17856f1103a5"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/Image Banner 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T080819Z
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a24c6107-30f4-496f-be20-a319de421204"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240919T080733Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Pro_Cash_Back:Banner-Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Pro Network" linktype="external" url="/pro-network#disclaimer" anchor="" target="" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: "Pro_Cash_Back:Banner-Mobile"
+    - ID: "f8424eb8-e593-42c6-84cb-de891a9f8c0e"
+      Hint: TabletImage
+      Value: "Pro_Cash_Back:Banner-Tablet"

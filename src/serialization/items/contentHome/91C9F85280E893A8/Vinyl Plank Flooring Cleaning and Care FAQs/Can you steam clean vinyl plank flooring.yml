@@ -1,0 +1,39 @@
+﻿---
+ID: "38ffd872-3c9c-4731-b998-11fc4b486bc5"
+Parent: "de2985ff-6e5e-4f85-82cc-22ac79db039b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/Vinyl Plank Flooring Cleaning and Care FAQs/Can you steam clean vinyl plank flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Can you steam clean vinyl plank flooring?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>No, you should never steam clean your vinyl plank flooring. Although some flooring materials respond well to a steam cleaner, vinyl plank flooring is decidedly not one of them.</p>
+        <p>Even though vinyl plank flooring is generally waterproof, the combination of high heat and heavy moisture from a steam mop risks getting between the planks and into the underflooring. The vinyl planks could separate, warp or cause the layers to peel. This type of damage is almost always irreversible and would require you to replace that section of flooring.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec4f6090-9abb-45d7-bf1d-d5f59584a3a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T182623Z

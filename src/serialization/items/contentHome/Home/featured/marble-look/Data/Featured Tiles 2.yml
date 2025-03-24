@@ -1,0 +1,57 @@
+﻿---
+ID: "fd225c7a-8f61-4c9f-a953-c2cf3345d66e"
+Parent: "3805d27d-ae24-41f7-a254-73d84cc08294"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/marble-look/Data/Featured Tiles 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {62070F42-DB50-4086-9D88-380A90E0CBB8}
+        {AFEEE50A-0903-450E-8149-29873BFB1282}
+        {D6F165CE-A37C-4639-B39E-F9F17518F9E7}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Added Variety of Marble-Look Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p /><div style="text-align:left;">
+        <ul>
+            <li class="h4" style="margin-bottom:1rem;"><span class="h4-style">Color</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin">Naturalistic colors will always look realistic.  Our collection of marble-look tiles features many of the same colors as <a class="font-bold" href="/material/marble">marble tiles</a>, from light and bright shades of white and ivory to darker and dramatic shades, like our selection of black marble-look porcelain tile.  We stick to naturalistic colors for the most realistic effect. </p>
+        <ul>
+            <li class="h4" style="margin-bottom:1rem;"><span class="h4-style">Shape</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin">Like true marble tiles, marble-look tiles are available in multiple shapes—like rectangles, hexagons and chevrons—as well as mosaics, from simple designs that repeat a single tile to intricate patterns. </p>
+        <ul>
+            <li class="h4" style="margin-bottom:1rem;"><span class="h4-style">Accessory Pieces</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin">Part of what makes genuine marble look so luxurious is the wide variety of <a class="font-bold" href="/trim-and-accessories/material/marble">trim pieces</a> available to finish out a space.  We offer several marble-look finishing pieces, and you may also consider using real marble trim pieces to really elevate the look of your completed project. </p>
+        </div><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "984632de-dcae-4938-8f9f-d1266e27fcfd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T040616Z

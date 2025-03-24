@@ -1,0 +1,35 @@
+﻿---
+ID: "42273dbb-814e-4afa-b131-61416a52b629"
+Parent: "efdff784-238b-4843-99a0-ecbbbdc0faa0"
+Template: "10fc4b69-11e8-4b22-90b5-ef2d6c1eae0f"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Orders/Order History
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T111937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4253310-2d27-43e8-b01d-f1b0cf260e07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T092156Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Order History" anchor="" linktype="internal" class="" title="Order History" target="" querystring="" id="{C8EAF62F-8C16-4A8D-8F88-0354970D0F30}" />

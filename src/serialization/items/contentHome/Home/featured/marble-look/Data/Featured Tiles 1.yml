@@ -1,0 +1,69 @@
+﻿---
+ID: "2d1a082f-7dbe-4210-8059-63bcd2137bf5"
+Parent: "3805d27d-ae24-41f7-a254-73d84cc08294"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/marble-look/Data/Featured Tiles 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {C4285873-9A6F-4C3D-86AC-7D44E09E053C}
+        {C778ADB8-E0F1-4969-A80B-A0FEC28DA8A9}
+        {63949854-717A-4625-B005-F041A4002855}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Types of Marble-Look Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>&nbsp;</p>
+        <div style="text-align:left;">
+        <ul>
+            <li class="h4" style="margin-bottom:1rem; font-weight: 400;
+            font-size: 24px;"><span class="h4" style="font-size: 24px; color: #3d3935;">Marble-Look Porcelain Tile</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin" style="
+            margin-left: 10px; color: #3d3935;
+        ">We're particularly proud of our wide selection of marble-look porcelain tile. Our customers love the durability that porcelain offers, and we&rsquo;ve even created porcelain &ldquo;look-alike&rdquo; tiles to coordinate with our best-selling Volakas marble collection.</p>
+        <ul>
+            <li class="h4" style="margin-bottom:1rem; font-weight: 400;
+            font-size: 24px;"><span class="h4" style="font-size: 24px; color: #3d3935;">Marble-Look Ceramic Tile</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin" style="
+            margin-left: 10px; color: #3d3935;
+        ">Create a luxurious marble-like look throughout your home with <a class="font-bold" href="/material/ceramic">ceramic tiles</a>. We offer multiple sizes and finishes (including satin and gloss), and a range of both cool and warm neutral colors.</p>
+        <ul>
+            <li class="h4" style="margin-bottom:1rem; font-weight: 400;
+            font-size: 24px;"><span class="h4" style="font-size: 24px; color: #3d3935;">Other Materials</span></li>
+        </ul>
+        <p class="extra-small-bottom-margin" style="margin-left: 10px; color: #3d3935;
+        ;">In addition to porcelain and ceramic, we offer <a class="font-bold" href="/material/luxury-vinyl/stone-look-luxury-vinyl-flooring">marble-look luxury vinyl tiles</a> and marble-look <a href="/material/glass/mosaic" class="font-bold">glass tile mosaics</a>.</p>
+        </div>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bc2e3a2-f022-4026-a372-1b865440f410"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T050925Z

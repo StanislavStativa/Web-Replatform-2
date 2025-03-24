@@ -1,0 +1,100 @@
+﻿---
+ID: "5cfd31f4-8979-4dca-bd31-2f61d275920f"
+Parent: "f7d52f91-419e-4b14-8c74-0d9198459fa7"
+Template: "2d07a679-1f07-4e82-a6d6-84750c9d43f0"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/shipping/Data/Select Shipping Address Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11f52a68-bd4a-4196-8d05-b15417517ca9"
+      Hint: ShippingRemarks
+      Value: "<p><b>Note</b>: Remarks require a manual order processing and could delay delivery!</p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T165943Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Select or Enter your new Address
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: api/address/getaddresses
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>All samples are shipped direct to you in 2-4 business days via FedEx.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "237920e3-f054-4ec2-a8df-e0d3fe4f3f0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240624T060154Z
+    - ID: "e5689dfe-a25d-4a83-9826-c9680d58b00e"
+      Hint: StatesList
+      Value: |
+        {265AF752-E9B0-4BAF-BE88-DB696A18A797}
+        {B6947462-9BBB-4041-B2CC-3A12DE7715F5}
+        {3BCC5AE2-2C3D-4149-A317-DCFA330C9939}
+        {9DF1DF4C-A1BC-4CDB-9679-EB2C107BA4C8}
+        {3B6A9D1C-FB22-4552-83C4-581B58595B8E}
+        {E5C2A398-E8A2-47E5-ACDA-124D38163796}
+        {F114924F-7C32-4CDA-AE5C-6A94BC74CC28}
+        {2C2E01A3-7F87-4580-B1D9-F9F2AC93DAC4}
+        {D0C23D47-28A8-4224-AE97-ABDF51EA3819}
+        {DB74598E-E919-4301-BA85-269A303C9F7C}
+        {840B76A8-C982-44DE-A34B-53A71638F290}
+        {CEB6C0AF-374F-4392-8C34-08DDEED5E10E}
+        {293AD1F1-2F08-4583-AA3F-28F116CC44A1}
+        {91130D75-01B9-483F-8C7A-0AB345E2AA2D}
+        {1C0DC1E4-5DF2-4C95-8829-7BE4D764001F}
+        {4914AE84-CFF0-49F0-94E1-9482BB0174AB}
+        {FAF74D95-3B85-432F-9BF1-0B28F9DCA89B}
+        {2C928B3B-A86C-4008-A014-41D1D770D71D}
+        {BDA9ABA8-AFE5-45DA-BB31-D5B5321A1C32}
+        {4453203A-6FC8-449E-BC6B-055E6F33FA17}
+        {601612DB-E4B9-4E27-A39B-41E70947273E}
+        {A6A94472-DADD-47D5-BC38-FDC21CDF2AF2}
+        {04082639-88D3-44AD-9FC9-B35177EBBBDA}
+        {0942C61C-4AAC-414C-B3E4-8A7014F31352}
+        {2E76A1D1-5F89-407D-A3BE-6AF0134530FF}
+        {6A1F51C5-6CC1-4671-BA80-141557ACE3EE}
+        {B2A3E49F-EB4F-4B5A-8FAD-9B2BAF390592}
+        {4FEDB257-1453-4561-9814-0824DF62629E}
+        {060E3563-4EBC-40D8-90DA-488A24E6DEF4}
+        {52770DEE-5603-44A9-9310-0DCED60AC935}
+        {9ABE19BD-2AFA-4116-835A-58DC510EC9DC}
+        {DBFC9AB8-9564-423F-82DE-75438155C13E}
+        {7AA848D5-714F-4639-8D7D-6CC3448A7E2A}
+        {DFAB1885-A6AF-4FB9-A494-7C66A1473BE1}
+        {BDF87BF5-95A0-4910-BCAB-4EE9ACBD26AF}
+        {E3AE9250-3CEC-4993-BEF5-F118748BFC62}
+        {930DB525-BFD0-4432-972D-F83A9BE63C07}
+        {2DA49343-EEE7-4AF7-AD61-2E9C1B9AB5CA}
+        {797A1F84-58D2-4E38-A597-3B5C84742598}
+        {C545A7BC-5C5E-4E18-9B92-4392075A37F1}
+        {642C6150-F60C-4287-8850-CAD79C62EF18}
+        {F752BD41-9E07-4FA1-BC6A-225CB28E385C}
+        {5B18E0D8-A6EB-41B6-BF0D-7990715B2BDD}
+        {F88639D1-6B39-4A1E-A955-A936374CA58D}
+        {9111C053-A79B-48A6-9E30-403D4101B987}
+        {540B7812-315E-46CF-A2E4-44BAD2A1BEE9}
+        {99892AA2-EC1C-49B7-A4DC-927687087BE2}
+        {AB30611F-E644-4FBF-A0AE-4D5FD3071915}
+        {A373DFD6-8668-40FD-90A7-C3BC46E93B3E}
+        {52AE4C98-07CA-440D-B4D9-89D05070E9F3}
+        {E04A5448-B76C-44F9-BA74-959389471416}
+    - ID: "fc207e8a-a6be-4bb6-b99f-75d242b402cf"
+      Hint: SecondaryAPIEndPoint
+      Value: api/Cart/SetShippingAddress

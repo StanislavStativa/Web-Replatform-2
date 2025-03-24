@@ -1,0 +1,27 @@
+﻿---
+ID: "458efa59-9903-4511-9f3b-4ef6cef0e60a"
+Parent: "454370a7-b888-4c21-a3d3-d11e8c0e0077"
+Template: "454370a7-b888-4c21-a3d3-d11e8c0e0077"
+Path: /sitecore/templates/Feature/TTS/Components/Products Carousel/Rendering Parameters/ProductsCarousel/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b7ea7bb-d7e8-432e-9849-d14d0cdf2c6b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240604T100814Z

@@ -1,0 +1,61 @@
+﻿---
+ID: "9598ff3c-5013-48e1-b7cd-48579c441d84"
+Parent: "101fbcf6-140d-446f-9c26-b8a7bc1f8d5b"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/capital/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Capital
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Decorative capital trim helps create a sense of enduring elegance in any room. Add some welcoming warmth to your walls by bringing a distinctive style with beautiful transition pieces. Tile capital molding made from limestone, marble or travertine delivers dramatic flair with its distinctive design.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0202cbb-9f3b-4822-816f-2d5951001add"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T074152Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Plymouth_Cora_Capital_detail_Cat%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {2EEA25F5-7286-4DF1-8D86-3F4271C7026D}
+        {2D43CD7F-AE47-43A3-B51E-BAB32A0D617C}
+        {EAF81F4E-9454-4607-8832-E731F814110E}
+        {22A98AA8-C58F-4289-BB0D-30140036D298}
+        {F9503FC7-7873-40E8-AC53-9C00D5D724A1}
+        {6E844110-7F21-43E1-96B3-06BD0E438C19}
+        {D373B0E0-744D-405A-8FF3-C30D331B9B0F}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

@@ -1,0 +1,70 @@
+﻿---
+ID: "3710e692-34d0-4a69-ad42-f57654c34da0"
+Parent: "814894bb-c0c0-4075-ad6e-3c7bfed023c3"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/connect-with-pros/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240802T134931Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <ul>
+            <li class="richText-max richText md:px-10 px-10">
+            <p>&nbsp;</p>
+            <h1 style="text-align: left;">FROM ONE PRO TO ANOTHER</h1>
+            <br />
+            <p style="text-align: left;">We want your installation to be a success from beginning to end. That&rsquo;s why we&rsquo;re always happy to recommend trusted Pros that we personally know to help you get the job done right.</p>
+            <p style="text-align: left;">Once you get your recommendations, here&rsquo;s what to do next.</p>
+            <br />
+            <h2 style="text-align: left;">MAKE SURE YOU HAVE THE RIGHT PRO FOR THE JOB</h2>
+            <br />
+            <ol>
+                <li style="text-align: left;">Review the Pro&rsquo;s portfolio and/or check their references.</li>
+                <li style="text-align: left;">Get bids from at least two or three installers.</li>
+                <li style="text-align: left;">Confirm the Pro has valid insurance.</li>
+                <li style="text-align: left;">Check how unforeseen or hidden costs will be addressed in the contract.</li>
+                <li style="text-align: left;">Get a signed contract with an estimated completion date.</li>
+                <li style="text-align: left;">Never pay in full until the job is completed to your satisfaction.</li>
+            </ol>
+            <br />
+            <h2 style="text-align: left;">WE KNOW JUST THE PERSON</h2>
+            <br />
+            <p>We work with a lot of different Pros&mdash;and not just tile installers! We might also be able to recommend professionals for:</p>
+            <ul>
+                <li style="text-align: left;">Glass and mirror installation</li>
+                <li style="text-align: left;">Plumbing</li>
+                <li style="text-align: left;">Granite countertops</li>
+                <li style="text-align: left;">And More!</li>
+            </ul>
+            <p><a href="/store-locator/" style="color: #3d3935;"><strong>Contact your local Tile Shop</strong></a> to get connected with Pros in your area.</p>
+            <br />
+            <p>&nbsp;</p>
+            </li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c6b6d88-e43d-4687-aec6-aa0b180335c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T083800Z

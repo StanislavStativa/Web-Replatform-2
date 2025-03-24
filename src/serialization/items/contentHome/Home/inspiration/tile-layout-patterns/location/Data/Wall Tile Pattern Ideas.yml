@@ -1,0 +1,37 @@
+﻿---
+ID: "a08c273f-743b-4973-bb09-b83944365632"
+Parent: "53c2e3a0-36af-44b4-90e1-5f5c5df4b958"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/location/Data/Wall Tile Pattern Ideas"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T173952Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 2. Wall Tile Pattern Ideas
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "From eye-catching to subtle, installing an attractive tile design can turn your walls into a work of art. A border or listello with a burst of pattern and color will draw the eye and add an engaging, decorative element to your home. Consider creating an accent or feature wall to draw attention in a room, whether it&rsquo;s your fireplace surround, behind your bed&rsquo;s headboard or where your TV is mounted. Your shower area is an opportunity to showcase an interesting tile layout that will create a vibe that&rsquo;s lively and welcoming. Our selection of architectural tile has a variety of textures and even 3-D effects that are a perfect way to inject some life into your wall patterns, no matter which room you&rsquo;re working on in your home."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df49d03a-fa01-4775-8fa1-dfe282fed4dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T180258Z

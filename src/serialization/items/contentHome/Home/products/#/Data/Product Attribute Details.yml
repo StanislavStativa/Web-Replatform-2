@@ -1,0 +1,53 @@
+﻿---
+ID: "99f1d2ef-8237-463c-8464-d63a26b0b813"
+Parent: "e110b149-ef79-4418-ad4a-6c5b2696feb2"
+Template: "b808bdc1-bafc-4f36-bf96-77792454af49"
+Path: /sitecore/content/TTS/TileShop/Home/products/*/Data/Product Attribute Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T123351Z
+    - ID: "26266697-578f-4ed3-ab41-c7c27431fbbd"
+      Hint: CitizensPayText
+      Value: Buy Now, Pay Over Time
+    - ID: "3150ddf0-3395-466c-b9a6-4d1d949556af"
+      Hint: CitizensPayLearnMoreImage
+      Value: |
+        <image mediaid="{B01970C8-671A-4D8F-9BCC-226F807AD822}" />
+    - ID: "352f0581-7634-478b-8f7e-9ca02aaec112"
+      Hint: PDPCalculator
+      Value: "{41131753-807C-4ED5-95D1-1B411A08A640}"
+    - ID: "4e922d85-b260-44c9-9608-82d0091038c8"
+      Hint: ReturnPolicyLink
+      Value: |
+        <link text="View Return Policy" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3B92E69D-16D8-4B11-8D3F-19673E75A7AB}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62b172c0-933a-4e64-b16c-fc642d2ed9f1"
+    - ID: "91bf6f93-e012-41d7-b418-252271ca6756"
+      Hint: CitizensPayImage
+      Value: |
+        <image mediaid="{74E3BF27-6140-4B45-85FC-187A51A43D33}" />
+    - ID: "b2b3175c-25ae-4865-a7fe-f593333c6f2b"
+      Hint: CitizensPayCTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B7924688-993D-461C-9F9C-9CABDD565B8E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c1c937a9-3fa5-4ec6-8b11-55c0db5deb74"
+      Hint: CheckoutCTA
+      Value: |
+        <link text="CHECKOUT" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2E02F0E9-69C3-4485-8C0C-A571FC29C38A}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T085807Z
+    - ID: "ef2bae4a-972e-4920-a74b-fb4a80fd249c"
+      Hint: VisualizerLink
+      Value: |
+        <link text="View in Tile Visualizer" linktype="external" url="https://visualizer.tileshop.com/" anchor="" target="" />

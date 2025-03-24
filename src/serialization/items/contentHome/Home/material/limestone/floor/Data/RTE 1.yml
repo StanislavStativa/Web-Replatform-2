@@ -1,0 +1,43 @@
+﻿---
+ID: "122fcc98-f086-4214-a4b2-70acc18823fe"
+Parent: "729fb044-0b5c-40b0-adf3-8e3181ffff46"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/limestone/floor/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Shopping for Limestone Floor Tiles</h2>
+        <p><span>&nbsp;</span></p>
+        <p><span>When it comes to creating timeless interiors that showcase the beauty of natural stone, limestone flooring can’t be beat. We stock a large collection of limestone floor tiles in a wide range of colors, sizes so you can see the best that limestone has to offer. </span></p>
+        <p><span>&nbsp;</span></p>
+        <p><span>Just about any room in your house that has a floor is a perfect candidate for using limestone flooring. So whether you’re considering limestone kitchen floor tiles, </span><a href="/room/bathroom/floor" class="font-bold">bathroom floor tiles</a><span>, </span><a href="/room/entryway/floor" class="font-bold">entryway floor tiles</a><span>, or flooring for any other area in your home, the wide variety of options that we source means that you’re sure to find a limestone flooring option that speaks to your personal style.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8601cf4c-a6bd-43e0-a2bb-d2f7abedf3f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123201Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "2cc6c2f4-aaaa-4946-97cc-b2524e378994"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Plan the Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Plan the Design
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Measure the area where you will be installing the backsplash. Using these dimensions, lay out the tile on a flat surface to test out the configuration. You can also use these measurements to determine the center of the area which will allow you to center the tile, creating a pleasing and even design. Don't forget to account for outlets and switches.<br />
+        <br />
+        If tiles on one side need to be cut especially small, they may be difficult to work with and will not look as good. In this scenario, rearrange the tiles so that the cuts made to tiles on either side are symmetrical.<br />
+        <br />
+        Many tile types, especially mosaics, do not have many options for playing with the layout. However, for those figuring out how to install a <a class="font-bold" href="/featured/subway">subway tile backsplash</a>, this step will allow you to experiment with how the tiles are arranged. A staggered pattern is most popular, but a stacked look or even a herringbone design can be a fun change of pace.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e00fec8b-5059-42f8-b8b3-3752ca80e651"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T101159Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "YellowBrickHome_Condo_HowToTileABacksplash_DryLayout:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 4

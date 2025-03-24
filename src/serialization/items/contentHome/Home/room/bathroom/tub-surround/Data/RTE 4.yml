@@ -1,0 +1,40 @@
+﻿---
+ID: "57d250e0-f1e1-423a-a866-a40688e7b0f8"
+Parent: "38cc092b-5b7e-4608-8457-5124f8a565a7"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/tub-surround/Data/RTE 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Our Experts Can Help
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Our Experts Can Help</h2>
+        <p>We know there’s a lot to consider when selecting tile for a bathroom tub surround. Why not simplify the process with a visit to <a href="/store-locator/" class="font-bold">one of our showrooms</a>? Our friendly sales associates and design experts can help you find tile you love, including trim pieces and accessories to complete the look of your tub surround. With the right tile for your bathroom tub surround, you can create a space that’s as functional as it is beautiful, and enjoy it for years to come.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ea81cc1-6866-4abc-b79c-6d22e0768d04"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055633Z

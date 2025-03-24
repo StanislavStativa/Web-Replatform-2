@@ -1,0 +1,23 @@
+﻿---
+ID: "ffe02ff4-f1e4-4acc-8cea-51babecc1d01"
+Parent: "4ef44576-ab80-44e4-8ccf-1db3112c0c54"
+Template: "34173251-e329-44f1-b3eb-072b3c104d8e"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Safety Data Sheets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181102T161809Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67137c2d-86cf-4671-b742-77b56fe14d54"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mikea
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181102T161809Z

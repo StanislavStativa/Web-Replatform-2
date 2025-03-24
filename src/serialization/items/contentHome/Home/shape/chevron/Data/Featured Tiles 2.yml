@@ -1,0 +1,44 @@
+﻿---
+ID: "242caf1b-f0bb-417a-884c-fe90d48cde35"
+Parent: "7ef87e77-2f89-4f5a-b10c-dc6fe16eedcd"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/chevron/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {03D83AD8-B54A-4CFF-B11F-8CDA52BFFB28}
+        {8FE0D9C1-7AA0-41C1-9B62-265B492E4CE0}
+        {8DE0058D-B8B2-48CC-A9BD-623F0ED146FD}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Get the Look with Mosaics or Field Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="color: #323338;">The angles of chevron tiles lend themselves well to creating a variety of designs, from neat zigzag rows of a single solid color to intricate patterns. In addition to creating your own chevron tile patterns with field tiles that are installed individually, you can choose from expertly paired mixed-material mosaics that combine multiple types of tiles already laid out on mesh backing.&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a12576c-963c-401d-83a3-cd1d4b00e53a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T115332Z

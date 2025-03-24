@@ -1,0 +1,130 @@
+﻿---
+ID: "dbd73c10-edfd-4753-ba7e-cc491e319854"
+Parent: "3379d274-13ff-4478-933b-db87de5c3081"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/tools/tile-cutting"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 62
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{269909BC-0040-4FA3-A20D-B815BBE17DF0}"
+          p:before="*"
+          s:ds=""
+          s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;HoverEffect&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="" />
+        <r
+          uid="{CEFA4A05-EDB3-43AE-A90A-91C56A6AAEC7}"
+          p:after="r[@uid='{269909BC-0040-4FA3-A20D-B815BBE17DF0}']"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{CFAB7652-4506-4B8F-B27F-60A17CD94109}"
+          p:after="r[@uid='{CEFA4A05-EDB3-43AE-A90A-91C56A6AAEC7}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{188DE4AA-8C49-4E2A-90EA-FF5852AF9E28}"
+          p:after="r[@uid='{CFAB7652-4506-4B8F-B27F-60A17CD94109}']"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{39F17B2F-13BB-4E3E-BD66-F273657E6436}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D%7C%7B8A7D17A3-CD2B-4420-8EC9-7209037EF62F%7D%7C%7B7CE54E6B-A9E5-448B-B398-C73F2E74E0F4%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "<p>Ensure your installations look excellent every time with clean, precise tile cuts.&nbsp; With a variety of wet and dry tile saws, as well as score-and-snap tile cutters, our selection offers a number of tile cutting solutions that cater to any project.&nbsp; Our high-quality saws cut through materials such as porcelain, ceramic, glass and stone with speed and accuracy, creating crisp lines without any chips or breakage.&nbsp; Along with saws and tile cutters, we also carry a wide range of blades and other tile cutting accessories so you have everything you need to get the job done right.</p>"
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{728E65E4-D9CF-4603-8847-F878DDEC87EF}" querystring="" anchor="" title="" linktype="internal" text="Tile Installation Tools" url="/TTS/TileShop/Home/tile/installation-care/installation/tools/tile-installation" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T194339Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Tile Saws and Cutting Tools | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Tile Saws and Cutting Tools
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2560397a-0570-41b9-83d2-48a8e9992956"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Tile Saws and Cutting Tools
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{3379D274-13FF-4478-933B-DB87DE5C3081}" querystring="" anchor="" title="" linktype="internal" text="Tools" url="/TTS/TileShop/Home/tile/installation-care/installation/tools" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop tile saws and cutting tools at The Tile Shop. Save time and money during tile installation with high-quality saws and tools for your next project."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{3D28273E-A2BF-4830-9D74-B351ED4C6C58}" querystring="" anchor="" title="" linktype="internal" text="Tile Grout Tools" url="/TTS/TileShop/Home/tile/installation-care/installation/tools/tile-grout" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T132206Z
+    - ID: "e8b113e6-1244-4089-ba43-a9ad3527b22b"
+      Hint: MaterialGroup
+      Value: |
+        {DFBEC3B8-D192-470B-8A24-2A8606C94523}
+        {4CC2107B-86F7-4B91-B801-70F92DF917CE}

@@ -1,0 +1,30 @@
+﻿---
+ID: "cd9871f9-c610-46df-aff5-215e5183bff5"
+Parent: "ce15a0e6-ba71-4245-8562-2a7a683c0e3f"
+Template: "b349d3e3-fd03-4ea3-8be7-0bade21f5edb"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Social Links/YouTube
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T082745Z
+    - ID: "4abbea00-d15a-425c-871a-88c5b453fe14"
+      Hint: SocialLink
+      Value: |
+        <link text="YouTube" linktype="external" url="https://www.youtube.com/user/thetileshop1" anchor="" title="FaYoutube" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5000b20a-20d5-4952-a29b-e9e1cf376f53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240502T085133Z
+    - ID: "ffd1abac-16c2-42ed-ab0d-7aa8a7159494"
+      Hint: CssClass
+      Value: "fab fa-youtube"

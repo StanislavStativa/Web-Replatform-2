@@ -1,0 +1,33 @@
+﻿---
+ID: "dd944200-a293-4d64-a5ee-2e62d1b73794"
+Parent: "fb5a407f-d0a6-4266-877b-5dfdb2895991"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: /sitecore/content/TTS/TileShop/Home/resources/specifications/Data/Product Data Sheets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084303Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Product Data Sheets
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b0ba4c4-78aa-454a-b009-e9b7cd60f85f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Product Data Sheets" anchor="" linktype="internal" class="" title="Installation FAQs" target="" querystring="" id="{C3F1C080-752C-468A-B407-F1FA5F2D455C}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T120333Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ProductDataSheets_Thumb_2C:2_Column_All"

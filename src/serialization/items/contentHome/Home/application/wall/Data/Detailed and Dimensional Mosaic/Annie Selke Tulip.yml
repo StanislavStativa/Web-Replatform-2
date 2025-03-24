@@ -1,0 +1,38 @@
+﻿---
+ID: "49b4d2a7-b8d1-44c4-857a-c2896410ee57"
+Parent: "b3f880b0-f6e5-493b-81cd-017b5e64a418"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Detailed and Dimensional Mosaic/Annie Selke Tulip
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131447Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "277a295a-8722-4c7e-b43b-9bef492eff4b"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span style="color: #333333;">Featured Tile: <a class="font-bold" href="/products/annie-selke-tulip-mosaic-stone-and-porcelain-wall-and-floor-tile-12-x-12-in-680839">Annie Selke Tulip</a></span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240723T084146Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Tulip_Wall_Buildout_Detail:Design_Ideas_All_V2"

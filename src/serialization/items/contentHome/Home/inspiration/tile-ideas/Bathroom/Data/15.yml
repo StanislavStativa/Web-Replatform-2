@@ -1,0 +1,42 @@
+﻿---
+ID: "f1de7820-1df1-475e-a12d-7cd52cef54ef"
+Parent: "d30cc777-0165-4157-9187-6ff931fc11c7"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Bathroom/Data/15"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Geometric Floral Patterns
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        This twist on the traditional delicate floral pattern is both bold and modern. Geometric florals like the <a class="font-bold underline" href="/products/laura-ashley-sunflower-charcoal-with-cloud-blue-porcelain-wall-and-floor-tile-8-x-8-in-681762"><span>Laura Ashley Sunflower Charcoal with Blue</span></a> shown here are the perfect blend of beauty and whimsy. If you like the idea of bringing nature inside, but want something more graphic and manicured, this style is for you.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "451285d6-8297-4664-95af-e8bf83d966cd"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 32
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T121416Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Sunflower_Beveled_Bathroom_Vertical_Main_V3-Empty:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 15

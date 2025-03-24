@@ -1,0 +1,60 @@
+﻿---
+ID: "1fdcd6eb-d3a9-45fb-b0c0-faba1c21828b"
+Parent: "cb687aef-494c-44c9-864d-64bea16385de"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/tools/tile-cutting/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pick the Right Tile Saw for Your Job
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text extra-small-top-margin">
+        <p class="extra-small-bottom-margin">The three most common types of tile cutters are dry, wet, and manual. Each has a set of circumstances in which it is the preferred type of tile cutter---and circumstances where using it would not be recommended. Let's get to know each kind a little better.</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Wet Tile Saw</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A wet saw is ideal for cutting tiles made of denser materials. The water used while cutting reduces both friction and heat, preventing the tile from cracking or breaking during cutting. This makes a wet saw the ideal choice as a glass tile cutter and porcelain tile cutter.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Wet saws can also make very precise cuts, including straight, diagonal and curved lines, which makes them a good choice for intricate tiling jobs. The water also helps reduce dust from spreading.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Dry Cut Tile Saw</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Dry cut tile saws don't use water, which often makes them more portable and easier to set up. The tile saw blade used on a dry cut machine is specially designed to handle the heat generated from dry cutting. These saws can produce more dust compared to wet saws, but a shop vac makes cleanup quick and easy.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Dry saws are highly effective as a ceramic tile cutter, but thicker materials like porcelain and stone require a wet saw.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Manual Tile Cutter</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A manual tile cutter works by scoring a line across the tile with a sharp cutting wheel, then snapping the tile along the scored line using a built-in breaker. Manual tile cutters are lightweight, easy to use and don't produce dust.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">They are perfect for small projects or when precision is required without the complexity of setting up a saw. Manual tile cutters can be effective for just about any tile material, but the thinner the tile the better.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2>
+        <p class="extra-small-bottom-margin">Choosing the right tool for cutting your tile will make the job go faster and reduce waste from accidentally breaking tiles. If you're still not sure which tile cutter is right for your project, visit <a href="/store-locator/" class="font-bold underline">one of our locations</a> and our expert staff can help you decide.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60f9a3f5-39f3-4c0f-81fa-844e2b148aa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T132442Z

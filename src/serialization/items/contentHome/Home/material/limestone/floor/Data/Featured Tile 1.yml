@@ -1,0 +1,48 @@
+﻿---
+ID: "3642d0bc-a220-4b9f-a79d-712b89ebf4bb"
+Parent: "729fb044-0b5c-40b0-adf3-8e3181ffff46"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/limestone/floor/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0AF1FF97-17E8-40DD-823D-1E4CB70855D8}
+        {5DE5DD7D-7879-49E3-9FD3-849F7E5F24A0}
+        {07BECB9A-0F0C-40EE-9676-C999369FBDED}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shapes That Make a Statement
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Limestone floor tiles have been used to create beautiful homes for thousands of years, but that doesn’t mean that choosing it for your floors will make your space look old-fashioned. Far from it! In fact, one of the things we love most about modern limestone flooring is the juxtaposition created by combining a material common in classical architecture with modern geometric shapes.  </p>
+        <p><span>&nbsp;</span></p>
+        <p><span>That’s why our selection of limestone floor tiles includes shapes like cobblestone, square, </span><a href="/featured/subway" class="font-bold">subway</a><span>, hexagon, and many more. We also offer several </span><a href="/material/limestone/mosaic" class="font-bold">limestone mosaic tile</a><span> options that include modern shapes like diamonds and chevrons, as well as our top-selling Versailles pattern (a popular arrangement of squares and rectangles available in multiple sizes and colors).  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d03e3b3-a5db-4e10-b9f0-8bc4cba69300"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T122342Z

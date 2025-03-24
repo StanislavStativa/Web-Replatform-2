@@ -1,0 +1,37 @@
+﻿---
+ID: "b9cd7c2e-52c0-42a8-a250-409ac962264e"
+Parent: "7639f8cc-ffd6-4555-b2c6-a80e778397a8"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/floor/Data/Accordion/Accordion Item 8
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How durable is travertine floor tile? Does it scratch or crack easily?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Travertine is not as soft as marble but not as hard as granite. It can scratch if not protected, so be careful when moving heavy objects on your travertine floors. Be conscious of the finish you choose and what kind of area you’re installing it in. The nice thing about honed and polished floors is that they can be refinished down the road if needed. Travertine will only crack if it is not installed properly. Cracks generally only happen when there is movement in the floor itself—that’s why installation is so important. Travertine is naturally holey, so make sure to fill the voids on the back of the tile with thin-set (commonly called “back buttering”) before you place the tile down in your mortar bed.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e9ac05b-22dc-4caa-b4e0-43a5f9cafd88"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T152314Z

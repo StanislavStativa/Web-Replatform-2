@@ -1,0 +1,23 @@
+﻿---
+ID: "f45b5e4f-4d34-4330-ae40-5ece9b3ac7c3"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "695692cf-9043-4a80-9d90-836711b7b7e7"
+Path: /sitecore/content/TTS/Global Content/Brands
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T180028Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0f62664-91bb-497e-911a-f71572a7c6b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T085746Z

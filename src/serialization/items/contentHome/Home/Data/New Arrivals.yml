@@ -1,0 +1,47 @@
+﻿---
+ID: "7dc9fc56-9a44-4e99-960f-2bf4cb28b942"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: /sitecore/content/TTS/TileShop/Home/Data/New Arrivals
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2253f172-c452-4368-adcb-980be3e6f434"
+      Hint: HoverImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T052710Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: New Arrivals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: New Arrivals
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14238388-b89b-452c-bb8a-b145cdcf89e1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T070715Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "NewArrivals_Q12024_Monochrome_Blue:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{E1C81233-02BD-4906-9FBB-EE20261E8600}" querystring="" anchor="" target="" title="" linktype="internal" text="SHOP NOW" url="/TTS/TileShop/Home/tile/new-arrivals" />

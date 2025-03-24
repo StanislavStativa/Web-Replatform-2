@@ -1,0 +1,50 @@
+﻿---
+ID: "7e632553-9675-4145-9fb6-ed307085443b"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/03 Prepare Subfloor"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T034155Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Prepare Subfloor
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>If you are installing adhesive vinyl planks, remove the existing flooring and identify the type of subfloor you are working with. For floating planks, you can leave tile, hardwood, and even one layer of vinyl flooring in place and install the planks directly on top of them.</p>
+        <br />
+        <p>Using a level, make sure the entire subfloor is flat to a minimum standard of 1/8 inch over 10 feet. (A good motto: “Level is desired, flat is required!”) For minor discrepancies, you can use a floor patching compound to level the subfloor. For larger uneven areas, consider using a self-leveling product.</p>
+        <br />
+        <p>Thoroughly clean the subfloor by sweeping or vacuuming up any dust, dirt, or loose particles. A clean subfloor will ensure a better bond for the adhesive.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4802ff8-cd01-4d39-8ddb-b7baddcfc2cd"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 9
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T053658Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 3

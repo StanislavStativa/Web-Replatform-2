@@ -1,0 +1,62 @@
+﻿---
+ID: "73b4649f-5c6a-47e2-b753-eebf6dce4dc7"
+Parent: "515f99ad-5f77-435c-8718-bfc3edb90c19"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/series/star/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Star Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>These Star ceramic wall and floor tiles are inspired by hand-painted folk art and feature a distressed and weathered, matte look with lots of vintage character. The tiles feature a rust-red, blue or black star design on a light grey background that is both bold and classic. Create beautiful detail on your kitchen wall or entryway floor with this 18” x 18” matte tile that has a straight edge and is pre-scored for easy installation and grouting.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50bc45ab-cf81-48ef-9d77-31a4b7507277"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T044313Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Star_Joanna_Detail1_WestAllis_Cat%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {7DA4ACE5-B1CF-4EEA-88B2-532318C5881F}
+        {6791F5EF-1BDD-4133-814B-32FAA2CBF316}
+        {22455B0F-E39C-418A-B7C8-14AA43A11A7C}
+        {B91BA169-00D0-49B5-BEE7-E62120CC868D}
+        {866A7C98-27E4-4B93-8B61-583D0B0C4E7E}
+        {05237243-7B57-4D6A-9CBD-D223D1D74E31}
+        {74893AAD-F690-4F8D-A7D6-4DFBCDC059C1}
+        {3B2DE363-E3AE-40F3-B884-D72220901DE7}
+        {4A853F68-D7EA-4270-9DEB-E46380B48ED2}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

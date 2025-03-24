@@ -1,0 +1,52 @@
+﻿---
+ID: "0cf125ae-6925-4f6d-b714-c4027a79a7f6"
+Parent: "c495f38f-41b4-46e1-bae7-8548cb95d5ee"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/brick-look/Data/RTE 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T165100Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h3 style="font-weight: 300; margin-bottom:0.67em;" class="extra-small-bottom-margin">Where to Use Brick Look Tile</h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Floors</h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Brick look floor tile can enhance just about any interior design, rounding out the aesthetics by bringing them off the walls. Adding brick look tiles that feature rich red hues along with elements such as wrought iron fixtures and dashes of earthy colors like ochre or olive green to give your home a Mediterranean flavor.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">For something a little more modern, exposed metal pipes and concrete countertops pair perfectly with a brick look floor for creating a chic industrial design. To achieve a more peaceful look, consider enhancing your&nbsp;<a class="font-bold underline" href="/style/modern-farmhouse">farmhouse design</a>&nbsp;with brick look tiles in slightly washed out colors such as gray, taupe, or ivory.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Walls</h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Unlike traditional bricks, brick look tiles are available in a wide range of colors, from classic reds and browns to contemporary whites, grays, and even pastel shades. This color diversity allows for creative design choices and the ability to match or contrast with existing decor.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Brick wall tiles can be installed on virtually any wall surface, provided it's properly prepared. This flexibility allows for the use of brick aesthetics in areas where actual brick might not be feasible.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Kitchen Backsplashes</h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">A brick tile backsplash brings the warmth and texture of real brick to your kitchen, creating a cozy and inviting atmosphere. Brick look tile is also a popular choice because it blends tile's ease of installation and maintenance with the charm and warmth of brick.</p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Ceramic and porcelain brick look tiles are highly durable and resistant to scratches, stains, and moisture, making them ideal for a&nbsp;<a class="font-bold underline" href="/room/kitchen/backsplash">kitchen backsplash</a>. They can easily handle splatters from cooking and are easy to wipe clean.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="font-weight: 300;margin-bottom:0.67em;" class="extra-small-bottom-margin">We're Here to Help</h3>
+        <p>To see and feel just how much brick look tile mimics the real thing,&nbsp;<a class="font-bold underline" href="/store-locator/">visit one of our showrooms</a>. Our tile experts can help you pick the perfect brick look tile for your project.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ecb5a4c-acc2-4627-9308-3a442bd4ad7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124231Z

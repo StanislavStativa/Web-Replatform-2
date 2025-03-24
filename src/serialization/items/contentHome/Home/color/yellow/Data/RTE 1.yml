@@ -1,0 +1,59 @@
+﻿---
+ID: "84e344bd-4048-473f-96bc-cec6c08813a9"
+Parent: "fc7eb10e-a171-4b89-8feb-fe97c4e2e6df"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/yellow/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText ">
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Keep Things Interesting with Yellow Tile</span></h2>
+        <p>Yellow tiles can infuse warmth, whimsy, or pizzazz into any room of your home with options ranging from pale to vibrant to rich and saturated. Yellow tile offers both a tactile and a visual statement that is never boring.</p>
+        <p>&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Yellow Bathroom Tile</span></h3>
+        <p style="margin-left: 40px;">Yellow is a classic bathroom tile color, and for good reason. Using a bright, canary yellow tile anywhere in the bathroom immediately evokes a sunny day&mdash;a great way to start your morning. If a full wall of sunshine is not your style, you can still bring in the sense of happiness with a paler shade across the wall or by adding vivid yellow accent tiles as a border.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Yellow Kitchen Tile</span></h3>
+        <p style="margin-left: 40px;">Yellow tiles work particularly well in the kitchen because they tend to effortlessly complement a wide variety of wooden features, such as cabinets or butcher block countertops. For a cozy look, consider yellow-tinted stone floor tile. If you want something more upbeat, a lemony glass tile backsplash is sure to put a smile on your face.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Hexagon Tile</span></h3>
+        <p style="margin-left: 40px;">Yellow hexagon tiles offer a geometric variation, adding both an unconventional color and pattern to your home. These can be particularly striking in areas like the bathroom floor, kitchen backsplash, or as an accent wall, offering a funky, playful vibe.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Subway Tile</span></h3>
+        <p style="margin-left: 40px;">Yellow subway tiles put a fresh twist on a classic look. Their rectangular shape and glossy finish can make walls appear longer and brighter, especially when laid in a traditional brick or herringbone pattern.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Mosaic Tile</span></h3>
+        <p style="margin-left: 40px;">Yellow mosaic tiles add intricate detail and texture to walls and floors. Whether you opt for a solid yellow glass mosaic tile, or a mixed-material mosaic with yellow- or gold-toned accents, yellow&rsquo;s cheery effect on a space is emphasized.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Find the Right Yellow Tile for Your Home</span></h2>
+        <p>Yellow tile is best appreciated up close. To find the yellow tile that most closely matches your vision, <a href="https://www.tileshop.com/store-locator/"><strong><span style="text-decoration: underline;">visit one of our showrooms</span></strong></a><strong>.</strong></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d4f567e-9183-43a4-a058-4d38aa575241"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123206Z

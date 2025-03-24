@@ -1,0 +1,37 @@
+﻿---
+ID: "1f18a752-55ba-498a-a03f-7ff2a60a3841"
+Parent: "5d6d70a2-560c-4180-92ce-d98b0d862288"
+Template: "cfaeca9f-7f6a-4ecb-835b-8a727cce9462"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Product Data Sheets/Pro Primer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181204T170234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jandersen2
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jandersen2
+    - ID: "87ec6bf1-640f-4263-a96e-92cf4ae4f12f"
+      Hint: Link
+      Value: "product-data-sheets/Superior_Primer_Sell_Sheet_2024.pdf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a00c9cd0-4bf1-4147-98f5-c160070e45b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "c30e24d9-e876-4923-9b67-5738162437a7"
+      Hint: Name
+      Value: Superior Primer
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T201024Z

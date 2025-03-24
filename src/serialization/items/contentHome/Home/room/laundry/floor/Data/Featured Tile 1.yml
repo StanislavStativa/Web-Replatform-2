@@ -1,0 +1,44 @@
+﻿---
+ID: "f1913bff-0b39-48bd-bc0a-8f05be5909bc"
+Parent: "778a1e5f-cbec-4a42-825c-7d9eefb0c19a"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/laundry/floor/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {1EBA23D0-DD6F-42CB-8FB0-69D446ED32CA}
+        {F8CB2B58-5DB9-4650-9DAD-405847D138A7}
+        {C2D5AE48-04ED-4CA1-8714-17F25BC6B744}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What Laundry Floor Tile Is Right for You?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>A beautiful range of floor tile choices makes it possible to find the perfect combination of function and design for your laundry room.</p><p>&nbsp;</p><p>These are just a few of the many ways to shop for laundry room floor tile to narrow down all the options to find the right choice for you:</p><p>&nbsp;</p><p>• <strong>Color and Pattern</strong>: Laundry is a fact of life, but laundry day is a little less of a chore when you enjoy your space. So have fun with color and pattern—boring laundry rooms are a thing of the past.</p><p>&nbsp;</p><p>• <strong>Material</strong>: In rooms with very specific functions, like laundry rooms, choosing tile made from a durable material is important. Manmade materials like <a href="/material/porcelain" class="font-bold">porcelain</a>, ceramic and cement will all hold up to years of heavy use, especially in multi-tasking spaces, like laundry room located in entryways. And advances in porcelain tile design mean you can even achieve the look of real wood in a water-resistant material.</p><p>&nbsp;</p><p>• <strong>Size</strong>: <a href="/featured/large-format" class="font-bold">Large-format pieces</a> are a popular tile for a laundry room. In addition to making a space feel larger, a floor will also have fewer grout lines, which can simplify cleaning and maintenance over the years.</p><p>&nbsp;</p><p>• <strong>Shop by shape</strong>: Many floor tile shapes are suited to laundry rooms, including rectangular, square, <a href="/shape/hexagon" class="font-bold">hexagonal </a>and geometric. Choose from individual field tiles and expertly designed mosaics.</p><p>&nbsp;</p><p>• <strong>Shop by pattern</strong>: Coordinate your laundry room with your overall home décor with tiles featuring subtle textural designs, intricate florals, bold geometric accents and more.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4708462c-fd0a-49ea-83d3-64f20275d50e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T094117Z

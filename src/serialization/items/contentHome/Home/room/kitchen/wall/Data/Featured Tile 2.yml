@@ -1,0 +1,44 @@
+﻿---
+ID: "2ce051d9-84ac-42f5-86c0-480a5247a639"
+Parent: "9dfb7f38-ffb6-47e4-9622-d631a89d4c8e"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/wall/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {AD078B9B-8161-421A-86E4-73584CE5E188}
+        {2ED718AC-9BBE-46D4-9AA6-9C6ADA1300C2}
+        {54D86CE0-2BD3-444B-A796-C570D4017BCB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Marble: Timeless Elegance"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>The unique veining and shade variations in this highly durable stone make </span><a href="/material/marble" class="font-bold underline">marble tile</a><span> an elegant option for your kitchen wall. Available in a variety of colors, finishes and mosaic designs, marble invokes a classic richness sure to elevate your cooking space.  </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49338a22-b6c6-4036-af67-1b9e3c5e76bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240815T113219Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "02d8c3f6-54e8-441a-a0fe-2914512212d2"
+Parent: "19157529-fc34-461c-9b72-9847fff3a64f"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/architectural/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Architectural Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Go beyond flat walls with architectural tiles that add a new dimension to your space. Whether stone, wood, porcelain or a mix of materials, these 3-D pieces define corners and walls with rustic shapes. Natural materials and warm, earthy tones help set the atmosphere and make a welcoming space.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d370f4f-2aa1-4025-8a9f-2d8f82271539"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T182837Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: CuratedCollections_Cali_Bathroom_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {B91DF9D0-4818-4DCB-A4AC-B425A37DF19E}
+        {94547864-0BE8-4DC1-AF0E-98E47ED45A37}
+        {2D6686D9-979F-48E9-8A00-FC63FBBE35D1}
+        {0D3D9542-E05B-4417-8799-1AD976D5E3D6}
+        {D577D118-8619-4D7F-8D40-D5A65A451DF6}
+        {4651B6A2-5AE5-4FF0-BD67-877880071647}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

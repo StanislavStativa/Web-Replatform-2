@@ -1,0 +1,42 @@
+﻿---
+ID: "c1775700-746e-4340-a9ec-9467d7ae8308"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/4 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Design Tip: Choosing Materials</h2>
+        <p class="mb-4">Since your living room is a high-traffic area, it&rsquo;s important to choose a material that is durable and easy to maintain. Our selection of tile offers a natural appearance and timeless character that won&rsquo;t show much wear. Porcelain and ceramic materials are versatile, decorative and less expensive than natural stone. The tough surfaces are impervious to spills and won&rsquo;t trap bacteria and dust. Wood-look ceramic tiles are a popular style because they can be printed to look like many different species of hardwood flooring. Faux wood is less expensive, easier to clean and retains its appearance over time as it&rsquo;s less vulnerable to water damage and scratches. From traditional designs to cutting-edge contemporary styles, tile offers a winning combination of form and function.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78ecdafe-ac67-49ee-8bc4-ae071ca28fe3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200725Z

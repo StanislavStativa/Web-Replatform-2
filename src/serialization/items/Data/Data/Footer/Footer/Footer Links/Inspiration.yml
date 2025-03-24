@@ -1,0 +1,33 @@
+﻿---
+ID: "c084cf08-92c5-4531-838f-10c5e2ba3c3b"
+Parent: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Template: "eda1a11d-4b30-432b-94c0-65bf932cacde"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Inspiration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23dfcada-e65b-4afe-9198-6851ab0bb820"
+      Hint: FooterSubLinks
+      Value: |
+        {A75F4672-6D27-461F-A92F-CCE69AA6DC1D}
+        {918135AA-3A3A-460F-9282-863A4FFEBA92}
+        {6357D82C-C67F-4A86-942B-F63713A49A24}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T081954Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8d4411e-97b7-4e89-8da6-4f05c41cc54d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240917T131048Z
+    - ID: "f0603d5d-027f-47e4-96a6-009494468d6c"
+      Hint: CTA
+      Value: |
+        <link text="Inspiration" anchor="" linktype="internal" class="" title="Inspiration" target="" querystring="" id="{5089C88E-CEB4-47B8-B70B-47D0206931B9}" />

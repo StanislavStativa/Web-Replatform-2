@@ -1,0 +1,40 @@
+﻿---
+ID: "0f42b699-46d5-4755-a814-31eb7c2f1c4e"
+Parent: "2b1bb11b-9fc6-4337-b88c-12a84cdb8101"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/lvp-flooring-buying-guide/Data/LVP Flooring FAQs/Is LVT better than hardwood"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T064854Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is LVT better than hardwood?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>The short answer: it depends.</p>
+        <p>LVP is waterproof, more cost effective, easier to install, easier to maintain and more durable than hardwood floors. This means it's simpler and less expensive to add LVP to any room of your house, and once you've installed it, LVP will require little to no maintenance.</p>
+        <p>On the other hand, when properly maintained, hardwood floors can last for decades or even centuries and can be refinished multiple times to restore their appearance. They are also a popular option because of their natural beauty—which is why many LVP options mimic the appearance of hardwood.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "575b130e-29dc-4b27-8ae4-2ae25c8f7425"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T064923Z

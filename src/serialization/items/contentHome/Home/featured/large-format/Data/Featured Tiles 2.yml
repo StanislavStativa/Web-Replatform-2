@@ -1,0 +1,44 @@
+﻿---
+ID: "fe7e0869-1cb1-4d32-baae-0faccfff6569"
+Parent: "960ef074-7cab-4b8f-adb0-28bd77895404"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/large-format/Data/Featured Tiles 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {37B3C539-3422-47B1-83D8-4018727D80FE}
+        {1506CB42-9CC3-46B4-A6D3-2866168DC318}
+        {602D5FFE-D4BD-4CAF-86D9-15184129F091}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Sculptural Large-Format Tiles"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">In addition to mimicking natural materials, large-format tiles also offer exciting possibilities for incorporating texture and other sculptural details. From geometric facets in matte white and </span><a href="/color/black" class="font-bold">black ceramic</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, to </span><a href="/featured/wood-look" class="font-bold">wood-look porcelain tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> with delicate relief patterns, to modern metallic styles with the illusion of 3-D texture, these style-forward oversize pieces favor the bold. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1874309-6d5a-4ada-a489-9ad15c088be2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061917Z

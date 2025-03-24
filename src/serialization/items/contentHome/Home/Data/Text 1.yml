@@ -1,0 +1,63 @@
+﻿---
+ID: "83a5ce4f-7807-475f-aa11-79bce0f53913"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T062256Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div>
+        <h2 class=" font-bemboStd">Get inspired</h2>
+        <br />
+        <p>Follow us on social media to get the latest updates.</p>
+        <br />
+        <div class="inline-flex">
+        <a class="px-2" href="https://www.instagram.com/thetileshop" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="instagram" width="24" src="-/media/1C8B81BC4B0D4798B238E8F2577EF5C8.ashx" />
+        </a>
+        <a class="px-2" href="https://www.facebook.com/thetileshop1" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="facebook" width="24" src="-/media/0A0DC64728544F93B2514564F6499CD3.ashx" />
+        </a>
+        <a class="px-2" href="https://www.pinterest.com/thetileshop" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="pinterest" width="24" src="-/media/50B844AF87C0437192A0F828A9448E3F.ashx" />
+        </a>
+        <a class="px-2" href="https://www.houzz.com/pro/thetileshop" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="houzz" width="24" src="-/media/5AC657E9F3AD44C19C375B7A5B80D399.ashx" />
+        </a>
+        <a class="px-2" href="https://www.linkedin.com/company/the-tile-shop" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="linkedin" width="24" src="-/media/4B31762CCAEA4535901637355C276319.ashx" />
+        </a>
+        <a class="px-2" href="https://www.youtube.com/user/thetileshop1" target="_blank" rel="noopener noreferrer">
+        <img height="24" alt="youtube" width="24" src="-/media/6D34B62CABC24077BE3F46CED0DDADA1.ashx" />
+        </a>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00a19178-4d2f-4da2-bea6-cda396f1f7ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T100157Z

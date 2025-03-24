@@ -1,0 +1,46 @@
+﻿---
+ID: "4d4d1770-dc24-4974-a51e-e883f0d32895"
+Parent: "31e8c9bc-ce07-42af-9b0d-16f1d148e965"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/blue/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {EAA7FFA4-F4C7-498A-BA19-2D17F8F5A41D}
+        {5723689A-E225-4F7A-AD23-45E9D3E55865}
+        {9E6F32B3-E395-47EA-B880-696F5813A3B1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Brighten Your Bathroom or Shower
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><a href="/room/bathroom" class="font-bold"><strong><span style="text-decoration: underline;">Blue bathroom floor tiles</span></strong></a> can invoke the tranquility of a glassy lake, while blue shower tile can be used to distinguish a space or blend with the rest of the room. Try adding interest to your bathroom by pairing blue floor tiles with contrasting or patterned wall tiles. Another easy way to create an eye-catching design is to use <a href="/installation-care/installation/grout/colors" class="font-bold"><strong><span style="text-decoration: underline;">white grout lines</span></strong></a> to accentuate a rich blue wall or floor tile. Or choose a pattern&mdash;we have everything from dramatic and geometric to delicate and artisanal&mdash;to showcase your personal style. With our endless array of shades and patterns, it&rsquo;s easy to find the perfect tile to design a bathroom that truly expresses your unique personality. </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a23b6cc6-7e98-4446-82c9-eee4e8311b6b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120643Z

@@ -1,0 +1,72 @@
+﻿---
+ID: "37a21333-274d-4ec2-b9d8-7bff5e5759a0"
+Parent: "a36d8e51-e0e7-49ad-8bab-79e4d28705ba"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mosaic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Mosaic tile is a simple way to add visual interest to any wall, floor or space. Whether creating an original pattern or a focal point in a room, mosaics are versatile for achieving any design goal.</p>
+        <p>These tiles can be made from stones, like travertine, marble or pebbles, or glass, metal, porcelain, and more. Explore the many different colors, sizes and finishes of mosaic tile from The Tile Shop.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7dc9b03-ba78-4544-975f-d39e99603342"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="FAQs" linktype="external" url="/tile/featured/mosaics#Accordion" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T145712Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Madam_wall_C_Cat%3aCategory_Intro_Image
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="DESIGN IDEAS" linktype="external" url="/tile/featured/mosaics#Rich Text" anchor="" target="" />
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {32149BB5-3001-4256-BD6A-EF05246C4D78}
+        {1D12A6CC-3968-4065-8246-CF1DD1C73152}
+        {FD86587B-095C-401C-AB86-21E0056AA744}
+        {900A5942-2FE0-4A7A-9E86-6BD00FF56875}
+        {5750FEB7-45E7-42BC-9B26-B80808A16655}
+        {8BABF4BB-A3A3-4B7D-B9F4-5538D2D855BF}
+        {3ACEB212-F76E-4F7D-86D2-7319B437BF11}
+        {F9047D85-2F6D-410F-A00E-9370D666690C}
+        {E1CB26EE-D725-4853-93E5-A26D922B60E9}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

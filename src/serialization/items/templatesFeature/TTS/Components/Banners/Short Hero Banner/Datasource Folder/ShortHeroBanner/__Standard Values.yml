@@ -1,0 +1,23 @@
+﻿---
+ID: "9c38bfc3-4620-44cc-8bf1-92ff43a7f2d1"
+Parent: "ec9b95b3-3345-4bad-abd0-8db5ef005960"
+Template: "ec9b95b3-3345-4bad-abd0-8db5ef005960"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Short Hero Banner/Datasource Folder/ShortHeroBanner/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T082112Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50287cec-0782-448f-aacb-0163d69d0d9c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240414T082112Z

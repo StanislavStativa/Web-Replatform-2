@@ -1,0 +1,37 @@
+﻿---
+ID: "45ab68d1-8165-4ab6-ae59-82d428d574ca"
+Parent: "2b1bb11b-9fc6-4337-b88c-12a84cdb8101"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/lvp-flooring-buying-guide/Data/LVP Flooring FAQs/Is there a difference between vinyl plank flooring and luxury vinyl plank"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T063119Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is there a difference between vinyl plank flooring and luxury vinyl plank?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Yes. While both fall under the broader category of vinyl flooring and come in plank form to mimic the look of hardwood, LVP is designed to offer a higher-end experience. Standard vinyl plank flooring is thinner and lower quality than LVP, so it is not as comfortable and will not last as long.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21558be7-cf2a-4cde-8085-84a5458ba847"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T063138Z

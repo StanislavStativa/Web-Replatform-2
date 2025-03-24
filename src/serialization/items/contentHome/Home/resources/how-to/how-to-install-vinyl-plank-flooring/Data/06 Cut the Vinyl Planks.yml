@@ -1,0 +1,50 @@
+﻿---
+ID: "293ead55-d22c-46c7-a1ba-5ab88e9a8a27"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/06 Cut the Vinyl Planks"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T034330Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cut the Vinyl Planks
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Using a measuring tape and a pencil, mark the measured width on the first vinyl plank. Ensure that the mark is straight and accurate. Place the plank on a flat, stable surface, such as a worktable or sawhorse.</p>
+        <br />
+        <p>You can cut vinyl planks using a few different tools, including a utility knife, a vinyl plank cutter, or a jigsaw with a fine-toothed blade. If using a utility knife, make a straight cut along the marked line by scoring the plank's surface. Then, carefully snap the plank along the scored line. If using a vinyl plank cutter or jigsaw, follow the manufacturer's instructions.</p>
+        <br />
+        <p>After cutting the first plank to size, place it along the reference line on the starting wall to ensure it fits correctly. For floating planks, it is vital that you leave a gap between the planks and the wall to accommodate any expansion that may occur. This gap is usually between 1/4 inch and 1/2 inch and will be indicated in the manufacturer's instructions.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9234491-aab3-43d4-9d45-07aa118ab000"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 9
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T053902Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 6

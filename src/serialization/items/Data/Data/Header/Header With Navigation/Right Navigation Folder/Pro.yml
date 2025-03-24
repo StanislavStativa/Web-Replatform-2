@@ -1,0 +1,47 @@
+﻿---
+ID: "4dbd2a5b-66a2-4889-85ae-7027cc14d37d"
+Parent: "3e68123f-7238-485c-a4b0-79dc4972497f"
+Template: "c7e9bcba-fdb0-4e94-afd6-8889e182a4f3"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Pro
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T060340Z
+    - ID: "2fd2a0b0-c8f0-42c0-9670-42334d097a1d"
+      Hint: NavigationType
+      Value: "{521D11F9-25C6-4A84-A3B2-DAF3C4F409D5}"
+    - ID: "3211ad45-78f8-4b37-9061-be6efbb21e9d"
+      Hint: PopUpDescription
+      Value: Save time and money with our trade program.
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93a61b76-9095-4801-a361-8b369a890f5b"
+    - ID: "915d15c9-7a52-41af-a8e3-28e9e4ce1d7b"
+      Hint: Buttons
+      Value: |
+        {94651CB7-E867-4622-966D-B25C99B8C419}
+        {2A5B2C18-A753-43B5-BCA6-07C6F7FBF4B3}
+    - ID: "a6d4fbea-5a84-4130-9e4d-ec97d41a6304"
+      Hint: PopupImage
+      Value: "ProProducts_ToolRun_Trowel-Thinset_Hand_Hero:Asset_Grid_All_V2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T114414Z
+    - ID: "db3d1e21-511c-4553-888f-87169c46d5e1"
+      Hint: PopUpTitle
+      Value: Exclusive Benefits for Pros
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0262E3C7-FD5A-443C-9477-AB8D526D29B8}" />

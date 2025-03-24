@@ -1,0 +1,46 @@
+﻿---
+ID: "4cfbda6c-6d70-46d6-a938-69a03c7e8235"
+Parent: "ab4518be-cd34-4543-b183-e3aa8c73e7e0"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Designer Collections
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T060239Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Designer Collections
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Explore our exclusive, one-of-a-kind collections from our world-class design partners."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af427e05-0552-4c9a-929e-ada3338eab59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {E95FE21E-E596-4323-B800-B84DBD277E22}
+        {AB32D09B-422B-4936-91CE-80502B882D83}
+        {7A096C61-C91B-48C8-9DEB-0DBC2DD26219}
+        {2A60676B-67A0-4B52-B52B-6F136A440417}
+        {05D030F8-E455-458C-9C1D-E891A78C1203}
+        {065D7749-7329-4D82-B25C-D2C784F4CB65}
+        {E0E7824B-677A-466D-8FD7-EFC8A0BF8A07}
+        {FBC1DE80-1F48-427C-B308-F976A08F26AB}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240917T102759Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Collections_menu:Asset_Grid_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

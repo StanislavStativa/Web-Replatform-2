@@ -1,0 +1,56 @@
+﻿---
+ID: "0faccbf1-b97e-4f7e-8710-d9d4ae27cf52"
+Parent: "b6905066-782d-4ead-8e3f-c43f82d15488"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/Data/Multi Asset Banner
+BranchID: "6da4f1e0-56f7-4121-88e1-bc39a9c116e7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Kitchen Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        As the centerpiece and gathering place of the home, the kitchen sees a lot of activity. Keep it in tip-top shape with durable tile that protects your surfaces. From rustic to contemporary to traditional, there’s a tile to achieve every style you can dream up.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {AEF9EB37-F33F-4AC6-B04A-0C63EEB1EAF5}
+        {C9907B67-70E1-45F7-AE94-345FC54FD905}
+        {98807D2B-28A4-47CE-826A-9B24F6BF5F39}
+        {5388278B-6B42-4054-B20C-854EB0F2BC98}
+        {2F2AD6F1-0EAE-4754-9C57-180817B7B026}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1cc90dd-a241-49d7-bc9e-eaf2c532b25d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T113817Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_WarmWhites_Kitchen_009:3x2"

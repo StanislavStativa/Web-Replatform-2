@@ -1,0 +1,35 @@
+﻿---
+ID: "821b6141-064e-4f88-b188-36fb6fcefc27"
+Parent: "05eeed83-ee65-4917-8179-18f34bd57d6f"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/Data/Material/Porcelain"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T052038Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32e6ef68-81ff-4876-a656-b3cf1e95c46a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240525T164505Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Porcelain" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A4DB65B6-5EBD-4064-AC88-5C39DC4FBB95}" />

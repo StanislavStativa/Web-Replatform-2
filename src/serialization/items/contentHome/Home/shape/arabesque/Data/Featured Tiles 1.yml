@@ -1,0 +1,45 @@
+﻿---
+ID: "57d145cb-8b1f-4fde-9438-5c77b552dec0"
+Parent: "c3fb7343-539a-4674-83fe-a81a501417d2"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/arabesque/Data/Featured Tiles 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {A66D0A01-F8D0-440E-AB28-112572ACE091}
+        {64B6D0A6-2D4C-4599-8080-FBC8A45EFB0B}
+        {7A388FD5-C99A-4B2F-9EBD-4B356156A594}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shop by Color
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p class="extra-small-bottom-margin">When choosing a color palette, consider where you will be installing the tiles.&nbsp;Lighter colors, like white arabesque tile, are great for smaller spaces. Going with <a class="font-bold" href="/color/white?facet_shape=facet_idQXJhYmVzcXVl">white tile</a> in this case will also help balance the intricate mosaic created by arabesque tiles, keeping the space feeling airy and spacious.</p>
+        <p>When installing these tiles in larger spaces, you can get bolder with your color choices. For example, a blue arabesque tile accent wall in an open concept living room will create a striking focal point in the room.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64810a3a-b339-49c1-ae59-d3d17681a8ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T072434Z

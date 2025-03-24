@@ -1,0 +1,41 @@
+﻿---
+ID: "e35bdab0-6546-48d2-b9e5-16c8e33c5285"
+Parent: "ceb5be78-c3b5-4cf5-88ff-038271b8076a"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-slate-tile-floors/Data/Slate Tile Floor Cleaning FAQs/How Often Should You Seal Slate Floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How Often Should You Seal Slate Floors?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Most slate tile floors should be resealed every 3-5 years. In areas that see higher foot traffic, the sealer may wear off sooner and resealing may need to happen as frequently as every 1-2 years.</p>
+        <p>To check if your slate needs resealing, you can do a water test: Pour a small amount of water on the tile. If the water beads up, the seal is still good. If the water soaks in and darkens the stone, it's time to reseal. Use a penetrating sealer designed for natural stone, following the product instructions carefully.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e3849bf-21c8-4235-a724-de1fb8373017"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T173412Z

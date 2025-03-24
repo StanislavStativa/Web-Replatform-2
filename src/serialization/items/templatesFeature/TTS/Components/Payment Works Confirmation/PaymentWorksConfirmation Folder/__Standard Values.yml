@@ -1,0 +1,33 @@
+﻿---
+ID: "5c5ad440-cd00-4502-9e6a-44b664ffea98"
+Parent: "8f88cac0-09df-48b4-882d-b9a1316e3f94"
+Template: "8f88cac0-09df-48b4-882d-b9a1316e3f94"
+Path: /sitecore/templates/Feature/TTS/Components/Payment Works Confirmation/PaymentWorksConfirmation Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E0D681EA-5593-4ABC-AA1F-D80142950D15}
+    {8F88CAC0-09DF-48B4-882D-B9A1316E3F94}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddcd0e46-eb79-41c6-8633-06a01c8339ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241224T091537Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "23ca068c-6537-481e-ac7f-daaff20628d5"
+Parent: "02408f58-6c26-480a-a4bf-c83cff3669e6"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/specifications/tile-spec-sheets/Data/Body"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T124613Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="richText-max rich-text">
+        <p class="mb-4">Select the tile, series, or collection below to view and download the specifications sheet. If the product you wish to obtain a tile spec sheet for is not listed, we do not currently have it available. For an informational glossary on the tests and results shown on the spec sheet <a class="font-bold" href="/resources/specifications/tile-specs-glossary">click here</a>
+        </p>
+        <p class="mb-4">Natural Stone is not manufactured; it is a product of nature. For this reason, it is not tested the same as porcelain and ceramic tiles. Test results will not be available for natural stone products such as travertine, limestone, marble, onyx, or slate. For specific questions about natural stone, please reference our <a class="font-bold" href="/installation-care">Installation &amp; Care</a>&nbsp;or <a class="font-bold" href="/resources">Resources</a>&nbsp;pages. Contact a Tile Shop customer service representative for additional information.
+        </p>
+        <p class="mb-4">Select to view and download the specifications sheet.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4565a48c-7674-4709-9b85-731de0550db8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T140947Z

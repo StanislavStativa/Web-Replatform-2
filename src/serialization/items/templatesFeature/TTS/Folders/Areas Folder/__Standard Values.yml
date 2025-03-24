@@ -1,0 +1,31 @@
+﻿---
+ID: "14f08788-268c-4940-b96f-491fd03ecb96"
+Parent: "37facf77-158d-44e2-bb8e-56b95c0c1ffe"
+Template: "37facf77-158d-44e2-bb8e-56b95c0c1ffe"
+Path: /sitecore/templates/Feature/TTS/Folders/Areas Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{7339BEA4-6883-4343-ADF5-063260672149}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T204653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b86dd346-d756-47fc-962b-94368f6c2169"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180907T204709Z

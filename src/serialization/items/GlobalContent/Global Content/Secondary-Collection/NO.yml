@@ -1,0 +1,37 @@
+﻿---
+ID: "3e2e55b1-f244-481e-b21b-fc128b1ca6f4"
+Parent: "7ad3f8b0-3d1d-49fc-a353-237b59fa6696"
+Template: "e4caaa9a-5502-4d85-b0f6-5099dd19c8b3"
+Path: "/sitecore/content/TTS/Global Content/Secondary-Collection/NO"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5d50eb-721d-4e31-a46e-860144d87434"
+      Hint: SecondaryCollectionItemName
+      Value: NO
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200922T023409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        CustomCommand\SapAttributeValuesImporter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8323a9e-69e9-48c7-afda-329d4d2e81a9"
+    - ID: "ae560b2a-f369-4836-9c3c-be11da8455bc"
+      Hint: SecondaryCollectionItemId
+      Value: NO
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200922T023409Z

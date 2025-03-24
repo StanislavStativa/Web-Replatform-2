@@ -1,0 +1,50 @@
+﻿---
+ID: "95facbcc-035e-4077-b9ba-e9fae593451b"
+Parent: "cbdd799c-44d7-4c79-b96a-3c4e888b250b"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/resources/Data/How Tos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T084932Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: How Tos
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: "From cutting to grouting to cleaning, we’ll help guide your tile project with easy-to-understand steps."
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How Tos
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "From cutting to grouting to cleaning, we’ll help guide your tile project with easy-to-understand steps."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbb1f217-00d4-4dfa-a56f-2bfa1c08bcd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T101531Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Shot05_BackButtering_V2_overlay_Her
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="View How Tos" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8C591817-077D-4378-8B5B-BEEEB5B38342}" />

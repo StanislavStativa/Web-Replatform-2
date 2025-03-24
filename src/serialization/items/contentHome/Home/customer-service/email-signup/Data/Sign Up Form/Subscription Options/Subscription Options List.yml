@@ -1,0 +1,31 @@
+﻿---
+ID: "1d4d6e97-3bce-4b32-8c92-3f21fb1ec62a"
+Parent: "4ddfe485-a301-4035-8d58-4333e84e163a"
+Template: "b3b0af6b-d221-412d-b51c-385a1ccafb7e"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/email-signup/Data/Sign Up Form/Subscription Options/Subscription Options List"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T084028Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c307ae19-daa1-42c0-83c1-28ab57a2e30e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T084028Z

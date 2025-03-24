@@ -1,0 +1,42 @@
+﻿---
+ID: "5d1ac1ff-0494-494e-855f-d30d6f91d585"
+Parent: "d30cc777-0165-4157-9187-6ff931fc11c7"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Bathroom/Data/18"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Colorful Pencil Trim
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Maybe you want just a hint of colored tile in your design. <a class="font-bold underline" href="/trim-and-accessories/profiles/somerset-pencil"><span>Pencil trim</span></a> comes in a variety of colors and materials so you can create a designed look that reflects your aesthetic. The Annie Selke Artisanal Sky pencil trim used here brings out the blue paint on the half wall for a subtle, elegant look, but trim is also a place where you can try out a bold color or material that would be overwhelming if used more broadly.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07431529-9608-4289-874b-c9c01e7054e5"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 32
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T121508Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "MorrisCo_Bathroom_Vertical:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 18

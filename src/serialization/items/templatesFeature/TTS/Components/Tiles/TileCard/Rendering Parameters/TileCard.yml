@@ -1,0 +1,53 @@
+﻿---
+ID: "8563b4dd-7a04-4fb8-955d-c43718a2e692"
+Parent: "5192779b-f518-401f-bc88-ef41beb10b48"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Tiles/TileCard/Rendering Parameters/TileCard
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: sxa/16x16/promo.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {4247AAD4-EBDE-4994-998F-E067A51B1FE4}
+    {5C74E985-E055-43FF-B28C-DB6C6A6450A2}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {3DB3EB10-F8D0-4CC9-BE26-18CE7B139EC8}
+    {15A017DA-6DA2-4B06-9CA2-0D2EB5E4FB67}
+    {86AD41BC-662D-4081-A58E-CEBC96717452}
+    {523294D5-C612-4157-9A0E-4BE4F48C66A7}
+    {2B4B188A-25D6-4016-94A6-FF71836EF9C3}
+    {8C904277-AC02-48EF-AD56-8EEC0219AC8C}
+    {CEC82E8D-99F3-4FE1-AD05-A1E3870AF510}
+    {FB3028F2-90CF-40E8-9FEA-FD16A1187DE2}
+    {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
+    {75A4D2D2-AC0F-42C4-8C8D-C332F2E8350E}
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 0
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4890580A-4353-459D-979E-ED0FB4F2D21C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "031bb197-ed01-4dba-94eb-bfb8710238a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T135539Z

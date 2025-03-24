@@ -1,0 +1,46 @@
+﻿---
+ID: "af3bb9ef-829f-4eaf-b1ac-a41f61f1e549"
+Parent: "fcbc6a8c-8618-46c1-bf13-bb9117125f75"
+Template: "f92aae37-f650-4508-bfe1-e215aad58855"
+Path: "/sitecore/content/TTS/TileShop/Home/look-book/digital-look-book/Data/Superior"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T111125Z
+    - ID: "4dafdc3a-4e79-41f0-a371-7c01e05be22c"
+      Hint: SubHeadline
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Superior
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42db33a5-d01f-49d3-afad-2b48febaa10a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T115148Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Superior_NewBannerCard:3x2?fmt=png-alpha"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shop Now" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{606D25CA-5E66-4F34-858B-28EBC6969CEC}" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: 

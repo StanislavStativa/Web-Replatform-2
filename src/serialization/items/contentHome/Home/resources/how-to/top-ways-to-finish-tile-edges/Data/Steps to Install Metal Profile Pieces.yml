@@ -1,0 +1,54 @@
+﻿---
+ID: "f650a120-78b6-40bd-b4fa-b0457f170855"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/Steps to Install Metal Profile Pieces"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T045618Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Steps to Install Metal Profile Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        
+        <ol>
+            <p>
+            </p>
+            <li>Apply thinset to wall using notched side of trowel. Notches should run parallel to the shortest tile edge.</li>
+            <li>Embed the leg of the metal trim piece all the way into the thinset. Press down, moving slightly back and forth, until thinset comes through the triangular cutouts.</li>
+            <p>
+            <img class="rtc__list-item-with-image__image" alt="Applying pencil trim piece to wall, and embedding the leg of the trim piece into the thinset mortar below. The tile will be installed on top of this piece." src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_9:16x9" />Tip: Use the edge of a margin trowel to press down on the leg, if needed.</p>
+            <p>
+            <img class="rtc__list-item-with-image__image" alt="A person using a trowel to embed the leg of a piece of metal profile trim into thinset mortar. Tile will be installed on top of the embedded portion of the trim piece, and the leg holds the trim in place." src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_11:16x9" /></p>
+            <li>Apply additional thinset to the back of your tile in the area where the profile will sit behind the tile. This ensures there is ample thinset to cover the metal, and the tile will securely adhere to the wall.</li>
+            <img class="rtc__list-item-with-image__image" alt="A person using a trowel to apply thinset mortar to the back of a piece of tile, focusing on applying extra mortar in the places where a metal profile piece will sit underneath the tile." src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_12:16x9" />(Alternatively, you can use your notched trowel to apply additional notched rows of thinset directly over the embedded leg of the profile.)<br />
+        <p>
+            </p><li>Apply tile to wall, embedding into the thinset. Use a wet sponge to wipe the surface of the tile clean.</li>
+            <img class="rtc__list-item-with-image__image" alt="A person installing tile on a wall. A piece of metal profile trim is already embedded in the thinset, so the edge of the completed installation will have a clean, finished look." src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_14:16x9" />
+            <li>Insert spacers to ensure proper distance for grout joints. Tip: Insert tile wedges between profile trim and tiles to create a narrow space for grout. This adds a uniform appearance to your finished installation.</li>
+        </ol><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42052503-ab00-4ffc-a093-ebbb9b5df5d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240624T051736Z

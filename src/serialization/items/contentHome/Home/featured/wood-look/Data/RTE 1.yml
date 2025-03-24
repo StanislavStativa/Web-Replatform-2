@@ -1,0 +1,38 @@
+﻿---
+ID: "ae753a28-b1fe-4361-9f70-21aa33854b43"
+Parent: "7cb072de-7444-44fc-956c-b8be7f044417"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/wood-look/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text "><h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">The Benefits of Wood-Look Tile </span></h2><p style="color: #333333; margin: 0px; padding: 0px; border: 0px;" /><p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Wood-look tile (we don’t call it “faux wood” here!) is a great option for the customer who wants their home to have the classic, warm charm of natural wood, with the added usability and simplified upkeep a manmade material can offer. Complete with wood grain and knotting, various colors and patterns, wood-look tiles effortlessly replicate the appearance of natural hardwood.  </span></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span></p><p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">A</span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">s a flooring or wall material, tile that looks like wood can be a smart choice for spaces where wood floors tend to be less practical, such as mudrooms, basements and bathrooms. Achieve almost any wood tile look on walls or floors with traditional planks or modern styles made from extremely durable and versatile porcelain or </span><a href="/material/ceramic" class="font-bold underline">ceramic tile</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a12abf0f-b817-43c0-9496-5588e6bf2cb8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124235Z

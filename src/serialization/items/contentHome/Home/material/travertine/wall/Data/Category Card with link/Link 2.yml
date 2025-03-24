@@ -1,0 +1,40 @@
+﻿---
+ID: "8fb8c618-0882-48dd-9548-4ebd26324736"
+Parent: "e4618230-fe2e-4cfd-852b-aa9f93b4d584"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/wall/Data/Category Card with link/Link 2
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BF211148-CD7D-4C9F-8C73-A69D73F70630}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d1d2a04-3610-4499-885b-3317cfd79403"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T135155Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Travertine Floor Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{31EFA996-A132-454F-82A5-9FD87CE86BE6}" />

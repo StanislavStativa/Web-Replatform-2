@@ -1,0 +1,47 @@
+﻿---
+ID: "fa793837-635b-438c-bfa1-1d5b3540ab31"
+Parent: "245b6f15-d04d-421d-b80e-33ab5ff3f5a0"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Shower/Data/RTE Top"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240618T115953Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="font-latoLight mb-8">27 Stunning Shower Tile Design Ideas for 2024</h1>
+        <div>
+        <p class="mb-4">
+        The perfect shower tile will showcase your unique style. Whether you gravitate towards classic and classy&nbsp;<a class="font-bold underline" href="/featured/subway">subway tile</a> or artisanal handmade tile, <span style="color: black;">our extensive selection offers thousands of possibilities to bring your dream shower design to life</span>
+        
+        
+        </p>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f16a2f0-1539-4fbc-969c-c1a44c9bdf82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T142250Z

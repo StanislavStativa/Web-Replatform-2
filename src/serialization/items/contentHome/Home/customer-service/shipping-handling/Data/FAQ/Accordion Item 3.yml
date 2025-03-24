@@ -1,0 +1,46 @@
+﻿---
+ID: "571d7d46-f4da-4e82-b04c-76af09864063"
+Parent: "d46654ab-3547-4140-9e25-776c2597c769"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/shipping-handling/Data/FAQ/Accordion Item 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T130833Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What if I want my order to be shipped to a secondary address?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p />
+        <ul>
+            <li><span style="color: #000000;">In order to protect both our customers and ourselves, orders being shipped to a secondary shipping address (differs from your billing information) are required to pass an address verification before we can ship materials. If you have not already done so, please contact your credit card company and request to add a memo prior to placing the order and provide this secondary shipping address.</span></li>
+            <li><span style="color: #000000;">Failure to comply with this policy may result in delayed shipments until this verification passes.</span></li>
+            <li><span style="color: #000000;">Once a shipping address has passed the address verification with your credit card company, we will not need to do this process again for additional orders placed in the same year shipping to that address.</span></li>
+        </ul>
+        <p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26793833-d50a-44d4-b02d-a0de77879021"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T095933Z

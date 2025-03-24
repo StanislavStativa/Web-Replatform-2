@@ -1,0 +1,32 @@
+﻿---
+ID: "5bbc223a-09b7-4cc2-a4c7-789ee940c767"
+Parent: "2ae424b4-3abe-405f-b672-94888ff4ad45"
+Template: "d8fd2da6-ddef-43c6-b6a0-e428023c1233"
+Path: /sitecore/content/TTS/Global Content/Product Facets/Style
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T220848Z
+    - ID: "4f173e52-426c-4355-9950-2e1bb29dafb2"
+      Hint: FacetOptionData
+      Value: "{E4D5FB4F-4041-4531-AEE9-38EF63F8F141}"
+    - ID: "581fb433-0d5b-4b00-a63d-9fd22ca1edd1"
+      Hint: ProductAttribute
+      Value: Style
+    - ID: "7fd9155d-f1b1-4dc2-af15-10865a1ce88a"
+      Hint: FacetName
+      Value: Style
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "faf31b30-1cbe-4a02-b18d-12775b47c7f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180907T220852Z

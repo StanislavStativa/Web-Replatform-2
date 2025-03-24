@@ -1,0 +1,494 @@
+﻿---
+ID: "389d2c36-aad3-48c2-aeef-96d5b0767547"
+Parent: "b714a2e4-4fbb-4fe3-af5a-b3a43c9bd23d"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/specifications/tile-specs-glossary/Data/Body"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T124613Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <style>
+        .pdf-download {
+            font: 12px lato;
+            color: #ffffff;
+            text-transform: uppercase;
+            background: #6b6b6b;
+            border: none;
+            width: 124px;
+            height: 30px;
+            display: inline-block;
+            text-align: center;
+            line-height: 30px;
+            float: left;
+            text-decoration: none;
+        }
+            .clear {
+            clear: both;
+            }
+            #glossaryContainer h1 {
+            font: 22px lato;
+            margin-top: 0px;
+            margin-bottom: 27px;
+            border-bottom: 1px solid #e1e1e1;
+            padding-bottom: 10px;
+            color: #000000;
+            clear:both;
+            }
+            #glossaryContainer .pdf-download,
+            #glossaryContainer .pdf-download{
+            font: 12px lato;
+            color: #ffffff;
+            text-transform:uppercase;
+            background:#6b6b6b;
+            border:none;
+            width:124px;
+            height:30px;
+            display:inline-block;
+            text-align:center;
+            line-height:30px;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc button{
+            float:none;
+            }
+            #glossaryContainer .glossaryDesc {
+            margin-left: 20px;
+            margin-bottom:35px;
+            }
+            #glossaryContainer .glossaryDesc p {
+            font:12px lato;
+            line-height: 18px !important;
+            margin-bottom:25px;
+            }
+            #glossaryContainer .glossaryDesc.mainDesc p {
+            line-height: 22px !important;
+            font:13px lato;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc p {
+            margin-bottom: 15px;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc img {
+            margin-bottom: 15px;
+            }
+            #glossaryContainer .glossaryDesc h2 {
+            font:13px lato;
+            font-weight: bold;
+            margin-bottom: 9px;
+            margin-top: 0px;
+            }
+            .glossaryPointContainer {
+            margin-left: 35px;
+            margin-bottom: 30px;
+            width: 65%;
+            font:12px lato;
+            }
+            .glossaryPointContainer .glossaryPointFull {
+            float: none;
+            width: 100%;
+            }
+            .glossaryPointContainer .glossaryPointFull .pointDetail {
+            margin-bottom: 10px;
+            }
+            .glossaryPointContainer .glossaryPointLeft {
+            float: left;
+            width: 85%;
+            }
+            .glossaryPointContainer .glossaryPointRight {
+            float: right;
+            width: 15%;
+            text-align: right;
+            }
+            .glossaryPointContainer .glossaryPointLeft .pointTitle {
+            text-transform: uppercase;
+            }
+            .glossaryPointContainer .glossaryPointFull img {
+            display: inline-block;
+            height: auto;
+            max-width: 100%;
+            width: auto;
+            padding-bottom: 0px !important;
+            }
+            .glossaryPointContainer.glossaryDataTable {
+            margin-top: 30px;
+            }
+            .glossaryPointContainer .glossaryPointCol1 {
+            width:15%;
+            float: left;
+            }
+            .glossaryPointContainer .glossaryPointCol2 {
+            width:20%;
+            float: left;
+            }
+            .glossaryPointContainer .glossaryPointCol3 {
+            width:65%;
+            float: left;
+            }
+            .glossaryPointContainer .headingCol {
+            margin-bottom: 15px;
+            padding-left: 7px;
+            }
+            .glossaryPointContainer .dataCol {
+            border-left:1px solid #939598;
+            padding-left: 7px;
+            }
+            .industryStandards {
+            max-width:380px;
+            padding:7px 9px;
+            background: #dfded7;
+            margin-bottom:30px;
+            font:10px lato;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc .industryStandards h2{
+            font:10px lato;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom:0px;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc .industryStandards p{
+            font:10px lato;
+            margin-bottom:0px;
+            line-height: 9px !important;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc .industryStandards .standardList{
+            margin-top: 10px;
+            margin-left: 40px;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc .industryStandards .listLeft{
+            float: left;
+            width: 80%;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            font:9px lato;
+            }
+            #glossaryContainer .glossaryDesc.footerDesc .industryStandards .listRight{
+            float: right;
+            width: 20%;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            font:9px lato;
+            }
+        </style>
+        <div id="glossaryContainer">
+        <div class="glossaryDesc mainDesc">
+        <p><a rel="noopener noreferrer" class="pdf-download" style="float:left;text-decoration:none;" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/Ceramic-Porcelain-Test-Methods-Glossary_01012019.pdf" target="_blank">Download PDF</a></p>
+        <p>&nbsp;</p>
+        <p>This glossary serves as a reference for the technical data listed on our tile specifications sheets and further explains the different tests and standards that are provided for our porcelain and ceramic tiles. If you have any additional questions, please visit your local store or contact our customer service representatives at 888-398-6595.</p>
+        </div>
+        <div class="glossaryDesc">
+        <h2>WATER ABSORPTION (EN 99, ISO 10545-3, ASTM C373-88)</h2>
+        <p>A tile’s water absorption rate (WA) will tell you if the tile you’re considering is the right tile to use in an outdoor or wet area. The WA is determined by measuring the degree of internal porosity of the tile body and consists of boiling the tile in water and measuring its gain in weight from the original dry state.</p>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">Low Dense</div>
+        <div class="pointDetail">Dry pressed tile with a water absorption rate of more than 7%</div>
+        </div>
+        <div class="glossaryPointRight">
+        A&gt;7
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">MEDIUM DENSE</div>
+        <div class="pointDetail">Dry pressed tile with a water absorption rate between 3% and 7%</div>
+        </div>
+        <div class="glossaryPointRight">
+        3&lt;A&lt;7
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">HIGH DENSE</div>
+        <div class="pointDetail">Dry pressed tile with a water absorption rate between 0.5% and 3%</div>
+        </div>
+        <div class="glossaryPointRight">
+        0.5&lt;A&lt;3
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">EXTREMELY DENSE</div>
+        <div class="pointDetail">Dry pressed tile with water absorption of 0.5% or less. This is where porcelain tile is categorized.</div>
+        </div>
+        <div class="glossaryPointRight">
+        A&lt;0.5%
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>
+        <div class="glossaryDesc">
+        <h2>SURFACE ABRASION (EN 154, ISO 10545-7, A 187.1, ASTM C1027-99)</h2>
+        <p>All glazed floor tiles (including ceramic tiles) are classified under a Porcelain Enamel Institute (PEI) rating for the suitability of fixing in a particular location. This test determines how much the tile will resist abrasion and its suitability as a floor tile.</p>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">VERY LIGHT TRAFFIC</div>
+        <div class="pointDetail">Suggested uses: indoor wall applications, interior light use (countertops and bathrooms), and very light traffic residential bathroom floors</div>
+        </div>
+        <div class="glossaryPointRight">
+        PEI I
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">LIGHT TRAFFIC</div>
+        <div class="pointDetail">Suggested uses: interior wall applications, all interior countertop applications, and light traffic residential interior floors</div>
+        </div>
+        <div class="glossaryPointRight">
+        PEI II
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">MODERATE TRAFFIC</div>
+        <div class="pointDetail">Suggested uses: all interior wall applications, all interior countertop applications, and all residential interior floors</div>
+        </div>
+        <div class="glossaryPointRight">
+        PEI III
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">MODERATE TO HEAVY TRAFFIC</div>
+        <div class="pointDetail">Suggested uses: all interior wall applications, all interior countertop applications, all residential interior floors, and all light commercial applications (restaurants, lobbies, etc.).</div>
+        </div>
+        <div class="glossaryPointRight">
+        PEI IV
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">HEAVY TRAFFIC </div>
+        <div class="pointDetail">Suggested uses: all interior wall applications, all interior countertop applications, all residential interior floors, and all heavy commercial applications (airports, shopping malls,
+        supermarkets, etc.).</div>
+        </div>
+        <div class="glossaryPointRight">
+        PEI V
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>
+        <div class="glossaryDesc">
+        <h2>RESISTANCE TO DEEP ABRASION (EN 101, ISO 10545-6)</h2>
+        <p>To determine a relative measurement of scratch resistance of tile and stone, manufacturers and suppliers use the Mohs Hardness Scale. The Mohs scale uses ten fairly common minerals of known hardness and gives each of them a relative value of 1-10. Each mineral in the scale will scratch those with lesser values and will not scratch those with higher values. </p>
+        <div class="glossaryPointContainer glossaryDataTable">
+        <div class="glossaryPointCol1 headingCol">MOHS</div>
+        <div class="glossaryPointCol2 headingCol">Mineral</div>
+        <div class="glossaryPointCol3 headingCol">Compared to other flooring Materials</div>
+        <div class="clear">&nbsp;</div>
+        <div class="glossaryPointCol1 dataCol">1</div>
+        <div class="glossaryPointCol2 dataCol">Talc</div>
+        <div class="glossaryPointCol3 dataCol">Resilient flooring(vinyl, asphalt tile)</div>
+        <div class="glossaryPointCol1 dataCol">2</div>
+        <div class="glossaryPointCol2 dataCol">Gypsum</div>
+        <div class="glossaryPointCol3 dataCol">Wood flooring</div>
+        <div class="glossaryPointCol1 dataCol">3</div>
+        <div class="glossaryPointCol2 dataCol">Calcite</div>
+        <div class="glossaryPointCol3 dataCol">Polished marble, laminate flooring</div>
+        <div class="glossaryPointCol1 dataCol">4</div>
+        <div class="glossaryPointCol2 dataCol">Fluorite</div>
+        <div class="glossaryPointCol3 dataCol">Black marble</div>
+        <div class="glossaryPointCol1 dataCol">5</div>
+        <div class="glossaryPointCol2 dataCol">Apatite</div>
+        <div class="glossaryPointCol3 dataCol">Glazed ceramic tile</div>
+        <div class="glossaryPointCol1 dataCol">6</div>
+        <div class="glossaryPointCol2 dataCol">Feldspar</div>
+        <div class="glossaryPointCol3 dataCol">Glazed ceramic tile</div>
+        <div class="glossaryPointCol1 dataCol">7</div>
+        <div class="glossaryPointCol2 dataCol">Quartz</div>
+        <div class="glossaryPointCol3 dataCol">Quarry tile, glazed porcelain tile</div>
+        <div class="glossaryPointCol1 dataCol">8</div>
+        <div class="glossaryPointCol2 dataCol">Topaz</div>
+        <div class="glossaryPointCol3 dataCol">Unglazed porcelain tile</div>
+        <div class="glossaryPointCol1 dataCol">9</div>
+        <div class="glossaryPointCol2 dataCol">Corundum</div>
+        <div class="glossaryPointCol3 dataCol">No flooring is this hard</div>
+        <div class="glossaryPointCol1 dataCol">10</div>
+        <div class="glossaryPointCol2 dataCol">Diamond</div>
+        <div class="glossaryPointCol3 dataCol">No flooring is this hard</div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>
+        <div class="glossaryDesc">
+        <h2>FROST RESISTANCE (EN 202, ISO 10545-12, ASTM C1026)</h2>
+        <p>Frost resistance determines whether or not a tile is suitable for outdoor applications in colder climates. When a tile absorbs a large quantity of water and the volume increases from freezing, the tile can break. This test consists of soaking the tiles in water and subjecting them to temperature cycles from +51˚C to -51˚C (+123.8˚F to -59.8˚F). All sides of the tiles are exposed to freezing over 100 freeze-thaw cycles. </p>
+        </div>
+        <div class="glossaryDesc">
+        <h2>STAIN RESISTANCE (EN 122, ISO 10545-14)</h2>
+        <p>his test measures a surface’s resistance to staining. Staining tests are achieved by prolonged exposure of the tile surface to test solutions and dry staining agents. Tiles are visually evaluated after the staining agent has been cleaned off using a combination of cleaning procedures.</p>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">Stain is not removed</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 1
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">The stain is removed using solvent, such as acetone</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 2
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">The stain is removed using a strong commercial cleaning agent</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 3
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">The stain is removed using a weak commercial cleaning agent</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 4
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">The stain is removed using hot water</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 5
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>
+        <div class="glossaryDesc">
+        <h2>SLIP RESISTANCE (EN, ISO 10545-17, ASTM C1028)</h2>
+        <p>Slip resistance (also referred to as friction) is the force that resists the sliding motion of one surface against another. This measurement can be altered by contaminants or liquids when the tile is wet. There are two types of friction: Static Coefficient of Friction (SCOF), which is the ratio of forces necessary to start two surfaces sliding, and Dynamic Coefficient of Friction (DCOF), which is the ratio of forces necessary to keep two surfaces sliding. The previous standard for testing slip resistance was ASTM C1028, which is still seen throughout some product specification sheets. </p>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">DRY INNER SPACES</div>
+        <div class="pointDetail">Areas with slope lower than 6%<br />
+        Areas with slope equal or higher than 6% and staircases</div>
+        </div>
+        <div class="glossaryPointRight">
+        &nbsp;<br />
+        Class 1<br />
+        Class 2
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">DAMP INNER SPACES</div>
+        <div class="pointDetail">Halls with entrance from the street, covered terraces, changing rooms, showers, toilets and kitchens</div>
+        </div>
+        <div class="glossaryPointRight">
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">Areas with slope lower than 6%<br />
+        Areas with slope equal or higher than 6% and staircases</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 2<br />
+        Class 3
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">INNER SPACES </div>
+        <div class="pointDetail">Apart from water, there may be other elements (grease, lubricant..) that diminish the slipperiness resistance such as industrial kitchens and areas of industrial use.</div>
+        </div>
+        <div class="glossaryPointRight">
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointDetail">Areas with any slope</div>
+        </div>
+        <div class="glossaryPointRight">
+        Class 3
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointLeft">
+        <div class="pointTitle">OUTER SPACES</div>
+        <div class="pointDetail">Swimming pools</div>
+        </div>
+        <div class="glossaryPointRight">
+        &nbsp;<br />
+        Class 3
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>
+        <div class="glossaryDesc">
+        <h2>RECOMMENDED INSTALLATIONS</h2>
+        <p>These are based off of the technical specifications and design styles of our products. We have included a key to show the recommended areas of application. </p>
+        <div class="glossaryPointContainer">
+        <div class="glossaryPointFull">
+        <div class="pointDetail">Areas that are NOT recommended are marked with a slash:</div>
+        <img alt="" src="https://s7d1.scene7.com/is/image/TileShop/not_recommended_icon" style="margin-bottom: 15px;" />
+        </div>
+        <div class="glossaryPointFull">
+        <div class="pointDetail">Recommended installation areas are as follows:</div>
+        <img alt="" src="https://s7d1.scene7.com/is/image/TileShop/recommended_icons" />
+        </div>
+        </div>
+        </div>
+        <div class="glossaryDesc footerDesc">
+        <p>*Please note that these are only recommendations and in some cases the products may be suitable for installation in additional spaces. Contact our customer service representatives or your local store for more information.</p>
+        <div class="industryStandards">
+        <h2>INDUSTRIAL STANDARDS INFORMATION</h2>
+        <p>Description of industry standards are listed below</p>
+        <div class="standardList">
+        <div class="listLeft">American society for testing and materials</div>
+        <div class="listRight">astm</div>
+        <div class="listLeft">International organization for standardization</div>
+        <div class="listRight">iso</div>
+        <div class="listLeft">EU International organization for standardization</div>
+        <div class="listRight">astm</div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        <p>*The American Society for Testing and Materials (ASTM), the International Organization for Standardization (ISO), and the EU ISO are internationally recognized organizations that identify industry test methods and technical standards. All tests are subject to change based on new studies and standards may vary across different industry procedures. To confirm the most accurate results always check with a Tile Shop representative before purchasing.</p>
+        </div>
+        <a rel="noopener noreferrer" class="pdf-download" style="text-decoration:none;" href="https://s7d1.scene7.com/is/content/TileShop/pdf/resources/Ceramic-Porcelain-Test-Methods-Glossary_01012019.pdf" target="_blank">Download PDF</a>
+        <p>&nbsp;</p>
+        </div>
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ac92102-60cb-42b5-9286-df3a8e7b5416"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T142603Z

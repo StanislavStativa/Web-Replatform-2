@@ -1,0 +1,47 @@
+﻿---
+ID: "4ecdcec7-3260-47fd-a827-97c8f841a849"
+Parent: "bc675545-1e14-433f-8dee-6b632fb9670b"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: "/sitecore/content/TTS/TileShop/Home/look-book/Data/Content tile stack/SPRING-SUMMER 2022 LOOK BOOK"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150704Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 2022 Look Book
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: New seasons, new styles. Explore our latest collections, fresh trends in tile and more in our new Look Book. Endless design inspiration is waiting to be discovered.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7159349-f034-47eb-9f03-6c3a84d531e3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T105949Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Look_Book_2022_Promo_Pro_Version_1x1:Tile_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="VIEW 2022 LOOK BOOK (PDF)" linktype="external" url="https://s7d1.scene7.com/is/content/TileShop/pdf/catalogs/TTS_2022LookBook-InteractiveComplete.pdf" anchor="" target="_blank" />

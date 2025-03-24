@@ -1,0 +1,43 @@
+﻿---
+ID: "3a0aefc0-dc15-4a80-a4e6-0e34579e03b8"
+Parent: "de2985ff-6e5e-4f85-82cc-22ac79db039b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/Vinyl Plank Flooring Cleaning and Care FAQs/What should you not clean vinyl plank flooring with"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182442Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What should you not clean vinyl plank flooring with?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Although vinyl plank flooring is one of the most durable flooring options available, you should still take care not to risk damaging it with the wrong cleaning supplies. To help keep your floors safe and well cared for, <strong>avoid these items</strong>:</p>
+        <ul>
+            <li><strong>Abrasive cleaners and tools</strong>.&nbsp;Steel wool, hard bristle brushes and powdered cleaning products are all a bad idea. Abrasion on your vinyl plank flooring will act as advertised and scratch the floor. This sort of damage is difficult if not impossible to repair, and you may end up needing to replace your flooring.</li>
+            <li><strong>Harsh chemicals</strong>.&nbsp;<span class="NormalTextRun SCXW239774342 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;">Cleaning products that </span><span class="NormalTextRun SCXW239774342 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;">contain</span><span class="NormalTextRun SCXW239774342 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;"> bleach, ammonia and acid-based cleaning elements will wear down the vinyl over time. The result will be dried out, cracked and faded vinyl planks that will not be as durable as well cared for vinyl.&nbsp;</span></li>
+            <li><strong>Wax-based polishes</strong>.&nbsp;<span class="NormalTextRun SCXW243062296 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;">Vinyl plank flooring does not need wax. These products can leave a buildup that makes the floor slippery, </span><span class="NormalTextRun SCXW243062296 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;">hazardous</span><span class="NormalTextRun SCXW243062296 BCX0" style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px;"> and unsightly. This residue will also make the floor much harder to clean.&nbsp;</span></li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d93a94e-11b8-4b4c-a7c2-b788202a9872"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T182535Z

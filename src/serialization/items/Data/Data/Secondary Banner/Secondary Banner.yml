@@ -1,0 +1,48 @@
+﻿---
+ID: "f80962c9-b5a1-4db3-b5bf-414b3f3f9e3b"
+Parent: "9f860db5-c293-4eda-83f5-a28c9e234d3d"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Data/Secondary Banner/Secondary Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T105328Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Porcelain Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "The most durable option in tile is also one of the most versatile. Get any high-end look you want with a porcelain tile&mdash;stone, wood, patterned, textured and more&mdash;and it will stand up to wear and tear for as long as you let it. Unique shapes, sizes, mosaics and finishes ensure that there is a perfect porcelain tile for every space and project."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac8c31ed-af5a-43eb-ace1-d4d934b9a30e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link class="" querystring="" id="{85F6F16C-B3C3-45D6-B22F-4FC308ABEF9C}" anchor="" target="" title="" linktype="internal" text="Sign Up" url="/TTS/TileShop/Home/Register" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T172210Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Go to Tiles" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BC5343F0-5424-4BA7-A3B4-AAFDD24706C4}" />
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {551F04A1-1092-44F7-9A0E-9E5E08E17DC1}
+        {345CB48B-F7A4-49CB-A828-4F4089C596D1}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

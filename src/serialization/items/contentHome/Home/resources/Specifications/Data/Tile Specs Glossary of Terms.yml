@@ -1,0 +1,33 @@
+﻿---
+ID: "18977528-2617-442e-b3c4-265ba5b8f80e"
+Parent: "fb5a407f-d0a6-4266-877b-5dfdb2895991"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: /sitecore/content/TTS/TileShop/Home/resources/specifications/Data/Tile Specs Glossary of Terms
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084303Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Specs Glossary of Terms
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79fb7b83-4007-47b9-983f-23c32772b28d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Tile Specs Glossary of Terms" anchor="" linktype="internal" class="" title="Installation FAQs" target="" querystring="" id="{5B87FB00-2886-42F6-A52B-799CCCD7D011}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T115722Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Glossary_Thumb_2C:2_Column_All"

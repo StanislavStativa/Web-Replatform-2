@@ -1,0 +1,38 @@
+﻿---
+ID: "970cc8ad-eb5e-44cb-aa0a-dbc3fe70859c"
+Parent: "8dce78c6-cf3f-4e6e-90a6-1bb7c6a18632"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Express Your Personality
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T114307Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Redo Your Backsplash Tiles for an Easy Home Update
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>Modernizing your home is as simple as updating your</span><a href="/room/kitchen/backsplash" class="font-bold">kitchen</a><span> or </span><a href="/room/bathroom/backsplash" class="font-bold">bathroom backsplash</a><span>.It allows you to add a pop of color, a distinct shape or a stand-out pattern to your room—and it’s a quick and easy DIY project. Go bold with a fun mosaic or classic with a</span><a href="/featured/subway" class="font-bold">subway tile backsplash</a>.<span style="margin: 0px; padding: 0px; border: 0px; color: #ff642e;"></span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8014045a-92ba-415c-9b2c-fffbf4435924"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T184832Z

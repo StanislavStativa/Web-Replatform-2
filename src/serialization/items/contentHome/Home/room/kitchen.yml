@@ -1,0 +1,178 @@
+﻿---
+ID: "d9a98582-e972-43eb-a3c4-9411989bdc8b"
+Parent: "9748beac-042b-41e4-ad61-73986a674391"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FC77E4F1-1AD7-466C-B905-097954398786}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8F23D640-B754-49D1-B19F-ACC1EF5CC503}"
+          p:before="*"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{B4412773-5A49-4C4E-879C-C85802A3CCAE}"
+          p:after="r[@uid='{8F23D640-B754-49D1-B19F-ACC1EF5CC503}']"
+          s:ds="local:/Data/Multi Asset Banner"
+          s:id="{236A5377-7CAF-4551-A84D-E9F3628F0E90}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{B4412773-5A49-4C4E-879C-C85802A3CCAE}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{7BA4AC74-A8E8-4154-B2A2-B4523C4B6424}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{7BA4AC74-A8E8-4154-B2A2-B4523C4B6424}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7BAB7ACAD5-99BD-48A0-8C23-4194151FC432%7D%7C%7B5B947AFB-2F24-4796-9000-9200942C45EA%7D&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-8" />
+        <r
+          uid="{2D8D7B75-DC94-40E2-BE45-AF305AE03199}"
+          p:after="r[@uid='{DA85CF3E-0243-4124-98A6-9C506D21746D}']"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="headless-main" />
+        <r
+          uid="{1720A249-9CCF-4361-AC33-D0C02B8E7398}"
+          p:after="r[@uid='{2D8D7B75-DC94-40E2-BE45-AF305AE03199}']"
+          s:ds="local:/Data/Featured Tile 2"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="headless-main" />
+        <r
+          uid="{B2AC04F8-0974-4A84-9FE6-8397F47656CA}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Featured Tile 3"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: kitchen
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "05e4357f-e613-4c29-b6e4-11e3582db4f5"
+      Hint: MetaKeywords
+      Value: 
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "As the centerpiece and gathering place of the home, the kitchen sees a lot of activity. Keep it in tip-top shape with durable tile that protects your surfaces. From rustic to contemporary to traditional, there&rsquo;s a tile to achieve every style you can dream up."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{00A059BB-65D8-4B31-A70D-7F7D28BE9996}" anchor="" title="" linktype="internal" text="Kitchen Accent" url="/TTS/TileShop/Home/room/kitchen/accent" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{53A06EBF-C986-4206-8A6D-B4F34EA4D51E}" anchor="" title="" linktype="internal" text="Kitchen Wall" url="/TTS/TileShop/Home/room/kitchen/wall" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181004T222130Z
+    - ID: "2fe36a94-8298-4776-b050-9173f9c84b4d"
+      Hint: ProductHierarchy1
+      Value: |
+        {5807AA8A-DE6A-4D89-B862-D6B369C3266D}
+        {74C2F521-730A-4EB8-B4F0-0E36E7D1630F}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Shop Kitchen Tiles | Ceramic & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Kitchen Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\markb
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "TimberTrails_WarmWhites_Kitchen_009:Category_Intro_Image_V2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4ebd53f-3adc-4189-9e1b-58307fc10fe0"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Kitchen Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{95E993AC-B3F2-4046-8A9C-76715A8260E1}" anchor="" title="" linktype="internal" text="Kitchen Floor" url="/TTS/TileShop/Home/room/kitchen/floor" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop our huge selection of kitchen wall and floor tiles at The Tile Shop. Visit to enjoy free design services and assistance from our tile experts today.
+    - ID: "c40acd03-ffab-4749-bb1a-7d2cc07fa64d"
+      Hint: RoomBoost
+      Value: 
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" querystring="" id="{B2FC54E3-08B7-4721-B978-DD1593A26A05}" anchor="" title="" linktype="internal" text="Kitchen Backsplash" url="/TTS/TileShop/Home/room/kitchen/backsplash" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T062555Z
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: 

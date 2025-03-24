@@ -1,0 +1,42 @@
+﻿---
+ID: "453f2491-5e38-4a39-a8e0-975cb58f6f73"
+Parent: "f15708cc-ce9e-4ab4-a012-3036b6024124"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">The Natural Beauty of Travertine Tile</h2>
+        <p><span>&nbsp;</span></p>
+        <p>It’s easy to see why travertine has remained one of the world’s most popular building materials for thousands of years. Whether you go with a travertine tile backsplash, entryway, shower or <a class="font-bold" href="/fireplace/hearth-floor" style="font-size: 16px;">fireplace hearth</a>, this stone’s timeless look and natural strength mean it will stand the test of time, literally and figuratively. And the inherent variations of natural stone guarantee your space will be one of a kind; even if they are quarried from the same location on the same day, no two pieces of natural travertine are ever the same.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2224218e-c40d-4fb0-ad91-cbe7fd5ecf0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123201Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "e6639b59-ab96-4309-97e2-dc5a55912863"
+Parent: "f6fd5cf8-2b05-4d11-bf67-dd2ab325156c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Floor Tiles for a Kitchen Refresh</h2>
+        <p><span>As it is one of the most used and high-trafficked areas in your home, choosing kitchen floor tiles is one of the most important design decisions you can make.  With a rich array of colors, styles and finishes to choose from, it’s easier than you think to transform a dated kitchen into an inviting room that draws family and friends together.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d8f88dd-54a9-4171-b9ef-bcdce1f0d9ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055633Z

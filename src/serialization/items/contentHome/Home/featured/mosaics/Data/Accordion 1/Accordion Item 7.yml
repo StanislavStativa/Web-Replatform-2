@@ -1,0 +1,42 @@
+﻿---
+ID: "066abfa7-5b01-435d-82c8-a38e4ce91635"
+Parent: "6138f70a-4063-4021-a402-1971c600ce67"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/Accordion 1/Accordion Item 7
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T175545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you clean mosaic tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>We recommend using a non-acidic, anti-bacterial cleaner for man-made materials like ceramic and porcelain as well as natural stone materials. Our Grout and Tile Neutral Cleaner or Anti-Bacterial Cleaner are safe options for everyday use with both categories of tile. If your natural stone requires a deep cleaning or special attention, we advise contacting your <a class="font-bold" href="/store-locator/">local Tile Shop</a> representative for more information as some stones are sensitive to certain cleaning agents.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43da5656-8f78-4fb3-bf8a-b2821c1265b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T075731Z

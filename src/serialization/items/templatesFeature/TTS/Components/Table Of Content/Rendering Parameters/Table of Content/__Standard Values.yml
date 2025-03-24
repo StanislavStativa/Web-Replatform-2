@@ -1,0 +1,27 @@
+﻿---
+ID: "bf4d1417-c25c-4950-acb4-b204c25b2c2f"
+Parent: "b192a2ab-7d36-4c39-aa87-919e62f7224a"
+Template: "b192a2ab-7d36-4c39-aa87-919e62f7224a"
+Path: /sitecore/templates/Feature/TTS/Components/Table Of Content/Rendering Parameters/Table of Content/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da85e61d-8d58-4a85-8180-c0abd21006f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T125114Z

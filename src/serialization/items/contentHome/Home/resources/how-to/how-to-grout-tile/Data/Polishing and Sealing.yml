@@ -1,0 +1,37 @@
+﻿---
+ID: "956727e0-c43c-4eda-bec4-c54f0ac93be1"
+Parent: "b7b54fc6-4f5d-4bca-997c-5362857d5a6b"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-grout-tile/Data/Polishing and Sealing"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Polishing and Sealing
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Once the grout has started to cure, you may notice a cloudy haze on the tiles. To remove this grout haze, gently polish the tile surfaces with a soft, dry cloth.</p>
+        <p>After the grout is cured according to manufacturer specifications, apply a grout sealer to protect it from stains and mold and mildew growth. This is especially important for floor tiles, which are subject to more wear and tear as well as bathroom floors, showers and kitchen backsplashes, which may be exposed to excessive moisture. Wait until the sealant has fully dried before exposing the surface to water.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "938575ed-b42c-4edc-9862-998207f997ae"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 7
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T123548Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 7

@@ -1,0 +1,23 @@
+﻿---
+ID: "f874b1b4-17d3-42af-ac8c-662d874e03f8"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "432d8cc1-194b-4d2f-8be0-ffe97e08c93e"
+Path: /sitecore/content/TTS/Global Content/New Country Codes Folder
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T165531Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fa339cb-4b25-4dfa-bb79-00e409df503e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T092257Z

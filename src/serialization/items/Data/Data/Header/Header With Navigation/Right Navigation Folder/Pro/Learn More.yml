@@ -1,0 +1,33 @@
+﻿---
+ID: "2a5b2c18-a753-43b5-bca6-07c6f7fbf4b3"
+Parent: "4dbd2a5b-66a2-4889-85ae-7027cc14d37d"
+Template: "83dd0f1e-095a-4275-9c18-38b2eed7fad2"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Pro/Learn More
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T201046Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9490f09d-3f9d-4a4b-bfff-cc1ce5e9c200"
+    - ID: "9d3dee71-6714-4993-b435-431d24bf4acd"
+      Hint: CTASize
+      Value: Small
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T095410Z
+    - ID: "dbb3fa89-481b-443d-901c-13a199855cf5"
+      Hint: CTAColor
+      Value: Outline
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E059C3A7-4644-436C-9959-D130A3723EFF}" />

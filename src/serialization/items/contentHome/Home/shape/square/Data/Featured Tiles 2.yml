@@ -1,0 +1,44 @@
+﻿---
+ID: "03df916f-d428-4dad-b467-51140f7967a4"
+Parent: "33fbd756-8f4f-4533-8f0b-ab9b39e8dc77"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/square/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {6D562BCD-EC9B-4872-8CDF-0ADEE2EE8D5E}
+        {910DD35B-9C3B-4900-8A87-B8318FE3F80F}
+        {D76DD5FA-2BD3-467C-A5CE-B70A301C40AD}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Versatile Square Floor Tiles for Every Space
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Square floor tiles are available in just about any size, material or color you can imagine. They’re perfect for creating a neutral canvas on which to build your room but can also make a statement. Pick two solid colors to create a bold checkerboard arrangement, or select one of our patterned cement or <a class="font-bold" href="/material/porcelain?facet_shape=facet_idU3F1YXJl">porcelain tile styles</a></span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">&nbsp;and let the beautiful design speak for itself.&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18cbdaaa-175b-4912-bcc0-314d6083af24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185158Z

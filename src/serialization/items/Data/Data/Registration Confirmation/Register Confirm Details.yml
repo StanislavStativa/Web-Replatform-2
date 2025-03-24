@@ -1,0 +1,45 @@
+﻿---
+ID: "b436e6f5-3bcf-490a-a9ef-152684bb92e2"
+Parent: "a6ccb3f1-fa33-4f92-b9c0-219d8e400a37"
+Template: "f6e1c071-8782-41b4-9d08-debd358958c7"
+Path: /sitecore/content/TTS/TileShop/Data/Registration Confirmation/Register Confirm Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T041947Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "One More Step!"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        
+        <p>Thank yout submitting your registration.  There is just one more step before you can begin your account.</p>
+        
+        <p>An email with temporary password has been sent to the address you provided. <b> Please log in using the temporary password, at which which point you will be prompted to create a new secure password</b></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a33ff089-09ed-4dca-a680-13cf6594ec5a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240521T042120Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

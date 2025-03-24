@@ -1,0 +1,72 @@
+﻿---
+ID: "9dd475c3-6a9b-4799-93f4-fd44124882d6"
+Parent: "b8bde5f2-4839-4c71-9884-2312f59824f6"
+Template: "f737a722-39c9-490d-9845-3b3246f83ae9"
+Path: /sitecore/content/TTS/TileShop/Data/Quotes/Quotes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T092614Z
+    - ID: "2d0904d3-0429-4b07-bf7f-ecfa9bc7dd7b"
+      Hint: Status
+      Value: |
+        {895EF782-EC10-443B-AC9F-EF56B6B779E0}
+        {3B3A66E8-3D91-46CC-8494-221BE72E4EB1}
+        {FB1B817C-24D7-4AD2-B4FD-22EE489FF630}
+    - ID: "39fd8402-3ab1-4e05-9c69-a71502fc674b"
+      Hint: Period
+      Value: |
+        {F1AF1FF0-A818-4FA5-BE84-93137865B7C1}
+        {CF14FADB-8C9F-4984-BBFD-B01D307B74DA}
+        {302988B2-33CD-4FD3-9133-091F726A6314}
+        {59B8C695-F4C5-4CE7-8C0E-57DBBCA8052A}
+        {329C64A3-5D3E-4886-A326-E663C554A32D}
+        {4706A6BA-55C4-47E3-A0B6-263D7980CE69}
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{D2AEAE4D-BEAB-44E4-9818-9C816F6BD7D8}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Search for Quotations
+    - ID: "59d712c4-2112-48ce-8b4f-14f5a176cef2"
+      Hint: SearchBy
+      Value: |
+        {52E87BAE-58C0-4007-81A9-11ED3D5DEFAD}
+        {3BB7BB29-BDC4-4B58-ADDC-BA8F6D8F9569}
+        {A9AC662F-EAD3-4DC9-A368-49EABB2662F5}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "7dc1989d-8639-4329-8384-6f8e9b390084"
+      Hint: OrderType
+      Value: |
+        {4A357D29-5384-43FD-8D28-0E6D05DBD03A}
+        {A256D6FE-FD10-421F-AF76-8B85130EF467}
+        {080F2691-2D9C-4546-8CE8-F5E4C0B8F513}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80f6b783-3468-4a61-9c88-651b45f63ca0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T204448Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Search" anchor="" linktype="internal" class="" title="Search" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

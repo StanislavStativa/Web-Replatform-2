@@ -1,0 +1,37 @@
+﻿---
+ID: "57202c68-5576-4dc7-811c-b1feff9fe4aa"
+Parent: "ab120a54-99f6-4e66-aae0-5a7186a7db1c"
+Template: "3dca0024-f294-428b-82dd-8f29f5268a28"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Floors/Data/1 No Image Border"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102441Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22ffb5c8-80f7-4e98-92c7-b7966eca0bf3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "beb4d9d6-35de-4e71-8ef2-be077da07ff5"
+      Hint: Caption
+      Value: The moody and dramatic hues of the Victoria Grey collection are highlighted in this herringbone arrangement.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T134335Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Shot_16_Victoria_Grey_Dark:Image_Caption_Hero_V2"

@@ -1,0 +1,60 @@
+﻿---
+ID: "251bee63-466d-4176-a3d8-3108c270a516"
+Parent: "c4d257b1-f772-49f3-b0cd-f125bb25098e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/website-technology-accessibility/Data/Rich Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T135055Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: The Tile Shop Website & Technology Accessibility Statement
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><strong>Assistance</strong><br />
+        If you have difficulty accessing any feature or functionality on this website or on any The Tile Shop mobile app or tool, please feel free to call us at 888-398-6595 or email us at <a href="mailto:customerhelp@tileshop.com">customerhelp@tileshop.com</a> and we will work with you to provide the information or item you seek through a communication method or that is accessible for you (for example, through telephone support).</p><br />
+        <p><strong>Feedback</strong><br />
+        You may also contact us if you have any feedback or suggestions as to how we could improve the accessibility of this website or our other technology.</p><br />
+        <p><strong>Goal of Accessibility for All Customers</strong><br />
+        At The The Tile Shop, we strive to promote accessibility, diversity and inclusion. Our goal is to permit our customers to successfully gather information and conduct business through our website and other technology platforms.</p><br />
+        <p>Whether you are using assistive technologies like a screen reader, a magnifier, voice recognition software, or switch technology, our goal is to make your use of The The Tile Shop&rsquo;s technology a successful and enjoyable experience.</p><br />
+        <p><strong>Actions</strong><br />
+        The The Tile Shop is actively taking steps and devoting resources to promote compliance with applicable laws and guidelines. We have specific employees whose job duties explicitly include promotion of accessibility, and we have engaged outside vendors and consultants to improve the quality and accessibility of our user experience for users of all abilities. We continue to look for ways to improve the customer experience. Specific goals and activities of The The Tile Shop include:</p><br />
+        <ol>
+            <li>The Web Content Accessibility Guidelines (WCAG) 2.0 Level AA are considered by many to set an appropriate standard for website accessibility. We are reviewing and testing our website as measured against the WCAG 2.0 Level AA standards.</li>
+            <li>We engage consultants and have designated staff whose assigned purpose is to promote the accessibility of our website and other technologies.</li>
+            <li>Some specific actions we have taken or are working to deploy, include:
+            <ul>
+                <li>Text Equivalents / AltText. Use of alternative text (alt text) and captions in relation to images, videos and multi-media content.</li>
+                <li>Site Structure. Use of headings, lists, paragraphs and other formatting features on TileShop.com com so that guests can more easily use the site with assistive technology.</li>
+                <li>Keyboard Access. Use of alternative text (alt text) and captions in relation to images, videos and multi-media content.</li>
+                <li>Consistent Structure. We aim to create pages, sites and apps with a consistent structure, to ease navigation.</li>
+                <li>Contrast. When choosing colors and site design, we consider the issue of contrast, to promote the accessibility of images and text.</li>
+                <li>Alternate Methods. If any aspect of our website or other technology tools does not seem to be accessible to you, you are welcome to email us and/or contact our telephone customer support, and we will strive to provide access to you through these alternate methods.</li>
+            </ul>
+            </li>
+        </ol>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b041712-8368-47c2-a372-ffe382cd471b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T074542Z

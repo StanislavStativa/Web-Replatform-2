@@ -1,0 +1,37 @@
+﻿---
+ID: "e29aab81-ac44-45ad-b966-494e11e63106"
+Parent: "ffe02ff4-f1e4-4acc-8cea-51babecc1d01"
+Template: "cfaeca9f-7f6a-4ecb-835b-8a727cce9462"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Safety Data Sheets/Excel Sanded
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T154013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kulsh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kulsh
+    - ID: "87ec6bf1-640f-4263-a96e-92cf4ae4f12f"
+      Hint: Link
+      Value: "safety-data-sheets/Superior_Excel_Sanded_SDS_2024.pdf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63b1c03c-79a0-48a3-84a8-7647bd9108cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "c30e24d9-e876-4923-9b67-5738162437a7"
+      Hint: Name
+      Value: Superior Excel Sanded Grout
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T154053Z

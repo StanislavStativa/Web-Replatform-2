@@ -1,0 +1,44 @@
+﻿---
+ID: "a8e3915f-15af-4987-a83b-a91ca70a6e43"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Featured Tiles 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {1E5C4ED1-BB79-44DD-8914-D4DCD2569B53}
+        {DAB45F0F-3457-4B1A-96A8-5FEC662B5EEF}
+        {53DC4105-3B54-4D9D-9A8D-3B1DB6D4D551}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Compare Materials
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Over the years, as the popularity of subway tile has expanded, so has the range of materials to choose from. Today, the category also includes a wide selection of porcelain, marble, limestone and&nbsp;</span><a class="font-bold" href="/material/glass">glass tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">.</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51f3aefe-7fca-4bfe-be1c-fe92e0ec6d7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061918Z

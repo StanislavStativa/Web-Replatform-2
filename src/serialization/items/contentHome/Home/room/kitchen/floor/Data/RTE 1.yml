@@ -1,0 +1,42 @@
+﻿---
+ID: "1eaeb686-2f0e-4b97-b753-bedf135d4e23"
+Parent: "f6fd5cf8-2b05-4d11-bf67-dd2ab325156c"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Classic and Classy Checkerboard Tile</h2>
+        <p><span>A checkerboard pattern is a great way to add some playfulness to your kitchen floors without being obtrusive. A </span><span><a class="font-bold underline" href="/color/black-white">black and white tile</a></span><span>&nbsp;checkerboard will give your kitchen a classic vintage look. Use white and patterned tile for a bold design. Or lay neutral colors like beige or stone-look in a checkerboard to add subtle interest to your floors. Shop our wide assortment of&nbsp;</span><a class="font-bold underline" href="/shape/square">square tiles</a><span>&nbsp;to create a look that is unique to you.&nbsp;&nbsp;</span></p>
+        
+        <p><span>Your kitchen floor tile sets the stage for the rest of the room. Whatever design you’re hoping to achieve in your kitchen, we have a wide array of materials and styles to achieve the perfect floor to ground your kitchen. For more ideas and information&nbsp;<a class="font-bold underline" href="/store-locator/">visit one of our showrooms</a>.&nbsp;&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d2e3d37-7180-4fb2-abbe-bb1032ba082e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055633Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "37f3e6bb-6d35-4028-8909-6de66b7e73df"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/06 Mix Thinset Mortar"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 6: Mix Thinset Mortar"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        
+        <div class="rich-text">
+        <p>When mixing <a class="font-bold" href="/installation-care/installation/adhesives">thinset mortar</a>, always follow the instructions provided by the product&rsquo;s manufacturer. In addition to mixing, instructions may also require a &ldquo;slaking&rdquo; period, which is the amount of time the mix may need to rest. Always check the instructions for the thinset you&rsquo;re using to see if this step is needed.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="The correct consistency for thinset mortar is creamy, neither too thick or too runny, and free of clumps and dry powder." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Thinset2:16x9" /></p>
+        <br />
+        <p>Once you&rsquo;re done mixing, check the consistency with your margin trowel. Thinset mortar should be a creamy consistency that is not too runny, not too thick, and free of clumps and dry powder.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc744328-bd88-44a5-8555-595adb9a10d5"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T072449Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 6

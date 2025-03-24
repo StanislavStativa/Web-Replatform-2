@@ -1,0 +1,29 @@
+﻿---
+ID: "943516e3-9f25-4989-9a6a-1e546d31d953"
+Parent: "2ae424b4-3abe-405f-b672-94888ff4ad45"
+Template: "d8fd2da6-ddef-43c6-b6a0-e428023c1233"
+Path: /sitecore/content/TTS/Global Content/Product Facets/Price
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T221056Z
+    - ID: "581fb433-0d5b-4b00-a63d-9fd22ca1edd1"
+      Hint: ProductAttribute
+      Value: 
+    - ID: "7fd9155d-f1b1-4dc2-af15-10865a1ce88a"
+      Hint: FacetName
+      Value: Price
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb90938a-8028-4d01-8d29-f98effb55562"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181127T144559Z

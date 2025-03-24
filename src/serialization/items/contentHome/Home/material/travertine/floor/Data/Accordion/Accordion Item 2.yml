@@ -1,0 +1,40 @@
+﻿---
+ID: "2d8aa6a4-362f-4ba4-8111-6e6199366f9e"
+Parent: "7639f8cc-ffd6-4555-b2c6-a80e778397a8"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/floor/Data/Accordion/Accordion Item 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113449Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you clean travertine floors?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        It’s important to sweep on a weekly basis so small particles can’t scratch the surface of the tile. Make sure you use a neutral cleaner that is pH balanced to protect your sealer and clean your floors. You should clean with a damp mop and never use an abrasive chemical or acidic cleaner. For travertine, we recommend Grout & Tile Neutral Cleaner and Natural Stone Deep Cleaner from Superior Adhesives & Chemicals.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14cca6e7-8c15-474f-a08a-4dfc5459c222"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T152031Z

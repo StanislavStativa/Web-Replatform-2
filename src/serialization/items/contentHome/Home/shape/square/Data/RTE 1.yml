@@ -1,0 +1,42 @@
+﻿---
+ID: "25023138-c261-4d19-82a8-b7db3632788c"
+Parent: "33fbd756-8f4f-4533-8f0b-ab9b39e8dc77"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/square/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="h2 extra-small-bottom-margin" style="color: #333333; margin: 0px; padding: 0px; border: 0px;"><span class="h2" style="color: #323338;">Create Your Ideal Space with Square Tiles&nbsp;</span></h2>
+        <p class="monday-block-1 extra-small-bottom-margin" style="color: #333333; margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;">When it comes to the sheer variety of options available, nothing comes close to square tiles. This shape has been around as long as humans have been making tile, and today we are living in a golden age of technology, artistry and design that makes it possible to customize your space like never before.</span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;" class="extra-small-bottom-margin"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Square ceramic tile is just the beginning (although we have plenty of that!). Our selection also includes porcelain, glass, and&nbsp;</span><a class="font-bold" href="/material/marble">marble</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, to name just a few of the materials we offer.&nbsp;</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f75cf64a-3b8b-4f70-b64f-b08aaf9671de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T121851Z

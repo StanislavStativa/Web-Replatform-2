@@ -1,0 +1,44 @@
+﻿---
+ID: "9fab1590-adec-42e8-9e48-3f8f3a607252"
+Parent: "57b3377a-5bbf-4185-9c6a-9bce0e5672dd"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/pro-referral/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {C778AC3B-60FD-494F-828B-1F2A50199E54}
+        {98CDA7B1-20DC-43E6-B995-E781AF8EFE7A}
+        {2CB8A948-52A7-4122-9E6A-BF6CBE96DB9D}
+        {6DFBBEEC-E261-4630-B911-319D8903914A}
+        {21903EC8-47FC-44DF-B320-859DE7658785}
+        {F580ACF0-4622-4857-8AFE-C6FDB2325D15}
+        {8E6B748A-1A27-42FA-9E7E-1F8749D3535A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072613Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6e8b6d18-60a3-46c1-9a1e-298352d5ed51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T081912Z

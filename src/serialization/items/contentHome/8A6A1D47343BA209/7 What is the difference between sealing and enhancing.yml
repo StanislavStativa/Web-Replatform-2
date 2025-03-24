@@ -1,0 +1,47 @@
+﻿---
+ID: "5ebd1462-9bc4-483e-bfdd-982d105fe0d8"
+Parent: "2a32226d-e816-4cc0-bf79-77d97cc76010"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/faqs/maintainance-and-care/Data/Product FAQs/7 What is the difference between sealing and enhancing"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T063351Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is the difference between sealing and enhancing?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Sealing and/or enhancing your product will determine its appearance after it's been sealed. Our natural look sealers, such as our Premium Gold sealer and Penetrating Sealer, simply seal your stone or grout product without altering the appearance of the material. Enhancers will "enhance" the appearance of the material, giving it a "wet look" in addition to sealing it. To test out the enhanced look before making it permanent, take a damp cloth or lightly mist your stone and blot/buff dry to remove the shine. If the enhanced look is something you prefer, protect and maintain your stone with our Enhance &amp; Seal product. Enhance &amp; Seal is not recommended to apply to grout joints.</p>
+    - ID: "85fb977b-e828-4832-b565-efc8c5ea486a"
+      Hint: OpenbyDefault
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec283218-0c02-49ef-8e92-1ed4b67898e0"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T140010Z

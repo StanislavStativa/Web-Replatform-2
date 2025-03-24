@@ -1,0 +1,37 @@
+﻿---
+ID: "bab13fad-a065-4be1-9589-94dc46e387f4"
+Parent: "199cc459-b383-44df-a35e-59f062d9d54d"
+Template: "76833947-105c-4ca2-a412-3f6e56128a83"
+Path: /sitecore/content/TTS/Global Content/PdpShapes/Broken Random
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210621T141628Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        CustomCommand\SapAttributeValuesImporter
+    - ID: "896f3087-eaed-4888-b5b9-a34a788bc1a9"
+      Hint: PdpShapeName
+      Value: Broken Random
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d9b0826-f3b6-4a32-9d10-63e1e6653f67"
+    - ID: "ba98fce1-46ba-4f10-8d23-fbf94ce8534b"
+      Hint: PdpShapeId
+      Value: BROKEN RANDOM
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210621T141628Z

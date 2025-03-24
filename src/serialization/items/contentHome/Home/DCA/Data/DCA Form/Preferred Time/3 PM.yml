@@ -1,0 +1,34 @@
+﻿---
+ID: "667e2edf-b3fc-48d4-b8cc-01a16e4463c0"
+Parent: "85494349-4bed-468d-a554-334b1bc7aef6"
+Template: "c7bc5c92-8e98-4763-bb0d-c14ed92230f5"
+Path: /sitecore/content/TTS/TileShop/Home/DCA/Data/DCA Form/Preferred Time/3 PM
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19388f47-6b2a-4037-948b-04ab2404d861"
+      Hint: Key
+      Value: "3:00 PM"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240708T102052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19ef2472-bdbf-473e-9126-99d41971a191"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T102624Z

@@ -1,0 +1,79 @@
+﻿---
+ID: "96b4260a-66c3-4c39-91a8-71e522024450"
+Parent: "fbf5ef50-a5cc-48f3-810a-7d936ddeb322"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/What You will Need"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: What You'll Need
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <ul>
+            <li>Broom or vacuum</li>
+            <li>Bucket</li>
+            <li>Mop</li>
+            <li>Commercial vinyl plank floor cleaning product or apple cider vinegar</li>
+            <li>Soft towel</li>
+        </ul>
+        <p>&nbsp;</p>
+        <h2 class="font-latoLight"><span class="h2-style">How to Clean Vinyl Plank Flooring</span></h2>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Step 01 of 04: Sweet or Vacuum</span></h3>
+        <p style="margin-left: 40px;">Begin by removing loose dirt, dust, and debris from the floor with a vacuum, broom or dry mop. If you use a vacuum, use a soft hose attachment as beater bars are likely to scratch your floor.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Step 02 of 04: Mix the Cleaner</span></h3>
+        <p style="margin-left: 40px;">The best way to clean vinyl plank flooring is to use a commercial product specifically formulated for vinyl plank floors. When you use a commercial vinyl floor cleaner, follow the manufacturer's instructions for mixing it into a bucket of water. For a homemade cleaning solution, fill a bucket with one cup of apple cider vinegar per gallon of water. If you also want to disinfect your floors, replace the apple cider vinegar with white vinegar.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Step 03 of 04: Mop the Floor</span></h3>
+        <p style="margin-left: 40px;">Dip your mop into the cleaning solution, wring it out thoroughly so it's damp but not soaking wet. Mopping with too much water can damage vinyl flooring. Mop the floor in sections, using gentle strokes and going with the grain of the vinyl planks. Rinse the mop head frequently in clean water to avoid spreading dirt around.</p>
+        <p style="margin-left: 40px;">Once you've finished mopping the entire floor with your cleaning solution, use clean water to rinse the mop thoroughly. Then, go over the floor again with the clean, damp mop to remove any cleaning solution residue.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Step 04 of 04: Dry the Floor</span></h3>
+        <p style="margin-left: 40px;">While you can allow the floor to air dry, you may get better results by drying the floor with a soft towel. This will ensure the water gets off the floor quickly, which will prevent the development of water spots.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h2 class="font-latoLight"><span class="h2-style">How to Care for Vinyl Plank Flooring</span></h2>
+        <p>Regularly cleaning is just one way to make sure your floor stays looking fresh. There are a few things you can do between cleanings to care for your vinyl plank flooring to keep it at its best.</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Get Serious About Dirt Reduction</span></h3>
+        <p style="margin-left: 40px;">Dirt and debris act like sandpaper, so regular sweeping between moppings is critical. To make this easier, consider placing throw rugs in high traffic areas and place welcome mats at all entrances to your house to trap dirt and grit before it can come inside.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Reduce Opportunities for Scratches</span></h3>
+        <p style="margin-left: 40px;">Use furniture coasters or felt pads under heavy appliances and furniture to reduce marks left by those pieces shifting during use. You should also avoid dragging furniture when you are moving it. Try to lift it fully off the ground whenever possible. If you do need to drag or slide it, place a moving blanket, plywood or other protective material under it to avoid leaving marks.</p>
+        <p style="margin-left: 40px;">Another good way to reduce scratches is to regularly trim your pet's claws. This is another instance where area rugs can help you care for your vinyl plank flooring. Consider laying a durable rug where your pet likes to play or where they are most likely to run around.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">Clean Spills Quickly</span></h3>
+        <p style="margin-left: 40px;">While vinyl plank floors are remarkably resilient, you should still clean spills as quickly as possible. Blot up spills with a clean, absorbent cloth and then clean the area with a commercial vinyl flooring cleaner or a vinegar solution. The sooner you address spills, the less likely they are to stain your vinyl flooring.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="font-latoLight" style="margin-left: 40px;"><span class="h3-style">How to Deep Clean Vinyl Plank Flooring</span></h3>
+        <p style="margin-left: 40px;">If you do end up with a stain on your vinyl plank floor, you have options for giving that spot a deep clean. Before you start, make sure you only use products that are safe for vinyl tile flooring. If you are unsure if the product is safe, check the vinyl tile manufacturer's instructions.</p>
+        <ul>
+            <li style="margin-left: 40px;"><strong>Scrub with a brush</strong>. Take a soft bristle brush and dip it in the commercial vinyl floor cleaning product or vinegar solution and scrub the stained area. Do not scrub too hard or the brush may start to scratch the floor.</li>
+            <li style="margin-left: 40px;"><strong>Isopropyl alcohol</strong>.&nbsp;For tougher stains, dampen a cloth with isopropyl alcohol, also known as rubbing alcohol, and gently rub the stain. Before using isopropyl alcohol on a stain, test it on a hidden section of the floor to ensure it doesn't discolor or damage the vinyl.</li>
+            <li style="margin-left: 40px;"><strong>Baking soda paste</strong>.&nbsp;Another option for tough stains is to mix baking soda with a little water to form a paste, then gently scrub the stain with a soft bristle brush. Again, test this paste on an inconspicuous area before using it more widely.</li>
+        </ul><p /><div></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13b596a7-c2b5-403a-8a3b-b3e959325edc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T182158Z

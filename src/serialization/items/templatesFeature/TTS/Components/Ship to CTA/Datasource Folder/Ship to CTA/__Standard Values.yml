@@ -1,0 +1,23 @@
+﻿---
+ID: "bf78d0c8-8641-438f-a9c4-8b49d9352829"
+Parent: "c80fef7c-edc9-43ce-8de7-ca66bdec92db"
+Template: "c80fef7c-edc9-43ce-8de7-ca66bdec92db"
+Path: /sitecore/templates/Feature/TTS/Components/Ship to CTA/Datasource Folder/Ship to CTA/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240730T054047Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d921afd2-764d-4a13-ad84-c80f64c02104"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T054047Z

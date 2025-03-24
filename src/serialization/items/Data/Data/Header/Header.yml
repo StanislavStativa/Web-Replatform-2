@@ -1,0 +1,40 @@
+﻿---
+ID: "7460d969-1948-4bd6-9c04-97884b604483"
+Parent: "c2011f78-cc01-4e8b-a3a9-8119dcd0cf3d"
+Template: "66107d3f-4be7-47a3-97ed-0dcea10e0668"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "152e6d1e-4656-4814-bd0c-e72839726a53"
+      Hint: MobileLogo
+      Value: |
+        <image mediaid="{CF0CA18C-4E47-45BA-A891-A46EE650B942}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240423T043340Z
+    - ID: "4020d5e5-a271-4587-bbed-b9ab0a27345a"
+      Hint: SearchBar
+      Value: "{FF9EAF3C-6FCE-4E6B-9547-5E73387E4C47}"
+    - ID: "8c0b211f-8f40-4abf-9383-e3f07aec5b7b"
+      Hint: DesktopLogo
+      Value: |
+        <image mediaid="{74750060-9BB0-438E-A118-98116AA9DAAA}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3237984-e871-42e9-b5a6-155c46a0aadc"
+    - ID: "aad6ca7c-0338-4cff-875f-08a5493b5bbf"
+      Hint: CTAList
+      Value: |
+        {06E83A8E-81B3-4CF8-B878-1EE0E366B820}
+        {E1E5D28D-E2DF-4084-AC0B-8C7A84FFABD3}
+        {751198B1-B6F5-41DC-A7EE-C42C50C41BED}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240430T112239Z

@@ -1,0 +1,30 @@
+﻿---
+ID: "dbd872f2-a10f-4b24-ba6c-586719754592"
+Parent: "369b6000-5a29-457f-8712-f8730d88f9c8"
+Template: "369b6000-5a29-457f-8712-f8730d88f9c8"
+Path: /sitecore/templates/Feature/TTS/Common/Rendering Parameters/Size/_Size/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddc561d9-5951-41c5-a2f4-a20e3c74bb00"
+    - ID: "91f7e8b0-5aba-4fed-98d6-4eff8258061b"
+      Hint: Size
+      Value: Small
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240419T030904Z

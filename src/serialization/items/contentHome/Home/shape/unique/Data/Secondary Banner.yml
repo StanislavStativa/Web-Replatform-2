@@ -1,0 +1,59 @@
+﻿---
+ID: "412bbece-bbb1-43cd-a9fb-46bd7e2c531f"
+Parent: "102b83b7-240b-42e7-b82a-e01d17950235"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/unique/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Uniquely Shaped Tile Banner
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Turn any space into a work of art with our stunning selection of uniquely shaped tiles available in a variety of sizes, colors and materials. From lavish marble waterjet mosaics with layers of intricate swirls to handcrafted Zellige tile molded into geometric stars and crosses, there's no shortage of statement-making tiles to choose from.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c706eed-2eaa-4211-a5e1-3f22ae18f6cb"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T180923Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: CuratedCollections_Cali_Bathroom_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {090C0F72-8007-4308-A41E-972EC35A4CE1}
+        {94C71381-C915-4C2F-BB6A-57F786E7685C}
+        {E14815AE-B789-4B72-BFB8-04FC330381F7}
+        {0016537F-6607-44F2-91A6-B8A44B15195A}
+        {342F5338-0B01-4C3F-93F4-03F1F6A23425}
+        {226D864D-3A60-4BAF-975E-3C299B0A25B8}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

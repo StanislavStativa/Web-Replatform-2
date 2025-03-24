@@ -1,0 +1,44 @@
+﻿---
+ID: "923a35fa-5203-4a0b-aaaf-0c7f5529c6f7"
+Parent: "3c07db8f-2f9f-472f-8ada-46fbdf957361"
+Template: "908a1e74-435c-4042-bcfe-2d23267eee0a"
+Path: "/sitecore/content/TTS/TileShop/Home/shopping-cart/Data/Order Summary"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1059cdcc-bc82-4d26-bb67-86761f5ec78e"
+      Hint: CitizenPayMessage
+      Value: |
+        <div><span>Buy Now, Pay Over Time with&nbsp;</span>
+        <img height="12" alt="citizen pay logo" width="96" src="-/media/33395A0BC8CC4AE190DBA3D471625489.ashx?h=12&amp;w=96" style="width: 96px; height: 12px;" /></div>
+        <div><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://thetileshop.citizensbank.com" target="_blank">Check Eligibility</a>&nbsp;</div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T131449Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Order Summary
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1086b9ee-d1a5-440c-8dc2-a6d46572e473"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240902T075251Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{065DBE6A-0E09-4BDB-933B-D493A5E68E89}" querystring="" anchor="" target="" title="Continue to shipping" linktype="internal" text="Continue to shipping" url="/TTS/TileShop/Home/checkout/shipping" />

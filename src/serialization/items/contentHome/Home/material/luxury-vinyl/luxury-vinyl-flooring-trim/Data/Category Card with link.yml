@@ -1,0 +1,62 @@
+﻿---
+ID: "2eed8375-756a-4738-be03-79d937a3520e"
+Parent: "63765733-3f10-4433-8f58-12c9d9a50d78"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl/luxury-vinyl-flooring-trim/Data/Category Card with link"
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxury Vinyl Trim
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Ensure your Luxury Vinyl Tile flooring has a seamless overall appearance with coordinating trim pieces. Our selection of Luxury Vinyl Tile Trim encompasses t-molds, reducers, end caps and more, making it easier than ever to achieve a design that feels cohesive and complete. <br /></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8741a6e2-9dc9-43e3-841c-029c3cf8f508"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T135240Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {669A4681-0A9E-4173-95A6-38049F738211}
+        {7F0598E5-362A-4A9F-9CD5-62406C03812D}
+        {58C3D01A-0718-4636-8CC8-656DA5F12E06}
+        {9DC5D8D0-5D60-4E2E-B71D-6829D4810314}
+        {B237D2A1-B85A-4E46-B04E-26FD64A41807}
+        {2990252C-64A0-4BB2-BE97-9AAC71F0A0B7}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

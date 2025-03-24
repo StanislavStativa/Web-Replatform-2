@@ -1,0 +1,29 @@
+﻿---
+ID: "a0ee46dd-2ed5-4264-a938-a8dd9b4d6832"
+Parent: "fcbc6a8c-8618-46c1-bf13-bb9117125f75"
+Template: "395c4301-9f68-4fc9-9663-a9859ccdc79b"
+Path: "/sitecore/content/TTS/TileShop/Home/look-book/digital-look-book/Data/Products Carousel"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T044133Z
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: Shop the Look
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06f793ba-fbec-4dbe-804c-1c711246fb5e"
+    - ID: "a6fa7681-7758-4c2c-a331-38a2f23bf628"
+      Hint: DiscoverRfkId
+      Value: shop_the_look
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240816T120215Z

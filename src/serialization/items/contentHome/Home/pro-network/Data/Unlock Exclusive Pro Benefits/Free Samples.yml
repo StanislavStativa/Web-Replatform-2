@@ -1,0 +1,36 @@
+﻿---
+ID: "d36ff062-59f8-4532-a7cf-5a4e1e25824f"
+Parent: "f1b2290b-99cb-4f93-9a8a-ae5ff4409efb"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/Data/Unlock Exclusive Pro Benefits/Free Samples"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T115809Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Free Samples
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a62acdd-531e-4e25-8021-7f2c25a5c1b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240607T082202Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: sample_iconPNG
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

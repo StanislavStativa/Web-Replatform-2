@@ -1,0 +1,33 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "MediaLibrary.TileShop",
+  "references": [ "Template.TileShop" ],
+  "items": {
+    "includes": [
+      {
+        "name": "MediaLibrary",
+        "path": "/sitecore/media library/Project/TTS",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "FeatureMediaLibrary",
+        "path": "/sitecore/media library/Feature/TTS",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly",
+        "rules": [
+          {
+            "path": "/Sitemaps",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "FeatureSitemaps",
+        "path": "/sitecore/media library/Feature/TTS/Sitemaps",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateOnly"
+      }
+    ]
+  }
+}

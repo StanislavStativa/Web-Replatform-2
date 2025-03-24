@@ -1,0 +1,45 @@
+﻿---
+ID: "ee7a1d98-bec8-461d-8869-926346d7a015"
+Parent: "78d20275-22c7-4fd5-8c6c-fa8d8c08a5e5"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {7DC5AE33-C2A2-4C8C-969D-75F9F790EEC3}
+        {0B8B8720-9DC8-4701-A09D-9406DF7AB55B}
+        {42E3CFE0-0366-4421-9A56-792DFB5B63FC}
+        {B2F8BFCF-8CF0-49CE-967C-4DED3653C09F}
+        {EF84BA2F-8D08-4D46-97A5-E3FF44969308}
+        {4A2A6004-4AC3-4D81-B8F4-2252C73472E1}
+        {35A287AE-A1F7-4340-BE02-61BD8A99CF25}
+        {2E719928-51FA-4FA7-A0FA-D7F6FD28E788}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1980890d-52b3-4edc-818c-1c8f2c76b886"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T181800Z

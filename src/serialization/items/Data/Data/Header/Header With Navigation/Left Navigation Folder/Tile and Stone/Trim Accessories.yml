@@ -1,0 +1,58 @@
+﻿---
+ID: "db3beca5-6e0b-40f6-8168-2aa8d58c5efe"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Trim Accessories
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T120649Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Trim & Accessories
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de4c0eb7-f880-4077-a48c-094476791de6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {CB181099-AB85-41B2-B671-995D7B3C9A18}
+        {E32308FD-2D0D-4BC3-A81D-DBCBA20721F8}
+        {DC3843FC-88EA-4F78-9ECC-C5550DA4606F}
+        {9D702739-A9C3-4234-B66D-6D221594E58F}
+        {DCD944DE-E4C3-4DF0-A957-C0F9100E3681}
+        {1E2B17C7-6C85-4429-9A3D-D2815E79CF7F}
+        {A6F028EF-F32A-4ACE-9ED2-0999AC8ED9C0}
+        {F748D5BB-1E89-4D0C-807A-534FD25E9086}
+        {43B9A775-DE5D-46A0-88DA-C22A855B6814}
+        {CEE3CBF8-1081-4FD6-B004-8536A546E9ED}
+        {63002D58-7DB6-4413-84B5-6455E95A813E}
+        {5C38CF77-B33B-4AAC-9F77-D4A8446650F6}
+        {4A289680-3607-4A34-BB20-B286436CDA5A}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T053209Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Trim &amp; Accessories" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CEB155FE-F9EE-45CE-BDD8-6CF81A745B79}" />

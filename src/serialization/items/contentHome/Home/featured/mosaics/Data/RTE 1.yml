@@ -1,0 +1,38 @@
+﻿---
+ID: "8bf9ecc7-0fc5-49e7-9b65-fdfed2fadd38"
+Parent: "a36d8e51-e0e7-49ad-8bab-79e4d28705ba"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/featured/mosaics/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h2 class="monday-block-1" style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">The Beauty and Artistry of Mosaic Tiles </span></h2><p class="monday-block-1" style="color: #333333; margin: 0px; padding: 0px; border: 0px;"> &nbsp;</p><p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">From ceramic to glass and everything in between, mosaic tiles are a timeless design element ideal for any room. The endless combinations of colors, shapes, sizes and materials—from intricate and elegant </span><a href="/featured/mosaics/waterjet-mosaics" class="font-bold underline">waterjet mosaics</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, to mixed-material creations with marble and wood, to high-shine metallic finishes—makes them a gorgeous addition to any style of home décor.  </span></p><p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span></p><p style="margin: 0px; padding: 0px; border: 0px;" /><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Mosaic tiles can be installed in almost any interior space you can think of, from floors to walls, bathrooms to </span><a href="/room/kitchen/backsplash" class="font-bold underline">kitchen backsplashes</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, and foyers to fireplaces. Wherever you decide to use mosaic tile, the mesh backing makes it easy to get a flawless installation every time. </span><p>&nbsp;</p><h3 class="extra-small-bottom-margin"><span style="color: #323338;" class="h3">Using Mosaic Tiles Throughout Your Home</span></h3><p><span style="color: #323338;">Mosaic tiles are an attractive choice for every room in the home, and our in-house design experts can help you discover all of the beautiful possibilities. Here are just a few ideas to get you started:  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af1ae916-5058-4a2d-886a-8a678b77a94e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124233Z

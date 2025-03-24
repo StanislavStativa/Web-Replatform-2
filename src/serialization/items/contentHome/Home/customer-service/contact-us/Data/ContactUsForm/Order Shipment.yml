@@ -1,0 +1,30 @@
+﻿---
+ID: "fe1aff2c-521b-4dac-95d7-c2b9bb3a12f1"
+Parent: "08b8e5db-8dbd-4705-a80a-68caeb7ba57d"
+Template: "535d2b32-677c-4c4c-91c4-a95d5c308045"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/contact-us/Data/ContactUsForm/Order Shipment"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T104944Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Order Shipment
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3aad7d7d-e294-4a9a-9767-ff9dac9e903b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T104956Z

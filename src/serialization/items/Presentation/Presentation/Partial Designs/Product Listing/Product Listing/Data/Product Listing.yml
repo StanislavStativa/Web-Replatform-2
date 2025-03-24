@@ -1,0 +1,37 @@
+﻿---
+ID: "9bc1fd77-126b-4709-9bd7-67cbba6f53ad"
+Parent: "948a27cc-ee06-4d59-87fc-ac4519832f8f"
+Template: "d33b4c74-b568-48ef-87e7-2f355efce1fc"
+Path: /sitecore/content/TTS/TileShop/Presentation/Partial Designs/Product Listing/Product Listing/Data/Product Listing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T045123Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: "https://tileshop-dev.rfk.www-dev.tileshop.com/api/search-rec/3"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e03ebfd-3f8c-4afe-8497-05703c9771af"
+    - ID: "a6fa7681-7758-4c2c-a331-38a2f23bf628"
+      Hint: DiscoverRfkId
+      Value: rfkid_10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T045313Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "0a7d209e-c6a7-441b-93c3-4c95c2e5cfdb"
+Parent: "ceb5be78-c3b5-4cf5-88ff-038271b8076a"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-slate-tile-floors/Data/Slate Tile Floor Cleaning FAQs/What Is the Best Product to Clean Slate Floors with"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What Is the Best Product to Clean Slate Floors with?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>The best product for cleaning slate tile floors is one that has a neutral pH level. Homemade cleaning solutions that combine a few drops of dish soap and water are popular for quick cleaning jobs. For a more thorough clean, we recommend using a commercial stone cleaning product.</p>
+        <p>It is important to never use an acidic cleaner on your slate tile floor. For example, many homeowners tend to think of vinegar as a universal cleaning agent. However, using vinegar on slate tiles is highly likely to cause serious damage.</p>
+        <p>As with every type of material, it is always a best practice to test your cleaner on an inconspicuous area before using it on the whole surface. Always follow manufacturer instructions when using commercial cleaners.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4146827-dc2f-4a6c-9307-c5a64dcf64f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T173304Z

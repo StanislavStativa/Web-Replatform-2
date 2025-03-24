@@ -1,0 +1,43 @@
+﻿---
+ID: "92d34e71-bf72-4a31-bc25-d1b0df3b783d"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {54779A15-0A2D-45A8-9379-2E63B602F9CC}
+        {1BDBFAF7-1163-4B68-87F4-30CCBBB63AC6}
+        {59693DC3-4434-4EF2-835D-32D83C6C5D5C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Explore Multiple Sizes
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>If you asked someone to picture subway tiles, their first thoughts would probably be of a classic 3x6-inch rectangle. But that same shape is available in sizes as small as 1x2 inches, and as large as 4x12 inches. We also offer new, exaggerated sizes (like 2x20 inches) so you can play with proportion and scale</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50c91c36-5efe-40c7-a921-7d28c3af75f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T093348Z

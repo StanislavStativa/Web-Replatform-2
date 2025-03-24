@@ -1,0 +1,83 @@
+﻿---
+ID: "82f1b6dc-3b4f-4896-9654-92bb33bb8894"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Table of Content RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T114155Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <a name="Rich Text-01 - Cutting Tile with a Wet Saw" id="Rich Text-01 - Cutting Tile with a Wet Saw"></a>
+        <div>
+        <h2>Tools &amp; Material</h2>
+        <br />
+        <p>Below is a list of the basic items you will need to install your tile. For a comprehensive list of the tools and materials required for each step in the installation process, refer to our handy checklist.</p>
+        &nbsp;
+        &nbsp;
+        <ul>
+            <li style="margin-bottom: 4pt;"><strong>Materials</strong>
+            <ul>
+                <li style="margin-bottom: 4pt;"><strong></strong>Tile</li>
+                <li style="margin-bottom: 4pt;">Underlayment: backer board, membrane, waterproof underlaments, self-leveling, mudset, etc.</li>
+                <li style="margin-bottom: 4pt;">Adhesives: epoxy, thinset, mastic, etc.</li>
+                <li style="margin-bottom: 4pt;">Grout: epoxy, sanded, unsanded, etc.</li>
+                <li style="margin-bottom: 4pt;">Sealer: stone sealer, natural sealer or grout sealer</li>
+            </ul>
+            </li>
+            <li style="margin-bottom: 4pt;"><strong>Tools</strong><br />
+            <ul>
+                <li style="margin-bottom: 4pt;">Trowel</li>
+                <li style="margin-bottom: 4pt;">Float (for grouting)</li>
+                <li style="margin-bottom: 4pt;">Cutting tool: wet saw or scoring snap cutter</li>
+                <li style="margin-bottom: 4pt;">Spagers: wedges, T spacer or leveling spacers (depending on your space)</li>
+                <li style="margin-bottom: 4pt;">Buckets</li>
+                <li style="margin-bottom: 4pt;">Sponges</li>
+                <li style="margin-bottom: 4pt;">Tape</li>
+                <li style="margin-bottom: 4pt;">Utility knife</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="margin-bottom: 0.25in;">Not sure which tools are best for your project? Our Tile Experts are available to answer your questions.&nbsp;<a href="/store-locator/">Visit your local Tile Shop</a>&nbsp;for guidance, resources and supplies.</p>
+        </div>
+        <a name="Accordion-Cutting Tile with a Wet Saw" id="Accordion-Cutting Tile with a Wet Saw"></a>
+        <a name="Rich Text-02 - Cutting Tile with a Snap Cutter" id="Rich Text-02 - Cutting Tile with a Snap Cutter"></a>
+        <section class="c-rich-text">
+        <div class="rtc__list-item-with-image__heading-wrapper">
+        <h2 class="rtc__list-item-with-image__heading-wrapper__heading h3">Before You Begin</h2>
+        </div>
+        <img class="rtc__list-item-with-image__image" alt="wet saw" src="https://s7d1.scene7.com/is/image/TileShop/Underlayment_Img%3aImage_Caption_Hero" />
+        <p style="margin-bottom: 0.25in;">It’s important to have the right surface prepared before you start to tile. Determine your existing subfloor and adjoining floor height, and whether you want to include in-floor heating. This will help you decide which underlayment will work best for your project.</p>
+        <p style="margin-bottom: 0.25in;">You’ll want to ensure you are working on a clean, dry surface. Thoroughly sweep and vacuum your space before you install your underlayment.</p>
+        <p>There are many different versions of snap cutters on the market, but all of them have virtually the same components: they’ll have a cutting wheel, rails (usually two, but sometimes a single rail), and a handle so you can apply pressure.</p>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "836a5a15-86e3-47b4-b10b-340a28899a7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z

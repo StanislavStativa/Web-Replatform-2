@@ -1,0 +1,43 @@
+﻿---
+ID: "51587f63-8027-46b7-8c4a-89ba06fb98f5"
+Parent: "a0cb9766-e764-4380-b3e6-89b4893e0710"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Entryway/Data/RTE Top"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="font-latoLight mb-8">Entryway & Foyer Tile Design Ideas</h1>
+        <p class="mb-4">
+        As the first glimpse inside your home, your entryway is a chance to make a lasting impression. Installing tile can set a stylish tone while providing the durability required to stand up to heavy foot traffic. The Tile Shop offers a range of <a class="font-bold underline" href="~/link.aspx?_id=23E3616B29384A40A5FA25CF70A43679&amp;_z=z">colors</a>, <a class="font-bold underline" href="~/link.aspx?_id=5D5148E6E4974C11B52C9425DF33250F&amp;_z=z">patterns</a>, <a class="font-bold underline" href="~/link.aspx?_id=F507E7B6A95A475FABF34F3D0F71D1F1&amp;_z=z">shapes </a>and textures that can help establish a welcoming presence for your guests.&nbsp;
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37b28f15-d020-46ba-8e95-cf74a42e9368"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T125836Z

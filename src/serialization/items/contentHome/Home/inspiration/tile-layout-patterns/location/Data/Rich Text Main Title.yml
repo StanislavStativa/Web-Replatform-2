@@ -1,0 +1,43 @@
+﻿---
+ID: "630eb414-a49f-4293-bd3a-1917860a99cb"
+Parent: "53c2e3a0-36af-44b4-90e1-5f5c5df4b958"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/location/Data/Rich Text Main Title"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T173822Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h1 class="font-latoLight mb-8"> Tile Patterns for Floors, Walls & Backsplashes</h1>
+        <p class="mb-4">
+        <strong>Tile Layout Ideas by Installation Location</strong></p>
+        <p>The pattern you decide for your tile layout is just as significant as the color, texture and shape. It&rsquo;s important to consider how the arrangement of your tile installation can add a special element to any room in your home.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf150dbe-2610-43d7-82e6-fddd78d219aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T144911Z

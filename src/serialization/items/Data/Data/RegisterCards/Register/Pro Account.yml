@@ -1,0 +1,53 @@
+﻿---
+ID: "a8f99ef9-5328-4f92-8f03-b7c861ea5fcc"
+Parent: "e400a257-c08f-498d-bb93-69130a841c42"
+Template: "ec1b500d-ff55-4847-a220-ed95d5e0dad3"
+Path: /sitecore/content/TTS/TileShop/Data/RegisterCards/Register/Pro Account
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T072053Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{6E88C719-D794-4506-99D9-7882125AC87B}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro Account
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <ul>
+            <li>Enjoy exclusive trade benefits.</li>
+            <li>Access billing info.</li>
+            <li>Easily manage your projects.</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eea6181b-c26a-4b4f-bdef-e41913cc44e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cca9581d-0250-4c0d-8a88-dcf8b100695d"
+      Hint: SubTitle
+      Value: I’m a trade professional.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240913T061247Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{73F0DED0-16DD-40CE-B751-2E762B0CE92A}" querystring="" anchor="" target="" title="Pro User" linktype="internal" text="CREATE PRO ACCOUNT" url="/TTS/TileShop/Home/Register/pro-user" />

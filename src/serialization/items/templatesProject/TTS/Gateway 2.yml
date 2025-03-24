@@ -1,0 +1,59 @@
+﻿---
+ID: "9fba7db0-0937-453e-8801-2684a4239b3e"
+Parent: "e03cf73e-261c-4ef8-8997-2664b94d5ae2"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/TTS/Gateway 2
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/form_red.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {7BAFB9A9-6F0F-4F80-8403-8BE45D062A36}
+    {5FCBEA3A-600F-4071-B694-B6B03F8F697A}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8FC0EA7E-5F97-40D8-937E-0B6DC8112189}">
+        <r
+          id="{C1B452C1-C64C-4C91-93A6-4887F4D32D7A}"
+          ph="phHeader"
+          uid="{68FF2861-CCF1-4725-88E6-7668ABE00A2E}" />
+        <r
+          id="{AEDEC81A-E2E3-43F5-ACD4-A0A24AC7FFE3}"
+          ph="phFooter"
+          uid="{1CC172A4-AE2C-4134-9408-4B281893B495}" />
+      </d>
+    </r>
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{992E72FE-719F-4F96-9751-6D92BFE81699}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T191112Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d12808a7-d3c0-459f-b49c-d5fa7360068a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T130419Z

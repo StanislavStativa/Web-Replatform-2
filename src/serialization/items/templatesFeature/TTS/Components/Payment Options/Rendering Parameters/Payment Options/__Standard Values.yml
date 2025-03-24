@@ -1,0 +1,27 @@
+﻿---
+ID: "345aa267-a7f8-4d44-ac46-698ee5590183"
+Parent: "4ff23376-1478-4b67-8b2d-948443cd15b5"
+Template: "4ff23376-1478-4b67-8b2d-948443cd15b5"
+Path: /sitecore/templates/Feature/TTS/Components/Payment Options/Rendering Parameters/Payment Options/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53f33430-f65f-4305-a60c-7d1feb73a1e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T162832Z

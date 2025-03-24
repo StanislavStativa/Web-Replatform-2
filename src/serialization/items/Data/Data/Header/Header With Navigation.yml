@@ -1,0 +1,88 @@
+﻿---
+ID: "0eaf731a-cb75-40f3-b944-718c1d441126"
+Parent: "c2011f78-cc01-4e8b-a3a9-8119dcd0cf3d"
+Template: "66107d3f-4be7-47a3-97ed-0dcea10e0668"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T151911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ba6749d-4050-4763-9406-4bd6d1853dc1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T151911Z
+  - Version: 2
+    Fields:
+    - ID: "0cdefd99-0d66-4b12-abfc-eaa7f5279930"
+      Hint: MainLeftNavigation
+      Value: |
+        {1337E1BC-76FF-4345-BFAD-F6FA0A9A8806}
+        {3EC78DFE-DF13-460A-B967-3D90A4C38F3F}
+        {E688B14E-53EB-43CB-95F2-722479C97E80}
+        {4CFBDA6C-6D70-46D6-A938-69A03C7E8235}
+    - ID: "152e6d1e-4656-4814-bd0c-e72839726a53"
+      Hint: MobileLogo
+      Value: |
+        <image mediaid="{CF0CA18C-4E47-45BA-A891-A46EE650B942}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240423T043340Z
+    - ID: "2a36fd31-f3d0-42d7-8463-a58aa1827e5b"
+      Hint: MainRightNavigation
+      Value: |
+        {7957CF86-3657-43F7-AE04-E37D5291615A}
+        {D036CBBE-11B7-4EE8-B4AD-A7019900A222}
+        {F56ECD98-8189-4B1C-A09B-634B28130550}
+        {4DBD2A5B-66A2-4889-85AE-7027CC14D37D}
+        {B0F6550A-E2D6-42A8-B0FF-8FD860CB55FB}
+    - ID: "4020d5e5-a271-4587-bbed-b9ab0a27345a"
+      Hint: SearchBar
+      Value: "{6DDF7937-B309-4196-804A-B1CEC95BAB88}"
+    - ID: "535e1d40-419f-49df-a269-cd974733ade1"
+      Hint: DateTime
+      Value: 20240906T135600Z
+    - ID: "8c0b211f-8f40-4abf-9383-e3f07aec5b7b"
+      Hint: DesktopLogo
+      Value: |
+        <image mediaid="{74750060-9BB0-438E-A118-98116AA9DAAA}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76a420c1-4a3e-4aa2-ba82-1b69e1cc6acd"
+    - ID: "95ec116c-9a4d-41dc-af2b-fac1075ed63d"
+      Hint: HeaderDescription
+      Value: "<p>Tileshop.com will be undergoing scheduled maintenance tonight 6/29 from 6 -10pm IST. We apologize for any inconvenience caused during this time.</p>"
+    - ID: "aad6ca7c-0338-4cff-875f-08a5493b5bbf"
+      Hint: CTAList
+      Value: |
+        {2689D3BC-45B7-4A9B-B573-A715729B06EE}
+        {02F6DACD-B07A-4838-980C-71A3A10D1ABA}
+        {61654867-2CA2-4E1F-B9F0-7D9F8A67AA60}
+        {5AE03BD4-C0E9-4586-9017-4CDA04CB3BCD}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240903T074813Z
+    - ID: "f5ec6ebc-d3a5-40ba-8597-4d7abc27bf82"
+      Hint: MobileDescription
+      Value: "<p>Tileshop.com will be undergoing scheduled maintenance tonight 6/29 from 6 -10pm IST. We apologize for any inconvenience caused during this time.</p>"

@@ -1,0 +1,45 @@
+﻿---
+ID: "1eed72d6-5ce3-4c80-ac1d-98f7a4de4fe1"
+Parent: "446ba2b4-6a3f-42ff-b9de-f9165c715bb1"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Installation Tips/TILE INSTALLATION TIPS"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T135254Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: TILE INSTALLATION TIPS
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <ul>
+            <li>Refer to the manufacturer’s recommended cure time before walking on your tile or beginning to grout.</li>
+            <li>Measure the space between the edge and wall before you cut your tile, and don’t forget to take the grout joint into account.</li>
+            <li>Make sure to clean all of your tools at the end of each day so that thinset and grout do not get caked on. Remember not to rinse or dump any thinset down the drain!</li>
+            <li>Make sure to clean any excess thinset on tiles and in between tiles as you go. It’s much easier to clean when it’s wet.</li>
+            <li>If you pause in your tiling, make sure to wipe away any thinset on the untiled floor to prevent it from drying and creating an uneven surface.</li>
+            <li>Make sure to clean all your tools at the end of each day so that thinset and grout do not get caked on. Remember not to rinse or dump thinset down the drain!</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fcb6c033-3066-4bd2-bdfe-11d1aa0ce50d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T135334Z

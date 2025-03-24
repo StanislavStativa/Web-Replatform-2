@@ -1,0 +1,38 @@
+﻿---
+ID: "f8396e45-d06c-4d5c-a2be-65c106931a23"
+Parent: "352cec54-86a2-46bb-b6b5-938f4c7875c2"
+Template: "352cec54-86a2-46bb-b6b5-938f4c7875c2"
+Path: /sitecore/templates/Feature/TTS/Components/Registration/RegisterCards/Datasource Folder/Register/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{EC1B500D-FF55-4847-A220-ED95D5E0DAD3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T071013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbf480ac-136e-46f2-8892-66d288554cd1"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: "Having trouble? Use the Chat icon in the lower right corner of your screen to contact our Customer Service Team."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241211T111815Z

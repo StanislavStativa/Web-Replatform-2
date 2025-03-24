@@ -1,0 +1,43 @@
+﻿---
+ID: "ec2066da-eea1-45b9-a25d-584065250442"
+Parent: "3b6eaa7e-c391-486a-b04e-877892f1bed5"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Prepare the Area"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Prepare the Area
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Remove any countertop items and place them safely away from the work area. Appliances such as an oven or refrigerator may also need to be moved to make tiling behind them easier. Cover the countertops and any adjacent areas with a protective sheet, such as a drop cloth or plastic sheeting, to prevent damage from debris or spills. Remove any countertop items and place them safely away from the work area. Appliances such as an oven or refrigerator may also need to be moved to make tiling behind them easier. Cover the countertops and any adjacent areas with a protective sheet, such as a drop cloth or plastic sheeting, to prevent damage from debris or spills.</p>
+        
+        <p>You will also need to remove any outlet covers and switch plates in the area where the backsplash will be installed.  This helps prevent damage to these items and makes the tiling process around electrical outlets easier and more precise.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "934255c3-2a21-4f59-ad0b-91c6aca95a57"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 10
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T101242Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

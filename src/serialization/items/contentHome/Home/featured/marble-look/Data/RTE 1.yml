@@ -1,0 +1,39 @@
+﻿---
+ID: "ab85f6d5-9abe-4188-82e9-0436807cd5a7"
+Parent: "3805d27d-ae24-41f7-a254-73d84cc08294"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/marble-look/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2" style="color: #323338;">Marble-Look Tile Combines Luxury, Accessibility and Durability</span></h2>
+        <p style="margin-bottom:0.67em;"><span style="color: #323338;">Marble has been used to create memorable spaces for thousands of years, and today’s marble-look tile options make the beauty of marble more widely accessible than ever. Available in multiple shapes, materials and colors, marble-look tile expands your options for achieving the look you want in every area of your home. In addition to easy maintenance and durability, marble-look tile can bring timeless appeal to exterior areas and other spaces where natural stone isn’t typically an option.&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f52386f3-6456-4a42-adec-35e6cd6afadb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124233Z

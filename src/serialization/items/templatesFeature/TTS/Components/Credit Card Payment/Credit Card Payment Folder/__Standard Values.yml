@@ -1,0 +1,33 @@
+﻿---
+ID: "57a94685-e92d-41be-81c6-f772490b318f"
+Parent: "3354ce4d-1ffc-43d6-af2f-9082e602c551"
+Template: "3354ce4d-1ffc-43d6-af2f-9082e602c551"
+Path: /sitecore/templates/Feature/TTS/Components/Credit Card Payment/Credit Card Payment Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9B6F59E1-B35A-48AE-9F78-2C9496638388}
+    {3354CE4D-1FFC-43D6-AF2F-9082E602C551}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7df95041-1c0b-4242-af4e-a951d6591702"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T133255Z

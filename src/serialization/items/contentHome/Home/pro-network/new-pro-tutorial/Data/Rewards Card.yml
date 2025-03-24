@@ -1,0 +1,50 @@
+﻿---
+ID: "fcc0709c-4ed0-441a-acd2-8ebd5bb9f3ce"
+Parent: "825f1b6e-5a03-472a-821c-f9a60ec4430e"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/new-pro-tutorial/Data/Rewards Card"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2253f172-c452-4368-adcb-980be3e6f434"
+      Hint: HoverImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T063208Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Rewards
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: 
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Rewards
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText"><p>See your current Rewards status, how close you are to the next tier and your exclusive Pro perks.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39bcf81a-0156-41cf-858f-bf76f285a24a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T070640Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Rewards_Icon

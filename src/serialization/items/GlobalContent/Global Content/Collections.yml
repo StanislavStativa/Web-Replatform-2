@@ -1,0 +1,23 @@
+﻿---
+ID: "5b7b8fac-bf77-47a0-8475-c8e3ca758987"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "8b28e5b7-bce3-4af0-84e9-87abe8caddc9"
+Path: /sitecore/content/TTS/Global Content/Collections
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T210351Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a32f2c3e-01e7-48a1-bae1-d5cdc470114a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T085801Z

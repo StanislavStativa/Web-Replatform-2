@@ -1,0 +1,37 @@
+﻿---
+ID: "e20ca071-e8b0-48df-9c93-657335fa2363"
+Parent: "ebb0e92d-6e0b-4750-8dcc-548e089fd404"
+Template: "a3d6f8e4-583d-4409-baf2-0f37e2e49d92"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/grouting/how-to-identify-and-apply-grout/Data/Video"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T065038Z
+    - ID: "46b8cc1a-d19e-49e2-8422-4732245b0722"
+      Hint: Title
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0adebbb3-469c-4c0b-aabd-d9b13f405b5b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T082224Z
+    - ID: "ef592633-9103-488c-83ad-36f7382d0846"
+      Hint: YoutubeVideoID
+      Value: tP9ojEpE0RU

@@ -1,0 +1,39 @@
+﻿---
+ID: "5c971eb6-1727-49d5-8e49-344c573c3911"
+Parent: "168790d6-0fff-4a16-b554-aa86e6b2e7db"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: /sitecore/content/TTS/TileShop/Home/inspiration/Data/Content tile stack 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {93AA6D77-E377-4E19-8EDE-35E3236F6DDD}
+        {BEEA58F7-D415-4C2C-BBDC-E5C83568218B}
+        {B3899686-7E5E-48FB-9EB9-4F807B6134EF}
+        {F3C291FF-C92A-4555-ABF8-D4DA863E7A16}
+        {4A29F8FA-32B0-40D3-A4EF-A80E3F8E2601}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T070041Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "beece30c-daf0-45cf-890c-a280550b9540"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T084625Z

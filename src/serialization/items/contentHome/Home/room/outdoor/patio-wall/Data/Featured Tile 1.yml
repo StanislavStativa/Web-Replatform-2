@@ -1,0 +1,45 @@
+﻿---
+ID: "36097250-f8ae-493d-a1d7-e7aa8f3d0564"
+Parent: "a37bbf96-c8d9-4b5b-a227-55e499fd6663"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-wall/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {4276B500-4310-48F0-9B30-5C6FDAF20D90}
+        {2B2375E7-BA0B-47AA-AAC6-E80342A08FBB}
+        {8F475028-DB3E-4D2A-8D29-5ACDC7043E09}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Express Your Style with Color
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Work with the color scheme of your home’s exterior or go bold with a splash of color that adds some sharp contrast. Natural stone colors add an organic element to your outdoor patio floor.  </span><a href="/material/porcelain" class="font-bold">Porcelain tiles</a><span> come in a variety of colorful patterns that will enliven your outdoor space. You can create your own distinct patio aesthetic using colors that will take your patio from bland to brilliant (or </span><a href="/color/beige" class="font-bold">beige</a><span> if you prefer).  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "200cf454-c7ac-4a1b-a9a9-20034537200e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T101222Z

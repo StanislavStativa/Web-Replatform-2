@@ -1,0 +1,139 @@
+﻿---
+ID: "e1ab6ea2-35ef-49f2-9262-7f10880441f8"
+Parent: "639a1c87-7273-4fa1-80b7-1b53dd40a12e"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/view-all"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 625
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{44D53B95-11C4-4A61-8135-F869678D79D7}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{694B10FF-3693-476D-9C78-2A82794E89F6}"
+          p:after="r[@uid='{44D53B95-11C4-4A61-8135-F869678D79D7}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{CC13675A-0202-43A1-83E0-8D3561C47982}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Make sure to finish your elegant tile installation with accessories that provide a cohesive look to your design. The Tile Shop offers switch plates that seamlessly complete your room&rsquo;s decor, thresholds that provide a smooth transition from one room to the next and shower drains that go beyond ordinary. Finalize your newly tiled room with accessories that beautifully tie everything together.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{691D6D9C-9800-4FEF-92F4-42F03E93834A}" querystring="" anchor="" target="" title="" linktype="internal" text="Curbs &amp; Thresholds" url="/TTS/TileShop/Home/tile/trim-and-accessories/accessories/curbs-thresholds" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" id="{CC68ED98-81C2-4BE3-8C1D-7394A6E0CB10}" querystring="" anchor="" target="" title="" linktype="internal" text="Dural Metal Profiles" url="/TTS/TileShop/Home/tile/trim-and-accessories/accessories/metal-edging" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T192901Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "View All Tile Accessories - The Tile Shop"
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: View All Finishing Pieces Accessories
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: 
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Woodlook-Retro_Charlotte-B_Hero_Plymouth_Cat:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4d76dad-8d32-43a1-8015-fdc6ff3a60d2"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: View All Finishing Pieces Accessories
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{E6538C0B-C306-4841-B473-937DE3041E21}" querystring="" anchor="" target="" title="" linktype="internal" text="Switch Plates" url="/TTS/TileShop/Home/tile/trim-and-accessories/accessories/switch-plates" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "view all tile accessories and get expert advice and assistance from The Tile Shop. Visit us today for your free design consultation!"
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090416Z
+    - ID: "e8b113e6-1244-4089-ba43-a9ad3527b22b"
+      Hint: MaterialGroup
+      Value: |
+        {034FF3EC-A57B-4C0B-80AC-0E0500671DD7}
+        {A814A9DE-CCAE-46BC-8FD9-2B93695C828C}
+        {DB2D4155-8A7A-471C-BB4B-501549705520}
+        {FB4F56EC-1DB5-4D52-96D8-D0FB8E8034E1}
+        {E5190035-7190-4422-A85D-FBFC95EC2E29}
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" id="{4EB95576-F2FE-4A38-BB5B-DA70068A1A53}" querystring="" anchor="" target="" title="" linktype="internal" text="Dural Premium Metal Profiles" url="/TTS/TileShop/Home/tile/trim-and-accessories/accessories/dural-premium-metal-profiles" />
+    - ID: "fc06bbb6-f854-4051-9d5f-801f262cc25e"
+      Hint: Shape
+      Value: 

@@ -1,0 +1,44 @@
+﻿---
+ID: "fe4c995e-0405-4ee7-a944-822bee1bba80"
+Parent: "fa122941-ab06-4c17-869e-aed7b3f4a722"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/hexagon/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {CB087D82-26B5-4F54-B2FA-52D55109F275}
+        {907C211B-CE70-43C5-B494-1DDEB7A39745}
+        {07BA39E1-CD82-48C3-AB49-7350F12BA5B0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: An Easy Way to Update Your Bathrooms
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Hexagon tiles add a beautiful touch to any room, and they’re a versatile choice for giving your bathroom an on-trend refresh that will still be in style for years to come. Depending on their size, porcelain hexagon bathroom floor tiles can add vintage charm (like the small-scale hexagon mosaic styles found in 1920s homes) or a modern, graphic look (like large-format hexagons in a dark slate color). And we frequently recommend hexagon shower tile, particularly smaller sizes used for&nbsp;</span><a class="font-bold" href="/room/bathroom/shower-floor">shower stall floors</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">. In addition to looking great, the grout lines between each hexagon offer the practical benefit of enhanced traction on a wet surface.&nbsp;</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12ab31f6-0bce-48cc-9631-a8903bf825cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185158Z

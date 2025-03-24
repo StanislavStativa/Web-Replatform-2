@@ -1,0 +1,40 @@
+﻿---
+ID: "b4bf4bc9-e887-4db0-b6d7-c9f380bfe6da"
+Parent: "a5a917de-b835-4adb-a954-65af6de664a3"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Fireplace/Data/1 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div><h2 class="lato-h1 mb-8">  2024 Fireplace Tile Design Trends</h2><p class="mb-4">
+        Creating a striking fireplace has become an easy way to add a unique statement to your home. Natural elements, like stone, establish a classic and rustic feel, and marble tiles add an elegant and chic touch. With more color choices available than ever, you can even opt for a bold or unique hue that turns your fireplace into a work of art. <a href="~/link.aspx?_id=19342776B2D342599A622B4ADCEE33CC&amp;_z=z" class="font-bold">Architectural tile</a> is a perfect way to add eye-catching texture. Want a fresh perspective for your fireplace area? Patterns like herringbone or hexagon offer a sophisticated look. A design trend we love this year is creating an oversized fireplace or accent wall with impressive <a href="~/link.aspx?_id=5B047EDA68E14E738F4A9DD7B16EA7F3&amp;_z=z" class="font-bold underline">large-format tiles</a>.
+        </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b13804e9-67ae-4755-9e43-a69da1ab3e88"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200320Z

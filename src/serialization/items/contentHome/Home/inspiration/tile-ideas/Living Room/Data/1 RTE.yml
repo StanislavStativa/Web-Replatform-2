@@ -1,0 +1,40 @@
+﻿---
+ID: "ae227dd3-f6d0-42ce-a795-4a4dc58ec955"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/1 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div><h2 class="lato-h1 mb-8">2024 Living Room Tile Design Trends</h2><p class="mb-4">
+        Your living room tile can replicate almost any look and feel you want in chic and <a href="~/link.aspx?_id=324EC3752447425F8D081262F5D458B9&amp;_z=z" class="font-bold underline">durable tile</a>. From wood look to lively patterns to glamorous marble, the options are endless. Make a bold statement by adding a textured surface or a distinctive geometric pattern. Chic <a href="~/link.aspx?_id=25E9DE220AC24BF6819FF2EAF98350DB&amp;_z=z" class="font-bold underline">waterjet mosaic tiles</a> feature modern and elegant designs that bring a vivid sense of style to your space. If you have a large area or a living room that blends into a kitchen or dining room, you can break the floor space up with a tiled rug or framed area conducive to conversation. Mix and match <a href="~/link.aspx?_id=388DF468AB6C4B01AE88F0AAE279CE1C&amp;_z=z" class="font-bold underline">materials</a> and <a href="~/link.aspx?_id=23E3616B29384A40A5FA25CF70A43679&amp;_z=z" class="font-bold underline">colors</a> to infuse your living room area with your personal attitude and energy. New printing techniques have created a wealth of aesthetic options that can create a look that truly stands out.
+        </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1419153-4242-4c02-99d9-20fa2671100a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200651Z

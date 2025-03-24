@@ -1,0 +1,41 @@
+﻿---
+ID: "685050f1-b814-4a7e-b170-e13d849e1047"
+Parent: "12a2c0fb-ee09-461d-8f76-120c7eb64381"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Beautiful Choices for Fireplace Surround Tile</h2>
+        <p>The sheer variety of options available for your fireplace tile surround makes it possible to find the perfect combination of design and material that will both make a statement and fit with your unique personal style.</p>
+        <p>Whether you have a gas or a traditional fireplace, there is a decorative tile solution that can add a stylish tone to your décor. If you live an older home, consider installing tile over brick fireplaces to create a dramatic new look. Tile is a very durable and easy-to-clean surface that is also completely fire-safe, meaning you won’t have the flammability worries that you might find with other materials.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e050ed8-d2be-4025-967b-03bee368f577"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T091038Z

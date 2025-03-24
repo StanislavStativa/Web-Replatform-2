@@ -1,0 +1,158 @@
+﻿---
+ID: "9829d5c5-0ae8-4974-b280-829f1fc8fdec"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Grouting"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T132302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div>
+        <div class="image-caption">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Shot12_SideviewWetsawCutting_Img%3aImage_Caption_Hero" alt="wetsaw tile installation process" title="wetsaw tile installation process" />
+        <p class="caption">&nbsp;</p>
+        <div class="richText-max richText">
+        <p>&nbsp;</p>
+        </div>
+        <p>&nbsp;</p>
+        </div>
+        </div>
+        <section class="c tile-component full-width tile-component--old">
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section class="tile-component-content">
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h2 class="h3">Grouting</h2>
+        </div>
+        <div class="tile-component-image col-xs-12 col-sm-6">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Pro_Grout_Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/Pro_Grout_Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/Pro_Grout_Til%3aTile_All" alt="tile installation how to lay tile" title="tile installation how to lay tile" srcset="https://s7d1.scene7.com/is/image/TileShop/Pro_Grout_Til%3aTile_All" />        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">
+        <h2 class="h4">Grouting</h2>
+        <div class="richText">
+        <p><span id="step6"><a href="/installation-care/installation/grout">Grout</a>&nbsp;is more than just a nice line of color between your tiles. It provides an important function, bonding your tile and preventing it from cracking and chipping due to the movement of your home.</span></p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <section class="c-rich-text">
+        <div>
+        <div class="richText-max richText">
+        <p>&nbsp;</p>
+        <h4>Preparing for Grouting</h4>
+        <p style="margin-bottom: 0.25in;">Prepare your space for grouting by cleaning off any excess thinset that may have squeezed into your gout joints with a utility knife. With an almost dry sponge, wipe down your tiles, making sure to swap out your water regularly to ensure you are working with clean water. Once your tiles and grout joints are clean, remove your spacers.</p>
+        <p style="margin-bottom: 0.25in;">If you have installed a man-made tile, such as glass, porcelain or<a href="/material/ceramic">&nbsp;ceramic tile</a>, now is a good time to apply a grout release. This will help prevent the grout from sticking to the surface of the tiles.</p>
+        <p style="margin-bottom: 0.25in;">If you are using natural stone or encaustic cement tiles, we recommend also applying a<a href="/installation-care/care-maintenance/sealers?facet_collection=facet_idU3RvbmUgU2VhbGVy">&nbsp;stone sealer</a>&nbsp;before grouting. For particularly heavily textured stones, you can also use a grout release after this step.</p>
+        <p style="margin-bottom: 0.25in;">If you are not using a premixed grout, refer to the manufacturer&rsquo;s recommendations for mixing your specific grout. Just as with thinset, you&rsquo;ll need to check the grout manufacturer&rsquo;s open times and cure times.</p>
+        <p style="margin-bottom: 0.25in;">Instructions for mixing grout:</p>
+        <ol>
+            <li>Add the recommended amount of water to your bucket.</li>
+            <li>Add the grout powder in batches to avoid clumping. You can add extra water later, if needed.</li>
+            <li>Mix thoroughly to ensure consistent grout pigment and prevent streaking.</li>
+            <li>Let the grout mixture set according to the manufacturer&rsquo;s recommendation.</li>
+            <li>Briefly remix before application.</li>
+        </ol>
+        <h4></h4>
+        <h4>Applying the Grout</h4>
+        <p style="margin-bottom: 0.25in;">For this step, you will need: your grout, a grout float, a bucket of clean water and a sponge (to clean off excess grout as you go).</p>
+        <p style="margin-bottom: 0.25in;">Load your grout float with grout from your bucket. Hold the grout float at a 45&deg; angle to the tile and swipe the float along the tile diagonally from your grout line. If you apply grout parallel to the joint, it will pull grout out of the joint instead of pushing it in. Make sure to fill the joint completely from top to bottom, and do your best to minimize the amount of excess grout on the tile.</p>
+        <p style="margin-bottom: 0.25in;">We recommend alternating between grouting and cleaning every 10-30 minutes, depending on the type of grout, temperature and other factors. Refer to your grout&rsquo;s open time to determine the ideal timing. Clean the grout from the tile surface with a slightly moist sponge, if you use too much water it can wash away the pigment in your grout.</p>
+        <p style="margin-bottom: 0.25in;">Once you are finished grouting, a grout haze (a very fine coating of grout) will likely form on the surface of the tiles. This is normal. Let the grout set up for a few hours, and then use a grout haze remover and a dry or almost dry sponge or rag to clean your tiles. Come at the grout line at a diagonal to avoid removing grout from the joint.</p>
+        <h4></h4>
+        <h4>Striking the Grout</h4>
+        <p style="margin-bottom: 0.25in;">Next, you&rsquo;ll want to strike your grout line. To do this, you&rsquo;ll use an almost dry sponge to pull across the grout, smoothing it. With the tip of your finger, apply light pressure to the corner of the sponge as you pull it across the grout.</p>
+        <p style="margin-bottom: 0.25in;">Swap out your dirty water for clean water regularly, especially if you have a lot of grout haze. Follow the manufacturer&rsquo;s recommended cure time.</p>
+        <p>&nbsp;</p>
+        </div>
+        </div>
+        </section>
+        <div>
+        <div class="image-caption">
+        <img alt="" src="https://s7d1.scene7.com/is/image/TileShop/Plymouth_SatMornClass_0627_Img%3aImage_Caption_Hero" />
+        <p class="caption">&nbsp;</p>
+        <div class="richText-max richText">
+        <p>&nbsp;</p>
+        </div>
+        <p>&nbsp;</p>
+        </div>
+        </div>
+        <section class="c tile-component full-width tile-component--old">
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section class="tile-component-content">
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h2 class="h3">Sealing</h2>
+        </div>
+        <div class="tile-component-image col-xs-12 col-sm-6">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/sealers__Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/sealers__Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/sealers__Til%3aTile_All" alt="tile installation products" title="tile installation products" srcset="https://s7d1.scene7.com/is/image/TileShop/sealers__Til%3aTile_All" />        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">
+        <h2 class="h4">Sealing</h2>
+        <div class="richText">
+        <p><span id="step7">In addition to protecting your tile or grout, sealers can also enhance their appearance. Give your installation a matte or shiny look and make sure it endures for the long run.</span></p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <section class="c-rich-text">
+        <div>
+        <div class="richText-max richText">
+        <p style="margin-bottom: 0.25in;">In addition to protecting your tile and grout,<a href="/installation-care/care-maintenance/sealers">&nbsp;sealers</a>&nbsp;can also enhance their appearance, giving your installation a matte or shiny look that will endure for years.</p>
+        <p style="margin-bottom: 0.25in;">Not all grouts require sealing&mdash;check with a Tile Shop Tile Expert to determine if this step is necessary. If your grout needs to be sealed, wait until it is fully cured. After sealing man-made tile, wipe any excess sealer off with a dry rag to avoid a filmy residue.</p>
+        </div>
+        </div>
+        </section>
+        <section class="c tile-component full-width tile-component--old">
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section class="tile-component-content">
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h2 class="h3">Caulking</h2>
+        </div>
+        <div class="tile-component-image col-xs-12 col-sm-6">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/caulk_Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/caulk_Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/caulk_Til%3aTile_All" alt="caulk how to lay tile installation" title="caulk how to lay tile installation" srcset="https://s7d1.scene7.com/is/image/TileShop/caulk_Til%3aTile_All" />        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">
+        <h2 class="h4">Caulking</h2>
+        <div class="richText">
+        <p><span id="step8">Caulk is used to create a strong and waterproof bond between joints, whether between tiles, walls, counters or bathroom accessories.</span></p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <section class="c-rich-text">
+        <div>
+        <div class="richText-max richText">
+        <p style="margin-bottom: 0.25in;">Caulk is used to create a strong and waterproof bond between joints, whether between tiles, walls, counters or bathroom accessories.</p>
+        <p style="margin-bottom: 0.25in;">You should caulk all 90&deg; tile joints, whether they are between tile and wall, tile and counter or two walls. There are different types of caulk and application methods, so ask a Tile Expert at your local Tile Shop to recommend the best one for your project.</p>
+        </div>
+        </div>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cec49a36-4737-4c71-8e9b-ce3c6bf232f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z

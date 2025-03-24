@@ -1,0 +1,58 @@
+﻿---
+ID: "923c528d-4d40-40be-b0e8-b17151866187"
+Parent: "f7d52f91-419e-4b14-8c74-0d9198459fa7"
+Template: "c80fef7c-edc9-43ce-8de7-ca66bdec92db"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/shipping/Data/Ship to CTA Details
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c44318b-a9c6-4bbd-b6f6-f8c26f42620c"
+      Hint: ShippAddressHover
+      Value: |
+        <image mediaid="{6273AAE6-A8B3-4111-9949-9599AED08F00}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240628T065648Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ship to
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "851955aa-159e-4696-a80a-fa9d68d1e62c"
+      Hint: PickupStoreHover
+      Value: |
+        <image mediaid="{93F81992-D162-46D3-8DB4-3AE1F7FBD052}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5d08e68-68db-4265-a699-dfee673203bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cd43e74d-9978-481c-91e0-c57eac9feda4"
+      Hint: PickupStore
+      Value: |
+        <image mediaid="{83E61EF8-09C4-4E46-B4FB-94B890B2F14D}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T053345Z
+    - ID: "e0f56487-0b76-4442-a6e0-f73142e18bd4"
+      Hint: Caution
+      Value: |
+        <image mediaid="{FB4B0A86-0DCD-4962-BE3B-880DFFE81FDE}" alt="Caution" height="32" width="32" hspace="" vspace="" />
+    - ID: "e7ae36c3-e990-4967-bc7a-ce171ca4e686"
+      Hint: ShippAddress
+      Value: |
+        <image mediaid="{3933B8DE-5063-4C0F-9E7E-737BCCE5567A}" />

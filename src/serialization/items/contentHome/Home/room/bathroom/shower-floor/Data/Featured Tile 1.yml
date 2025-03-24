@@ -1,0 +1,49 @@
+﻿---
+ID: "e2197e8c-ed64-484d-b60f-a45be2a346bd"
+Parent: "78d20275-22c7-4fd5-8c6c-fa8d8c08a5e5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {4C8BA461-32B3-4132-91DD-7294943885C3}
+        {8C90B73E-B31E-4D71-A35C-70BEDBDB57BA}
+        {27DD3DD3-4BF3-4180-96EF-B14C48468DBA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shapes and Styles for the Best Form and Function
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p class="extra-small-bottom-margin"><span>When it comes to tile for your shower floor, it&rsquo;s good to think small. The smaller the tile, the more grout lines, and the more traction for your feet under the steady stream of water. Also, if there is a significant slope or variation in the level of the floor, a smaller tile, such as a mosaic, will more easily adjust to the curve.  </span></p>
+        <p class="extra-small-bottom-margin">Mosaic shower floor tile<span> is made up of smaller pieces with more grout lines that will provide traction on the wet surface. And because the tile is smaller, mosaics more easily adjust to the slope of your floor. Mosaics come in a variety of colors and looks&mdash;from herringbone to </span><a href="/shape/penny-round" class="font-bold">penny round</a><span>&mdash;so that you can create a shower that reflects your aesthetic.</span></p>
+        <p class="extra-small-bottom-margin"><span></span><a href="/material/pebbles-stone" class="font-bold">Pebble tile</a><span> is perfect for shower floors as the shape and surface variation provides good traction, and the natural stone look invokes a luxurious spa. Elegant, with a natural essence, pebble tile will turn your bathroom into an oasis.</span></p>
+        <p><span></span><a href="/shape/hexagon" class="font-bold">Hexagon shower floor tile</a><span> is a classic that&rsquo;s always on trend. Mix colors to create your own patterns or use a contrasting </span><a href="/installation-care/installation/grout/colors" class="font-bold">grout color</a><span> for added interest. Many of our tile collections offer hexagon tile, perfect for creating a unique pattern on your floor while still matching the walls.</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2929689-9bff-40d2-a7ef-c98b7abf2c8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T095324Z

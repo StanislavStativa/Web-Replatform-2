@@ -1,0 +1,129 @@
+﻿---
+ID: "2d54920e-c568-4741-9896-0f6a952d5c68"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{569AC84B-B4FB-4109-9250-A51ADC0C0FF0}"
+          p:before="*"
+          s:ds="local:/Data/How to Cut Vinyl Plank Flooring"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{1E9EDE3B-6B82-4605-A4A0-3BC487EA86C9}"
+          p:after="r[@uid='{569AC84B-B4FB-4109-9250-A51ADC0C0FF0}']"
+          s:ds="local:/Data/01 Acclimate the Vinyl Planks"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{99FD68BA-4C5C-4169-ADC1-6AF67AEBE2EC}"
+          p:after="r[@uid='{1E9EDE3B-6B82-4605-A4A0-3BC487EA86C9}']"
+          s:ds="local:/Data/02 Mark the Plank"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B8D5C8E6-C557-42E8-9D05-09048A2F91F4}"
+          p:after="r[@uid='{99FD68BA-4C5C-4169-ADC1-6AF67AEBE2EC}']"
+          s:ds="local:/Data/03 Score the Plank"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{4682F7FD-1E43-42D1-B524-0E20843A66B0}"
+          p:after="r[@uid='{B8D5C8E6-C557-42E8-9D05-09048A2F91F4}']"
+          s:ds="local:/Data/Whats trending image RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles=%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D%7C%7B1D9C0A2A-2FA4-434F-BB3C-014E228C611C%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{289499B9-6B6F-4DCD-A119-63820C3CA76E}"
+          p:after="r[@uid='{4682F7FD-1E43-42D1-B524-0E20843A66B0}']"
+          s:ds="local:/Data/04 Make the Cut"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{47652DD7-C073-479C-A8D1-B62B2A6A7FA0}"
+          p:after="r[@uid='{289499B9-6B6F-4DCD-A119-63820C3CA76E}']"
+          s:ds="local:/Data/05 Check Your Work"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h1&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{4992AAF5-0BA5-4118-AE0E-15AABD852C73}"
+          p:after="r[@uid='{47652DD7-C073-479C-A8D1-B62B2A6A7FA0}']"
+          s:ds="local:/Data/Cutting Vinyl Plank Flooring FAQs"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BF9737E34-7B3D-4ABD-8A84-10F84E512B28%7D&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{CF5209B4-0FF5-4BA7-B753-8C02881EB4B5}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/We are here to help"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B516A674E-D77C-49FB-BB53-48BD6CD32F58%7D&amp;Styles=%7B11CFF63A-4684-4746-9C93-376524B973DD%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How to cut Vinyl Plank Flooring
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: How to cut Vinyl Plank Flooring
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: How To Cut Vinyl Plank Flooring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b820b2e2-bb90-49fb-a7fb-8cecbad30df4"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: How to cut Vinyl Plank Flooring
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T095511Z

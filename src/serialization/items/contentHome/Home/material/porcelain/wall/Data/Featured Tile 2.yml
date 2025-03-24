@@ -1,0 +1,48 @@
+﻿---
+ID: "b699e872-98e1-4a4a-8ffa-95ad7fe607e9"
+Parent: "c6dd3a3e-c047-476e-bb6d-3eab01525976"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/wall/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0AE51A5E-CC84-4DBD-BBA5-A2B1D202B07C}
+        {698BE963-2DA9-42D5-9C11-E6B3ADC85256}
+        {F68CD53C-4C3C-46E0-AD73-C6BA8F61F102}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Patterns, Mosaics and More
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>• Patterns: There’s a pattern to complement any design scheme, from beachy blue-and-white, realistic marble-effect, and even wallpaper-look tile.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <p>• Mosaics: We’ve taken out all the guesswork with expertly paired combinations of colors and materials to elevate any space, from kitchens and bathrooms to hallways and entryways.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <p>• Dimensional: <a rel="noopener noreferrer" href="/application/floor" class="font-bold"></a><a href="/application/floor" class="font-bold">Floor tiles</a> may need to be smooth and even, but <a rel="noopener noreferrer" href="/featured/3d" class="font-bold"></a><a href="/featured/3d" class="font-bold">3D porcelain wall tiles</a> are a perfect way to introduce visual and tactile interest. Softly angled geometric facets, embossed reliefs, and raised patterns all introduce exciting design possibilities.</p><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b06de9ff-5f92-4ad7-8b59-633b015e0fbe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T112918Z

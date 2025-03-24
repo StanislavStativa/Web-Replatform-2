@@ -1,0 +1,47 @@
+﻿---
+ID: "15fd9962-af0c-451c-ae2f-d930ef8d5be2"
+Parent: "2a175f0d-1e73-45be-9c4e-548f7e1e6294"
+Template: "d90a87f1-efac-41a4-a64a-d7094dc69fad"
+Path: "/sitecore/content/TTS/Global Content/Product Hierarchy 2/Luxury Vinyl - MANMDLXVYL"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\jharstad" date="20210622T184958Z" />
+    - ID: "0ca707f4-5434-4d81-9f64-ec3917e4672b"
+      Hint: ProductHierarchy1
+      Value: "{5807AA8A-DE6A-4D89-B862-D6B369C3266D}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200901T160941Z
+    - ID: "2987acc9-e733-49da-82a4-636700edf536"
+      Hint: ProductHierarchy2Code
+      Value: MANMDLXVYL
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        CustomCommand\SapAttributeValuesImporter
+    - ID: "693c028c-1eba-4102-aa9a-3a4046c2a520"
+      Hint: SearchKeywords
+      Value: luxury vinyl planks luxury vinyl tile lvp lvt spc stone polymer composite vinyl planks vinyl flooring
+    - ID: "897b6672-30b6-4200-a491-083f72ea239c"
+      Hint: ProductHierarchy2Description
+      Value: Luxury Vinyl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e10121bc-c4a5-4ca8-a07c-9a4e186a03f2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jharstad
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210622T185006Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "6a110ac1-9ebd-4084-a841-db5008aee4d6"
+Parent: "0c7c765c-3a3a-4adf-a436-ef955c986378"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/switch-plates/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {EAD1BAAF-43B9-414B-919E-3A6DB30473AE}
+        {EDC82B7D-FC69-4321-804C-8656CC0E9DF4}
+        {EFD83DA4-5868-450A-9CA3-301A94A300F0}
+        {2DFAC07F-4A71-4C8F-883B-8CB215ABD0F1}
+        {CD1AD6FE-CF66-48E8-A25E-E5EB26527164}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T064704Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02bf8041-e41c-4464-940b-bd3345fa9138"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T160842Z

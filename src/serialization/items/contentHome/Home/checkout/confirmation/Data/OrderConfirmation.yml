@@ -1,0 +1,48 @@
+﻿---
+ID: "8af9105e-1f23-4cb5-b661-4f5b89f1b018"
+Parent: "0292ff87-1f30-4066-be6c-484ecfe96773"
+Template: "9f26bc0b-7d1a-45a6-a241-9f0fc58791f7"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/confirmation/Data/OrderConfirmation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063444Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Order Confirmed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanvi.vaid@altudo.co
+    - ID: "5f17200e-c9d1-4edd-8189-87e5c42a5702"
+      Hint: GetOrderSummary
+      Value: api/orderSummary/getOrderDetails
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Order number <b>{{OrderNumber}}</b> has been submitted. We will email details to <b>{{UserEmail}}.</b>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e45f03ed-2b56-4328-862a-ed29822cb095"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="CONTINUE SHOPPING" anchor="" linktype="internal" class="" title="CONTINUE SHOPPING" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T073041Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Back to Home" anchor="" linktype="internal" class="" title="Back to Home" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

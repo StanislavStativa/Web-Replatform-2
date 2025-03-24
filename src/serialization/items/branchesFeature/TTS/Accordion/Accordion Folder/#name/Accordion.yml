@@ -1,0 +1,26 @@
+﻿---
+ID: "31e2ed0b-1518-48cb-8baf-c74fc81fcf6a"
+Parent: "1d0bbe9a-762c-41b0-b333-516357e32904"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/templates/Branches/Feature/TTS/Accordion/Accordion Folder/$name/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: Accordions
+      Value: "{F0B01A16-C6E5-4BDF-BA09-B755D63CF193}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T054029Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c77aea3-9037-4190-83c7-943b12043c51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T054044Z

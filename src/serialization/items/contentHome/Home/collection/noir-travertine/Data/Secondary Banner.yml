@@ -1,0 +1,63 @@
+﻿---
+ID: "c49b36b1-2bd0-42cb-a1d1-c6717152b8a8"
+Parent: "f45994aa-a677-452e-a1b4-9d043d64ccc7"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/noir-travertine/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Noir Travertine Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Dark and dramatic, Noir Travertine is a stone that makes a statement. This black tile collection brings elegance to any home and pairs perfectly with a variety of grays and whites. Completely transform your space with this modern yet neutral shade. Both floors and walls get an instant upgrade with Noir Travertine tiles in hexagon, arabesque, chevron or classic square and rectangular shapes.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8360f8a-72bc-4ef6-ba22-de3551bff915"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T131947Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Noir_KelliA_Hero_Burnsville:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {054D857F-1976-45EE-8F09-220E0F5DC4D8}
+        {EABDF8B4-BCD4-4B9E-88CC-02A693893734}
+        {9EC8C310-2F13-4A23-92DA-79F19D3F5583}
+        {F0BA98F5-0E71-4457-A946-B681AEA41E77}
+        {32E24FD7-1259-4288-BC6E-7473D06599C9}
+        {E8A67427-586A-4D07-8C54-EFDE633EFB8E}
+        {CD7D01C2-61B2-4BE5-B35D-E6018781D41C}
+        {9B84653E-60BF-4C5A-AD82-FA44573210FB}
+        {60F8FA6A-33E3-4071-9CA7-B2E547FA881B}
+        {50D721B2-C58D-45D4-8ADE-6C0968F482DC}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

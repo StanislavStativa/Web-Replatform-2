@@ -1,0 +1,27 @@
+﻿---
+ID: "9b3c782c-9e4d-4f69-aba4-31397b3eca91"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "ca99284f-c752-4129-ac83-13891b31fb13"
+Path: /sitecore/content/TTS/Global Content/New Metro Codes Folder
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Metro Codes
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T154049Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9c73668-bdec-4659-bca5-5d27bc2efe67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T092309Z

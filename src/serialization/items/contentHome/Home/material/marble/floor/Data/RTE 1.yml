@@ -1,0 +1,42 @@
+﻿---
+ID: "40b134c1-db3c-4ae6-862e-1b0e9d22d50c"
+Parent: "1391b22d-db0a-4efe-96cf-c25d92b33182"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/floor/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Elegant Marble Floor Tiles</h2>
+        <p><span>&nbsp;</span></p>
+        <p><span>Rich and luxurious, if you’re looking for a truly one-of-a-kind look, there’s nothing quite like marble. It’s available at The Tile Shop in a variety of colors and contrasting veins so you can achieve a look that matches your style. Marble floor tile can have multiple finishes, from polished to honed and brushed to tumbled. Whether for a kitchen, entryway or </span><span></span><a href="/room/bathroom/floor" class="font-bold">bathroom floor</a><span>, </span><span></span><span>marble tile is sure to impress.  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ab58eea-d739-44e8-a00a-fcdcd1ae5ada"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123200Z

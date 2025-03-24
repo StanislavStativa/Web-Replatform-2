@@ -1,0 +1,37 @@
+﻿---
+ID: "1587e63e-3480-4eef-b0c8-6d044651ef02"
+Parent: "9fcf2dda-5fba-4e80-a8e3-e213fb654384"
+Template: "7339bea4-6883-4343-adf5-063260672149"
+Path: /sitecore/content/TTS/Global Content/Areas/EXTERIOR WALL
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "106048ae-c5ba-4335-9f1c-022be5ad6084"
+      Hint: AreaName
+      Value: Exterior Wall
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240207T161234Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d7f25d6-fd0d-4b52-bb26-e0aa68b20f24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240207T161252Z
+    - ID: "f4cf0573-f9d0-41b9-8094-99da2d710515"
+      Hint: AreaId
+      Value: Exterior Wall

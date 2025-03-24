@@ -1,0 +1,38 @@
+﻿---
+ID: "52963c63-fe1f-4b8a-b5a1-d394e308f1cc"
+Parent: "3f498845-9112-44de-b3ca-fd6bff98652a"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/laura-ashley/Data/Featured TIles/Tile 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240911T123645Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab11ed06-37ad-4fa2-af80-53b097a616ab"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        Featured Tile:&nbsp;<a href="/products/laura-ashley-white-beveled-ceramic-wall-tile-6-x-16-in-484109">Laura Ashley White Beveled</a>,&nbsp;<a href="/products/laura-ashley-leaf-cloud-blue-porcelain-mosaic-wall-and-floor-tile-11-x-13-in-681665">Laura Ashley Leaf Cloud Blue</a>&nbsp;&amp;&nbsp;<a href="/products/laura-ashley-sunflower-charcoal-with-cloud-blue-porcelain-wall-and-floor-tile-8-x-8-in-681762">Laura Ashley Sunflower Charcoal with Cloud Blue</a>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T123847Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Sunflower_Beveled_Bathroom_Niche_Vertical:Design_Ideas_All_V2"

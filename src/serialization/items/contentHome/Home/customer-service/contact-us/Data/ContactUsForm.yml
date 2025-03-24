@@ -1,0 +1,68 @@
+﻿---
+ID: "08b8e5db-8dbd-4705-a80a-68caeb7ba57d"
+Parent: "0b93cbef-0b29-46e3-a329-d94b7463af37"
+Template: "30f80602-4dc4-47e9-94f0-d5e99ae2c6c8"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/contact-us/Data/ContactUsForm"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T081402Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Call Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>888-398-6595<br />
+        Customer Service is open:<br />
+        Mon-Fri: 8am-4pm CST<br />
+        Sat-Sun: closed</p>
+    - ID: "746d93d6-126b-4fc5-83a0-77ebc9c1688f"
+      Hint: TopicOptions
+      Value: |
+        {821FFDFC-8914-4B73-934C-A28A8E37C0D1}
+        {49605710-9F48-4CB0-9B02-721800AF1D65}
+        {DF8C0289-58E2-4F9E-BC67-E2DF1E61BDE8}
+        {61F736E5-7322-4A6D-885A-ADCC2C30F025}
+        {FE1AFF2C-521B-4DAC-95D7-C2B9BB3A12F1}
+        {0B054C13-E1CF-45B9-9B88-4AD9C00CD25D}
+        {672E7414-B30E-4526-906D-FDE0F8320644}
+        {2CD65BD2-9E1E-4F3D-A32E-E357A7B6C2EF}
+        {D6466F4E-A38B-44C8-9C14-66F99AB636CC}
+        {0EA87FBD-CB13-4BB0-9718-7BB1BD0CAEED}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a07934b-ec81-4662-bfda-f54ac46ce9d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "cca9581d-0250-4c0d-8a88-dcf8b100695d"
+      Hint: SubTitle
+      Value: Send Us an Email
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T110723Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SUBMIT" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C3D24080-A9D4-407B-BBEA-177B8EBF2555}" />
+    - ID: "fba93d4a-89d9-4ac0-a7c4-336154b7611b"
+      Hint: EmarsysDetails
+      Value: "{36891ABB-4BDC-4AEF-8DD3-C5C11B807FB3}"
+    - ID: "fea3c018-6967-43df-82aa-7c8e17249f90"
+      Hint: RegistrationConfirmationCTA
+      Value: |
+        <link text="Confirmation" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C3D24080-A9D4-407B-BBEA-177B8EBF2555}" />

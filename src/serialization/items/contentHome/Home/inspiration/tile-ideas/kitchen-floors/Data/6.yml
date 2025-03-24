@@ -1,0 +1,42 @@
+﻿---
+ID: "fa1ba962-3b73-4505-9a3d-eaba6fa13370"
+Parent: "5c25d9e1-1188-4e90-8ece-ab30645d0505"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/kitchen-floors/Data/6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Charming Antiques
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> Even if you have a brand-new kitchen, you can get the look of natural patina with aged porcelain tiles like the <a class="font-bold underline" href="/products/antique-green-porcelain-wall-and-floor-tile-6-x-6-in-484297">Antique Green</a> and <a class="font-bold underline" href="/products/antique-grey-porcelain-wall-and-floor-tile-6-x-6-in-484298">Antique Grey tiles</a> shown here. We love how this tile pairs with the handmade look <a class="font-bold underline" href="/room/kitchen/backsplash">backsplash tile</a>. Shop the Antique tiles in all their colorways including <a class="font-bold underline" href="/products/antique-lava-porcelain-wall-and-floor-tile-6-x-6-in-484301">Lava</a>, <a class="font-bold" href="/products/antique-pearl-porcelain-wall-and-floor-tile-6-x-6-in-484300">Pearl</a> and <a class="font-bold underline" href="/products/antique-terracotta-porcelain-wall-and-floor-tile-6-x-6-in-484299">Terracotta</a>.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29258cce-0502-4600-8fd1-65de77e26324"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 17
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T141108Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "antique_hackney_kitchen_vendor_render:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 6

@@ -1,0 +1,47 @@
+﻿---
+ID: "d5795606-a24e-4205-9176-06ca8b8f797b"
+Parent: "a2db4ad8-ecef-480d-b4e4-35d9d3f8796b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Multi Asset Banner/Datasource Folder/Tile
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Software/32x32/elements_selection.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {3C1715FE-6A13-4FCF-845F-DE308BA9741D}
+    {C7777E95-E141-410A-BD61-29F21E354B84}
+    {9776BF60-6531-464B-B67B-4DA77789D7C9}
+    {42791D7C-3D6F-4461-A9AF-0E29EC446786}
+    {F8D62E93-7FF8-4EC1-B069-0FB1F374D354}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{0DB45D11-9027-4FCD-8908-AB9D5EA34C48}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T105923Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d00d0aee-f121-4b76-a0c1-0afce2ab2813"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240723T060400Z

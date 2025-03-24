@@ -1,0 +1,35 @@
+﻿---
+ID: "61842f7a-0a7d-47b5-9420-62ae88969bbe"
+Parent: "99ba5e98-1fe3-4aa4-ba32-c7ee23ecdabd"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: /sitecore/content/TTS/TileShop/Home/material/Data/Slate Tile/All Slate Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T060750Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79dfa061-f659-4f02-8138-0cf2c2942b54"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T125143Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="All Slate Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1A180838-4A0F-4A54-9BF0-2AFC18AF115D}" />

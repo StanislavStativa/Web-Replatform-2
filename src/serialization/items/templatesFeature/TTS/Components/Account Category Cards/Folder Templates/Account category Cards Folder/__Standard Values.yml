@@ -1,0 +1,33 @@
+﻿---
+ID: "6965f3bd-7f38-48d4-a60f-4a12145cfc30"
+Parent: "1cdd28b5-7622-48e7-9540-5150a0ed503b"
+Template: "1cdd28b5-7622-48e7-9540-5150a0ed503b"
+Path: /sitecore/templates/Feature/TTS/Components/Account Category Cards/Folder Templates/Account category Cards Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {2F070D95-FA30-4E27-B726-3FFC36D610A4}
+    {1CDD28B5-7622-48E7-9540-5150A0ED503B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90fd2306-d6b8-4d49-87d9-126498c5d66d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240609T081742Z

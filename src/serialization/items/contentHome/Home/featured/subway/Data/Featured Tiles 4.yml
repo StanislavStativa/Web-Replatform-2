@@ -1,0 +1,46 @@
+﻿---
+ID: "91763472-4c2b-4646-84d8-2ed542c8ea7f"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Featured Tiles 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {E9F80008-8CCE-4A06-8FF4-E507EB21A73B}
+        {0A84A904-61A9-4F7C-AA37-EFAA0E82FE4F}
+        {02694163-24E2-4AF6-A595-6B432C8A1830}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mix and Match
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p class="extra-small-bottom-margin" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; border: 0px;">Because subway tiles are such popular shape, you have more colors, textures and finishes to choose from than with any other type of tile, and there’s no need to limit yourself to just one. </p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"> </p>
+        <p style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">You could create a gradient effect with rows of tile in complementary colors or go bold with color blocking choose a different tile for every wall. Or keep everything in the same color family, but start mixing metallic, matte and glossy finishes to turn any project into a testament to the power of texture and shine. Whatever you want to try, you can be confident that when it comes to the color of your subway tiles, if you can imagine it, you can pretty much do it. </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3dc04ed8-52c3-4f63-8c40-583753567880"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T035213Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "925ee165-a182-4b35-80d7-0cc6dfaf1cee"
+Parent: "33fbd756-8f4f-4533-8f0b-ab9b39e8dc77"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/square/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Square Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Square tiles have been gracing walls and floors for centuries. What square tiles haven’t had all this time are the variety of options that current tile technology has made possible. Unique finishes, 3-D effects, bold colors and printed patterns are just a few of the advancements. To further add interest, place the tiles on an angle in a diamond configuration or play with the scale and go big.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "277f3c06-9360-4a20-bc0b-fd3d335450e2"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T181116Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Poente_Lounge_Vendor_Render%3aCategory_Intro_Image_V2
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {5E628387-A378-4172-BDE6-CE6B0776DD4C}
+        {5ADAEB03-B803-4FE7-9CE3-B0933DBEE9A5}
+        {10FFFC06-2A54-4631-B14B-BDB02EA34C5E}
+        {865ED6C0-970F-4BD2-A17D-9B4887D4772A}
+        {8C4EB342-A666-4E33-9980-3DEEE78095D0}
+        {AFBE46B9-9D1B-4591-8BFF-E7F88BB92833}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

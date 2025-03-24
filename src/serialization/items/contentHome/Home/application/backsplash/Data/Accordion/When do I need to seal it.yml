@@ -1,0 +1,37 @@
+﻿---
+ID: "701472aa-1647-4f5e-9a34-1fbbea5befc7"
+Parent: "63515a04-b69f-4154-90bb-e195c50bd481"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/backsplash/Data/Accordion/When do I need to seal it
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T072538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "When do I need to seal it?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Not all tile needs to be sealed. Ceramic or porcelain tiles likely won’t need to be sealed. Stone tiles, on the other hand, usually do need to be sealed because their porous surfaces are more susceptible to retaining the things that come into contact with their surfaces. Always follow the manufacturer’s instructions. Your grout should be sealed for the same reason—if unsealed, its surface is more likely to absorb spills and stains. Grout will last longer and be easier to clean when it is sealed. Some grouts sold at The Tile Shop have sealers built into them to save you a step, so always refer to the instructions to confirm whether or not you need to seal your tile and grout.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8b96fc-ca07-4bcd-ac4b-2d8c470dd4fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T095948Z

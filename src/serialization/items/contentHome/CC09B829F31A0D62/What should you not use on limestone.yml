@@ -1,0 +1,41 @@
+﻿---
+ID: "ece829c4-3bf4-43f6-8e6b-11670133942a"
+Parent: "f330bea7-95f6-4b77-bf13-aa17b66e3dff"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-limestone-tile-floors/Data/Limestone Tile Cleaning FAQs/What should you not use on limestone"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What should you not use on limestone?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>You should only use gentle, pH-neutral cleaners on limestone tile. Vinegar, lemon juice, and many other common household acidic cleaners can break limestone down, etching the surface and making it dull.</p>
+        <p>You should also stay away from abrasive cleaners and cleaning tools. This includes scouring powders and pads, bleach and any other products with harsh chemicals or gritty textures. These can seriously scratch the soft surface of limestone.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec842315-1759-427a-bad9-471662efc902"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T134247Z

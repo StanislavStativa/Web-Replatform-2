@@ -1,0 +1,264 @@
+﻿---
+ID: "36683468-6093-40b2-a312-87c2702db981"
+Parent: "c75cfef3-f5c2-4e17-ba89-dcccd92cfe66"
+Template: "67efcb91-3f77-41af-95a8-34a341c07f36"
+Path: /sitecore/content/TTS/Global Content/Products/6/8/680664SS
+SharedFields:
+- ID: "21f74f6e-42d4-42a2-a4b4-4cefbcfbd2bb"
+  Hint: __Facets
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0c6aa184-e6be-45db-abd4-90a8b62029e5"
+      Hint: BX_Price11
+      Value: 3
+    - ID: "0d0eb061-b468-4e4b-8066-4638070b8820"
+      Hint: BX_Price12
+      Value: 3
+    - ID: "14c2fcb1-d74c-4ac4-951a-19002148a530"
+      Hint: RecommendedGuide
+      Value: |
+        <link url="" />
+    - ID: "1a316c0f-b336-4194-a941-490ed46a7f31"
+      Hint: ReadyForDisplay
+      Value: 1
+    - ID: "1db91b99-fa9d-4dab-9bd0-e8b0bfb52ea0"
+      Hint: BX_Price10
+      Value: 3
+    - ID: "1e412860-c4e6-4978-be3f-b321dbf6162a"
+      Hint: EA_Price12
+      Value: 3
+    - ID: "1e787465-fa1c-4f50-8952-88b33f16cecc"
+      Hint: HideSizeShapeSection
+      Value: 1
+    - ID: "22ff465f-11ab-45fb-9f16-d8ae8eaa23df"
+      Hint: ActualLengthCM
+      Value: 0
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240724T091737Z
+    - ID: "29f07ac5-0ef1-4013-97e8-fa851af4d51d"
+      Hint: WorksInDesignStudio
+      Value: 0
+    - ID: "2bd4d817-bf06-4c80-9760-32e47f7b0dbf"
+      Hint: CV_Price11
+      Value: 3
+    - ID: "2e5025ea-8f10-4eee-8ee5-101c5f158fcf"
+      Hint: SellingUOM
+      Value: CV
+    - ID: "2ef170f6-17e5-4f01-a49f-ddd24faf80b7"
+      Hint: Featured
+      Value: 0
+    - ID: "33d160c1-f21f-4a98-8332-04dc36fe4cc9"
+      Hint: BoxWeight
+      Value: 0.8
+    - ID: "417ca315-3941-43f0-944a-1f28c6367c94"
+      Hint: MaterialGroup
+      Value: "{7B09C4F8-9FAB-4078-BB43-4C99C6EE609B}"
+    - ID: "41f542df-ab38-47cb-8f46-01843fecddf9"
+      Hint: SAPMaterialStatus
+      Value: A1
+    - ID: "4232811d-b522-46c9-8f46-0149cd3e7a86"
+      Hint: CoveragePerEach
+      Value: 1
+    - ID: "4d90c55e-d6ac-48aa-979c-6653965e6862"
+      Hint: UseMediaGallery
+      Value: 0
+    - ID: "51c03cc9-3e9e-4703-956f-9a5a6d7a255a"
+      Hint: ProductCode
+      Value: 680664SS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\t9sJHWQPjz
+    - ID: "54fc67a6-71f8-4cd4-9ac3-8f50bdaf38b0"
+      Hint: CV_Price12
+      Value: 3
+    - ID: "555cd022-1395-4402-a575-fad544e52767"
+      Hint: DirectionalInstallationRequired
+      Value: 0
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "EcoPatina Porcelain Wall and Floor Tile Sample - The Tile Shop"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\t9sJHWQPjz
+    - ID: "5ee238b0-6290-4b24-b1f3-40865b262f14"
+      Hint: ActualWidthCM
+      Value: 0
+    - ID: "5f8f5a3a-a479-4d90-b205-6d7647c2c5f9"
+      Hint: ProductNotAvailableText
+      Value: |
+        <p style=""margin-bottom: 0;"">This item is available for purchase through showroom only.</p><p>Please contact your <a href=""/store-locator"">local showroom</a> to place an order.</p>
+    - ID: "60a1e796-cdfb-4608-a50c-ba591f19d9bc"
+      Hint: EA_PriceR1
+      Value: 3
+    - ID: "63f74300-5ba4-4a0e-8860-00d80d8c619a"
+      Hint: PiecesPerBox
+      Value: 1
+    - ID: "6c0f31b0-68cf-4890-8a97-633ee50dad04"
+      Hint: ProductDescription
+      Value: This product is a sample.  Samples are a portion of the whole tile and are meant as representations of the product&rsquo;s typical appearance. Due to variations in natural materials and tile production, the final product may differ. This sample is not representative of actual size and shape.
+    - ID: "722f4116-3dc3-4fdc-9066-f07a4c8899ab"
+      Hint: SAPMaterialDescription
+      Value: "S-EcoPatina 19x118cm"
+    - ID: "7253d975-4ad1-47e1-9a9b-24247e495885"
+      Hint: ProductHierarchy2
+      Value: "{1C828EF4-484F-4ED1-84AE-55A88FE028FD}"
+    - ID: "74c56b39-e30d-4c6d-aff5-a800fb5ac795"
+      Hint: EachWeight
+      Value: 0.8
+    - ID: "77493d4f-d622-4c9e-a74c-e50ac52a0ed5"
+      Hint: BaseUOM
+      Value: EA
+    - ID: "788f4964-575a-4dc6-9f87-a8eb8c58fd8f"
+      Hint: PurchaseOnline
+      Value: BOTH
+    - ID: "7a423d8c-f9c0-46bc-952b-7d7f7a953118"
+      Hint: HideInspiredBySection
+      Value: 1
+    - ID: "8559f1b5-204d-4962-850f-2b8c0290995c"
+      Hint: CountryOfOrigin
+      Value: USA
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4dcd3371-63d0-476f-a867-a577a855939e"
+    - ID: "8e6135cb-4a31-42a5-8e7a-b5a652489532"
+      Hint: Finish
+      Value: Matte
+    - ID: "8f7844b3-4dab-470f-9fb6-a73d91862837"
+      Hint: ProductHierarchy1
+      Value: "{FE7D491C-9683-4646-A090-00E414B23B7C}"
+    - ID: "8fa7a97e-24f3-4b95-844b-44f89de28873"
+      Hint: EA_Original
+      Value: 0
+    - ID: "8fc25bc4-eceb-4d1b-95c0-ff72a33d71ec"
+      Hint: Collection
+      Value: "{7ABE82EC-65F3-440B-8B4E-08A1D6663766}"
+    - ID: "90d5cafd-0ccd-46b0-87fd-2f4b127c6bfb"
+      Hint: CV_Price13
+      Value: 3
+    - ID: "92ccc9f8-1a14-4957-a38a-e77bbd0d4b43"
+      Hint: NewArrival
+      Value: 0
+    - ID: "93e3dcd7-2bfd-4f8c-890c-89392e53bb26"
+      Hint: ProductName
+      Value: EcoPatina Porcelain Wall and Floor Tile Sample
+    - ID: "964d2a71-b3fd-42c9-8dcc-4be0e0171f3d"
+      Hint: PdpColor
+      Value: None
+    - ID: "992b7dfe-1865-4ca8-882c-68b1eb18f347"
+      Hint: CV_Original
+      Value: 0
+    - ID: "9c06dec4-8a37-4bcc-8e0e-ee94a80b4263"
+      Hint: HideRelatedProducts
+      Value: 1
+    - ID: "9d5f327c-0214-4413-a848-16d8daa9e6b3"
+      Hint: Material
+      Value: "{2B8D0E95-DFEE-44E9-8832-122C410632C1}"
+    - ID: "a289e247-3f00-4442-9bad-7dc7911b655a"
+      Hint: ActualThicknessCM
+      Value: 0
+    - ID: "a86b564c-ba83-4165-a461-f8920c819576"
+      Hint: BX_PriceR1
+      Value: 3
+    - ID: "ab0d51ff-4852-44cd-bf2c-7b52db2fb665"
+      Hint: ShowRetailPricing
+      Value: 0
+    - ID: "ad332503-cbc0-4298-a7ba-426dcecd163a"
+      Hint: EA_Price13
+      Value: 3
+    - ID: "ae2bcec7-05b7-4d93-b6d3-78b403f61121"
+      Hint: BX_Original
+      Value: 0
+    - ID: "b1abf0c2-8de4-49ce-b19e-eae32d0fb012"
+      Hint: HasMatchingTrim
+      Value: 0
+    - ID: "b229ca4d-afa4-47d5-8668-f16e64260d00"
+      Hint: Country
+      Value: "{24FD8B20-39CE-4443-85CE-F29D526B5BD3}"
+    - ID: "b32ebb97-f84d-482e-8f1a-acba82d8fc49"
+      Hint: InstallationInstructions
+      Value: |
+        <link url="" />
+    - ID: "b35bad6d-2925-4421-935e-4672a90aba5d"
+      Hint: CV_Price10
+      Value: 3
+    - ID: "b389f4fe-2678-468a-8fee-b6d316b8a3e5"
+      Hint: HideFinishSection
+      Value: 1
+    - ID: "b7253ec6-cbfc-47c8-86c5-e949b326504e"
+      Hint: ActualThicknessIN
+      Value: 0
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c0347e5a-818f-4480-80ea-1a53485860c4"
+      Hint: ActualLengthIN
+      Value: 0
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Get a sample for EcoPatina Porcelain Wall and Floor Tile  at The Tile Shop. All sample orders are $3 with free shipping. Shop now.
+    - ID: "c4d9f37e-54fb-493a-a991-1c6498cac733"
+      Hint: BestSeller
+      Value: "-1"
+    - ID: "c868cb12-d7ca-4719-bee8-abaa308f07a6"
+      Hint: ActualWidthIN
+      Value: 0
+    - ID: "ce7cf263-0d17-4261-8e37-ee3928b34e5e"
+      Hint: AvailableOnline
+      Value: BOTH
+    - ID: "d1228587-55ab-46bc-8baf-7155125963c7"
+      Hint: HideColorSection
+      Value: 1
+    - ID: "d1d82a2b-a4a5-4fa5-8a09-b787e911cedd"
+      Hint: HideCollectionSection
+      Value: 1
+    - ID: "d57a2531-0770-4ebf-96db-ff8e8f4a2e41"
+      Hint: EA_Price11
+      Value: 3
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240924T155049Z
+    - ID: "daf0c291-f58d-4fdf-ac40-6e2044168580"
+      Hint: HideCalculatorSection
+      Value: 1
+    - ID: "df1e3d25-501b-474f-9ed2-a88552f9aab5"
+      Hint: RecommendedVideo
+      Value: |
+        <link url="" />
+    - ID: "e0c4a2dc-1805-44fb-af7c-5715ad1f8a95"
+      Hint: SampleSwatchAvailable
+      Value: 0
+    - ID: "e593c497-1280-4461-9148-26d7a4f98732"
+      Hint: SpecialInstallationRequired
+      Value: 0
+    - ID: "e966aaac-1966-4a0c-9d3c-983a2ebd56ad"
+      Hint: ImportDatesUTC
+      Value: "9/20/2024 7:19:43 AM,9/21/2024 7:17:09 AM,9/22/2024 7:19:59 AM,9/23/2024 7:18:22 AM,9/24/2024 7:17:58 AM"
+    - ID: "e9a66465-5dc4-46ff-be55-2bcbfd007de2"
+      Hint: UrlSlug
+      Value: "ecopatina-porcelain-wall-and-floor-tile-sample-680664ss"
+    - ID: "eeb142e2-8fe2-4f42-9584-4fadfe403c15"
+      Hint: EA_Price10
+      Value: 3
+    - ID: "f2c719a9-ba9d-48c1-9363-c8f591634af3"
+      Hint: CreateDate
+      Value: 20230718T000000
+    - ID: "f3c1a416-a0b0-40d4-b92b-1880217a0b80"
+      Hint: ProductDisplayName
+      Value: EcoPatina Porcelain Wall and Floor Tile Sample
+    - ID: "f7816099-001e-45d4-812d-1a69983ff963"
+      Hint: BX_Price13
+      Value: 3
+    - ID: "f8291740-f59c-4497-8031-cf08c6f5b386"
+      Hint: DefaultToBox
+      Value: 0
+    - ID: "f950737b-e857-489b-8f74-4811bfc3976d"
+      Hint: CV_PriceR1
+      Value: 3

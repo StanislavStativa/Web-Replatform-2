@@ -1,0 +1,37 @@
+﻿---
+ID: "24fd8b20-39ce-4443-85ce-f29d526b5bd3"
+Parent: "f874b1b4-17d3-42af-ac8c-662d874e03f8"
+Template: "3b87128e-17c1-4ffb-a058-2279283fe236"
+Path: /sitecore/content/TTS/Global Content/New Country Codes Folder/United States
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T170916Z
+    - ID: "2c854305-d484-4b03-859d-b36a8218ed4f"
+      Hint: Name
+      Value: USA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "296a7e8c-de7e-4e3c-b717-3c3af325e7c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d7981c5f-0830-47ee-8008-9b439b03e58e"
+      Hint: Code
+      Value: US
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240423T132222Z

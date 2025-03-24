@@ -1,0 +1,35 @@
+﻿---
+ID: "da236f61-d416-47ec-8fe2-0e2e48e75531"
+Parent: "a3fe90fd-3a12-414a-a6cb-b150eda1c852"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/metal-edging/Data/Secondary Banner/Curbs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240709T124247Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb064e58-4527-4153-ad55-ffdeaf375a0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T125623Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Curbs &amp; Thresholds" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{691D6D9C-9800-4FEF-92F4-42F03E93834A}" />

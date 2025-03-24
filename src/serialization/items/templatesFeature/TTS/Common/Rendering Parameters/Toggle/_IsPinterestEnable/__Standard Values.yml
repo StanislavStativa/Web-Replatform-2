@@ -1,0 +1,30 @@
+﻿---
+ID: "be58bc9e-514e-48be-9ee5-2a46b3af7f10"
+Parent: "8c904277-ac02-48ef-ad56-8eec0219ac8c"
+Template: "8c904277-ac02-48ef-ad56-8eec0219ac8c"
+Path: /sitecore/templates/Feature/TTS/Common/Rendering Parameters/Toggle/_IsPinterestEnable/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e3b2f56-1a38-4867-aaf4-768e58a9e667"
+    - ID: "918c9102-448f-49b2-b7ae-a6ffcc188df9"
+      Hint: IsPinterestEnable
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T101659Z

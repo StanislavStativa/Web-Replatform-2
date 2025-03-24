@@ -1,0 +1,61 @@
+﻿---
+ID: "bfd50897-5575-4d8c-aefc-05f68725c272"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/13 Remove the Grout Haze"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 13: Remove the Grout Haze"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Once your initial clean is complete, your shower will end up with a sort of film on the surface. This film is called &ldquo;grout haze.&rdquo;</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="After the initial cleaning, a layer of grout haze remains on this newly tiled shower wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting7:16x9" /></p>
+        <br />
+        <p>To remove the grout haze from your tiles,&nbsp; grab two buckets of water, a clean sponge, and a dry microfiber towel.</p>
+        <br />
+        <div class="rtc__callout-text">
+        <p>After years of practice removing grout haze, my best tip is to use two buckets during this step: one for dirty water, and one for clean. To keep the water in the second bucket clean, <strong>I only wring my sponges out over the dirty water bucket</strong>.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="A tile pro demonstrates her method for using two buckets of water to quickly and efficiently wipe remaining grout haze from the surface of a newly tiled shower wall." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting8:16x9" /></p>
+        <br />
+        <p>Here&rsquo;s how it works: I dunk my dirty sponge in the dirty water bucket and wring it out. Then, I dunk the same sponge in the clean water bucket and wring that excess water out over the dirty water bucket, too. <strong>This ensures I am only applying clean water to my walls, which cuts down on the grout haze</strong>.</p>
+        </div>
+        <p>&nbsp;</p>
+        <br />
+        <p>Begin cleaning by using a damp sponge on the surface of your tile. Follow up each section that you have sponged with a dry microfiber. Repeat until all walls are complete.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="A tile pro wipes the grout haze off of a newly installed tile shower. You can see a clear different between the tile she has wiped clean, and the haze on the rest of the tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting10:16x9" /></p>
+        <br />
+        <p>Once all walls are cleaned and dry, you should be able to see if all grout haze has been removed. If you have stubborn grout haze, you can follow up with a <a class="font-bold" href="/products/superior-haze-remover-tile-cleaner-1-quart-022220">grout haze remover</a>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3cc7571-f9fa-4775-9466-221241f75d78"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T074411Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 13

@@ -1,0 +1,54 @@
+﻿---
+ID: "cf53d47a-2510-43be-97c1-fbb916f8aab3"
+Parent: "c9b14e82-675d-415d-9f02-2fdcc16f1612"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Left Navigation Customer Service/About Us
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T101521Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: About Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e175e9ba-7312-4aed-ba2a-0db5c98b6566"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "c0dd834e-faa0-4765-9c7c-59366c41cab3"
+      Hint: SecondaryLinks
+      Value: |
+        {D14F69E6-CF85-41DA-83DB-0EDEA17F9CBA}
+        {6767A293-FE3E-495E-A388-3ACB2B8F876C}
+        {1858CDD9-F39D-48B6-A7A9-F957FF949A35}
+        {2C9944F4-EB7E-44D4-AA42-48984FF9031C}
+        {608DFACF-2BED-457C-AC17-DE57D97C0F37}
+        {A7FAFDA4-E26E-40A1-8F6B-9D7AD9BFBC69}
+        {9090F001-A0F1-4137-B4FA-80E6ABAA8BB3}
+        {E6472820-FA06-49F6-82C2-C1F075E41D35}
+        {25F9E4CB-E6F8-4881-B841-A7C8115F27EA}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T131706Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="About Us" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{58FBC39F-821F-4C1B-A78A-5B9A4359F532}" />

@@ -1,0 +1,75 @@
+﻿---
+ID: "8413fd60-7beb-444f-a86d-4fafb13047a7"
+Parent: "5daf090f-a242-4746-b538-283de2711f55"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/porcelain-vs-ceramic-tile/Data/Porcelain vs Ceramic Tile Which is Better"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T072314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Porcelain vs Ceramic Tile: Which is Better?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>&nbsp;</p>
+        <p>When choosing tiles for your home or project, the debate between porcelain and ceramic tiles is a common one. In this article, we will discuss the advantages and disadvantages of both materials to help you better understand them both and make the right choice for your specific needs.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h2 style="margin-left: 40px;"><span class="h2-style">Ceramic Tile</span></h2>
+        <p>&nbsp;</p>
+        <h3 style="margin-left: 80px;"><span class="h3-style">What is ceramic tile?</span></h3>
+        <p>&nbsp;</p>
+        <p style="margin-left: 80px;"><a class="font-bold" href="/material/ceramic">Ceramic tile</a> is made from sand, clay and water that is shaped, left to dry and then fired in a kiln at high temperatures. This firing process hardens the tiles and gives them strength and durability. They are also easy to install and <a class="font-bold" href="/resources/how-to/how-to-clean-ceramic-tile">easy to clean</a>. These features have made ceramic a popular tile material across the world for centuries.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;"><span class="h3-style">Advantages of ceramic tile</span></h3>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <ul style="margin-left: 80px;">
+            <li style="margin-left: 40px;"><strong>Affordability</strong>. Generally, ceramic tiles are priced lower than porcelain tiles, which means ceramic tile offers a wider variety of budget-friendly options.</li>
+            <li style="margin-left: 40px;"><strong>Versatility</strong>. Ceramic tile comes in a vast array of shapes, colors and sizes, offering plenty of options for every interior design style.</li>
+            <li style="margin-left: 40px;"><strong>Easier to cut</strong>. Ceramic is softer than porcelain, which makes it easier to cut and handle. This can be particularly advantageous for DIY projects, as it makes cutting tiles to fit around corners and other intricate shapes more accessible.</li>
+        </ul>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;"><span class="h3-style">Disadvantages of ceramic tile</span></h3>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <ul style="margin-left: 80px;">
+            <li style="margin-left: 40px;"><strong>Softness</strong>. Though they are remarkably durable, ceramic tile's looser construction makes them softer and more prone to scratching, chipping, and cracking compared to porcelain.</li>
+            <li style="margin-left: 40px;"><strong>Porosity</strong>. Unfinished ceramic, such as quarry tile, is generally more porous, making it less suitable for high-moisture areas and outdoor environments. However, finished ceramic tiles are not porous, which makes them well suited for bathrooms, showers, and other high moisture areas. Consult one of our tile professionals to find the best ceramic tile option to stand up to a wet environment.</li>
+        </ul>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;"><span class="h3-style">Where to use ceramic tile</span></h3>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 80px;">Ceramic tiles are best used in areas that experience wear. They are ideal for interior walls, backsplashes, and <a class="font-bold" href="/application/floor">floors</a> that see light to moderate foot traffic where conditions are not excessively wet.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 80px;"><span class="h3-style">Cost of ceramic tile</span></h3>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <p style="margin-left: 80px;">Ceramic tile can vary widely depending on the style, size, and quality. While it is certainly possible to find ceramic tile that is more expensive than some porcelain tile, on average ceramic will be less expensive than porcelain. Most ceramic tile options will cost between $5 and $10 per square foot, with some options slightly less and higher end options a bit more.</p><p />
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db8cce6a-bce6-4ab1-8c9b-91d7f7ad4af2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240909T103742Z

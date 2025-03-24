@@ -1,0 +1,117 @@
+﻿---
+ID: "0c0343d5-e871-4305-b837-2d5f89f2509e"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Layout Planning"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T132302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section>
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section>
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h3>Planning Your Layout</h3>
+        </div>
+        <div class="tile-component-image">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Measuring_design-services_Til%3aTile_All" data-srcset="https://s7d1.scene7.com/is/image/TileShop/Measuring_design-services_Til%3aTile_All" data-src="https://s7d1.scene7.com/is/image/TileShop/Measuring_design-services_Til%3aTile_All" alt="tile installation planning" title="tile installation planning" srcset="https://s7d1.scene7.com/is/image/TileShop/Measuring_design-services_Til%3aTile_All" />        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">Planning Your Layout
+        <div class="richText">
+        <p><span id="step2">As the saying goes, measure twice, and cut once. Putting in the time to plan your layout before you begin will always be worth it in the long run and will make your installation look even better.</span></p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <div class="richText-max richText">
+        <p style="margin-bottom: 0.25in;">Once you have all the tools and materials you need, the next step is to start planning the layout of your design. This is an important step because once you start installing tile, it&rsquo;s hard to go back and rethink the layout.</p>
+        <p style="margin-bottom: 0.25in;">First, find the center of the room. The easiest way to do this is to measure the length of one wall and divide that number in half. Next, measure the opposite wall and divide that number in half. Then, draw a line on the floor connecting the two center points. Repeat this process with the other two walls. You should now have two lines that intersect at the center point of the room.&nbsp;</p>
+        <p style="margin-bottom: 0.25in;">To plan your layout, you&rsquo;ll first place tiles on the ground without adhesive. Start from the center point and lay a row of tiles (including spacers) in one direction. You don&rsquo;t want to end with a sliver cut (less than half of a tile) at the end of the row. Shift your starting point if your row ends with less than half a tile.</p>
+        <p style="margin-bottom: 0.25in;">Next, lay another row of tiles at a 90&deg; angle from the first, and adjust your layout if you encounter a sliver cut. Be sure to account for any design features you are incorporating in your layout, such as diagonal tile, unique pattern or tiled border.</p>
+        <p style="margin-bottom: 0.25in;">Once you have decided on the tile layout, plan the order in which you will tile each section of the room. Make sure to finish in front of a door so you can easily exit without stepping on the tiles. If you are tiling walls and floors, we recommend starting with floors so that your<a href="/application/wall">&nbsp;wall tile</a>&nbsp;will overlap and sit on top of the floor tile. This ensures that water will run onto the floor tile instead of into the grout joint or under the tile.</p>
+        </div>
+        <section class="c tile-component full-width tile-component--old">
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section class="tile-component-content">
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h2 class="h3">Installation</h2>
+        </div>
+        <div class="tile-component-image col-xs-12 col-sm-6">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Shot07_OpeningBag_Til%3aTile_All" alt="how to lay tile installation" title="how to lay tile installation" />
+        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">
+        <h2 class="h4">Installation</h2>
+        <div class="richText">
+        <p>It&rsquo;s time for the exciting part! Read on to learn about all the essential steps of installation and hear our expert tips to make it all go smoother.</p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <section class="c-rich-text">
+        <div class="richText-max richText">
+        <p style="margin-bottom: 0.25in;">You&rsquo;ve picked out your wall or<a href="/application/floor">&nbsp;floor tile</a>,&nbsp;planned your layout and gathered the necessary tools and materials. Now you&rsquo;re ready to start the installation process!</p>
+        <p style="margin-bottom: 0.25in;">Before you begin, we recommend reviewing all the following steps so you can plan for each step in the process. We&rsquo;ll cover mixing and laying thinset, laying tile, and finishing touches, like grouting, sealing and caulking. Our Tile Experts are available to help if you have questions about any of the steps.</p>
+        </div>
+        </section>
+        <section class="c tile-component full-width tile-component--old">
+        <a name="Tile Item-Tile Item" id="Tile Item-Tile Item"></a>
+        <section class="tile-component-content" item-id="{93B97D0D-D653-4E37-98EC-404E172995FE}">
+        <div class="col-section">
+        <div class="tile-component-mobile col-xs-12">
+        <p>&nbsp;</p>
+        <h2 class="h3">Mixing Thinset</h2>
+        </div>
+        <div class="tile-component-image col-xs-12 col-sm-6">
+        <img src="https://s7d1.scene7.com/is/image/TileShop/Mixed+Product_Til%3aTile_All" alt="mixing thinset tile installation" title="mixing thinset tile installation" />
+        </div>
+        <div class="tile-component-text col-xs-12 col-sm-6">
+        <h2 class="h4">Mixing Thinset</h2>
+        <div class="richText">
+        <p>
+        <span id="step3">This step is more important than it may seem. Getting the right consistency and timing for your thinset is vital to a successful installation.</span>
+        </p>
+        </div>
+        </div>
+        </div>
+        </section>
+        </section>
+        <section class="c-rich-text">
+        <div>
+        <div class="richText-max richText">
+        <p style="margin-bottom: 0.25in;">The consistency and timing of your thinset are vital to a successful installation. For the best results, you want to know the open time and cure time of your thinset.</p>
+        <p style="margin-bottom: 0.25in;">Open time is the amount of time you have to work with your thinset before it hardens&mdash;typically between 30-40 minutes, but the timing can vary by type of thinset, temperature, humidity and other factors.</p>
+        <p style="margin-bottom: 0.25in;">To determine if your thinset is still usable, dip your finger in the bucket, if the thinset doesn&rsquo;t stick to your finger, it&rsquo;s past its prime. Toss the expired tinset, clean your bucket and mix up a fresh bash to continue with your project.</p>
+        <p style="margin-bottom: 0.25in;">Cure time is the amount of time it takes for thinset to fully set once it&rsquo;s installed. Refer to the manufacturer&rsquo;s recommendations for cure times.</p>
+        </div>
+        </div>
+        </section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24b67244-c0bf-44c1-86f2-0d680f84cec7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z

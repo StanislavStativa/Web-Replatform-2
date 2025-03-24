@@ -1,0 +1,52 @@
+﻿---
+ID: "8a8acdf6-c2f5-40f0-9649-e65296aebaf5"
+Parent: "dffffd93-c479-45b8-8126-14a80d208d07"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-vinyl-plank-flooring/Data/02 Mark the Plank"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T114036Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mark the Plank
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <h3 class="rtc__list-item-with-image mt-4" style="margin-left: 40px;">For Straight Cuts</h3>
+        <p style="margin-left: 40px;">Using a tape measure, measure where the plank will be cut and make a small mark on the edge of the plank using chalk or a pencil. Next, take your straight edge or T-square and line it up with the small mark. With the straight edge or T-square flush against one side, draw a line across the plank. Always use a sharp blade to ensure a clean cut and reduce the effort needed.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="rtc__list-item-with-image mt-4" style="margin-left: 40px;">For Irregular Cuts</h3>
+        <p style="margin-bottom: 1em; margin-left: 40px;">If you need to cut around pipes, cabinets, or other obstacles, you will need to mark the exact shape on your vinyl plank. The easiest way to do this is to create a template with a piece of cardboard or sturdy construction paper and use that to trace the shape onto the plank.</p>
+        <div class="rtc__list-item-with-image mt-4"><span class="EOP SCXW12035340 BCX0" data-ccp-props="{'335559685':720}" style="background-color: #ffffff; margin: 0px; padding: 0px; color: #000000;"></span></div><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51a14936-8d7f-4372-b419-8b5f3b4821fb"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 5
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T094439Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 2

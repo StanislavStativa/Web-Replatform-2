@@ -1,0 +1,47 @@
+﻿---
+ID: "e12a0277-b5d0-4922-a151-2050d4e398d3"
+Parent: "2dfb4b2e-37f1-468f-9da5-450dce1eaa9f"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/Content Tile Stack List/Samples
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T090854Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Samples
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>When you’re investing in your home, you want to be sure. Tiles need to be seen in person to be appreciated, so we have two easy ways to do just that. Fall in love with a tile at our store, and take a sample home to be sure it plays well with your space. Or, order a sample online, get it shipped in a week and then visit us and see it in person at The Tile Shop.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6760a363-1de4-43af-801b-4d45f36391fd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T091128Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Services-Samples-Design-Table:Tile_All_V2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="LEARN MORE &gt;" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3B4171C5-5998-4537-ABA8-A4E7B7A40A8D}" />

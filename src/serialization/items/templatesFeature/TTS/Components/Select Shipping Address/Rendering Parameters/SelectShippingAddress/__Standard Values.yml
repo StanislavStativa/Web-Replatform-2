@@ -1,0 +1,27 @@
+﻿---
+ID: "61baf215-db92-42c1-ae9f-7b56923bd9b4"
+Parent: "70da0eb8-059e-4269-9ac7-2d4d4f010343"
+Template: "70da0eb8-059e-4269-9ac7-2d4d4f010343"
+Path: /sitecore/templates/Feature/TTS/Components/Select Shipping Address/Rendering Parameters/SelectShippingAddress/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6454a15-6c08-4cb8-bb31-bd816e7f7fae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240604T160012Z

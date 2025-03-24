@@ -1,0 +1,174 @@
+﻿---
+ID: "c3c834a7-7718-4d7d-8bdc-3b7ce1d67ae3"
+Parent: "352b24cb-9b91-4ade-971b-3496f587e50f"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/laura-ashley"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 775
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{33ACF3F9-991A-46A5-B609-93A84F78F05F}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{DD28288A-4AD0-48EE-BEF5-F0C432CB24E8}"
+          p:after="r[@uid='{33ACF3F9-991A-46A5-B609-93A84F78F05F}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{53CCA132-EFDC-4704-BE2D-4FAB83A16967}"
+          p:after="r[@uid='{DD28288A-4AD0-48EE-BEF5-F0C432CB24E8}']"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{29E683B0-17C6-402B-9A67-220199B3A4D0}"
+          p:after="r[@uid='{53CCA132-EFDC-4704-BE2D-4FAB83A16967}']"
+          s:ds="local:/Data/RTE"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B8A7D17A3-CD2B-4420-8EC9-7209037EF62F%7D%7C%7B7CE54E6B-A9E5-448B-B398-C73F2E74E0F4%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="headless-main" />
+        <r
+          uid="{1AC4535E-E3EF-4CE5-8874-48FA7596EB81}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Featured TIles"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: The Laura Ashley collection of porcelain tiles was inspired by historic prints from the Laura Ashley archive. The refreshed patterns bring a sense of history combined with modern British style to American homes. Featuring whimsical and geometric patterns in both bold and soft color palettes, this collection allows you to create elegant works of art on the walls and floors of your home.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{1D283CB6-8E03-44AD-8339-36DFEF00D372}" target="" title="" linktype="internal" text="Ted Baker" url="/TTS/TileShop/Home/tile/collection/ted-baker" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{E33D3946-EBA0-469C-8742-2FC00955B85F}" target="" title="" linktype="internal" text="Firenze" url="/TTS/TileShop/Home/tile/collection/firenze" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T143912Z
+    - ID: "397ca1bd-6dda-4aac-b479-d9281b757b38"
+      Hint: RelatedLink10
+      Value: 
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5486c24a-ecff-47c1-aad4-2b31d79504dd"
+      Hint: SuperBoost
+      Value: |
+        {9801A466-35DD-4F96-A868-DD3A0A9A141B}
+        {FA392F42-BAB3-4593-83DA-AC7D74433C3C}
+        {A1CD0369-5CBF-4837-88F8-C15B110E4802}
+        {30129A42-BFD4-4281-A14D-F1544CBCED5E}
+        {DE2E38DE-6709-4446-AF64-6710E51D8E5A}
+        {CFA6A4BF-5A26-42E9-A4D8-B37910281AFF}
+        {270E931A-4CDE-4C89-A291-430691B23316}
+        {A689EF67-2022-488E-8D49-A341E6928F4F}
+        {7362FC62-D7A0-4FE6-8CD6-8F3345F5DCDC}
+        {EFA5FFD9-265F-40CC-BAF4-7E43E12FC934}
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Laura Ashley Tiles | Wicker & More Styles | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Laura Ashley Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: 
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "May_2022_SocialShoot_LA_Group_Horizontal:Category_Intro_Image_V2"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: 
+    - ID: "8c557d6f-ffa3-4dad-b77f-65610ec19e33"
+      Hint: Brand
+      Value: "{D6EAD7E4-5F2B-4820-A5D2-8E47771F9282}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a477bd3d-667e-4a9c-8bfb-a59bf341fdb6"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Laura Ashley Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{461DA844-E6E8-4267-A860-CD5D31368AE5}" target="" title="" linktype="internal" text="Annie Selke" url="/TTS/TileShop/Home/tile/collection/annie-selke" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop the elegant and whimsical style in the Laura Ashley collection by The Tile Shop.
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" querystring="" id="{BE716B72-21E4-45EE-9214-AE5D8D64E5A8}" target="" title="" linktype="internal" text="Armani" url="/TTS/TileShop/Home/tile/collection/armani" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T125329Z
+    - ID: "efb31bd2-611a-4001-bdd8-40e0994c5645"
+      Hint: RelatedLink9
+      Value: 
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" querystring="" id="{D84404D0-3358-4998-A66C-6B56AEBAE51F}" target="" title="" linktype="internal" text="Hampton Carrara" url="/TTS/TileShop/Home/tile/collection/hampton-carrara" />

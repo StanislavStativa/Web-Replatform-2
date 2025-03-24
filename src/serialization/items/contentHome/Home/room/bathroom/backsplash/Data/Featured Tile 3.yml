@@ -1,0 +1,46 @@
+﻿---
+ID: "73e8e987-be34-4c3d-bb44-69bebddd1add"
+Parent: "6f9ace36-3531-4b92-b637-6783f7bc21b2"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/backsplash/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {3B1BE62F-5A0F-47A3-837B-9B9D2E0BDB01}
+        {A794A6A9-5993-4AF6-AD68-494D4141B119}
+        {AA762E0E-01D6-47B3-A53D-B85267A76C36}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add Visual Interest With Mosaic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text md:px-10">
+        
+        <p><span>Choose a beautiful </span><a href="/featured/mosaics" class="font-bold">mosaic tile backsplash</a><span> for a bathroom look that creates visual interest. Since it’s a relatively small part of the room, the backsplash is a wonderful place to add some playful details. Go bold with a colorful leaf pattern or try a more subtle white </span>porcelain tile<span> or <a href="/material/marble/mosaic" class="font-bold">marble mosaic</a>. Available in a variety of materials, shapes and color variation, a mosaic tile backsplash will make a statement.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e4ad129-35df-4d7a-a5aa-869eefa9e0b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T112849Z

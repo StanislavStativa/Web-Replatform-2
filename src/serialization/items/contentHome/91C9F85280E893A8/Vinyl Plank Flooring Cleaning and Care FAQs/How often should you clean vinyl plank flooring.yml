@@ -1,0 +1,40 @@
+﻿---
+ID: "328f10f9-6a11-40e6-9444-24f36531060b"
+Parent: "de2985ff-6e5e-4f85-82cc-22ac79db039b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-and-care-vinyl-plank-flooring/Data/Vinyl Plank Flooring Cleaning and Care FAQs/How often should you clean vinyl plank flooring"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How often should you clean vinyl plank flooring?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>In most areas that see low to moderate use, sweeping two or three times a week will help keep dirt and debris from accumulating. You may need to sweep more often during certain seasons, such as during the summer when kids are more likely to track dirt and sand inside.</p>
+        <p>For high traffic areas such as those with heavy foot traffic or multiple active pets, we recommend you dry mop or sweep your vinyl plank flooring daily. This will remove loose dirt and debris that can scratch the surface and keep things looking tidy.</p>
+        <p>With regular sweeping, a thorough mopping with a vinegar solution once a week is sufficient. If you notice your floor looks dirty before a week has passed, you will not hurt your floors by mopping more frequently so long as you follow proper cleaning procedures.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb38503b-8794-4609-9e92-44ac2a99eaa4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T182716Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "7b75df5e-bba8-4a92-a32d-dd8431b52964"
+Parent: "2a32226d-e816-4cc0-bf79-77d97cc76010"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/faqs/maintainance-and-care/Data/Product FAQs/8 How do I keep my grout clean"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do I keep my grout clean?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Grout, like stone, is a porous material. Maintaining a sealed product is important to keep your product looking new for a longer period of time. The Tile Shop offers two great neutral pH cleaners for general upkeep. Neutral pH cleaners are non-acidic and are important because acid could potentially etch polished stone and/or strip sealers. Our <a href="/products/superior-grout-and-tile-neutral-cleaner-1-quart-021650" rel="noopener noreferrer" target="_blank">Grout and Tile Neutral Cleaner</a> and Anti-Bacterial Cleaner&nbsp;are considered safe for daily use on your grout surfaces. The Tile Shop offers several additional products if your grout requires more heavy-duty cleaning. Consult with a Tile Shop representative to determine the best product for your application since some tile products may be acid/chemical-sensitive.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42ba1710-e23d-495f-b2e5-a2128aebed3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T140045Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "86143dcc-590c-49cb-924d-4627f2bebb3d"
+Parent: "6b79b270-0d6a-4a62-a13c-877104a10b88"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/content/TTS/TileShop/Home/room/bar/backsplash/Data/Secondary Banner/Link 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240814T170043Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d16714b9-7ae9-47c1-8d65-4947ea62cfc1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T170147Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Bar Floor Tile" anchor="" linktype="internal" class="" title="Bar Floor Tile" target="" querystring="" id="{608D0FBD-3218-4B3C-BD4A-184B8341BAE4}" />

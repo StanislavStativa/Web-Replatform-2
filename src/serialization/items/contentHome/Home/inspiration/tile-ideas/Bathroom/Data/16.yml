@@ -1,0 +1,42 @@
+﻿---
+ID: "ffeaae7f-2e2b-4a33-9ce5-5e8000e27fbe"
+Parent: "d30cc777-0165-4157-9187-6ff931fc11c7"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Bathroom/Data/16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Wood-Look Floor Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        If you love the look of a hardwood floor but are afraid of the mold and bacteria that can grow in a bathroom, you’re in luck. We carry a wide variety of ceramic, porcelain and <a class="font-bold underline" href="/material/luxury-vinyl/wood-look-luxury-vinyl-flooring"><span>luxury vinyl tile wood looks</span></a> that will withstand bathroom moisture. Advances in printing have created such intricate and precise details that you’ll hardly tell the difference between tile and real wood.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "728f2e42-7cd5-4e28-a01f-d2a0c22a8dce"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 32
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T121431Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "HaneenMatt_ORCSpring2021_Bathroom_048:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 16

@@ -1,0 +1,44 @@
+﻿---
+ID: "fa297c63-8180-46a5-941a-21819dfce964"
+Parent: "ed8aa61e-9bb3-447a-a4c1-e4b102908d93"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/outdoor/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {F8DE820C-91E7-4BD6-8795-FC94B2F4E889}
+        {3AC35EDD-7164-435D-81BD-32264B8EFF73}
+        {A24C5555-5EB6-4870-8533-DAFB77B234C1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Define Your Space with Outdoor Wall Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>When it comes to vertical surfaces in your outdoor space, backsplashes are just the beginning. You can use tile to accent a </span><a href="/room/fireplace" class="font-bold">fireplace</a><span> or bar, surround an outdoor shower, or add privacy with a garden wall partition. Many of our <a href="/room/outdoor/patio-wall" class="font-bold">outdoor stone wall tiles</a> and outdoor porcelain tile varieties will coordinate nicely with your </span><a href="/room/outdoor/patio-floor" class="font-bold">patio floors</a><span>, creating a cohesive look.   </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7220561b-2acc-4c13-9c32-58629c4cb81d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185208Z

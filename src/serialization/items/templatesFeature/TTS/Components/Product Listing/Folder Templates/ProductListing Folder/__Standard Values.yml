@@ -1,0 +1,33 @@
+﻿---
+ID: "5975a035-2fa3-4a09-a7b6-9ae427a96b07"
+Parent: "9a3c5d9c-50d4-4a90-93e0-4e4168a32ee9"
+Template: "9a3c5d9c-50d4-4a90-93e0-4e4168a32ee9"
+Path: /sitecore/templates/Feature/TTS/Components/Product Listing/Folder Templates/ProductListing Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {D33B4C74-B568-48EF-87E7-2F355EFCE1FC}
+    {9A3C5D9C-50D4-4A90-93E0-4E4168A32EE9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1060e072-2b5f-47b7-be16-c3ee4a7861fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T064538Z

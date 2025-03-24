@@ -1,0 +1,40 @@
+﻿---
+ID: "930db525-bfd0-4432-972d-f83a9be63c07"
+Parent: "cf85bfa9-37ce-4939-baa9-080f730be975"
+Template: "7a327727-383f-4738-aefb-3a906ad7ce94"
+Path: /sitecore/content/TTS/GlobalData/States/OK
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181213T172050Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5cabe8a4-ccaf-4f8d-9a55-da95ea4e45c6"
+      Hint: StateName
+      Value: Oklahoma
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "813872f0-1541-4211-83df-a13b1973441c"
+    - ID: "a5789a1e-9556-4bb4-8234-34ec4ef3131c"
+      Hint: StateCode
+      Value: OK
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181217T224346Z
+    - ID: "f736ffe8-f29e-4e93-b08c-951647513f5a"
+      Hint: CountryCode
+      Value: US

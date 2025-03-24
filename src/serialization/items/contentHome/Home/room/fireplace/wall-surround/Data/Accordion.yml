@@ -1,0 +1,45 @@
+﻿---
+ID: "2b285d7c-8711-4624-8a2d-c8a09d7a1e03"
+Parent: "12a2c0fb-ee09-461d-8f76-120c7eb64381"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround/Data/Accordion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {34106B89-07B5-4C03-9F8F-457684CC3B0F}
+        {664842DB-DA77-4E02-B7BB-3776A302A89A}
+        {6F3C4551-6E0B-4758-AA0B-F57DDFA4A9AA}
+        {B1902325-3114-478B-93D5-DE1469052C9F}
+        {B47E434B-4384-425F-85BA-13A0244FF0EC}
+        {E25FC118-C6A9-48E0-83E3-F8219732192F}
+        {7C1F15C7-6856-479B-9A14-DE01BB46CE1C}
+        {B1284A7B-7C68-479F-9131-4838C891A259}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29e61c58-5c94-476d-bb94-bfd857ef11bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T120952Z

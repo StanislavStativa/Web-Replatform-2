@@ -1,0 +1,39 @@
+﻿---
+ID: "b539f6e5-5c3b-4ee7-895e-571dca635cf0"
+Parent: "ddd05e9d-72ef-4a74-bb23-dfcb730d0b21"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/TTS/TileShop/Presentation/Headless Variants/PaymentWorksConfirmation
+BranchID: "d8eb777d-8f71-448d-b698-ce8eae59708e"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3C0D81D0-3406-4373-A061-D28C87C3DE27}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241224T091650Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4606679f-4ee9-45c1-b8f3-a2fc9dc36799"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241224T091651Z

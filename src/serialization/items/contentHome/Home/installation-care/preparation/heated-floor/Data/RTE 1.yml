@@ -1,0 +1,68 @@
+﻿---
+ID: "49ccb01b-eefa-49be-bf06-c271ebf0f41f"
+Parent: "7c39441a-eeae-4615-84d7-af4beaa0d02e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/preparation/heated-floor/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Turn Up the Coziness with Heated Tile Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text extra-small-top-margin">
+        <p class="extra-small-bottom-margin">An underfloor heating system is one of the best little luxuries you can give yourself and your family. These systems keep your tile floors comfortably heated across the entire room, maximizing comfort.</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Where to Use Heated Floor Tile</span></h2>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Bathrooms</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">If you are considering adding radiant heat flooring, a heated bathroom floor is a great place to start. Bathrooms tend to have smaller footprints, so the cost to install is more accessible. And radiant heating helps dry out moisture on the floor, reducing the risk of slips and the growth of mold and mildew.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Bedrooms</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A heated floor makes installing tile in your bedroom a much more attractive choice. In-floor heating provides constant, even heat distribution, keeping the floor nice and toasty. This can make bedrooms feel more inviting and cozy, especially in colder climates.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Kitchens</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Installing heated flooring for tile kitchens can make each mealtime more comfortable for everyone. With underfloor heating, tiles stay evenly warm, ensuring your feet are always comfortable, no matter where in the kitchen your cooking takes you.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Best Materials for a Heated Tile Floor</span></h2>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h2"><span class="h3">Porcelain and ceramic</span></span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><span>These are the most popular choices for heated floors because they are excellent conductors of heat, so they heat up quickly. They are also highly durable and come in a wide variety of styles, so you can easily find a tile that plays well with a heating system that also stands up to wear and tear and looks good doing it.</span></p>
+        <p style="margin-left: 40px;"><span></span></p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Natural stone</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><span>Materials like granite, marble, slate, and <a href="/material/travertine" class="font-bold underline">travertine</a> are excellent for use with in-floor heating. Natural stone has high thermal conductivity, so it will heat up quickly and evenly. And, as a natural material, these materials are used to putting up with the sun's rays so they are especially well suited for the relatively moderate temperatures of an underfloor heating system.</span></p>
+        <p style="margin-left: 40px;margin-bottom:0.67em;"><span></span></p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Luxury Vinyl</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><span>Most <a href="/material/luxury-vinyl" class="font-bold underline">LVP flooring</a> is suitable for use with radiant heating systems. They are relatively thin, making heat transfer quick. Still, it's a good idea to check with the manufacturer to make sure the specific LVP you are considering is designed to be used over a radiant floor heating system.</span></p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><span></span></p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2>
+        <p class="extra-small-bottom-margin"><span>Not sure if your preferred look will go with a heated floor? You can schedule an appointment for a <a href="/free-design-services" class="font-bold underline">free design consultation</a> to find the best combination of heat durability and style so you can maximize style and comfort.</span></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81fa3217-9b46-4334-801e-79f3f7324532"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T131501Z

@@ -1,0 +1,49 @@
+﻿---
+ID: "80d9e4e2-de32-46dc-b603-031b93dff4d4"
+Parent: "5eb5c591-8c96-4cc6-891f-f54d9333603b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/covid-19/Data/Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T090000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section class="full-page-section flex relative overflow-hidden container mx-auto w-full min-h-100 px-4 pb-6 pt-10 md:py-40 md:justify-center items-center bg-tonal-gray text-black">
+        <div class="rich-text md:px-10" style="text-align: justify;">
+        <h1 class="general-hero__title h2">AN UPDATE TO OUR COMMUNITY REGARDING COVID-19</h1><br />
+        <div style="color: #3d3935;">In today's current climate, please know that the health and safety of our customers, staff and community is always our number one priority.&nbsp; With this in mind, we are vigilantly monitoring the COVID-19 outbreak, adopting the precautions and recommendations of the CDC as well as local health authorities, and have a dedicated team and plans in place to quickly respond based on their guidance. </div>
+        <div style="color: #3d3935;">&nbsp;</div>
+        <div style="color: #3d3935;">Because we are following all local and federal mandates regarding store hours and operations, we will be updating our store location pages on <a href="/">tileshop.com</a>&nbsp;with any specific store closings in real-time.&nbsp; Please reference your individual store page before visiting a store for any hours or services changes as a result of the current situation <a href="https://www.tileshop.com/store-locator" target="_self">https://www.tileshop.com/store-locator</a> </div>
+        <div style="color: #3d3935;">&nbsp;</div>
+        <div style="color: #3d3935;">In an effort to minimize any potential spread of the virus, we have increased the frequency and standards of our in-store cleaning and sanitation procedures, ensuring a safe environment. </div>
+        <div style="color: #3d3935;">&nbsp;</div>
+        <div style="color: #3d3935;">As the situation evolves, we will continue to communicate and take the appropriate measures to ensure our entire organization is here to serve you in the safest way possible.&nbsp; As always, you are able to schedule a delivery should you prefer to have your product delivered instead of picking up at your local store.&nbsp; If you have any questions about your order or need any assistance please don't hesitate to call your local store or our customer service at 888-398-6595. </div>
+        <div style="color: #3d3935;">&nbsp;</div>
+        <div style="color: #3d3935;">We will continue to provide you with as transparent and responsive communications as possible as we navigate through this unprecedented time. </div>
+        <div style="color: #3d3935;">&nbsp;</div>
+        <div style="color: #3d3935;">Thank you for being a part of The Tile Shop community.</div>
+        </div></section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b048d643-8015-462a-bb1a-e699f30cdc29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T112810Z

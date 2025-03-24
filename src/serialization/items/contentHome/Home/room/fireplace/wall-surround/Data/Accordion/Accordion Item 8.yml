@@ -1,0 +1,37 @@
+﻿---
+ID: "b1284a7b-7c68-479f-9131-4838c891a259"
+Parent: "2b285d7c-8711-4624-8a2d-c8a09d7a1e03"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround/Data/Accordion/Accordion Item 8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is there heat resistant tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>All porcelain and ceramic tile is fired in a kiln at high temperatures to produce the body of tile but also its beautiful glaze. This process produces a heat-resistant tile, however there are different decorative elements added afterwards, so check with your sales associate to ensure that your specific tile is suited for your fireplace. Since the beginning of time, natural stone has been produced with heat and pressure from the Earth. This process makes tile resistant to heat, but there are certain stones that are softer than others or use epoxy or fill to make the stone stronger—these can reduce a natural stone’s resistance to heat. To be completely sure, just check with your sales associate to confirm your tile can withstand the heat that your fireplace will be producing.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42c4452c-a757-435a-84f1-9c41d18f888a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T120941Z

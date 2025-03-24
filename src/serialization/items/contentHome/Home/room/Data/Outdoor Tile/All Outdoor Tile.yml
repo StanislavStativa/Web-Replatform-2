@@ -1,0 +1,40 @@
+﻿---
+ID: "f0d97676-6e34-4198-bc16-7604e97dab52"
+Parent: "0ee25fa6-aacb-45ac-baf1-cf8db7b9bb7c"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: /sitecore/content/TTS/TileShop/Home/room/Data/Outdoor Tile/All Outdoor Tile
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BF211148-CD7D-4C9F-8C73-A69D73F70630}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b66a4791-017f-427a-90cd-4b6d778ec813"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T123325Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" querystring="" id="{F49F505A-848D-446B-88D2-DC0606F5A614}" anchor="" target="" title="" linktype="internal" text="All Outdoor Tile" url="/TTS/TileShop/Home/room/outdoor" />

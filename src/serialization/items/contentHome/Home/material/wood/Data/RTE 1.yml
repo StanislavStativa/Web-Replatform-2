@@ -1,0 +1,52 @@
+﻿---
+ID: "c927eda4-744d-4025-af01-ed894658d773"
+Parent: "ebfacad4-9c27-47c1-8916-2e2c2428e901"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/wood/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Bring Your Space to Life With Wood Wall Tiles</h2>
+        <p><span>&nbsp;</span></p>
+        <p>Wood wall coverings—like wainscoting, shiplap and paneling—have been used to decorate homes for thousands of years, but that doesn’t mean that a wood-tiled wall will make your space feel old-fashioned. In fact, one of the things we love most about modern wood wall tiles is the juxtaposition of reclaimed natural materials with modern designs and features like self-adhesive applications. When it comes to creating timeless interiors with organic charm, wood mosaic tiles are a versatile and modern choice.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <p><span>&nbsp;</span></p><h3 class="extra-small-bottom-margin"><span class="h3">Types of Wood Tiling for Walls</span></h3>
+        <p>Our selection of wood tiling for walls includes multiple styles featuring contemporary shapes and finishes. From geometric mosaics made with reclaimed wood to <a href="/featured/3d" class="font-bold">3D architectural tile</a> made with recovered pieces of sunken cedar, these styles prove that wood wall coverings have come a long way since formal wainscoting, groovy 1970s paneling and more recent modern-farmhouse shiplap.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Where to Install Wood Wall Tiles</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p>Just like wood floors look great throughout a home, so do wood walls. Wood tiles can be used in a variety of wall applications. Cover an entire wall with a 3D design that makes a statement with texture while still being neutral, or focus on a smaller feature area, like a wood tile backsplash over the counter in your <a href="/room/bar" class="font-bold">home bar</a>. Wherever you decide to incorporate them into your home, wood wall tiles will add a distinctive element that instantly elevates the look of a room.</p>
+        <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Our Experts Can Help</span></h3>
+        <p><span>&nbsp;</span></p>
+        <p>We know there’s a lot to consider when you're investing in your home, and we invite you to simplify the tile-buying process with a visit to <a href="/store-locator/" class="font-bold">one of our showrooms</a>. Our friendly sales associates and design experts can help you choose wood mosaic tile you love, so you can create a space you’ll enjoy for years to come.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63dfc474-8818-4dfb-9a54-3cbe216fdc3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124226Z

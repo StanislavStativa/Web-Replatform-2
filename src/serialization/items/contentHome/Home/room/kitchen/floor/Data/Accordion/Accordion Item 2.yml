@@ -1,0 +1,38 @@
+﻿---
+ID: "cab92e1b-06a3-4f04-9fb9-4104ed52fde7"
+Parent: "1c759422-0888-486e-b163-8cb7ee577624"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/Accordion/Accordion Item 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113449Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What’s the benefit of wood-look tile over hardwood in the kitchen?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>The strength and durability are the biggest advantages that wood-look tile has over hardwood flooring, especially in the kitchen. It won’t scratch or need refinishing like a hardwood floor. If you want the appearance of natural wood with the durability and easy-to-clean quality of ceramic tile, we offer a variety of </span><a rel="noopener noreferrer" class="ql-link font-bold" href="/featured/wood-look" target="_blank"><strong>wood-look tile options</strong></a><span> that can create the very same style</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eace673f-3871-4312-b25c-9ecad8c16846"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185206Z

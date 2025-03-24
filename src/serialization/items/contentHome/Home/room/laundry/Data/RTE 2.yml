@@ -1,0 +1,46 @@
+﻿---
+ID: "d5e2c553-2e1f-4946-865e-b86a55a02af8"
+Parent: "ce937f22-52fe-4f03-8854-d19859d42286"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/laundry/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  ">
+        <h3 class="extra-small-bottom-margin">
+        <span class="h3">Laundry Room Floors</span></h3>
+        <p>&nbsp;</p>
+        <p>Consider the size and layout of your laundry room when selecting tiles. <a href="/featured/large-format" class="font-bold underline">Larger tiles</a> can make a small room appear more spacious, but they may require cutting to fit around appliances and fixtures. Smaller tiles can offer more flexibility in terms of layout and can be a good choice for irregularly shaped rooms.</p><p>Select durable tiles that can withstand the weight of your washer and dryer, as well as resist wear and tear over time. <a href="/material/porcelain" class="font-bold underline">Porcelain tiles</a> are known for their strength and durability, making them a mainstay of <a href="/inspiration/tile-ideas/laundry-room" class="font-bold underline">laundry room floor design</a>.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Laundry Room Backsplash</span></h3><p>Adding a <a href="/application/backsplash" class="font-bold underline">tile backsplash</a> to your laundry room is a fun way to experiment with interesting colors and patterns. The smaller overall square footage of a backsplash means you can add some whimsy or intrigue on a smaller scale, keeping busy patterns or vibrant colors from overwhelming the room.</p><p>As for color, while the conventional wisdom says dark walls can make a small space feel even smaller, that is not always the case with laundry room tiles. If your laundry room is especially well lit, consider a high gloss black tile for your laundry room backsplash. The gloss will reduce the darkening effect and the stark <a href="/color/black" class="font-bold underline">black tile</a> will add a dramatic flare to an otherwise purely functional room.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We're Here to Help</span></h3><p>Not sure how to style your laundry room? Schedule an appointment for our <a href="/free-design-services" class="font-bold underline">complimentary design services</a> and meet with one of our design experts to explore your options.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c66d9b8-ba10-4377-9100-37186bbc9d08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055634Z

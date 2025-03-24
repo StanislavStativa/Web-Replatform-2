@@ -1,0 +1,39 @@
+﻿---
+ID: "69dd0feb-981e-439f-85d4-597760f95655"
+Parent: "796e58b4-ed9a-48e5-9e16-38e516b37c83"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Data/Tile Options"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T130935Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2 class="h1">Tile Options</h2>
+                <div>
+        <p>Creating your tile design is like painting a picture—you must consider color, space, layout and style. Whether you’re designing indoors or outdoors, a full wall or a small accent, at home or for a business, the tile idea options are endless. With the multitude of choices for different <a class="font-bold underline" href="/shape">shapes</a>, <a class="font-bold underline" href="/color">colors</a>, <a class="font-bold underline" href="/inspiration/tile-layout-patterns">patterns</a>, <a class="font-bold underline" href="/material">materials</a>&nbsp;and <a class="font-bold underline" href="/trim-and-accessories">finishes</a>, you can create a truly unique design that’s all your own. If you haven’t seen what’s new lately, stop into The Tile Shop to get inspired by our fully tiled vignettes, and get expert advice from a store associate.</p>
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e4605f9a-e83a-4a12-9672-40e0ee93b20a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T143539Z

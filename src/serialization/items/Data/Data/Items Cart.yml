@@ -1,0 +1,37 @@
+﻿---
+ID: "9860488d-15ef-4892-ae0b-d283efcabaf0"
+Parent: "b47aca0c-86d6-4584-9e65-2f5b63b0765c"
+Template: "096cd7e7-4c48-4512-9b20-bd908f2ae358"
+Path: /sitecore/content/TTS/TileShop/Data/Items Cart
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T085300Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Items Cart
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a407d27a-90f2-4fbc-9755-8dba0d97c8b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T085300Z
+    - ID: "ea610ad1-7df3-440d-952d-937698a4e5a3"
+      Hint: CTATitle
+      Value: Items Cart

@@ -1,0 +1,46 @@
+﻿---
+ID: "fe0d9c15-f941-4e7f-9cc7-79eff5bac7c5"
+Parent: "91ddb9f6-eeed-4e5e-8239-c1446113b052"
+Template: "cb3c3b5f-b890-487f-96cc-2540a4432503"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/rewards/Data/Rewards1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T095430Z
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: LEARN MORE
+    - ID: "4d5c9232-a74b-494f-a300-0da74590101f"
+      Hint: SectionDescription
+      Value: |
+        <div>
+        <p>Visit your <a href="/store-locator">local store</a>&nbsp;or <a href="~/link.aspx?_id=85F6F16CB3C345D6B22F4FC308ABEF9C&amp;_z=z">join today.</a></p>
+        </div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6b7b061f-e9c6-4619-9a32-ad2f6c922358"
+      Hint: LeftSectionTitle
+      Value: 
+    - ID: "73aa864e-bdc1-4529-ab95-5a5b375359cd"
+      Hint: LeftSectionDescription
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e59cc1b5-6f8e-468d-a56c-7c62df9d8f72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T081601Z

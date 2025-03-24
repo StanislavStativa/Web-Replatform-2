@@ -1,0 +1,30 @@
+﻿---
+ID: "98aa0a20-69e9-4c8f-bae2-2c9b66b7b0c2"
+Parent: "a38b0436-70d0-44ec-bc05-8a3ad269f48c"
+Template: "d43798c3-4fc0-4ffe-bbe0-ebafb715ed89"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Tools/Saws and Cutting Tools
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T074540Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Saws & Cutting Tools
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "373d6e4e-8530-4e8d-8109-bb6f64379fdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T122025Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Saws &amp; Cutting Tools" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DBD73C10-EDFD-4753-BA7E-CC491E319854}" />

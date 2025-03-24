@@ -1,0 +1,51 @@
+﻿---
+ID: "3e1531b0-7a07-4192-a685-0961f563b43c"
+Parent: "3a0f943a-be5d-4a15-b3d6-43ee6272579b"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/glass/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0DFA1733-80CD-47B6-AE8E-1574962EFB95}
+        {4A8E09D3-16AE-42BA-B8E5-53661CA5DAC8}
+        {625C3745-36AE-49DB-A28B-2044324572EE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Where to Use Glass Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Glass tiles are suitable for a wide variety of indoor and outdoor uses:</p><br /><br />
+        <p><h4>Bathrooms</h4>
+        <br />Our customers often end up selecting glass tile for bathroom projects. In addition to creating a sleek, clean look, glass is well suited to a humid environment and is easy to clean. It’s common for customers to select glass tile for multiple spaces within a single bathroom; for example, installing a glass tile shower as well as coordinating wall tile. Whether you’re shopping for materials for a powder room or grand primary ensuite, you can get the style and function you seek with glass tile.</p><br /><br />
+        <p><h4>Kitchens</h4><br /><br />
+        A glass tile backsplash is a smart addition to just about any kitchen. Glass holds up exceptionally well to heat and moisture, and as a non-porous material also resists staining (something any cook can appreciate!). If you’re updating your kitchen with resale value in mind, you’ll never go wrong with a glass subway tile backsplash, in particular. Subway tile is our best-selling shape across all product categories and offers the perfect blend of classic and on-trend style to bring your space up to date while ensuring it’s still in style many years down the road.</p><br /><br />
+        <p><h4>Pools</h4><br />
+        Glass tile looks gorgeous on the interior of a swimming pool, and can help enhance the light-catching properties of the water. Note: If you’re browsing for pool tile, always check with one of our team members to confirm whether a product is pool-rated before moving forward with your project.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdd3eb3e-18cf-4213-8d9c-2605614fbafa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T121127Z

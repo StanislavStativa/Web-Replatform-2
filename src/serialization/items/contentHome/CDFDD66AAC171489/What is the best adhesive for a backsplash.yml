@@ -1,0 +1,46 @@
+﻿---
+ID: "4ffb9e75-85ad-4593-ae6d-8329a398f65a"
+Parent: "3c555c6a-d7fb-4747-b26f-3e7c17cbc991"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-a-backsplash/Data/Tile Grouting FAQs/What is the best adhesive for a backsplash"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T182552Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What is the best adhesive for a backsplash?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        The two most common types of adhesives used for backsplash tiles are thin-set mortar and mastic. The best adhesive for your backsplash will depend on the type of tiles you're using and the specific conditions of your kitchen.<br />
+        <br />
+        Thin-set mortar is best for areas with lots of exposure to moisture. It's also good for larger tiles that need a stronger bond to stay in place. This type of adhesive can be used for ceramic, porcelain, and natural stone tiles.<br />
+        <br />
+        Mastic is a good choice for backsplashes where heavy moisture exposure is not a concern. This type of adhesive is less common in kitchen backsplashes, but for areas that are unlikely to experience regular exposure to moisture it can be a suitable option.<br />
+        <br />
+        As always, your best bet is to follow the tile manufacturer's instructions when selecting an adhesive.&nbsp;<a href="https://www.tileshop.com/installation-care/installation/adhesives">Shop all adhesives &gt;</a>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "437ef3bf-c921-450b-84f2-0c0e0c78f7aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T094511Z

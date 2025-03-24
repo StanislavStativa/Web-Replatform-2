@@ -1,0 +1,47 @@
+﻿---
+ID: "61c1e3a5-fd00-4ef6-9eb2-71667b8aa781"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/Top Tips for How to Finish Tile Edges"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T051825Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Top Tips for How to Finish Tile Edges
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p /><div class="rtc__callout-text">
+        <p class="rtc__callout-text__headline">Top Tips for How to Finish Tile Edges</p>
+        <p>Whether you’re working with <a href="/material/marble">marble</a>, porcelain, ceramic or any other material, you can turn to these techniques again and again to create polished, professional-looking results in a variety of spaces. Here are a few of our pros’ best tips for getting your best possible results every time:</p>
+        <ul>
+            <li>In the <a href="https://www.youtube.com/watch?v=OwJOqGYtpu0"><strong>accompanying video</strong></a>, our tile pro refers to “burning” the thinset at various points. This is another term for applying a thin skim coat of thinset to the back of your tile or to the wall, and it’s an important step in creating a strong bond between your tile/trim and the surface beneath.</li>
+            <li>When using your notched trowel, remember that notches should run parallel to the shortest edge of the tile you’ll be using. This allows air to escape quickly from behind the tile during application step.</li>
+            <li>Each method of finishing tile edges offers a different look. Let your overall project design inform your decision.</li>
+        </ul>
+        <p><a href="#top">Back to top</a></p>
+        </div><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75846ac3-c5f9-462d-8daa-9b967c20f050"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z

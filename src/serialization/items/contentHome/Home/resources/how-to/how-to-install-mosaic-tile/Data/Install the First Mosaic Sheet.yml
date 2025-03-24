@@ -1,0 +1,51 @@
+﻿---
+ID: "fe28d71c-dc85-4b3f-996e-479ae8fcc6c8"
+Parent: "c9404b5e-d89c-46d0-a8d7-8c409b5550a3"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile/Data/Install the First Mosaic Sheet"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: |
+        <p>
+        Allow grout to set for the amount of time specified in the manufacturer's directions, usually 15 to 30 minutes, then begin gently wiping off the excess grout with a clean, damp sponge. Rinse the sponge frequently, using one bucket for getting the excess grout off the sponge and the other for re-dampening the sponge. Be sure to replace the water in both buckets frequently to keep it from getting too dirty. As you wipe, be careful not to remove grout from the joints.</p>
+        <p>
+        After approximately 30 minutes, you can use a grout shaper to trim excess grout from the edges of the tiles. This will give the grout a crisp, professional look.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Install the First Mosaic Sheet
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Carefully determine the center of your tiling surface and mark it with a pencil or chalk. Press the first mosaic sheet and gently onto the thinset, aligning it with your layout marks. Gently tap the tile sheet with a <a href="/installation-care/installation/tools/trowels-and-floats">grout float</a> or a flat piece of wood to ensure even adhesion and to make sure the tiles are all sitting flat and even across the substrate. Use a level or a straight edge to ensure the tiles are even and aligned.<br />
+        <br />
+        If your tiles aren't pre-spaced on a mesh sheet, use tile spacers to maintain even gaps. Periodically check the alignment and level of the tiles as you go.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1d43f75-7986-4722-85d8-d51a59562110"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 8
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T095436Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 5

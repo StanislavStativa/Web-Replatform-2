@@ -1,0 +1,47 @@
+﻿---
+ID: "710f84f6-8bfb-4cd0-a551-1682e20455a1"
+Parent: "1391b22d-db0a-4efe-96cf-c25d92b33182"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/material/marble/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {5D99031E-EACA-4D58-8EB9-52B8AB59FD51}
+        {EF239AD2-E2D0-4B7F-98A5-B2F718C516BB}
+        {EC5CB27B-E51F-416E-A183-8EEF75163400}
+        {24BEEB16-903A-499E-8C1B-10AD741D86A0}
+        {A65F8BBB-929D-4BD3-B60E-6EAF922A17B3}
+        {3578EF4C-0191-4E4B-9DE8-64C91D1B5CA3}
+        {6897A5A5-6199-40FF-B88F-33E20865E4F4}
+        {C7B01BEB-D1E9-4DD4-A545-07C4573D9452}
+        {0261D04E-0C50-46D3-BF15-723D8CCB0B0B}
+        {31F7D895-9DE2-4920-B591-5B4324120012}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8f3eab6-35a5-42d1-9cc0-f965046fbf82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T151917Z

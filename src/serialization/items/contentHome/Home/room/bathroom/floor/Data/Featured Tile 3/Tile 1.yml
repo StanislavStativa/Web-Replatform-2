@@ -1,0 +1,38 @@
+﻿---
+ID: "08e6059b-4a4b-4eb3-b686-0c4d092934c3"
+Parent: "354fb78c-31df-4d57-bd48-4987cfd30716"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/floor/Data/Featured Tile 3/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T095306Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f066bd03-8eba-425a-8323-6d1022dd3210"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile:&nbsp;</span><a href="/products/black-marquina-polished-marble-hex-mosaic-wall-and-floor-tile-2-in-650292" class="font-bold">Black Marquina Hex</a><span style="color: #333333;">&nbsp;&amp;&nbsp;</span><a href="/products/firenze-carrara-honed-marble-2-in-hex-mosaic-tile-650217" "="" class="font-bold">Firenze Carrara Hex</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140426Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "BeginningInTheMiddle_ORCSpring2020_Bathroom_037:Design_Ideas_All_V2"

@@ -1,0 +1,40 @@
+﻿---
+ID: "47ccb1cb-60fd-407f-9e26-dd2682115492"
+Parent: "e058009b-609f-409e-87c6-cb9624999a4d"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/cost-to-retile-bathroom/Data/Bathroom Retiling FAQs/How do I find a reputable tile contractor"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T175756Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do I find a reputable tile contractor?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Finding a reliable tile contractor is crucial for a successful project. Look for recommendations from <a href="/store-locator/">your local Tile Shop</a>, check reviews, ask for certifications and ask for multiple quotes. Ensure that the chosen professional has experience with the specific type of tiling you're envisioning as well as any ancillary parts of the project such as waterproofing a shower properly.</p>
+        <p>Checking the <a href="https://www.tile-assn.com/">National Tile Contractors Association</a> database is a great place to start. The NTCA is a nonprofit organization comprising manufacturers, distributers and tile installers. They connect the tile industry with updated installation methods set out by the <a href="https://www.ansi.org/">American National Standards Institute</a> (ANSI) and the TCNA.</p>
+        <p>Choosing an installer from the <a href="https://www.tile-assn.com/search/custom.asp?id=2759">NTCA database</a> ensures you are getting an installer who takes pride in their education and staying current on installation methods and materials.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc94cabc-b967-4461-948d-3a0103e4e3df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061912Z

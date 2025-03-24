@@ -1,0 +1,77 @@
+﻿---
+ID: "2fe9f57d-7318-4b3e-a19e-bed3bb246aed"
+Parent: "efc2a14f-01f5-4823-94ef-a95e63634368"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/grout/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Pick the Right Grout for Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p class="extra-small-bottom-margin">Grout selection can be almost as challenging as tile selection. We have gathered these considerations for choosing the right grout for your project.</p>
+        <h3 class="extra-small-bottom-margin">How to Style Grout by Color</h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin">Grout for Neutral Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">With white, beige, and <a href="/color/ivory" class="font-bold underline">ivory tiles</a>, you can create a clean look with a similarly light grout color. This creates a unified appearance and makes the grout lines recede visually.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">If you prefer to add some definition to your tiles, you can opt for a darker grout. The darker you go, the more vibrant your lighter tiles will be.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin">Grout for Dark Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For dark tiles, such as deep blues, blacks, or <a href="/color/grey" class="font-bold underline">dark grays</a>, using a grout color in a similar or slightly lighter tone can create a sophisticated, seamless look. This approach emphasizes the texture and shape of the tiles themselves.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A lighter grout color can be striking against dark tiles, highlighting the <a href="/inspiration/tile-layout-patterns" class="font-bold underline">tile layout and pattern</a>. This is a bold choice that works well in modern or industrial designs.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Grout for Vibrant Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">With vibrant or colorful tiles, choosing a grout color that harmonizes with the tile can prevent the space from feeling too busy. A neutral grout color such as white or ivory will let the tiles themselves shine.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">If your vibrant tiles are part of a specific pattern or design, a contrasting grout color can accentuate this pattern.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">
+        </p>
+        <h3 class="extra-small-bottom-margin">How to Choose Grout by Application</h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin">Floor Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><a href="/application/floor" class="font-bold underline">Floor tiles</a> are usually larger format and as a result have larger gaps between tiles. For this reason, floor tile grout is usually sanded, which is most commonly used for gaps that are 1/8" or wider.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin">Shower Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">When selecting shower tile grout, you should look for grout that is highly water resistant. Epoxy grout is highly recommended for showers because it's non-porous and resists water penetration, preventing moisture from getting behind the wall through the gaps between tiles.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Mosaic Tiles</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin"><a href="/featured/mosaics" class="font-bold underline">Tile mosaics</a> are typically made up of smaller tiles compared to other styles. Because of this, they are generally spaced closer together, and therefore should be grouted with unsanded grout. Unsanded grout is ideal for grout lines that are less than 1/8 inch wide. The absence of sand particles allows it to flow more smoothly into these thin spaces without leaving voids or gaps.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-bottom:0.67em;" class="extra-small-bottom-margin">We Can Help</h3>
+        <p>Getting ready to grout your tiles? Take a look at our comprehensive selection of <a href="/installation-care/installation/tools" class="font-bold underline">tools for every type of tile project</a> to find exactly what you need.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "820a8086-e508-48ca-b84b-23aee3c7658c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T123019Z

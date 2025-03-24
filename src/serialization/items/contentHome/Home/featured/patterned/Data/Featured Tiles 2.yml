@@ -1,0 +1,48 @@
+﻿---
+ID: "b94be298-e31c-477c-9d97-5fc801ec0d78"
+Parent: "e5a4e8d2-11d1-4f89-a2f5-0c714d470bd1"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/featured/patterned/Data/Featured Tiles 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {331FBB07-EF3A-45CB-8BCC-AE4B8ABD3C6F}
+        {BEA25C6A-5F20-4234-B038-0D4B44A3AFF9}
+        {27C13756-6E96-4151-96E6-5CD9291C0E92}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Common Materials Used for Patterned Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p /><ul>
+            <li><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Patterned Ceramic Tile:&nbsp;</strong><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">About half of our selection of patterned tile is ceramic. The majority of our patterned ceramic tiles are for use on walls only, but several are also suitable for both walls and floors</span></li>
+            <li><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Patterned Porcelain Tile:&nbsp;</strong><span style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Our second-largest selection of patterned tile is made with porcelain. This includes a wide variety of tiles suitable for using on both walls and floors, as well as some that can be used for exterior projects.</span></li>
+            <li><span style="color: #323338; margin: 0px; padding: 0px; border: 0px;"></span><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Patterned Cement Tile:&nbsp;</strong><span style="color: #323338; margin: 0px; padding: 0px; border: 0px;">In patterned cement—or encaustic—tiles, the pattern is not added to the surface of the tile, but rather is part of the tile itself. Different colors of cement are used to create the body of the tile, so the pattern is exceptionally durable. This durability makes them very popular for use on floors.&nbsp;</span></li>
+        </ul><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03a9cc6d-370b-45f3-a5da-5c627aa8ae85"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T083654Z

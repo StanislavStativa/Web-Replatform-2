@@ -1,0 +1,53 @@
+﻿---
+ID: "3ba2a27f-c09f-4105-bb6f-c9ea66f44e82"
+Parent: "9860488d-15ef-4892-ae0b-d283efcabaf0"
+Template: "5afdd705-4ee7-4260-b9fe-a972bd1918a2"
+Path: /sitecore/content/TTS/TileShop/Data/Items Cart/Items Cart Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T085327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Item Cart
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8c9b8c99-f934-4cf4-9edc-5fccd911fda1"
+      Hint: DisclaimerText
+      Value: Orders applicable based on availability
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5d210ca-ca7b-43f1-84c6-e77d7387a876"
+    - ID: "b02c41da-347a-4d59-8d0d-7bc2a2fd5884"
+      Hint: ConfirmationMessage
+      Value: Item is deleted.
+    - ID: "b208e977-fed8-4e07-b3f8-12aaafa459ad"
+      Hint: ShowDisclaimer
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T090010Z
+    - ID: "dd11ccb4-6d33-4a6c-a999-5f4d4d773c2c"
+      Hint: DeleteConfirmation
+      Value: "Are you sure you want to delete this item ?"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />
+    - ID: "ea610ad1-7df3-440d-952d-937698a4e5a3"
+      Hint: CTATitle
+      Value: Click here

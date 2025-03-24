@@ -1,0 +1,43 @@
+﻿---
+ID: "4cf7018f-6d68-404c-a190-6934c9fcbeb8"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/2 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Living Room Floors</h2>
+        <p class="mb-4">
+        Whether your living room is large or small, tile is an exceptional choice for flooring. It is more aesthetically pleasing and easier to clean than carpet and more durable than traditional wood floors&mdash;without sacrificing warmth or beauty. Our wide assortment of tile choices means that we&rsquo;ll have a suitable option for the specific style of your home. We offer an array of pattern designs, from subtle to bold and neutral to busy. Stop in to your local store to explore our selection of marble, porcelain, travertine, ceramic, stone, slate, granite, quartzite and more. Wood-look tile is a trend with lots of momentum, as it&rsquo;s a faux alternative that provides the benefits of the real thing without any of the drawbacks. Want something unique? Create a border around a center tile design to establish the look of a rug.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d18d708-05e1-43eb-92aa-dfc154c5732d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200702Z

@@ -1,0 +1,61 @@
+﻿---
+ID: "44245462-b76a-4bd3-a23d-3ed3145f57e1"
+Parent: "6fd46a08-10e4-49ef-aedb-d420d0aebc3b"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl/wood-look-luxury-vinyl-flooring/Data/Category Card with link"
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Wood-Look Luxury Vinyl Flooring"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Wood-Look Luxury Vinyl Flooring offers the classic appearance of real wood with incredible durability and easy maintenance. Our wood-look luxury vinyl tile and planks feature realistic graining and knotting details with beautiful color variation in shades of soft blonde, rich brown and many more to mimic the look of hardwood floors. With benefits like performance waterproofing, 12-20 mil. wear layers for maximum durability, and compatibility with in-floor heating systems, luxury vinyl from The Tile Shop is an ideal flooring solution for both residential and commercial settings.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57f378d2-bf17-4ab8-acf9-ffc9a332d078"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T135240Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LVT_Cyrus_Plus_Braly_Vertical_9x16:Category_Intro_Image_V2"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {E1519CF4-95F7-40D6-B559-B56F713201FC}
+        {D2A73510-3886-4B42-9D7D-AF3209286B8B}
+        {8407FAC3-2E7F-4C04-B8CD-61EC8E3D8100}
+        {59C6DDC3-8C51-4A9A-9C65-D53AB91644E1}
+        {3FC54EF7-5DB5-4ABA-9148-A4CEC16600E6}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,34 @@
+﻿---
+ID: "9f9ab915-eb7b-43e2-bb90-a523863619dd"
+Parent: "10b3c54b-9644-45b3-858e-239aa3e82ea9"
+Template: "10b3c54b-9644-45b3-858e-239aa3e82ea9"
+Path: /sitecore/templates/Feature/TTS/Components/Email Search/Datasource Folder/Email Search/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T103931Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4861db7a-8582-4eca-8cfd-0d7f55fbf276"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: "Having trouble? Use the Chat icon in the lower right corner of your screen to contact our Customer Service Team."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241211T112741Z

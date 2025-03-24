@@ -1,0 +1,62 @@
+﻿---
+ID: "92bb6d1d-393e-49c9-8f57-ff01b8cc0622"
+Parent: "8718eafd-10fe-4eda-ad24-145e23667854"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/series/aqua/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Aqua Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>The dramatic movements and bold coloring of natural stone come to life in a durable porcelain tile series. Aqua features a polished surface akin to a stone to lend it the same elegance. Make a statement in your home with any of the multiple colors of Aqua, ranging from soft greige to deep black.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2306c6d9-7acd-40d7-b85c-3b9ed251916d"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T044510Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Bria_E_Aqua-Blu_Glass-Silver-Diamond_Cat%3aCategory_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {F885FECD-4101-4E71-96ED-5B607C4DC109}
+        {BBE5F68D-C706-4F96-BDF4-EA3D9D1A63EA}
+        {D5933F1A-877C-4FF9-83B0-370D9F227032}
+        {9AD9C867-098F-4FE6-A059-11B0DBEFE8DF}
+        {D5959590-864B-434E-941F-DB882C55E172}
+        {CB075E41-50D3-491E-AB1C-7163D63FB8B7}
+        {7921F3D6-9903-4E27-8AFD-B5E4B7DAADCF}
+        {C5704D01-92F3-4081-B50F-8DEF4A3E69B5}
+        {2EABCE35-0202-420F-B02A-132A0C9B7C73}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

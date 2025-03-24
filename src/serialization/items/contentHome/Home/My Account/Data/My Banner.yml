@@ -1,0 +1,39 @@
+﻿---
+ID: "c9e30603-188f-4814-ad0b-b906bfc827a7"
+Parent: "077862b5-dcbe-4cf5-9d84-738c91ac03be"
+Template: "f38cfc12-cb66-470a-92cb-17856f1103a5"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Data/My Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240720T164310Z
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e76476e6-17b4-4f1c-861d-34e14e149a25"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T121439Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "prosamples-banner:Banner-Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Contact us" anchor="" linktype="internal" class="" title="Contact us" target="" querystring="" id="{7D079F51-41A7-4017-923D-E069C8D113F4}" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: "prosamples-banner:Banner-Mobile"
+    - ID: "f8424eb8-e593-42c6-84cb-de891a9f8c0e"
+      Hint: TabletImage
+      Value: "prosamples-banner:Banner-Tablet"

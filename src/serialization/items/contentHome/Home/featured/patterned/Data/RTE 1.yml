@@ -1,0 +1,39 @@
+﻿---
+ID: "0c895b7f-e5d7-45eb-825d-fa128f195a16"
+Parent: "e5a4e8d2-11d1-4f89-a2f5-0c714d470bd1"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/featured/patterned/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172302Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span style="background-color: #ffffff; color: #323338;" class="h2">Express Your Home’s Personality with Patterned Tile</span></h2>
+        <p style="margin-bottom:0.67em;"><span style="background-color: #ffffff; color: #323338;">There are lots of things to love about patterned tile, but we think the sheer variety and design possibilities it offers might be what we love most. From bold jewel tones to soothing neutrals, small-scale floral prints to large geometric designs, and lace-look to splatter paint, our wide-ranging product collection includes the patterned tile that will bring your design vision to life. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1817843-095b-4722-beee-d3ae45f83306"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124233Z

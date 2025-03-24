@@ -1,0 +1,60 @@
+﻿---
+ID: "6ddf7937-b309-4196-804a-b1cec95bab88"
+Parent: "a4bb2074-8cef-4bcc-93b1-2a7b0872f2fe"
+Template: "14329a98-0ee0-4273-ba39-d1f6eea1a63b"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/SearchBar Folder/SearchBar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0277b3ad-c8ca-41d7-99e0-a65f01cd9e29"
+      Hint: ResultsPageLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E4EFE2F5-CA4B-42EF-B486-5419BC201D33}" />
+    - ID: "119b5f12-1bbd-4c7d-8723-f0a11c30bfe7"
+      Hint: SearchIcon
+      Value: |
+        <image mediaid="{9A18C228-44E5-488D-81C1-C1296DD10D0E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T110948Z
+    - ID: "286af7fc-d200-4b33-8453-07b9bdbac0d3"
+      Hint: DefaultItemsPerPageMobile
+      Value: 4
+    - ID: "2bb73a63-6e95-447e-ac0a-f75560ee1309"
+      Hint: DefaultItemsPerPageDesktop
+      Value: 4
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: "https://tileshop-dev.rfk.www-dev.tileshop.com/api/search-rec/3"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e7cb698-e4d9-4ec5-8edc-1997843e34bd"
+    - ID: "93bcaef9-4a27-4d1a-971a-a40845bc1b96"
+      Hint: CancelButtonText
+      Value: Cancel
+    - ID: "a6fa7681-7758-4c2c-a331-38a2f23bf628"
+      Hint: DiscoverRfkId
+      Value: rfkid_6
+    - ID: "b3999c52-2850-4682-b7e0-5cf7bb46cb5b"
+      Hint: SearchPlaceholderText
+      Value: Search tile...
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240716T055456Z
+    - ID: "e4e5f368-e84b-460d-8bb3-b765138ec129"
+      Hint: RequiredMessage
+      Value: Please enter a keyword or item number

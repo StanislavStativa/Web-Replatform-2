@@ -1,0 +1,38 @@
+﻿---
+ID: "0cbed976-2fb8-45cc-b709-3c5d8a8b80ae"
+Parent: "d673ac82-f952-4cab-ab63-2732078d7d00"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/color/white/Data/Featured Tile 4/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acd37e0b-1865-438a-9a33-84c5fd901927"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Featured Tile:&nbsp;<a href="/products/blanco-waves-ceramic-wall-tile-8-x-24-in-494248"><strong>Blanco Waves</strong></a><strong>, <a href="/products/winter-morning-athens-glass-mosaic-wall-tile-615904">Winter Morning Athens</a> &amp; <a href="/products/winter-morning-glass-mosaic-wall-tile-3-x-12-in-681336">Winter Morning Glass</a></strong></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T103047Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Brynley_B_Plymouth_DETAIL_BENCH%3aDesign_Ideas_All_V2

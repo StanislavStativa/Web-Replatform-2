@@ -1,0 +1,43 @@
+﻿---
+ID: "b0fd6594-3f52-4df7-b122-8604b82ea2c9"
+Parent: "15fb53fa-533b-44ae-b294-ff43cb6dd477"
+Template: "d5795606-a24e-4205-9176-06ca8b8f797b"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/backsplash/Data/Multi Asset Banner/Tile 7
+BranchID: "6da4f1e0-56f7-4121-88e1-bc39a9c116e7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2484A939-16F2-49C1-97E7-FFA13D895382}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054541Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e734f58-fd06-48e2-8f1b-d2b68106471b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T100039Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LA_Sunflower_Beveled_Bathroom_Niche_Vertical:16x9"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Tub Surround Tile" anchor="" linktype="internal" class="" title=""  querystring="" id="{4D5E078B-A599-4459-9B9D-3C755EEF977E}" />

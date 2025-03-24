@@ -1,0 +1,33 @@
+﻿---
+ID: "7ad15acb-8d69-4d50-b8fc-0fbb8aa5b8e7"
+Parent: "e5885709-f2d7-48b0-bd4b-ad61165f91ea"
+Template: "e5885709-f2d7-48b0-bd4b-ad61165f91ea"
+Path: /sitecore/templates/Feature/TTS/Components/Customer Cart/Folder Templates/Customer Cart Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {61EDC31A-7A3D-4BE0-AA57-5DAA6E6355DA}
+    {E5885709-F2D7-48B0-BD4B-AD61165F91EA}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a752b440-d324-4ef2-9697-687424f42c8c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240523T164836Z

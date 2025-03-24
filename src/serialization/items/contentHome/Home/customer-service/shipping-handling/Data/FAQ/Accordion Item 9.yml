@@ -1,0 +1,59 @@
+﻿---
+ID: "97e8346b-0317-491a-99bf-ebb814d819ee"
+Parent: "d46654ab-3547-4140-9e25-776c2597c769"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/shipping-handling/Data/FAQ/Accordion Item 9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T131442Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What steps do I need to take if I receive broken tile in my shipment?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p /><ul>
+            <li>
+            <p><span>If you ordered your material through one of our stores, please reach out to that store directly to address damaged material.</span></p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">If your purchase was placed through www.tileshop.com, please immediately follow the steps listed below to ensure prompt attention. One of our Tile Shop representatives will follow up on your damage claim within 24 hours. They will determine next steps and coordinate the replacement of damaged pieces either by exchange at our nearest store, or by direct shipment in some circumstances.</span></p>
+            <ul>
+                <li>
+                <p><span>Receive shipment in full. Make note of any visible damage to the shipment on the Proof of Delivery (POD) provided by the freight company for signature.</span></p>
+                </li>
+                <li>
+                <p><span>Examine your entire order upon delivery. Open up each box/package and inspect all items.</span></p>
+                </li>
+                <li>
+                <p><span>Any damage that is found, please photograph the products affected.</span></p>
+                </li>
+                <li>
+                <p><span>Email photos of damage to orders@tileshop.com with "Damaged Product" in the subject line. Please be sure to include your order details in the message (name, order number and date of arrival). Limit to 2-3 photos per email to ensure the email is properly delivered to our Customer Service team. You can also contact them with any questions regarding your order or these policies by calling 888-398-6595.</span></p>
+                </li>
+            </ul>
+            </li>
+        </ul><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6b5091d-16b7-4344-8aa9-cc295e70f724"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T101650Z

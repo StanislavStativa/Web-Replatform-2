@@ -1,0 +1,43 @@
+﻿---
+ID: "886bdb02-753d-4e08-ac3c-62d572112fa4"
+Parent: "db8445ba-b5ae-4bc6-ad38-b0252175a341"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/BackSplash/Data/9"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add Texture with Fluted Tile
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        A raised surface design will add dimension and depth to your backsplash. The soft wavy raised lines of the <a class="font-bold underline" href="/products/ritual-ceramic-wall-tile-8-x-24-in-484365">Ritual tile</a> create subtle movement and an elegant, artistic look. We love how the uneven lines both reflect the light and cast shadows for a backsplash that will change depending on the time of day. If you want an even more dramatic fluted look, try the <a class="font-bold underline" href="/products/tommas-carrara-ceramic-wall-tile-by-kelli-fontana-12-x-35-in-484258?g2=collection&amp;c=kelli-fontana&amp;sc=">Tommas Carrara by Kelli Fontana</a>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3707ac2-c006-4111-8a21-5270efd62467"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 30
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T120258Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "484365_vendor_render_bathroom:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 9

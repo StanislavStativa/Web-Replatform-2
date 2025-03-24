@@ -1,0 +1,63 @@
+﻿---
+ID: "a2c97a2c-a080-4ac6-b3de-41a98ba89a3d"
+Parent: "957c9af8-4a28-41c3-bf8e-b8232a24ae15"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/black-marquina/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Black Marquina Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>High drama and sophistication with timeless appeal are within reach with the Black Marquina polished marble collection. This stunning black marble contains subtle white veining running throughout to give it that classic look. Use this vast collection to add coordinated elegance and style to any room in the home.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c550963-ac98-47f0-bab9-cd8c7dddd5c1"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T070501Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Black_Marquina_RC_BDR:Category_Intro_Image+"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {6A675EAD-04C2-43C7-B94E-78C402B4EFFA}
+        {07A43356-1134-48A7-8A2C-E1ADB9D0F1A2}
+        {D9AD6E81-E8A9-4546-A121-97D33D4678F3}
+        {FAB5DF05-8B1A-45C1-A302-B5C04AE0EE9C}
+        {A8FDF26F-340F-4FEA-BF75-862F9240AC14}
+        {A23E9D25-5D04-488E-A70C-3AA9CB172415}
+        {E41F8E4B-65E5-4855-AE5B-F65117E52527}
+        {AC70BA9D-7807-4672-9658-F5C89978A437}
+        {D3E3ECD0-93D2-45C3-813E-7AF85504A5AB}
+        {AAEAAE94-02F3-4E41-9EB3-15697090AB25}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

@@ -1,0 +1,27 @@
+﻿---
+ID: "57573af2-9d3c-4078-aab7-35e580e4823b"
+Parent: "c2420291-c9e1-433c-9f91-f93a05499dcb"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Foundation/JSS Experience Accelerator/Dynamic Placeholders/PartialDesign Dynamic Placeholder
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: PartialDesignDynamicPlaceholder
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T134816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc69f95a-40f9-497d-9537-b06a6e4fad18"

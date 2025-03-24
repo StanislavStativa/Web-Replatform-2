@@ -1,0 +1,44 @@
+﻿---
+ID: "93e7c693-e08a-4daf-94a8-ffa27939052d"
+Parent: "38cc092b-5b7e-4608-8457-5124f8a565a7"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/tub-surround/Data/Featured Tile 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {33F6EFA0-2452-4A26-A83A-E47625D5E0EE}
+        {68C0A644-4F56-47D9-A326-E4A4CAFAE7B0}
+        {CC86FB55-E76B-41F2-95DC-591DD8AC5463}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Selecting the Right Bathroom Tub Tile for You
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>First and foremost, you want to select a tile that will protect walls from water damage from splashes and humidity. Beyond that, though, tiling the walls around your tub offers the same design freedom as selecting wall tile for any other area in your home. Because <a href="/application/wall" class="font-bold">wall tiles</a> don’t have to meet the same safety criteria as floor tiles, adding a tub surround can be a great way to create visual interest by incorporating textures, relief patterns and other decorative surface elements into your <a href="/inspiration/tile-ideas/bathroom" class="font-bold">bathroom design</a>.</p><p>A subway tile tub surround is probably the most classic choice, but remember that you can arrange individual tiles in any pattern you like. This is a great time to experiment with unique layouts like herringbone, basketweave or aligned vertical rows. But our selection doesn’t end at <a href="/featured/subway" class="font-bold">subway tile</a>. Talk to one of our knowledgeable sales associates about other great options, like a ceramic tile tub surround, or <a href="/featured/mosaics" class="font-bold">mosaic tile</a> accent walls and recessed shower niches.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8e5ae8f-6186-4860-98e0-77daafb5be48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185206Z

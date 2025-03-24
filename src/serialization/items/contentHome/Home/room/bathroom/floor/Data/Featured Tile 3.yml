@@ -1,0 +1,45 @@
+﻿---
+ID: "354fb78c-31df-4d57-bd48-4987cfd30716"
+Parent: "30f80bc3-f222-4b8c-ac4b-e16e26e0bee2"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/floor/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {5E547062-8600-4FD9-872B-9C1C3D508FE4}
+        {08E6059B-4A4B-4EB3-B686-0C4D092934C3}
+        {E5AB7595-934B-451E-BB29-3A21402CDC6A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Versatile and Timeless Hexagon Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>For a vintage look that never goes out of style, try a hexagon for your bathroom floor tile. Create a unique pattern by mixing colors or choose a marble hexagon with subtle veining variation. Many of our tile collections include a <a href="/shape/hexagon" class="font-bold">hexagon tile</a></span><span>, perfect for creating a unique floor while coordinating with square or rectangle tile on the walls.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "592794a4-3f27-428d-9918-03a1cee09a6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T153624Z

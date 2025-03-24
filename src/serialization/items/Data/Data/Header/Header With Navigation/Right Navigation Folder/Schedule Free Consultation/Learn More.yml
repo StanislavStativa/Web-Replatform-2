@@ -1,0 +1,33 @@
+﻿---
+ID: "8464d733-cb66-4f4e-bea8-267b181cc919"
+Parent: "7957cf86-3657-43f7-ae04-e37d5291615a"
+Template: "83dd0f1e-095a-4275-9c18-38b2eed7fad2"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Schedule Free Consultation/Learn More
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T201046Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ef33e1c-f71d-4476-abdd-01de33740864"
+    - ID: "9d3dee71-6714-4993-b435-431d24bf4acd"
+      Hint: CTASize
+      Value: Small
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T061400Z
+    - ID: "dbb3fa89-481b-443d-901c-13a199855cf5"
+      Hint: CTAColor
+      Value: Black
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title=""  querystring="" id="{570C59CF-53CD-42B5-904D-A1C36465D4BE}" />

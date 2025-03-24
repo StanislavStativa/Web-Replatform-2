@@ -1,0 +1,48 @@
+﻿---
+ID: "1c049eaf-300b-4a1d-81a9-05b7ec1213da"
+Parent: "825f1b6e-5a03-472a-821c-f9a60ec4430e"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/new-pro-tutorial/Data/Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T060743Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Getting Started
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Getting Started
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="general-hero-content__text">
+                        <div class=" richText"><p style="text-align: center;" class="mb-5">If you are new to The Tile Shop and would like to create a Pro account, simply start by creating one online. Once finished, you can access all of your order history and purchase activity both in-stores and online. </p>
+        <p style="text-align: center;">If you receive an error code saying your account already exists, this means your email or phone number is already in our system or the combination of email and phone number you used do not match what we have on file for you. This may be due to a misspelling or error from when your account was initially created. To confirm or update your customer information, reach out to your local store or call customer service at 888-398-6595.</p></div>
+                    </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0054be8-59e4-41c8-8d76-e79c15b1cdff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T101954Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="CREATE AN ACCOUNT" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{85F6F16C-B3C3-45D6-B22F-4FC308ABEF9C}" />

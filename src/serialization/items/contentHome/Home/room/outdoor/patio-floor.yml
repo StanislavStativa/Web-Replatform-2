@@ -1,0 +1,164 @@
+﻿---
+ID: "9e754ef3-5acc-4b11-a4e8-fd3c10c13c6e"
+Parent: "f49f505a-848d-446b-88d2-dc0606f5a614"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9C178BB3-A30A-4628-9667-9914FA2A3C95}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+          s:ph="headless-main" />
+        <r
+          uid="{94716B2D-8C1D-406B-AE2B-2D024CF8AF40}"
+          p:after="r[@uid='{9C178BB3-A30A-4628-9667-9914FA2A3C95}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{80B820C8-78F0-45C1-B385-C9C70366966D}"
+          p:after="r[@uid='{94716B2D-8C1D-406B-AE2B-2D024CF8AF40}']"
+          s:ds="{C6DF40ED-8806-4702-AF50-28B67BC16FB4}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+          s:ph="headless-main" />
+        <r
+          uid="{E41EE460-E2FA-4083-85D4-DB3F3F4EF8A9}"
+          p:after="r[@uid='{80B820C8-78F0-45C1-B385-C9C70366966D}']"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B671F3D62-F530-4459-8778-CA258A7BCD36%7D&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{D224BBA6-43D7-4877-A0AB-892476F3B143}"
+          p:after="r[@uid='{E41EE460-E2FA-4083-85D4-DB3F3F4EF8A9}']"
+          s:ds="local:/Data/Express Your Style with Color"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+        <r
+          uid="{7831FE13-6C71-478A-990D-7225F38CEC90}"
+          p:after="r[@uid='{D224BBA6-43D7-4877-A0AB-892476F3B143}']"
+          s:ds="local:/Data/Design Your Perfect Patio"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="headless-main" />
+        <r
+          uid="{F848E6CD-5754-447A-8ACE-52BC0AE3B330}"
+          p:after="r[@uid='{7831FE13-6C71-478A-990D-7225F38CEC90}']"
+          s:ds="local:/Data/Outdoor Tiles for Patio Finding the Right Material"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
+          s:ph="headless-main" />
+        <r
+          uid="{F02CA347-EEC7-44C4-8470-AF0D84D9B110}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Ask the Tile Experts"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BF9737E34-7B3D-4ABD-8A84-10F84E512B28%7D&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7BA37A93DA-8C99-4022-9579-B6A49433D41C%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03620094-96fb-429c-ba8e-6d506705b509"
+      Hint: Application
+      Value: |
+        {F96D44E8-C9DE-493F-A407-4BC475284D0A}
+        {EDD4FBF4-03B6-4E24-9CFB-E07F6612C63B}
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Want to give some unique character to your outdoor living spaces? Consider installing a tile patio, deck or pool area. Complement your home&rsquo;s exterior setting with a durable floor tile that will add beautiful style and long-lasting durability to any environment."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" querystring="" id="{AAD82EA8-9D21-4145-AA68-F98C8CED97B9}" anchor="" title="" linktype="internal" text="Outdoor Patio Wall" url="/TTS/TileShop/Home/room/outdoor/patio-wall" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: |
+        <link text="FAQs" linktype="anchor" url="Accordion" anchor="Accordion" title="" class="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T182652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Outdoor Patio Floor Tiles | Porcelain & Stone | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Outdoor Patio Floor Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "681953_render_patio:Category_Intro_Image_V2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cfb9911-f453-42d7-af5c-631c73b31c5a"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Outdoor Patio Floor Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{F49F505A-848D-446B-88D2-DC0606F5A614}" anchor="" title="" linktype="internal" text="Outdoor" url="/TTS/TileShop/Home/room/outdoor" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: The Tile Shop offers a selection of durable outdoor patio floor tiles & other exterior applications. Shop all available colors, shapes & sizes now.
+    - ID: "c40acd03-ffab-4749-bb1a-7d2cc07fa64d"
+      Hint: RoomBoost
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T151742Z
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />

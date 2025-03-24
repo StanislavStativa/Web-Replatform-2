@@ -1,0 +1,49 @@
+﻿---
+ID: "8fb5af14-6b23-4c33-a4e3-d5316eee024f"
+Parent: "c0c735aa-f1c9-4cf6-aaa4-332c3e3b2ead"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/resources/faqs/installation/Data/Installation FAQs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {42D01776-2FD1-424B-BB1E-42B07BE93CF6}
+        {A8B209F0-586A-4659-A76E-8EA233EFA091}
+        {1D73E22E-F697-4710-BAD1-62A115BF3DA5}
+        {70146765-AEDD-4648-BE60-4962E41D16D3}
+        {2CF6368B-8BF4-47B6-8CAF-4072F7C26AF2}
+        {9BAA17E5-8062-4033-BD97-5BA63662C961}
+        {CF2F494D-50E3-4FDF-BD41-C5C918E2F949}
+        {22D5D599-43E1-4254-8C4A-BD5CF84AB11C}
+        {4610150D-BB9C-4BD2-9435-7F6D2836FEE1}
+        {CA783B70-2199-4873-A922-A35403D30A1E}
+        {53BA7F2B-A2CC-4F15-ABE8-AC859164D321}
+        {2668CB7B-7649-4869-A4A0-09673F26F43E}
+        {5F9CF9EF-DECC-449F-BAAD-D247A2C457A1}
+        {C04004CB-3A71-4860-9370-BFD1A9CB52C3}
+        {D3E918A7-FF41-4CFF-AD6B-9F750D47A8B7}
+        {5D9CC9F5-0FB0-4385-A936-7195C0FC602D}
+        {F086EA09-6DD0-45EA-B301-B5C8D097713B}
+        {695297F6-BF68-416E-8538-B1F18742E646}
+        {712125B2-06EB-4406-8DC9-2A9A9ED356E7}
+        {EC579EE9-97A5-4A3A-AA59-5D247FA672A6}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052635Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installation FAQs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d3545ae-a531-406b-8602-d5c2469f8cbc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T124317Z

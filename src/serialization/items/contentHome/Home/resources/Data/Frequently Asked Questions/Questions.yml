@@ -1,0 +1,47 @@
+﻿---
+ID: "7c2cf162-0629-4459-8ead-9682f3b4f364"
+Parent: "01505d81-5875-41d2-8cdc-14b179dc2d75"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: /sitecore/content/TTS/TileShop/Home/resources/Data/Frequently Asked Questions/Questions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T105512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Have a question about tile, installation or care? We may have already answered it!"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa421edc-5043-48d2-809d-ad17b47b312a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: Questions
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T110121Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "faq_icon_Til:Tile_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="View FAQS" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{060768F1-E780-44F6-B4A7-2D4173BAD0C9}" />

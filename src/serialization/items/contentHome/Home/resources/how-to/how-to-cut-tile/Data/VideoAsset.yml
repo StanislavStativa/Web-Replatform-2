@@ -1,0 +1,57 @@
+﻿---
+ID: "645e6062-39d8-44c0-bd57-ea70964f802c"
+Parent: "c6fa2f0b-8595-4a0c-a4af-9009e82436d0"
+Template: "a3d6f8e4-583d-4409-baf2-0f37e2e49d92"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-cut-tile/Data/VideoAsset"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "225ab5bd-125b-48e3-9777-19f47b45f810"
+      Hint: Caption
+      Value: |
+        <p>In this article, we'll go over three different <a class="font-bold" href="/installation-care/installation/tools/tile-cutting">tools for cutting tile</a>: with a wet saw, snap cutter and angle grinder. For each method, we’ll talk about how to cut various materials, including natural stone, porcelain, glass and ceramic. (Not every cutting method is suitable for all of these materials, and we’ll talk about those considerations, too.) We’ll also call out some important safety tips to keep in mind during your project, and share general tips for smoothing the edges of cut tile.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T150021Z
+    - ID: "34570ee0-78b1-4637-bfe4-18cff568837c"
+      Hint: ThumbnailUrl
+      Value: "https://i.ytimg.com/vi/cR-4WZaEa1I/default.jpg,https://i.ytimg.com/vi/cR-4WZaEa1I/mqdefault.jpg,https://i.ytimg.com/vi/cR-4WZaEa1I/hqdefault.jpg,https://i.ytimg.com/vi/cR-4WZaEa1I/sddefault.jpg,https://i.ytimg.com/vi/cR-4WZaEa1I/maxresdefault.jpg"
+    - ID: "46b8cc1a-d19e-49e2-8422-4732245b0722"
+      Hint: Title
+      Value: In This Article
+    - ID: "4a97e58d-96ba-4627-82b9-832aa3f6bf1d"
+      Hint: Duration
+      Value: PT10M57S
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "75c4876d-87aa-47cd-a711-fb874cdb2247"
+      Hint: UploadDate
+      Value: 20231030T000000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23b9d4fa-8767-449e-ac74-4fd88a0c0b57"
+    - ID: "97c3e1cc-a9e0-400e-b0a5-a08d45c273df"
+      Hint: Name
+      Value: "How to Cut Tile: Porcelain, Glass, Ceramic & More"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "ca09a4f6-f37a-418e-9be9-4a0f00df2a02"
+      Hint: Description
+      Value: |
+        Meet us in the workshop for a pro demonstration of how to cut tile with three different tools: a wet saw, snap cutter and angle grinder. For each method, we talk about how to cut various materials, including natural stone, porcelain, glass and ceramic tile. (Not every cutting method is suitable for all of these materials, and we talk about those considerations, too.) We also call out some important safety tips to keep in mind during your project, and go over some general tips for smoothing the edges of cut tile.\n \nIf you prefer to read this information, the content in this video is available in article form on tileshop.com: https://www.tileshop.com/resources/how-to/how-to-cut-tile\n \nStay connected with The Tile Shop: \n\nFacebook: / thetileshop1  \n\nInstagram: / thetileshop   \n\nPinterest: / thetileshop\n\n0:00 Intro\n0:39 How To Cut Tile with a Wet Saw\n1:23 Cutting Ceramic Tile with a Wet Saw\n2:03 Cutting Marble Tile with a Wet Saw\n2:25 Cutting Porcelain Tile with a Wet Saw\n2:54 Cutting Glass Tile with a Wet Saw\n3:53 How To Cut Tile with a Snap Cutter\n5:58 Cutting Glass Tile with a Snap Cutter\n6:34 Cutting Ceramic Tile with a Snap Cutter\n7:01 How to Cut Tile with an Angle Grinder\n8:55 Cleaning Up Tile Edges\n10:34 Conclusion
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T062002Z
+    - ID: "ef592633-9103-488c-83ad-36f7382d0846"
+      Hint: YoutubeVideoID
+      Value: "cR-4WZaEa1I"

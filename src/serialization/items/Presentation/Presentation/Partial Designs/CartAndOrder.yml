@@ -1,0 +1,64 @@
+﻿---
+ID: "75617516-fce0-4b4b-bdf5-eed84ce9375c"
+Parent: "978b27e5-026c-4fff-b117-0bd5c5e19c07"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/TTS/TileShop/Presentation/Partial Designs/CartAndOrder
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: cartandorder
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E2C143DE-84D7-4F70-BCAD-658C0CB93CA3}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7C0CB0DD-5632-4BD0-9EA7-EBC87AEF4AF7}"
+          p:before="*"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{3DDA92E1-B3DE-45A9-A1AB-BEB59026C118}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B8A3D5D1C-63A4-4CB2-B98C-2D919FBEF0E8%7D%7C%7B02B3EDC7-FE0B-4D66-8CDC-165AE9A2174E%7D%7C%7B4BE4C4E9-F0AA-4359-8D35-D53E30966FD6%7D%7C%7B7FEFAADF-11E9-4B6B-B045-ABF20EE46C0F%7D%7C%7B9470184D-EE4A-4EC5-8F3D-7599B6C5D548%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B07AD312B-A353-440C-8C51-7B2F1E3A80E3%7D%7C%7B423DC81C-1DDB-4259-B25F-0F6817D61E01%7D%7C%7BCC7B2D28-7CA7-434F-8894-BC24885E2F94%7D%7C%7B7F2DD48B-A21A-43B1-8CD3-FD2DAE4115CF%7D%7C%7B3F696B58-235A-41E0-8D7E-527E545C9B5D%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;BackgroundColor=Light&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2&amp;OC_Column_Splitter=true"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T102804Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3b550d5-a437-49bc-8bbb-2024cd263556"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T073828Z

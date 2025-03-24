@@ -1,0 +1,64 @@
+﻿---
+ID: "76761b57-7e37-42bb-a3e0-e35644945577"
+Parent: "883f22a9-9012-4051-87ee-67e96cd06031"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/cement/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {DCE07F47-3A59-4A0F-8CFB-6D2410805331}
+        {4170F969-102F-4FDE-9295-735CD2702BCF}
+        {D5865FE0-F8B6-47EE-AAD6-50F83FF8B5DC}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Where to Use Cement Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h4><span class="h4">Entryway Floors</span></h4>
+        <br />
+        <p>Some of all-time our favorite entryways and mudrooms use cement floor tile. We love how a patterned encaustic cement tile turns even the smallest transitional space into a true design moment. Best of all, since the design goes all the way through the tile, it offers incredible longevity for areas with heavy foot traffic.</p>
+        <br />
+        <h4><span class="h4">Bathrooms</span></h4>
+        <br />
+        <p>Cement tile bathroom floors, walls or both will make a stunning addition to any full or half bath. (The only space in a bathroom we would discourage cement tile is a shower plan/floor, because of how porous the material is.) Cement bathroom tiles may require some extra sealing for best results, so be sure to ask your tile pro for their recommendations for your specific space.</p>
+        <br />
+        <h4><span class="h4">Kitchens</span></h4>
+        <br />
+        <p>From floors to backsplashes, cement tiles are right at home in the kitchen. As a flooring material, cement tiles ground the space with a decorative element, and provide visual distinction in open-concept floor plans. And a cement tile backsplash behind the stove or above a counter is a true thing of beauty; installing cement tiles closer to eye level means you’ll be able to appreciate their artistry and craftsmanship even more.</p>
+        <br />
+        <h4><span class="h4">Fireplace and Hearth</span></h4>
+        <br />
+        <p>Turn your home’s fireplace into a beautiful decorative focal point by adding cement tile to the front face or hearth area.</p><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "448c63a2-a8d5-4224-b107-be1a78403f89"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Note: Cement tiles are not recommended for outdoor applications or direct sunlight. If you want the look of cement in an outdoor space, we recommend looking at&nbsp;<a class="font-bold" href="/material/porcelain">porcelain tile</a>&nbsp;instead. The Tile Shop offers a selection of porcelain tiles that are inspired by the patterns of encaustic cement tiles.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T151221Z

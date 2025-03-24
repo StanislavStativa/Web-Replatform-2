@@ -1,0 +1,35 @@
+﻿---
+ID: "ca0cd4fb-6ed4-4c11-80be-1c1e6441cdc0"
+Parent: "0b260def-dfd5-4943-b3ec-106a0242ede9"
+Template: "98439906-d788-481d-b1cf-57be6e613e45"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Pro Network/Rewards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T101053Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10a804b1-0cc0-4a9d-94c8-5b3fe52fcf45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T114029Z
+    - ID: "f2c0048e-40ec-4e1c-9918-1509fc8fb0e1"
+      Hint: Link
+      Value: |
+        <link text="Rewards" anchor="" linktype="internal" class="" title="Rewards" target="" querystring="" id="{0262E3C7-FD5A-443C-9477-AB8D526D29B8}" />

@@ -1,0 +1,212 @@
+﻿---
+ID: "8a9a1bc2-aecd-4fc7-b133-80110056b838"
+Parent: "388df468-ab6c-4b01-ae88-f0aae279ce1c"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/material/luxury-vinyl"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B92D18EC-7898-49BC-ADC0-F0404B53CC75}"
+          p:before="*"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{89244F9E-9492-46A2-8FAB-2633F5A63FB7}"
+          p:after="r[@uid='{B92D18EC-7898-49BC-ADC0-F0404B53CC75}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{89244F9E-9492-46A2-8FAB-2633F5A63FB7}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles={4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="headless-main" />
+        <r
+          uid="{DA85CF3E-0243-4124-98A6-9C506D21746D}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B11CFF63A-4684-4746-9C93-376524B973DD%7D%7C%7B22852DD9-6525-4BDB-AB70-7B7FD874FA0D%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+        <r
+          uid="{2590FD8E-7FA4-424E-A839-A18AF0728489}"
+          p:after="r[@uid='{DA85CF3E-0243-4124-98A6-9C506D21746D}']"
+          s:ds="local:/Data/Featured Tile 2"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{0BAEE862-C60A-464C-A40A-345BB11D51B1}"
+          p:after="r[@uid='{2590FD8E-7FA4-424E-A839-A18AF0728489}']"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D%7C%7B1D9C0A2A-2FA4-434F-BB3C-014E228C611C%7D%7C%7B8A7D17A3-CD2B-4420-8EC9-7209037EF62F%7D%7C%7B7CE54E6B-A9E5-448B-B398-C73F2E74E0F4%7D&amp;HeadingSize=h1&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16"
+          s:ph="headless-main" />
+        <r
+          uid="{8E0179D2-9263-4DFC-9F8D-C2325C03BB3E}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Accordion"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=17"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1072afea-9467-4fe0-a593-6f565d0456e3"
+      Hint: FacetName
+      Value: Luxury Vinyl
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Luxury vinyl flooring offers the timeless appearance of natural wood and stone with unparalleled durability and hassle-free maintenance. Our selection of luxury vinyl tile and luxury vinyl planks features a wide range of unique looks for every style with benefits including 100% waterproofing, 12-20 mil. wear layers, compatibility with in-floor heating systems and more. Suitable for use in both residential and commercial settings, luxury vinyl flooring from The Tile Shop is an ideal flooring solution."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{1C8984DD-D17D-4333-AA3F-6454DA18E343}" querystring="" anchor="" target="" title="" linktype="internal" text="Wood Look Luxury Vinyl Tile" url="/TTS/TileShop/Home/tile/material/luxury-vinyl/wood-look-luxury-vinyl-flooring" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" id="{DC3D6235-4FF3-49FF-8DD8-E3BFBBD8ED3B}" querystring="" anchor="" target="" title="" linktype="internal" text="Floor Tile" url="/TTS/TileShop/Home/tile/application/floor" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181008T183218Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5486c24a-ecff-47c1-aad4-2b31d79504dd"
+      Hint: SuperBoost
+      Value: |
+        {AD23312E-2F61-4716-BEFD-87368933E0BC}
+        {0742AFA3-6F15-48F7-BDA9-2BEE63CFB71E}
+        {2CCB8CC3-FE84-450A-BE67-DD57B0991667}
+        {6422C27B-F325-41F2-B382-74A32920D1A3}
+        {FB5846E8-6C77-4D6D-9322-264D48479C34}
+        {8268DBBE-E6D6-4649-B999-A0CE7EC13815}
+        {82CD122B-1BE8-4BD6-9B04-C3DD932BF854}
+        {08D3DBC9-5A89-4CBB-B2C6-B815BF6C4D11}
+        {9787B5AF-09D3-446B-8521-D853209E51D6}
+        {EFC0B533-7CDD-4656-BAD6-8898100851DB}
+        {06AAD902-E805-40D2-9868-95756BB7DA78}
+        {675ECD9C-56F6-46C9-91EA-F912A49ACB08}
+        {F78A1AD0-D217-4922-8671-3DA13506E5D6}
+        {1F621C87-5EA1-4D3B-9447-CA12C1E52F45}
+        {62D62DD3-EFDD-4D6E-9D9D-1CD03D6A1482}
+        {2401C61A-6FDD-4602-B90F-80F7DC6D4D94}
+        {D5A47563-BA98-4C95-A0FB-14AE3B88524B}
+        {096F727B-B078-4F57-BE32-CF17A959BE0C}
+        {E2F140CE-1910-49EA-9E48-6E437926B338}
+        {F141E920-107C-4455-A63B-15004694B074}
+        {8C9A3EE0-E20C-42DD-B6D9-1780CF928683}
+        {6DA4FE73-2D3F-48F6-BA41-00708322EDCB}
+        {EEFEF97A-D971-4F30-9418-CBB606D4E44A}
+        {537F6909-FF80-4C94-8868-C6B87BC23774}
+        {FD23E6CF-EC48-4EF5-ABE5-185B15140254}
+        {CC45369F-C415-44AD-8D1E-6BE371619C16}
+        {80ED8236-65A4-47DE-8234-B9C06A8490FA}
+        {44A6C640-BDCD-4F6B-A39A-D49A957A9456}
+        {C9F7F407-7C3E-46F7-AFFD-3BB2C891DCDA}
+        {22F8796B-09B3-4379-A3C1-4DC2FBC80C03}
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Luxury Vinyl Flooring | Plank & Tile | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Luxury Vinyl Flooring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" id="{194AD678-36A6-4FC6-B015-6CE630CE9CB1}" querystring="" anchor="" target="" title="" linktype="internal" text="Marble Look Tile" url="/TTS/TileShop/Home/tile/featured/marble-look" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "LVT_Andover_Bayhill_Blonde_HORIZONTAL:Category_Intro_Image_V2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "698ec21d-b372-4757-a094-fd9e20c32ae7"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Luxury Vinyl Flooring
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{C60B4713-AC4A-42E5-A84A-616F5FFC0C06}" querystring="" anchor="" target="" title="" linktype="internal" text="Stone Look Luxury Vinyl Tile" url="/TTS/TileShop/Home/tile/material/luxury-vinyl/stone-look-luxury-vinyl-flooring" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "The Tile Shop offers an industry-leading selection of quality luxury vinyl tile flooring. Shop in-store or online today to get started."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{BB2493C9-8C6C-469D-9F69-97BD6209E706}" querystring="" anchor="" target="" title="" linktype="internal" text="Luxury Vinyl Trim" url="/TTS/TileShop/Home/tile/material/luxury-vinyl/luxury-vinyl-flooring-trim" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T074103Z
+    - ID: "e06dc89c-3fcd-4dcc-a5f7-c76d9502f288"
+      Hint: Material
+      Value: 
+    - ID: "f036ae92-0b0e-4866-a056-fdf3f7952f4b"
+      Hint: ProductHierarchy2
+      Value: |
+        {ED759A36-5966-4409-96CD-11AA69059681}
+        {15FD9962-AF0C-451C-AE2F-D930EF8D5BE2}
+        {6BD6CE79-FBF9-4488-9D02-72F2A9E11799}
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" id="{8A4DADE1-3878-4DA5-B153-FB384E3AD080}" querystring="" anchor="" target="" title="" linktype="internal" text="Wood Look Tile" url="/TTS/TileShop/Home/tile/featured/wood-look" />

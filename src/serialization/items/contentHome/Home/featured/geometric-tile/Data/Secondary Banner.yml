@@ -1,0 +1,64 @@
+﻿---
+ID: "9060df1c-dfef-48e9-bf2a-add81f2feb1b"
+Parent: "cc01212e-6772-4817-8319-d14e7b8f85e9"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/geometric-tile/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Geometric Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>The extravagant movement, iconic shapes and energetic patterns of geometric tile allow you to make a statement in any space. These tiles aren’t just an addition to a design — they ARE the design. Geometric shapes include squares, rectangles, triangles, polygons, hexagons, diamonds and pyramids. With so many different variations and shapes in geometric tile, the possibilities are endless.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48ebcd33-6276-46f2-b10c-7a6ea9b3d1da"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240707T160510Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Connect_Buildout_Wall_KJ2_Cat%3aCategory_Intro_Image
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {58B6F813-49E3-48E0-9469-D80BDC57FC03}
+        {38675373-1025-4A63-ACA2-89D65CD67473}
+        {72D8A406-7ADF-4F1B-9A2C-8B807B5EDB5A}
+        {CC50881B-8722-4847-88E1-2A8CDEA3D7A7}
+        {E08BF003-496B-491B-B97B-1761A7BAD2DB}
+        {4B5764E0-DDBA-4D04-A2F9-59365706ECA8}
+        {78478FFA-35DF-4502-8817-091C0D029EE0}
+        {828AC0E7-473B-41C3-B026-3B3640BF3901}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

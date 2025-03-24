@@ -1,0 +1,38 @@
+﻿---
+ID: "28868bf6-bb12-4173-88dd-c8076cdfcafa"
+Parent: "b7383e79-a02f-4597-a2a8-8d6703fef9ce"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/outdoor/Data/Featured Tile 1/Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d014290f-f5ee-41e9-b58d-a6ca10c25b6b"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p>Porcelain tile comes in a variety of shapes and colors like the <a href="/products/swan-white-hex-porcelain-wall-and-floor-tile-10-in-681415" class="font-bold">Swan White Hex</a> and <a href="/products/stream-black-hex-porcelain-wall-and-floor-tile-10-in-681414" class="font-bold">Stream Black Hex</a> tile.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140431Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: OurFifthHouse_ORCFall2021_Patio_003%3aDesign_Ideas_All_V2

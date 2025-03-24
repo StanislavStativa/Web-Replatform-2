@@ -1,0 +1,64 @@
+﻿---
+ID: "2c5183b4-f1b0-4481-ba43-30d4a4720148"
+Parent: "9fc2fe34-7c22-40f4-b956-e61647673df8"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/taupe/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h1 class="extra-small-bottom-margin">Create a Stylish, Refined Space with Taupe Tile</h1>
+        <p>&nbsp;</p>
+        <p>For versatility and elegance that works in multiple design contexts, nothing beats the subtle tones of taupe. This neutral color blends warm brown and <a href="/color/grey" class="font-bold"><strong><span style="text-decoration: underline;">grey tones</span></strong></a> and works equally well as a saturated background or an earthy focal point.</p>
+        <p>&nbsp;</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Where to Use Taupe Tile</span></h2>
+        <p>Installing taupe backsplash tile in your kitchen is a surefire way to add a touch of sophistication without overpowering the space. Taupe subway tile in particular lets you merge the sophistication of a darker look with a timeless, simple tile arrangement.</p>
+        <p>Outside the kitchen, consider installing taupe tiles into your bathroom for an unexpected bit of moodiness as you get ready for your day. Or consider taupe<strong> <a href="/room/entryway/floor" class="font-bold">floor tiles in your entryway</a> </strong>or mudroom.</p>
+        <p>&nbsp;</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Taupe Materials</span></h2>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Porcelain</span></h3>
+        <p style="margin-left: 40px;">For a surface that is as easy to maintain as it is to decorate, consider taupe porcelain tile. Its resistance to moisture and staining makes it an ideal choice for areas prone to spills and humidity, such as kitchens, bathrooms and entryways. Porcelain is also renowned for being simple to clean. That means any spills or splatters that make their way onto your tile can be wiped off with ease, keeping your bold yet neutral background looking sharp.</p>
+        <p style="margin-left: 40px;">
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Marble</span></h3>
+        <p style="margin-left: 40px;">Natural marble is one of the most elegant and opulent materials you can decorate your home with. Whether you opt for a <a href="/material/marble/floor" class="font-bold"><strong><span style="text-decoration: underline;">bright white marble</span></strong></a> with taupe and gray veining or a look that features a darker base color, taupe tones are a major contributor to what makes marble tile such a wonderfully luxurious choice.</p>
+        <p style="margin-left: 40px;">
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Luxury Vinyl</span></h3>
+        <p style="margin-left: 40px;">Taupe <a href="/material/luxury-vinyl" class="font-bold"><strong><span style="text-decoration: underline;">floor tile made of luxury vinyl</span></strong></a> allows you to bring the sophistication of a darker color palette to your floors. Luxury vinyl is especially popular due to its durability, ease of maintenance and being <a href="/resources/how-to/how-to-install-vinyl-plank-flooring" class="font-bold"><strong><span style="text-decoration: underline;">simple and affordable to install</span></strong></a><strong>.</strong> This makes it a great choice for any home and any budget.</p>
+        <p style="margin-left: 40px;">
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We're Here to Help</span></h3>
+        <p>Love the allure of taupe but don't know where to start? Our design experts can help guide you on your interior design journey so you can achieve the look of your dreams. To get started, simply schedule an appointment for our <a href="/free-design-services" class="font-bold"><strong><span style="text-decoration: underline;">complimentary design services</span></strong></a><strong>.</strong></p>
+        <p>&nbsp;</p>
+        </p>
+        </p>
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d01baba9-4a8c-4198-aa49-28c8ecc8d025"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123205Z

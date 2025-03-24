@@ -1,0 +1,38 @@
+﻿---
+ID: "c4ec85ac-cd64-4e48-8880-ca1c5ad34642"
+Parent: "34201856-8b84-4c41-95bb-0c685e8a0072"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/backsplash/Data/Featured Tile 1/Tile
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a702cab-e536-4190-a270-75b309564784"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile:&nbsp;</span><a href="/products/livingstone-melange-porcelain-wall-and-floor-tile-24-x-48-in-681619" class="font-bold">Livingstone Melange</a><span>&nbsp;&amp;&nbsp;</span><a href="/products/argile-matte-white-porcelain-wall-and-floor-tile-2-5-x-10-in-484074" class="font-bold">Argile White</a></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T140427Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "NikkiChu_AirBNB_Vignette_Sink:Design_Ideas_All_V2"

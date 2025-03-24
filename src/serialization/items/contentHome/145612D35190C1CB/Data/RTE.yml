@@ -1,0 +1,201 @@
+﻿---
+ID: "d8d01ff7-cbdc-422e-a593-3285cea50968"
+Parent: "b7c65589-fa4c-4559-adb9-e91c94189a43"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout/thinset-and-grout-coverage-info/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240801T064655Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Thinset & Grout Coverage Info
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span class="contentTitle">Thinset Coverage </span></p>
+        
+        <table style="background-color: #ebebeb;border-spacing: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;border-spacing: 0px;">
+                    <p style="text-align: center;">&nbsp;FLOOR APPLICATION</p>
+                    </td>
+                    <td style="text-align: center; border: 1px #000 solid;border-spacing: 0px;">
+                    <p style="text-align: center;">WALL APPLICATION&nbsp;</p>
+                    </td>
+                    <td style="text-align: center; border: 1px #000 solid;border-spacing: 0px;">
+                    <p style="text-align: center;">TROWEL SIZE<br />
+                    (based on largest dimension)</p>
+                    </td>
+                    <td style="text-align: center; border: 1px #000 solid;border-spacing: 0px;">
+                    <p style="text-align: center;">COVERAGE<br />
+                    (based on 50lbs bag)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Mesh Mosaics</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Mesh Mosaics</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;3/16 inch V-Notch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;90 - 100 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;4 inch - 12 inch Tile</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;&nbsp;4 inch - 12 inch Tile</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;1/4 inch Square</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;75 - 85 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;12 inch - 16 inch Tile</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp; 12 inch - 16 inch Tile</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;3/8 inch Square</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;60 - 70 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;16 inch or larger</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;16 inch or larger</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;1/2 inch Square or V-Notch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;40 - 50 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Tile thicker than 3/8 inch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Tile thicker than 3/8 inch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;1/2 inch Square or V-Notch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;40 -&nbsp; 50 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Ungauged Tile **</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Ungauged Tile **</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;1/2 inch Square or V-Notch</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;40 - 50 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;Cement Board Installation</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;1/4 inch Square</td>
+                    <td style="text-align: center; border: 1px #000 solid;">&nbsp;75 - 85&nbsp;Sq Ft</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><span class="contentTitle">Sanded</span></p>
+        
+        <table style="background-color: #a5a5a5;border-spacing: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">
+                    <p>&nbsp;TILE SIZE</p>
+                    </td>
+                    <td style="text-align: center;border: 1px #000 solid;">
+                    <p>RECOMMENDED SPACING&nbsp;</p>
+                    </td>
+                    <td style="text-align: center;border: 1px #000 solid;">
+                    <p>Sq Ft COVERAGE<br />
+                    (based on 25lb sanded)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;Ceramic Mosaic</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/8 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;40 - 75 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;Glass/Stone Mosaic</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/8 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;30 - 50 Sq Ft&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;Pebbles</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;varies by sheet</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;20 - 35 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3 x 6 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/8 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;105 - 115&nbsp;Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;4 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/8 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;105 - 115 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;8 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;95 - 105 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;12 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;115 - 125 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;18 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;140 - 150 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;12 x 24 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;130 - 140 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;24 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;3/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;190 - 200 Sq Ft</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><span class="contentTitle">Unsanded</span></p>
+        <table style="background-color: #a5a5a5; border-spacing: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">3 x 6</td>
+                    <td style="text-align: center;border: 1px #000 solid;">1/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">40 - 50 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;4 x 16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;60 - 70 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;8 x 20 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;90 - 100 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;10 x 13 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;80 - 90 Sq Ft</td>
+                </tr>
+                <tr>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;12 x 18 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;1/16 inch</td>
+                    <td style="text-align: center;border: 1px #000 solid;">&nbsp;120 - 130 Sq Ft</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "077f8938-ad94-4c36-9ea6-1cff2569a0a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T140523Z

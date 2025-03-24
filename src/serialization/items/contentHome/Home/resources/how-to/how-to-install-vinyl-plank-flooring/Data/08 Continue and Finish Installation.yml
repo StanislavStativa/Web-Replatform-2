@@ -1,0 +1,52 @@
+﻿---
+ID: "d752e573-548f-4f5b-ae0d-d257631f25a9"
+Parent: "68401d91-dd06-4b04-965c-789989cb711e"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring/Data/08 Continue and Finish Installation"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T034428Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Continue and Finish Installation
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Once your first row is complete, go back to the side of the room where you started to begin the next row using the same installation process as the first row.</p>
+        <br />
+        <p>Because vinyl planks can vary in grain pattern and color, it is a good practice to choose planks at random rather than simply taking the next one from the same box.</p>
+        <br />
+        <p>To achieve a natural and aesthetically pleasing appearance, it's also a good idea to stagger the seams of the planks between rows. This means that the end joints of the planks in one row should be offset by 6 to 12 inches.</p>
+        <br />
+        <p>As you go, periodically check for any gaps between planks and ensure they are securely connected and use a level to confirm that the planks are level.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f35f9786-1c57-4640-9a7d-4378437e9e39"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 9
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T054118Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 8

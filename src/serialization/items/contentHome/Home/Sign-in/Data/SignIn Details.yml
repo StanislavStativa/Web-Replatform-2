@@ -1,0 +1,77 @@
+﻿---
+ID: "c9ffcd82-a4fb-4196-976b-86fdd125ea2f"
+Parent: "517fb00a-021c-45af-83b6-d974c54d7e9e"
+Template: "4d217247-4c6a-4629-8ba0-c6cba07f1112"
+Path: "/sitecore/content/TTS/TileShop/Home/Sign-in/Data/SignIn Details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "013f9f88-3960-4277-ac16-47f56d8856be"
+      Hint: RegisterLink
+      Value: |
+        <link text="Register" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{85F6F16C-B3C3-45D6-B22F-4FC308ABEF9C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240515T190836Z
+    - ID: "29317d82-1361-4511-9fe6-a3c5419f37a7"
+      Hint: RegisterPrompt
+      Value: "Don’t have an account? Register Now."
+    - ID: "2975e8c0-21bc-4d00-b9a0-2e411d486432"
+      Hint: ForgotPasswordLink
+      Value: |
+        <link text="Forgot Password ?" anchor="" linktype="internal" class="" title="Forgot Password ?" target="" querystring="" id="{4CA610A4-01EB-43AC-8A6C-373123BCE211}" />
+    - ID: "467551f7-16a0-4dfd-a633-1446ca7ea685"
+      Hint: Disclaimer
+      Value: Your connection to this site is secure.
+    - ID: "504ea812-b611-4fea-9bbe-806be69075b7"
+      Hint: InvalidEmail
+      Value: Not a valid email address 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Welcome to The Tile Shop
+    - ID: "584ca069-9a24-4544-ae9c-37f09ed55f2c"
+      Hint: ChangePasswordLink
+      Value: |
+        <link text="Change Password" anchor="" linktype="internal" class="" title="Change Password" target="" querystring="" id="{3C3E5F3F-CF88-45FF-9ECA-563AF0E8118A}" />
+    - ID: "5d03fcac-ef74-4a72-953a-541886f0d7ab"
+      Hint: PasswordMandatory
+      Value: Incorrect password 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: Special features like ordering samples and creating projects are only available with a tileshop.com account.  Sign in or create an account below
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4fb310e-a48b-465e-ad9d-d2aadd0fd036"
+    - ID: "bad76c21-2b9d-4145-b6e8-96da70de2609"
+      Hint: EmarsysDetails
+      Value: "{4DB2CAF9-51F9-49F4-894F-72D4CA2CC2ED}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cca9581d-0250-4c0d-8a88-dcf8b100695d"
+      Hint: SubTitle
+      Value: Create New Password
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T120357Z
+    - ID: "e038963c-ec89-46e7-9bf7-6afd33d05a40"
+      Hint: LoginFailed
+      Value: Unable to sign in, please try again.
+    - ID: "f7186898-0927-4289-b64a-17bf81265384"
+      Hint: EmailMandatory
+      Value: Please enter the email address
+    - ID: "ff6822a0-3907-442b-884b-6d1cab03c169"
+      Hint: HomeLink
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

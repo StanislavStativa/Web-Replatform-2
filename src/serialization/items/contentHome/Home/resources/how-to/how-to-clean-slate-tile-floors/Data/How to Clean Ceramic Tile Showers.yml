@@ -1,0 +1,53 @@
+﻿---
+ID: "4ca5ec23-70ef-446f-8192-6fbd94e6a015"
+Parent: "d3bec511-7b5f-407a-af0b-a88cf66c2b54"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-slate-tile-floors/Data/How to Clean Ceramic Tile Showers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Deep Cleaning Limestone Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>If your limestone floors are stained or have a buildup of deeper grime, you can deep clean them. When regular cleaning does not get the job done, consider these more advanced options.</p>
+        <br />
+        <h3>Steam Cleaning​</h3>
+        <br />
+        <p>Unlike some other natural stone materials, using a steamer is a safe and effective way to deep clean limestone tiles. A microfiber pad attachment is necessary to avoid scratching the tile, and the steamer should be set to a low or moderate steam setting. Move slowly and avoid concentrating the steam in one spot for too long. Dry the floor completely with a clean microfiber cloth afterward. </p>
+        <br />
+        <h3>Deep Cleaning Solution​</h3>
+        <br />
+        <p>For stubborn stains or built-up dirt, consider using a commercial deep cleaning solution specifically designed for use on natural stone. Always follow the manufacturer's instructions for dilution and application to avoid damaging the limestone. This can be a safe and highly effective way to restore stained limestone to its natural beauty. </p>
+        <br />
+        <h3>Professional Stone Cleaners</h3>
+        <br />​
+        <p>
+        For stains that are not removed by using a commercial deep cleaning solution, resist the urge to use harsh chemicals. Instead, you should call a professional stone cleaner. They will know how to address the specific sort of stain that is plaguing your limestone tile and will have the tools and knowhow to either clean it or replace it.
+        </p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae8e5617-abf4-4bd7-9a5d-8d0e85e1e70d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T054104Z

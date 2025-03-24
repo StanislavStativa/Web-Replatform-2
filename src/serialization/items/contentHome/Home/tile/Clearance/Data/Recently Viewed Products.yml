@@ -1,0 +1,49 @@
+﻿---
+ID: "bb6b6c48-867f-43b0-88d6-1edd2894b94e"
+Parent: "e87dee79-7dfe-4612-8647-f62e3f5cdda7"
+Template: "395c4301-9f68-4fc9-9663-a9859ccdc79b"
+Path: /sitecore/content/TTS/TileShop/Home/tile/clearance/Data/Recently Viewed Products
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T104218Z
+    - ID: "286af7fc-d200-4b33-8453-07b9bdbac0d3"
+      Hint: DefaultItemsPerPageMobile
+      Value: 6
+    - ID: "2bb73a63-6e95-447e-ac0a-f75560ee1309"
+      Hint: DefaultItemsPerPageDesktop
+      Value: 6
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: Recently Viewed Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: "https://tileshop-dev.rfk.www-dev.tileshop.com/api/search-rec/3"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "799d05d4-e0eb-4e16-890a-afc7382dc6af"
+    - ID: "a6fa7681-7758-4c2c-a331-38a2f23bf628"
+      Hint: DiscoverRfkId
+      Value: rfkid_3
+    - ID: "b4968730-2f72-4b9f-a412-29507bd8a47e"
+      Hint: DiscoverPodID
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T105618Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "6d765dca-d0c5-4e3b-a5d3-a0e3be534a5f"
+Parent: "531029b5-9cd2-4772-b868-eb47f617ae71"
+Template: "9776bf60-6531-464b-b67b-4da77789d7c9"
+Path: /sitecore/content/TTS/TileShop/Home/collection/Data/Firenze Tile/All Firenze Tile
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BF211148-CD7D-4C9F-8C73-A69D73F70630}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd280a19-d011-4cb4-bc7c-354eee8753bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T105819Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="All Firenze Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E33D3946-EBA0-469C-8742-2FC00955B85F}" />

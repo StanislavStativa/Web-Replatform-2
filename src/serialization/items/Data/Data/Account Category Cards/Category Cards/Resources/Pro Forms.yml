@@ -1,0 +1,35 @@
+﻿---
+ID: "8f257d95-fd3b-42cc-bb0e-d13a9ba88a9e"
+Parent: "513b818f-d40b-43df-83c2-adcf0f8d6a93"
+Template: "10fc4b69-11e8-4b22-90b5-ef2d6c1eae0f"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Resources/Pro Forms
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240809T114018Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1acfcad-fe9a-4da6-95cd-8f87e1c52c28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T114108Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Pro Forms" anchor="" linktype="internal" class="" title="Pro Forms" target="_blank" querystring="" id="{0FF6DFAB-8CD4-45DE-A61D-02D2A8E94A33}" />

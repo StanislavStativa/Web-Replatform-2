@@ -1,0 +1,59 @@
+﻿---
+ID: "27e6d431-76f5-4b8a-8ef8-f0ab413f61af"
+Parent: "d46654ab-3547-4140-9e25-776c2597c769"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/shipping-handling/Data/FAQ/Accordion Item 5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T130945Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How long does it take to ship my online order?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p />
+        <ul>
+            <li>
+            <p><span style="color: #000000;">Materials that are in stock at our distribution center are shipped out within 1-2 business days from order date. Delivery time is normally estimated between 3-5 business days.</span></p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">Shipping times can be delayed if there are backordered items on your order. A Customer Service representative will update you with any inventory issues.</span> </p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">We strongly recommend you do not schedule installation until you have received and inspected your products as there can be unforeseen delays including shipping delays due to weather, breakage, etc.</span> </p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">The Tile Shop cannot be held liable for failure to meet scheduled install dates due to delivery.</span> </p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">Delivery dates are approximate and cannot be promised under any circumstance.</span> </p>
+            </li>
+            <li>
+            <p><span style="color: #000000;">Curbside freight deliveries will require an appointment, which are scheduled directly with the assigned carrier.</span></p>
+            </li>
+        </ul><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e418522e-1be0-40df-b9ca-070e68db6efd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T100153Z

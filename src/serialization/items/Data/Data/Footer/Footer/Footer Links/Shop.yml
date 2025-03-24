@@ -1,0 +1,39 @@
+﻿---
+ID: "19904664-10e9-43db-8118-02e151091790"
+Parent: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Template: "eda1a11d-4b30-432b-94c0-65bf932cacde"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Shop
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23dfcada-e65b-4afe-9198-6851ab0bb820"
+      Hint: FooterSubLinks
+      Value: |
+        {B0C8B86C-39F5-4E19-92D8-BF59B70DC8AA}
+        {1081EF15-EA21-4CFA-A92D-479607DC4D01}
+        {26F5800C-949B-4D0D-9AF5-7D3FD12F7950}
+        {9D92B362-D9BE-48D3-A991-4CBFC0D9D4CC}
+        {91DD44BF-37CF-42A0-A0F4-34AA5E731631}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T081052Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65fa022a-41b4-48c8-bf49-c06bdd6c63c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T113049Z
+    - ID: "f0603d5d-027f-47e4-96a6-009494468d6c"
+      Hint: CTA
+      Value: |
+        <link text="Shop" anchor="" linktype="internal" class="" title="Shops" target="" querystring="" id="{BC5343F0-5424-4BA7-A3B4-AAFDD24706C4}" />

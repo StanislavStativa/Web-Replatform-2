@@ -1,0 +1,40 @@
+﻿---
+ID: "2a32226d-e816-4cc0-bf79-77d97cc76010"
+Parent: "4a0c7b93-b1b5-4a33-bb68-12d48199895e"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/faqs/maintainance-and-care/Data/Product FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {B62533E3-F911-4F09-AE4D-8D4339CAC967}
+        {8DE8193A-D9DF-4D1E-8CBA-8DE699460676}
+        {66167FAC-83B0-496A-B97F-F2C4345D3460}
+        {40A5BD7B-55AC-46A1-A87A-19241D13F1AB}
+        {8FAD556E-6B6F-4037-96B4-92335C7E948D}
+        {77AE802A-32A5-4FD4-B91C-D18374DB05A8}
+        {5EBD1462-9BC4-483E-BFDD-982D105FE0D8}
+        {7B75DF5E-BBA8-4A92-A32D-DD8431B52964}
+        {4C582407-C8D8-4F42-9141-AF582971CAD0}
+        {1B911151-D59F-48B1-9071-C50874C8C90E}
+        {5FF9D654-DE11-4D8F-AC64-51652EA86B20}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240409T052635Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Maintenance & Care FAQs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd1c3496-91b9-4410-99f2-1ea3c959067e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T134003Z

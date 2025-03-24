@@ -1,0 +1,40 @@
+﻿---
+ID: "b2195700-5458-482b-a093-9c2abe47f500"
+Parent: "e688b14e-53eb-43cb-95f2-722479c97e80"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tools and Installation/Pro Brands
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T065830Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro Brands
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f68b585d-0a48-42a4-b6e6-d6dd4e04a57a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {22551DFF-C3DA-4E85-9666-5DBBAA01EED5}
+        {62FB9EDC-7FA9-4A7D-8B57-015FC5FC0437}
+        {4D9CCF49-FE62-418B-B66C-E1470C9CC53E}
+        {871521D2-BA35-4978-B864-7B931BFFF175}
+        {B3C0FC7F-C6F6-47C6-8A80-EF556B7730D1}
+        {F3869178-CFAB-4086-8801-BF52E48A33CD}
+        {243F8DA2-0A30-4AE1-8AD2-7EC6A0B85CD5}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T085920Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Pro Brands" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7B61F2A1-306D-4F11-8668-50EBEDD38F5E}" />

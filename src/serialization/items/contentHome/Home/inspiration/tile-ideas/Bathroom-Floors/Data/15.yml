@@ -1,0 +1,42 @@
+﻿---
+ID: "8834d731-15bb-4f63-8628-6a6eda66560d"
+Parent: "3a429ab7-b242-46ec-97c2-7b96ba6ffc2d"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/bathroom-floors/Data/15"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Niles Patterned Mosaic
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Elegant and classy, a Niles patterned <a class="font-bold underline" href="/featured/mosaics">mosaic tile</a>, like the <a class="font-bold underline" href="/products/meram-blanc-carrara-polished-niles-w-grey-marble-wall-and-floor-tile-650475">Meram Blanc Carrara Niles with Grey tile</a> shown here, is a timeless classic. Many of our marble collections include this basket-weave patterned tile, making this a great pairing for <a class="font-bold underline" href="/application/wall?pageNumber=1&amp;pageSize=24&amp;facet_material=facet_idTWFyYmxl">marble wall tile</a>.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3067094e-dce0-4072-b97d-969bf0548861"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 26
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T123618Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_CoastalChic_MainBathroom_007:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 15

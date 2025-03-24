@@ -1,0 +1,40 @@
+﻿---
+ID: "596c9add-1029-4f3d-b74b-ade47d85ae19"
+Parent: "641e0281-36e9-4c6d-9416-71c6fe4cc6ef"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/durand/Data/Secondary Banner/Capital"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{48A61019-3631-40E6-B648-9074DC5A984B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70face65-152a-489c-96d1-a31b8a3dc4ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T063516Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Capital" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{053439F3-14AE-4CA0-B4DD-DEC170F55A37}" />

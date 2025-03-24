@@ -1,0 +1,33 @@
+﻿---
+ID: "1064b715-b978-40fa-9abf-b0206d703c9d"
+Parent: "8b2a6466-3004-4589-97f9-a83e4c5cb6f2"
+Template: "8b2a6466-3004-4589-97f9-a83e4c5cb6f2"
+Path: /sitecore/templates/Feature/TTS/Components/Rewards Card/Folder Templates/Rewards Card Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {CB84870E-7068-44A6-BF49-3D0393E548AD}
+    {8B2A6466-3004-4589-97F9-A83E4C5CB6F2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70f70cad-0b22-44f7-b801-ab622fc944f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T100547Z

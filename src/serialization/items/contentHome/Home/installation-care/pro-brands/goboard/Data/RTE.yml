@@ -1,0 +1,61 @@
+﻿---
+ID: "f6e03679-eb3e-4b2d-ac84-925e721930d7"
+Parent: "9c544243-6f6e-426a-ba3c-42f0d5405593"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/pro-brands/goboard/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240708T144339Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <h2 class="extra-small-bottom-margin h2">Install Tile Faster with GoBoard<sup>&reg;</sup></h2>
+        <p style="margin-bottom:0.67em;">GoBoard has become a favorite of construction and renovation professionals. This light weight, totally waterproof underlayment simplifies jobs and gives your clients the peace of mind that their substrate will be totally waterproof.</p>
+        <h3 style="margin-bottom:0.67em;" class="extra-small-bottom-margin">Why Professionals Love GoBoard</h3>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Easy to transport</h4>
+        <p style="margin-left: 40px;margin-bottom:0.67em;">Compared to traditional cement boards, GoBoard is up to 85% lighter, making it significantly easier to transport. A single person can carry multiple boards at a time, simplifying the logistics of moving them from one location to another, whether it's around a job site or up and down stairs in a multi-level building. This saves both time and effort, making it easier to get right to <a href="/resources/how-to-lay-tile" class="font-bold underline">installing tile</a>, which in turn shortens the length of the entire project.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;margin-bottom:0.67em;" class="extra-small-bottom-margin">Easy to install</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Because the boards are so light, it's much easier to measure, adjust and cut the board to size right at the point of installation. GoBoard can also be cut with a simple utility knife, which minimizes dust, eliminates the need for additional heavy equipment and makes for a much easier installation process.</p>
+        <p style="margin-left: 40px;">With the board cut to size and in place, you can secure it to the studs or subfloor using GoBoard fasteners. Once the board is cut and secured, apply GoBoard sealant to create a waterproof seal in the joints and fastener penetrations.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin">Waterproof</h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">GoBoard is made from polyisocyanurate (polyiso) foam, which is a waterproof material. This makes GoBoard ideal for use in wet areas like bathrooms and kitchens, where it can help to prevent moisture from damaging the subfloor.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">GoBoard also offers a <a href="/installation-care/preparation/shower-pan" class="font-bold underline">shower pan kit</a>, allowing you to easily install it as an underlayment for a <a href="/room/bathroom/shower-floor" class="font-bold underline">tile shower floor</a>. The specialized GoBoard sealant ensures any openings created in the installation process are also waterproofed.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-bottom:0.67em;" class="extra-small-bottom-margin">We're Here to Help</h3>
+        <p>When it comes to the needs of professionals, The Tile Shop has you covered. We offer everything a contractor needs to get the job done right the first time. Browse <a href="/installation-care/pro-brands" class="font-bold underline">our full line of pro brands</a> and find all the tools and materials you need in one place.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac0db25d-c399-4eb8-82ba-e4221409621e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T075407Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "dde9fcc8-9673-4f82-9d26-2d11aa18087d"
+Parent: "c0390909-926a-473a-ad7b-62109853cdae"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/HOW DO I GET STARTED
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T085012Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "HOW DO I GET STARTED?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p><span><sub>We&rsquo;re glad you asked. A blank slate can be intimidating, but it&rsquo;s an exciting opportunity to personalize your home, too. Stop in to chat or have a remote call with one of our friendly experts who will help take the guesswork out of tile design. Use this informal appointment to talk about your inspiration, learn about the design process and gather ideas featuring dozens of design styles, from traditional to contemporary.</sub></span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f0af3d1-6759-4387-8109-22ba2123a6b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T085845Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Free-Design-Services-in-store_Her:Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Free Design Services" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{570C59CF-53CD-42B5-904D-A1C36465D4BE}" />

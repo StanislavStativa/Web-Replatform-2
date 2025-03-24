@@ -1,0 +1,53 @@
+﻿---
+ID: "442e6cd1-8a95-4ae8-b9a2-2d5e3196a79c"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/14 Seal With Silicone"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 14: Seal With Silicone"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>The final step in the process of tiling a shower is to silicone the changes of planes for expansion. We are using a silicone sealant that matches the grout and placing it where the walls meet the tub and on the inside corners.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="Applying silicone sealant where the tiled walls above a shower meets the edge of the tub below." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting20:16x9" /></p>
+        <br />
+        <p>First, lay a generous bead of silicone. Next, spray ammonia-free glass cleaner on the bead. This helps to stop your silicone from sticking to the surfaces around the area you are working in.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="Ammonia-free glass cleaner helps stop silicone caulk from sticking to nearby tub surfaces." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting17:16x9" /></p>
+        <br />
+        <p>The last step is to use a caulking tool to press the silicone into your joint and slowly remove any excess, being sure to wipe the tool often to avoid the silicone from spilling over on your tile or tub surface.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="The final step of tiling a shower is to make sure all planes of expansion have been filled with silicone sealant." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Grouting14:16x9" /></p>
+        <br />
+        <p>Allow your silicone to dry for at least 48 hours before turning your shower on or installing your shower fixtures.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cc03f78-47e3-486b-9736-fe308cbd2246"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T074542Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 14

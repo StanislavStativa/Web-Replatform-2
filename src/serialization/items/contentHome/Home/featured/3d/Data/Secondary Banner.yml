@@ -1,0 +1,64 @@
+﻿---
+ID: "037675bb-5316-4e38-a034-acd0f862dd68"
+Parent: "8a819d08-69b7-4fe6-9b47-b4b1493067b5"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/featured/3d/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 3D Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Ready to take your space to a new dimension? 3D and sculptural tiles turn your walls into works of art that stand out and make a statement. With textures that range from subtle to dramatic, it's easy to find one of these artistic designs that speaks to you.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db945fec-ee39-4071-b463-632c25307e9f"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T171715Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Madam_wall_C_Cat%3aCategory_Intro_Image
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {9CF2DA43-9AAF-4BF2-ADBD-979D1ED17E41}
+        {0FC6459C-74BD-4FF5-8D15-180DEEE8BDBB}
+        {EF0586B3-4F2A-4F9A-9724-0FA665D58CEE}
+        {F8669645-AD45-4A6C-8AA7-8E35E74C69D4}
+        {CB68772E-D1BE-4A1A-AF16-8500251A3505}
+        {1BE29D4C-7FC2-44E8-A15D-936863EB3F28}
+        {1C86670F-0489-4245-8B78-F29042C692A6}
+        {9DBA70D3-530C-4CCE-9262-0E5849CACC32}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

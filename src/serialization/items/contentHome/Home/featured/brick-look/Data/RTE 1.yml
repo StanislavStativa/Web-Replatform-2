@@ -1,0 +1,39 @@
+﻿---
+ID: "ba01c80b-9858-4bf3-b486-ade3cd76f9cf"
+Parent: "c495f38f-41b4-46e1-bae7-8548cb95d5ee"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/brick-look/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T165037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><h2 style="font-weight: 300; margin-bottom:0.67em;" class="extra-small-bottom-margin">The Versatility of Brick Look Tile</h2>
+        <p style="margin-bottom:0.67em;">Brick look tiles add texture and depth to any surface, providing a tactile quality that can make a space feel more visually interesting. The slight irregularities and variations in color and texture of these tiles mimic real brick, adding character and warmth to a room.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87c01120-b420-4028-b599-67b376eeac5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124230Z

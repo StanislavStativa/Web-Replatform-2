@@ -1,0 +1,44 @@
+﻿---
+ID: "0315cf0a-4f6a-4dfb-9240-741778eec6a4"
+Parent: "12a2c0fb-ee09-461d-8f76-120c7eb64381"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/fireplace/wall-surround/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0ADFCEE7-DA36-485C-8891-BBC955DA3B6A}
+        {BE7993DF-2E5C-4775-9B7F-35AAD13A02C8}
+        {5A49FD69-8B03-4CBC-B50D-1409D05DA6ED}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Color
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Your fireplace is where you can emphasize the distinct look and feel of your room. These are just a few of our favorite ideas:</p><p>• For a modern tile fireplace surround, focus on monochromatic design and clean, straight lines.</p><p>• For a rustic feel, <a href="/featured/wood-look" class="font-bold">wood-look porcelain tile</a> or natural stone (like a slate tile fireplace surround) can establish a comfortable atmosphere.</p><p>• A hexagon tile fireplace surround is surprisingly versatile. Fashioned from dark marble, hexagons add a strong, moody element to a room, while encaustic cement <a href="/shape/hexagon" class="font-bold">hexagon tiles</a> achieve a more antique look.</p><p>• If you want your fireplace to serve as an anchor for the look of your space, consider a mosaic tile fireplace surround. The expertly paired materials and patterns can instantly add a strong design element and distinctive style, from glam art deco to mod chevron patterns.</p><p>• Consider how the color of your fireplace tile will affect your room’s existing palette. Do you want it to fit seamlessly with the color scheme you already have? Or act as a vibrant splash of color that really pops? The color possibilities are nearly endless.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af15eef9-b44d-43d5-bb1e-6423b5d12840"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185207Z

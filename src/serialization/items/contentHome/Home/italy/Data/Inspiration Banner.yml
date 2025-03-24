@@ -1,0 +1,44 @@
+﻿---
+ID: "14772f4d-ece5-4e4c-a28a-17091030218f"
+Parent: "178646b8-bedd-4c08-89d6-741b52f774a1"
+Template: "10d1687c-e7f3-44f9-b592-d8c99cf4defd"
+Path: /sitecore/content/TTS/TileShop/Home/italy/Data/Inspiration Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T183453Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: THE ALLURE OF ITALY
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="designer-tile-text">Centuries-old architecture, picturesque rolling hills, brightly colored villas nestled into oceanside mountains…it doesn’t come as a surprise that some of the most beautiful tile in the world comes from one of the most beautiful places in the world. We’ve searched quarries far and wide to find the finest examples of Italian marble to bring to our stores. And it’s not just marble—the Italian penchant for style also applies to their stunning and durable porcelain tiles. Explore our selection of Italian tiles and add a little Mediterranean flair to your space.<br /><br /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c2c7ae0-b49f-4c1d-be57-e74af8f1f9e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T003754Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "architecture-bay-boat-56855_Her"

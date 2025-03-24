@@ -1,0 +1,66 @@
+﻿---
+ID: "6317b0dc-94be-486f-ba9b-e95900c7b44e"
+Parent: "10eb75cf-9b92-407f-a48c-a6e2e711da6f"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/preparation/underlayment/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Types of Underlayment
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text extra-small-top-margin">
+        <h3 class="extra-small-bottom-margin">Backer Board</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">A backer board is needed to provide a stable, durable, and moisture-resistant surface for <a href="/resources/how-to-lay-tile" class="font-bold underline">installing tile</a>. This type of underlayment is highly versatile: you can use a backer board for tile walls and <a href="/application/backsplash" class="font-bold underline">backsplashes</a>, as underlayment for a bathroom floor or for creating sturdy tile countertops. When selecting a backer board for tile projects, there are a variety of factors to consider such as cost, board weight, and specified use.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin">Underlayment Sheet</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Underlayment sheets are used primarily to create a smooth, flat surface for the flooring material, provide cushioning, reduce sound transmission, and in some cases, offer moisture protection. However, for a thoroughly waterproofed tile floor underlayment, we recommend adding an additional waterproofing membrane layer.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin">Uncoupling Mat</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The primary function of an uncoupling mat is to separate the tile layer from the substrate to allow independent movement between the two. This is particularly important in cases where the substrate might be prone to shifts, expansions, or contractions, which can put the grout and tile at risk of cracking. An uncoupling mat is meant to be used as a standalone underlayment, so there is no need for a backer board or other underlayment layer.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h2 class="extra-small-bottom-margin">Other Underlayment Supplies</h2>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin">Lath</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For Portland cement mud bed underlayment, a lath is necessary. A mud bed underlayment helps provide a smooth, even surface that is ideal for tiling. This wire mesh reinforces the structural integrity of the underlayment by distributing weight evenly.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin">Membranes</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For some shower tile underlayment, you may need to add an additional floor tile membrane. Adding a specialized waterproofing membrane layer can help ensure the substrate and other layers beneath your <a href="/room/shower" class="font-bold underline">shower tile</a> stay totally free of moisture.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin">Finishing Materials</h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Some types of underlayment require specialized products such as sealant or fasteners. For the best results, be sure to follow the manufacturer's recommendations to ensure all your project materials are compatible.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h3 class="extra-small-bottom-margin">We're Here to Help</h3>
+        <p class="extra-small-bottom-margin">Choosing the right tile floor underlayment doesn't have to be difficult. Our tile experts can help you navigate your options and pick the best option for your project. Visit <a href="/store-locator/" class="font-bold underline">one of our showrooms</a> to get started.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2791c3a7-3055-45a8-bac0-e08606ca7353"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T130347Z

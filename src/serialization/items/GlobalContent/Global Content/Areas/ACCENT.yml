@@ -1,0 +1,37 @@
+﻿---
+ID: "aeeaf2e7-a221-4e67-bc21-b2d3ce366b52"
+Parent: "9fcf2dda-5fba-4e80-a8e3-e213fb654384"
+Template: "7339bea4-6883-4343-adf5-063260672149"
+Path: /sitecore/content/TTS/Global Content/Areas/ACCENT
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "106048ae-c5ba-4335-9f1c-022be5ad6084"
+      Hint: AreaName
+      Value: Accent
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240125T155250Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53967d5-cd46-48fd-a0fd-15f6f575fdef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240125T155250Z
+    - ID: "f4cf0573-f9d0-41b9-8094-99da2d710515"
+      Hint: AreaId
+      Value: ACCENT

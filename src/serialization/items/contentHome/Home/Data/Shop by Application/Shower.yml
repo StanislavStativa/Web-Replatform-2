@@ -1,0 +1,37 @@
+﻿---
+ID: "ffb261c6-a23d-4ae3-96a5-7b69ef9eb6d6"
+Parent: "49e5786e-01d2-4c0d-b630-1483f6a2d240"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Shop by Application/Shower
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T115809Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shower
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9f10ad6-bc13-4318-9393-141db8d80c67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T121303Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "COSpringsShoot_ElodieSideC_MAIN:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shower" anchor="" linktype="internal" class="" title="SHOP SHOWER TILE" target="|Custom" querystring="" id="{51FA551A-4371-4817-A7EA-D5DE93C91A77}" />

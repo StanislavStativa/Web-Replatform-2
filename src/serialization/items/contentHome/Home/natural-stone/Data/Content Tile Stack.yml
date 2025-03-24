@@ -1,0 +1,36 @@
+﻿---
+ID: "73b8cfde-607b-4729-9ec2-0a56a5b4e703"
+Parent: "5f23fc38-f4e1-4f01-a17b-26dbaa7ee5f8"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: "/sitecore/content/TTS/TileShop/Home/natural-stone/Data/Content Tile Stack"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {873A4044-408D-4EAD-827D-D88312F2A669}
+        {862F04B8-66D5-45E5-8216-2865E740D372}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240806T025650Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4b2c625-32ac-41e4-a2b4-3a11f5a0a1cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T030119Z

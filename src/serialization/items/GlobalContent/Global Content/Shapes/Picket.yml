@@ -1,0 +1,37 @@
+﻿---
+ID: "69d09576-a688-4d8c-bf8c-b6a69208009a"
+Parent: "b0247491-86b9-4bae-9ae7-9ac004ff048a"
+Template: "1df50058-8a1f-4867-ad64-41cce934418f"
+Path: /sitecore/content/TTS/Global Content/Shapes/Picket
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b263016-b21e-443f-8fd2-323ef513d26a"
+      Hint: ShapeName
+      Value: Picket
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200922T023409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        CustomCommand\SapAttributeValuesImporter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42e7990e-f6fc-4c1f-93f6-da896e7c6d55"
+    - ID: "a0566205-77b7-41b1-aea6-9117a98aaabe"
+      Hint: ShapeId
+      Value: PICKET
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20200922T023409Z

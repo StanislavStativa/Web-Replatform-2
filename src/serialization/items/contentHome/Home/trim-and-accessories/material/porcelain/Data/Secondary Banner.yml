@@ -1,0 +1,61 @@
+﻿---
+ID: "cdd7a3d5-97b7-4d11-a5ce-7e37986287e7"
+Parent: "dc20a806-bd06-4d39-8f20-0af0adc918fb"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material/porcelain/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Onyx Finishing Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Beautiful onyx tile features different hues of natural stone that give your room a unique look. Perfect for bathrooms and backsplashes, onyx tile trim is available in a wide variety of finishing pieces, from skirting to bullnoses to robe hooks. Explore our selection of onyx tile accents that can add a magnificent touch to everything from your sink to your shower walls.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ee4d606-c582-488b-a4e2-1d646b3d07d4"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240705T122049Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Corner_Shelf_Porcelain_White_Cat:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {6394EE53-381B-446E-A3E6-FD48C9EAA2F6}
+        {1CB6AF43-E102-4F44-B412-7E16DC1F45C0}
+        {3D75EB37-7F34-4E98-BE3B-4D29855E23A9}
+        {59A01744-0590-472E-83CF-038409186BB8}
+        {5F1618D9-1F93-4707-9B2F-D8DED6CB3889}
+        {5DBAEA44-0B35-4784-93ED-B6A9D29E7239}
+        {3EE83A9C-5F3B-4512-9F64-95BCC2ECB352}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

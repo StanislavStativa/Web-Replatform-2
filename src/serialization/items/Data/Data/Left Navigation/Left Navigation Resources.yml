@@ -1,0 +1,45 @@
+﻿---
+ID: "d9e80303-bf05-4465-8b36-2ed122371402"
+Parent: "1d1d2291-d14c-4d3e-8943-1f44eadd2466"
+Template: "4dac0981-40bd-427d-9354-680969c88e58"
+Path: /sitecore/content/TTS/TileShop/Data/Left Navigation/Left Navigation Resources
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T100910Z
+    - ID: "36bb3b83-fbc3-4d04-bd1f-7790fdd91140"
+      Hint: Links
+      Value: |
+        {E6EA5BA0-5A2D-41DB-9F5D-CB133DB6B1FD}
+        {C977EFA5-9DB5-4FA4-AFE4-73D8AF28955A}
+        {0584B332-26C3-46A9-9182-36943C06D9D4}
+        {FBE0E6A1-27DD-44BE-9ADE-A26B65684AAB}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Resources
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c337abd-343b-492d-84b7-f935e55b8528"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T072703Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Resources" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1BEC6927-E494-4E9F-8EFF-EF86C92A0100}" />

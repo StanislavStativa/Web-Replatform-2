@@ -1,0 +1,48 @@
+﻿---
+ID: "82a5ce3d-5472-4ba0-a79d-5e7a371200ac"
+Parent: "1fbdac60-ca9b-4029-aa12-b4fdcfcb75f0"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/color/black-white/Data/Featured Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {2DB19681-BC8F-4BB8-8807-E6F7362E4BB0}
+        {024A5064-29DD-40A5-BC92-27823445EB05}
+        {FA38CD5F-71F8-4551-8FF2-7547C58C6956}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Black and White Floor Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>There are so many rooms in your home where black and white floor tile would make a beautiful addition. And we don&rsquo;t just mean black and white checkered tile (although we&rsquo;ll forever be partial to that classic geometric look in an <a href="/room/entryway" class="font-bold"><strong><span style="text-decoration: underline;">entryway</span></strong></a><span>, foyer or mudroom).  </span></p>
+        <br />
+        <p><span></span><span>The black-and-white pairing can occur naturally, as in the beautiful veining patterns in genuine marble and travertine. Artfully patterned black and white porcelain tiles utilize these colors in decorative lines and flourishes. </span><a href="/featured/mosaics" class="font-bold"><strong><span style="text-decoration: underline;">Mosaic tiles</span></strong></a><span> in shades of black, white and metallic further expand your options for black and white floor tiles. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27ba447b-9c9c-4a73-8544-73b57252ef3f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120009Z

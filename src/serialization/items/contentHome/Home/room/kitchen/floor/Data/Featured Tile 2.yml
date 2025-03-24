@@ -1,0 +1,44 @@
+﻿---
+ID: "53fd0723-9bba-4ac4-b422-7755e1efa31f"
+Parent: "f6fd5cf8-2b05-4d11-bf67-dd2ab325156c"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {31726585-36B9-44E5-9FA7-1335EA789778}
+        {A8ECC10F-08C2-43B7-BFE7-11C35B9B8656}
+        {BA161A3D-A746-4304-B2E0-5C1E60CF07BA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Durable and Easy-to-Maintain Luxury Vinyl Flooring"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span>Luxury vinyl kitchen floor tiles are a cost-friendly option that offer the appearance of natural wood and stone with unparalleled durability and easy maintenance. Its waterproof and scratch-resistant qualities make </span><a href="/material/luxury-vinyl" class="font-bold underline">luxury vinyl flooring</a><span> a great option for the high-trafficked kitchen area. Luxury vinyl flooring is also easy to install, making it great for DIY projects.  </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4ed6b7d-05ef-4aa4-9d0c-ab67498edec4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240815T112734Z

@@ -1,0 +1,48 @@
+﻿---
+ID: "63379771-e35e-4afd-9366-f23b41995886"
+Parent: "a5fc8d5e-e21b-4cc2-ab94-df1ba4e16684"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: "/sitecore/content/TTS/TileShop/Home/annie-selke/Data/Content tile stack 1/ANNIE SELKE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150704Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: ANNIE SELKE
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Color, comfort and approachable elegance—these are the hallmarks of visionary designer Annie Selke. For almost 25 years, Annie Selke has offered quality Dash &amp; Albert rugs, including the ever-popular indoor/outdoor rugs and luxurious Pine Cone Hill sheets and bedding. A consummate traveler and flea market treasure hunter, Annie gathers inspiration wherever she goes and distills it into fabulous and functional products for the home.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "072c2cb6-39fd-441d-823b-4b4720eade29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T130140Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Annie_Fabric_Til:Tile_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="annieselke.com" linktype="external" url="https://annieselke.com/" anchor="" target="|Custom" />

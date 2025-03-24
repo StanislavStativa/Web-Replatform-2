@@ -1,0 +1,64 @@
+﻿---
+ID: "afca7333-6cec-494f-9c81-acfa67014c4c"
+Parent: "204a60e4-f5ef-4582-a132-54cd5347ad42"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/purple/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Purple Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>There is a rich variety of tile available on the purple color spectrum, from subtle to bold. Marble tile with deep violet veining offers unique elegance in your home, while glossy plum accent pieces can add luster and shine. Mosaic tile featuring dark purple jewel tones like amethyst work beautifully in kitchens, bathrooms and laundry rooms.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16f75ff8-220d-4ccd-912c-4d66dc20f481"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153851Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: milas_lilac_wall_buildout%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {7685F44B-E683-4D0E-B9E2-DB5F46C9BD04}
+        {9CD1F991-27A7-4F85-A8E4-0C1CB2941E0C}
+        {A101B452-A4B7-4E8C-A5A5-DAC37B42AF5F}
+        {636DB650-BD72-4223-8C34-135345882929}
+        {900F4C16-3D5E-4453-94F0-92A58983C9F2}
+        {7699B7A0-9D24-402F-9892-997823BFB638}
+        {CDBA3536-1B65-478B-B8F1-2AC46780C23D}
+        {F3E4977B-4559-4AC6-AA12-79AE496CB21A}
+        {EACAD948-304D-4AED-A2E2-9AAE4147E918}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,59 @@
+﻿---
+ID: "ff37cd86-b2c9-4fbd-8206-f4bcf28eb13a"
+Parent: "dd161ef5-ec8c-4435-9d91-2cbf653c8ba0"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/shape/rectangle/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Rectangle Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>A classic for a good reason, rectangular tiles are a timeless choice for a multitude of surfaces. Rectangular tiles come in marble, porcelain, ceramic, travertine, slate and more, and there are hundreds of options in each of these materials so that you can get the precise look you want. The variety of patterns that most rectangular tiles can be arranged in further enhances their versatility.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07ee4ebd-cffc-4795-a07e-f5ec99e511cb"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T183620Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Splendours_A_RC%3aCategory_Intro_Image
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {203E0A4A-E9E7-451E-BFCD-D4B01222922E}
+        {F9628B18-6508-4B10-BB8A-5AF10F635D30}
+        {D535C91E-7060-4DCD-9E82-9FF971D5AA8E}
+        {8273D73F-115C-411F-B0D1-1EC8D6AE772E}
+        {A7BAF797-C6AC-4C35-A3BA-8628A9F62039}
+        {C466DAC2-373D-4556-BCFC-4C11CB24CB02}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

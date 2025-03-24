@@ -1,0 +1,35 @@
+﻿---
+ID: "3cc9abb2-c208-430d-9b29-4c333f0f2a9d"
+Parent: "8ad649eb-643b-43d3-90e2-09b420a12437"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: "/sitecore/content/TTS/TileShop/Home/collection/milas-lilac/Data/Secondary Banner/Volakas Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240712T110023Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c7e7594-35dc-4e78-a7e6-c13e0cd6f5e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240719T141623Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Volakas Tile" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{46337C52-4E92-4495-AADC-001465DCC7B9}" />

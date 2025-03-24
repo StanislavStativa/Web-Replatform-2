@@ -1,0 +1,51 @@
+﻿---
+ID: "9227c667-f78e-4eaf-9ca8-ab9bffb6318e"
+Parent: "2c9d78e1-4742-4568-9e49-3dcb38e02615"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/turquoise/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Inspire Tranquility with Turquoise Bathroom Tiles</h2>
+        <p>The bathroom is a place where we seek to relax and rejuvenate ourselves. Turquoise can brighten up even the smallest bathrooms, making them feel more spacious and airy. From rich colors that call to mind tropical island beaches to delicate pale shades reminiscent of seaglass, turquoise's balanced combination of blue and green evokes the seaside, making it an ideal color for bathroom tile. This strong visual connection to water further enhances the experience of using the space; for instance, installing turquoise shower tile can elevate your morning routine with a refreshing, spa-like ambiance. And if your bathroom has a skylight, installing turquoise tile will maximize the sun's natural brilliance.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Add Some Fun to Your Kitchen</span></h3>
+        <p class="extra-small-bottom-margin">Turquoise is a bold and lively color that can infuse a kitchen with personality and flair, and turquoise plays well with various <a href="/inspiration/tile-ideas/kitchen" class="font-bold"><strong><span style="text-decoration: underline;">kitchen designs</span></strong></a>. It can add a coastal vibe in nautical-themed kitchens, a retro touch in mid-century modern settings, or a touch of the tropics in bohemian-inspired spaces. A bright turquoise tile backsplash adds a playful vibe to your kitchen, while the same shape in a delicate pastel shade evokes calming French countryside style.</p>
+        <p>If you want just a dash of whimsy instead of going all in, you can incorporate just a pinch of turquoise into your tilework. A turquoise subway tile accent, for example, adds a pop of color to a kitchen backsplash or bathroom shower niche, and our selection of turquoise tile trim pieces (including our popular <a href="/trim-and-accessories/profiles/somerset-pencil" class="font-bold"><strong><span style="text-decoration: underline;">pencil</span></strong></a>, cornice and chair-rail shapes) complete any space.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Go Bold</span></h3>
+        <p>Why should walls have all the fun? Add another layer of interest to your space by making turquoise floor tile part of your design vision. A glossy finish will reflect light and make a space feel brighter, while matte floor tile creates a more subdued look. Whether it&rsquo;s part of a richly patterned cement tile, or solid-toned ceramic or <a href="/material/porcelain/floor" class="font-bold"><strong><span style="text-decoration: underline;">porcelain,</span> <span style="text-decoration: underline;">jewel-toned floor tile</span></strong></a> can make your space feel more playful and interesting.</p>
+        <p>&nbsp;</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2>
+        <p>The sheer beauty of turquoise tile must be seen to be believed. See it for yourself at <a href="/store-locator/" class="font-bold"><strong><span style="text-decoration: underline;">one of our showrooms</span></strong></a>, or have samples of your favorites shipped straight to your door and experience them in your space.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8743076b-a7d6-4051-9dee-e1f967f2e354"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T052747Z

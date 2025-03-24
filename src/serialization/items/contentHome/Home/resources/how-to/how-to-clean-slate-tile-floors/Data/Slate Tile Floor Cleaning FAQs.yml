@@ -1,0 +1,42 @@
+﻿---
+ID: "ceb5be78-c3b5-4cf5-88ff-038271b8076a"
+Parent: "d3bec511-7b5f-407a-af0b-a88cf66c2b54"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-slate-tile-floors/Data/Slate Tile Floor Cleaning FAQs"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {1BDEA0D9-B541-41C3-AD68-22649B3E4204}
+        {C0893DCD-8C6C-4AA5-B490-601294ED56A0}
+        {0A7D209E-C6A7-441B-93C3-4C95C2E5CFDB}
+        {E35BDAB0-6546-48D2-B9E5-16C8E33C5285}
+        {E9B37F63-32BE-40A7-8FAC-A709FE512FAB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T070459Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Slate Tile Floor Cleaning FAQs
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe5b87d6-64d4-4268-89b7-77d67ffabe2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T173807Z

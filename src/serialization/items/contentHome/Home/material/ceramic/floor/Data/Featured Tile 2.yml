@@ -1,0 +1,44 @@
+﻿---
+ID: "2060f357-8331-46e6-a923-30a8f5e6d12a"
+Parent: "02fdeb3b-e1e9-4f63-9f3c-069b4a9371e8"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/ceramic/floor/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {32B58130-7985-4F71-AE7B-09292038DE16}
+        {BD66E6AA-6BDF-4624-80AE-52B3ABEDDFCA}
+        {6F316F60-3ECD-42C3-8A77-1C63FD700352}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Create Interest and Movement With Shape
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Plank, mosaic, hexagonal, square and rectangular ceramic floor tiles all add beautiful style to your floor. Different shapes can drastically affect the feeling of your space. A </span><a class="font-bold" href="/shape/herringbone" class="font-bold">herringbone</a><span> or chevron ceramic </span><span></span><a class="font-bold" href="/room/bathroom/floor" class="font-bold">bathroom floor tile</a><span> creates elegant movement, while a simple square can create an appealing checkerboard pattern. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e034627-7ee9-48b4-9de3-3ac1168ccc03"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T080624Z

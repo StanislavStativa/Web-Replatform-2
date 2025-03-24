@@ -1,0 +1,38 @@
+﻿---
+ID: "801dbea7-ff8d-4cdb-b6c9-c8b5b8296307"
+Parent: "c5ce68fc-9d2f-4489-80d2-0062ee291e6b"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/application/accent/Data/Personal Oasis
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T123013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Take Your Space to the Next Level with Accent Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText"><p>At its core, accent tile is any tile that serves as a striking design element that draws the eye. Accents are generally used to add visual interest, highlight specific areas or define spaces within a room. These tiles can be bright colors, geometric designs or any other type of bold visual statement that commands attention.</p><h2 class="extra-small-bottom-margin">Where to use Accent Tiles</h2><h3 class="extra-small-bottom-margin">Accent Walls</h3><p>Accent wall tiles are a fun way to make a strong decorative statement. The tile used for an accent wall can be solid, patterned, or a combination of both. Solid color tiles can create a clean and sophisticated look, while patterned tiles can add depth and texture. The size and shape of the tile you choose will also affect the overall look of your accent wall. Smaller tiles can create an energetic feel, while larger tiles can create a calmer and more modern look.</p><p>When choosing colors and patterns for accent wall tiles, pay careful attention to the other elements of the room. The accent wall will be a stand-out decorative feature, but it should still mesh with the decorative and architectural features elsewhere in the space.</p><h3 class="extra-small-bottom-margin">Bathrooms</h3><p>Accent tiles can be a great way to add personality and a touch of luxury to your bathroom. One of the most common and accessible <a href="/room/bathroom" class="font-bold">bathroom tile</a> accent projects is installing an accent backsplash behind a sink or vanity. </p><p>Another popular shower accent tile option is to cover one shower wall with <a href="/shape/penny-round" class="font-bold">penny round tile</a>. This bubbly mosaic has been a classic in bathrooms and showers for generations and can add a bit of classic charm to your morning routine. To break up the overall mosaic, you can add decorative tile to recessed shelves or niches. This creates additional accents in a space that can otherwise be difficult to decorate. </p><h3 class="extra-small-bottom-margin">Floors</h3><p>Installing accent floor tile is both an aesthetic and a functional decorative approach. When used on the floor, accent tiles can help define different areas within a larger room.  For example, a strip of accent tile can be used to visually separate a kitchen from a dining area or an <a href="/room/entryway" class="font-bold">entryway from the living room</a>. </p><p>It's important to consider the scale of the room when evaluating your accent tile options. The size of the tile pattern should be proportionate to the size of the room. Larger, bolder patterns can work well in bigger spaces, while smaller, more intricate patterns may be better suited to smaller areas.</p><h2 class="extra-small-bottom-margin"><span>We're Here to Help</span></h2><p>Accent tiles are a great way to inject your own personal style into your home. To get started, order a tile sample to see how your preferred tile looks in the space.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "031a201d-f0eb-420b-bd13-1b7a9c37cd96"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124221Z

@@ -1,0 +1,54 @@
+﻿---
+ID: "05eeed83-ee65-4917-8179-18f34bd57d6f"
+Parent: "9afa0c0d-2bc5-4125-887c-38694d2b7f23"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/Data/Material"
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Material
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {8602CA3C-B9E4-4E6C-B926-8A913B330911}
+        {3592B485-D54D-4DCD-83C2-8508D4D592E0}
+        {FA8B74BE-A06C-4B08-A90C-2BF5DD30507C}
+        {114D2E05-9A44-4944-8767-AD6C031CF7E8}
+        {1CCD1737-4F3D-4616-834D-D84FAFB9DDE8}
+        {821B6141-064E-4F88-B188-36FB6FCEFC27}
+        {5356A8B5-2A82-4D38-8074-73AC78555609}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Complete your tile design with the perfect complementary finishing pieces. In stone, porcelain, ceramic and more, there’s the perfect material to define your space.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad31a037-e599-4a87-a696-899bc217e073"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240525T175229Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Hampton_Antique_Brushed_RC_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0A5EDBEB-E878-4450-B0E4-5C0065486A70}" />

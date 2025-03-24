@@ -1,0 +1,45 @@
+﻿---
+ID: "17ccf5f4-01fb-47f1-8ec5-97d8d8cc002a"
+Parent: "3252f0c0-2510-4181-865e-c19c17f56dad"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-fix-chipped-or-cracked-tile/Data/05 Replace With New Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T154547Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Replace With New Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>When the area is ready to accept new tile, add your thinset and your replacement tile.&nbsp; Let it dry overnight, then remove any tape and <a href="/installation-care/installation/tools/tile-installation">tile spacers</a>, clean out your grout joint, and regrout the area.&nbsp; If you are new to grouting, make sure to check out our guide on the <a href="/resources/installation-videos-and-guides/grouting/how-to-use-grout-float-and-apply-grout">top tips on how to grout like a pro</a>.</p>
+        <div class="rtc__callout-text">
+        <p class="rtc__callout-text__headline">Tips for Removing Thinset</p>
+        <ul class="rtc__callout-text__body">
+            <li>If you encounter any patches of thinset that are especially difficult to get up, you can tap your chisel with your hammer.&nbsp; Start with light taps and gradually increase force if needed, being careful not to let the chisel head slip and hit your other tile.</li>
+            <li>To make sure you didn't miss any thinset spots, place your tile down dry (without thinset).&nbsp; If it lays perfectly flat, you're good to go!</li>
+        </ul>
+        <p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60888d37-3d19-43c1-bd3f-2211cdad74cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061912Z

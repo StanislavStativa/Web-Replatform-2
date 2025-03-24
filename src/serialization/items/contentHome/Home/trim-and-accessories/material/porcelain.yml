@@ -1,0 +1,193 @@
+﻿---
+ID: "a4db65b6-5ebd-4064-ac88-5c39dc4fbb95"
+Parent: "0a5edbeb-e878-4450-b0e4-5c0065486a70"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material/porcelain"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{91711ECA-1BB8-4C5A-AE08-16941CA92D56}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Light&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{B4F598CA-BB64-4AA7-B628-206CD0FB80D5}"
+          p:after="r[@uid='{91711ECA-1BB8-4C5A-AE08-16941CA92D56}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{682F6BBF-22AF-4109-8B73-AD8772C1B169}"
+          p:after="r[@uid='{B4F598CA-BB64-4AA7-B628-206CD0FB80D5}']"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{9CC0003B-6F73-4C45-AE2D-EA544327C894}"
+          p:after="*[1=2]"
+          s:ds="{65D4F0FD-648F-459E-B642-5F548A0F1111}"
+          s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E796C5A8-A79D-4ED6-BF90-0C9140B624D4}"
+              p:after="r[@uid='{682F6BBF-22AF-4109-8B73-AD8772C1B169}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B671F3D62-F530-4459-8778-CA258A7BCD36%7D&amp;Styles=%7B4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{25CFF774-2946-40F9-904E-D7486FD6F017}"
+              p:after="r[@uid='{E796C5A8-A79D-4ED6-BF90-0C9140B624D4}']"
+              s:ds="local:/Data/Color"
+              s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+            <r
+              uid="{30A0C101-BC29-432E-B245-D6DDAC54BE94}"
+              p:after="r[@uid='{25CFF774-2946-40F9-904E-D7486FD6F017}']"
+              s:ds="local:/Data/Fixtures"
+              s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;HeadingSize=h4&amp;HeadingTag=h4&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="headless-main" />
+            <r
+              uid="{9CC0003B-6F73-4C45-AE2D-EA544327C894}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: Add the perfect finishing touch to your bathroom with a porcelain fixture that seamlessly matches your wall tile design.
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{6BCC7055-DD08-432C-8C49-696B32D699FB}" querystring="" anchor="" title="" linktype="internal" text="Slate Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/slate" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" id="{6A3A531D-19B1-43F3-8CDD-AE0352981B76}" querystring="" anchor="" title="" linktype="internal" text="Onyx Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/onyx" />
+    - ID: "1de89007-938d-4e9e-bace-382150b144a4"
+      Hint: FAQLink
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T160909Z
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link class="" id="{74B42ACC-823D-489F-A3BF-503964FCE1FA}" querystring="" anchor="" title="" linktype="internal" text="Metal Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/metal" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Porcelain Bathroom Fixtures - The Tile Shop"
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Porcelain Finishing Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" id="{D6517D18-3A25-42B2-AB0F-827091F22ABB}" querystring="" anchor="" title="" linktype="internal" text="Ceramic Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/ceramic" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Corner_Shelf_Porcelain_White_Cat:Category_Intro_Image"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: |
+        <link class="" id="{109C6CB4-9025-421A-9524-90F5ACC055F0}" querystring="" anchor="" title="" linktype="internal" text="Glass Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/glass" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11fe9749-c0c9-4db0-999b-19b82bc20459"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Porcelain Finishing Pieces
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" querystring="" id="{AEBF463D-BAF2-49D5-A781-2219853D5E7A}" anchor="" title="" linktype="internal" text="Marble Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/marble" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Match your tile perfectly with porcelain bathroom fixtures. Stop into The Tile Shop to find porcelain towel bars, soap dishes, shower shelves & more.
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{162FCAF7-255C-4C26-B6B9-D0DC2E5D51E3}" querystring="" anchor="" title="" linktype="internal" text="Travertine Finishing Pieces" url="/TTS/TileShop/Home/tile/trim-and-accessories/material/travertine" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T061423Z
+    - ID: "f036ae92-0b0e-4866-a056-fdf3f7952f4b"
+      Hint: ProductHierarchy2
+      Value: |
+        {7127270B-4F74-498D-9FB5-0C5CF569FECA}
+        {39731BD7-1588-49BF-93B8-48E6427A1156}
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Design Ideas" linktype="anchor" url="Rich Text" anchor="Rich Text" title="" class="" />
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: 
+    - ID: "fc06bbb6-f854-4051-9d5f-801f262cc25e"
+      Hint: Shape
+      Value: "{EFCFE95A-E498-4E19-8B59-B91573B08BC7}"

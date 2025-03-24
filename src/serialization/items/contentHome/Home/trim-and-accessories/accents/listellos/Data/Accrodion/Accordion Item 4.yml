@@ -1,0 +1,37 @@
+﻿---
+ID: "e5a63e95-edad-4bc9-a31e-59ae4db4fdfc"
+Parent: "7ea9634b-fd37-4ff7-af89-fbea53299b3d"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos/Data/Accrodion/Accordion Item 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T160546Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Why should I use listello tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: An interesting border can add some personality in any room. Listellos are a smart way to incorporate a pop of color and pattern without dedicating an entire wall to the look. The multitude of options available at The Tile Shop means there is a listello tile that will fit in your specific décor, whether it’s contemporary, retro, traditional or rustic.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1565e73e-f91a-429d-9d6e-bbe965c14a14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T160802Z

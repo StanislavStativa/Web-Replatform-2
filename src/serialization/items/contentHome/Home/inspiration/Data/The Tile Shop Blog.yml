@@ -1,0 +1,66 @@
+﻿---
+ID: "988f5ecc-98c0-4d77-82a1-e09513b1f4e6"
+Parent: "168790d6-0fff-4a16-b554-aa86e6b2e7db"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/inspiration/Data/The Tile Shop Blog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240902T075551Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="flex flex-col container mx-auto items-center px-5 md:px-10">
+            <div class="flex flex-col gap-3 mb-4 items-center">
+                <div class="text-center">
+                    <div class="rich-text container mx-auto p-8">
+                        <div class="flex items-center justify-center mb-8">
+                            <img alt="" height="90" width="124" src="https://edge.sitecorecloud.io/thetileshop5f94-thetileshopccbf-staging8e5d-d529/media/Feature/TTS/Cards/Category-Card-/TileShop/RTE/blog-logo-chicklet-line.png" />
+                            <h2 class="font-latoLight md:text-5xl">THE TILE SHOP BLOG</h2>
+                        </div>
+        
+                        <p class="text-gray-700 mb-8">Catch up on the latest style and design trends, learn tile basics and get inspired by Pro projects at The Tile Shop’s blog.</p>
+        
+                        <!-- Centered and constrained div -->
+                        <div class="text-center" style="max-width: 360px; margin: 0 auto;">
+                            <a href="/blog/a-beginners-guide-to-in-floor-heat/" rel="noopener noreferrer" target="_blank">
+                                <img src="https://s7d1.scene7.com/is/image/TileShop/Laval_Gris_Floor2_Blog?wid=4480&amp;hei=4630" style="max-width: 360px; width: 100%;" />
+                            </a>
+        
+                            <h3 class=""><a href="/blog/a-beginners-guide-to-in-floor-heat/" rel="noopener noreferrer" target="_blank" class="block p-7 text-center font-semiBold text-base font-normal uppercase no-underline bg-tonal-gray" style="color:#111c24;text-decoration:none;padding:25px;">
+                               <span class="hover:underline"> Get Inspired! </span>
+        
+        </a></h3>
+        
+                            <a class="block text-dark-gray bg-tonal-gray border border-tonal-gray text-center mt-8 mb-10 inline-block no-underline font-normal font-lato uppercase rounded-md px-6 py-3 text-sm leading-4 transition duration-100 text-drak-gray hover:text-black hover:font-latoBold hover:shadow-md" rel="noopener noreferrer" href="/blog" target="_blank" style="text-decoration:none" rel="noopener noreferrer" href="/blog" target="_blank">VISIT OUR BLOG</a>
+                        </div>
+        
+                    </div>
+                </div>
+            </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc31b86d-09cc-43f3-9cb6-11ee7095c598"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240903T083137Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "58dabbf3-e6be-4532-b301-eb3f13cef501"
+Parent: "fc62da16-6586-430d-b0a0-a3f4faf32e8e"
+Template: "fc62da16-6586-430d-b0a0-a3f4faf32e8e"
+Path: /sitecore/templates/Feature/TTS/Components/My Projects/My Projects Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {CAEBB3C7-7945-4BE3-961C-F5E1BDFB8B36}
+    {FC62DA16-6586-430D-B0A0-A3F4FAF32E8E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3acff63f-d7cd-4a08-8242-47d0c650bf58"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T080540Z

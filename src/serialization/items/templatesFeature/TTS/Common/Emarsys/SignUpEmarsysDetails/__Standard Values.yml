@@ -1,0 +1,35 @@
+﻿---
+ID: "734f03af-2ade-421b-96f2-9b5d9cea4d95"
+Parent: "88a887cc-7496-4bbd-93a3-52bf5b4b29cb"
+Template: "88a887cc-7496-4bbd-93a3-52bf5b4b29cb"
+Path: /sitecore/templates/Feature/TTS/Common/Emarsys/SignUpEmarsysDetails/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{128CA6E3-159F-4B86-8D08-D0B1256DA94D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T123014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dea4612d-74c1-4619-9cda-7708271511fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T042539Z

@@ -1,0 +1,49 @@
+﻿---
+ID: "f0a94c2c-0505-433d-99c4-f2754e616f92"
+Parent: "33fbd756-8f4f-4533-8f0b-ab9b39e8dc77"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/square/Data/Featured Tiles 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {8FE00134-3B51-4BD6-BBB1-C72453A9D397}
+        {FF5523FF-95AD-4F9F-A2CE-B4F80647ECEE}
+        {50C9DD02-F4C5-4D4B-BAFE-6F3FB7F36691}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add Dimension and Beauty with Square Wall Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p class="" style="color: #333333; margin: 0px; padding: 0px; border: 0px;">&nbsp;</p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Square tiles are straightforward to measure and install, but their visual impact truly can’t be calculated. It’s never been easier to create stunningly textured, dimensional walls than with our selection of sculptural tiles.</span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"><br />
+        </span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">For a less dramatic look that is no less beautiful, consider our collection of&nbsp;</span><a class="font-bold" href="/featured/zellige">handmade Zellige tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">. Each piece is crafted by hand in Morocco, and no two are the same; every time you look at a wall featuring these tiles, you’ll appreciate the depth and variation they bring to your space. They’re particularly gorgeous when used to create a square tile backsplash in a kitchen or bar area, because you can appreciate the unique combination or artistry and practicality in a space you use every day.&nbsp;</span></p>
+        <p>&nbsp;</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b17256e1-f924-471b-81e4-ab2bbf9d4f31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185158Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "4a32044f-28f4-40cf-ba6d-0e56f7f0ea05"
+Parent: "6191ffa2-993e-4f40-a132-10ac4c06f6d7"
+Template: "6191ffa2-993e-4f40-a132-10ac4c06f6d7"
+Path: /sitecore/templates/Feature/TTS/Components/Multi Asset Banner/Folder Templates/Multi Asset Banner Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {7F83C412-C704-4EC4-BE84-15163BFFC701}
+    {6191FFA2-993E-4F40-A132-10AC4C06F6D7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eda00f3c-4d0e-4b6c-86b1-bdb36189dd4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240507T105028Z

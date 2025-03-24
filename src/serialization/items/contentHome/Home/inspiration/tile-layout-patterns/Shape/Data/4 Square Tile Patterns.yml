@@ -1,0 +1,43 @@
+﻿---
+ID: "861e3349-68b6-419b-9ac3-be66a49a06df"
+Parent: "c9d2daf8-7bd6-41fe-b02a-a24928d6d346"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Shape/Data/4 Square Tile Patterns"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T193723Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h1 class="lato-h1 mb-8">4. Square Tile Patterns</h1>
+        <p class="mb-4">
+        Create a classic look by installing square patterns in a straight lay, diagonally (at a 45-degree angle), offset (brick lay) or in a pinwheel pattern. To take it up a notch, try mixing materials or installing a Versailles pattern, which is a ready-made combination of different sizes of squares and rectangles, to form an eye-catching design.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43664ada-4dac-4515-a12e-1d32f4e8b55e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T200520Z

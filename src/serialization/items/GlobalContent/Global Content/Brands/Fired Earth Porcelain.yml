@@ -1,0 +1,29 @@
+﻿---
+ID: "eba04e1b-dd1e-4740-8ee8-9bacb7b1f534"
+Parent: "f45b5e4f-4d34-4330-ae40-5ece9b3ac7c3"
+Template: "3ec22ef7-a736-4b22-8b21-a349a3f6d746"
+Path: /sitecore/content/TTS/Global Content/Brands/Fired Earth Porcelain
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181204T001238Z
+    - ID: "60da71bf-a8a8-4b2b-aa50-695b1051b7b2"
+      Hint: BrandName
+      Value: Fired Earth Porcelain
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28a85f38-0ac8-4db5-a301-121eb6a94eac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "c9118c74-871a-4967-8272-ea96f1bee256"
+      Hint: BrandId
+      Value: FIRED EARTH PORCELAIN
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181204T001238Z

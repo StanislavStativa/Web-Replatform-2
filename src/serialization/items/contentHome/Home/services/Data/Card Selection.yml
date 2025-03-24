@@ -1,0 +1,37 @@
+﻿---
+ID: "bcee9714-760a-476b-bdbb-c55f7d050a95"
+Parent: "c0390909-926a-473a-ad7b-62109853cdae"
+Template: "abdec800-4721-4eb6-979e-29b4884cf6f0"
+Path: /sitecore/content/TTS/TileShop/Home/services/Data/Card Selection
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T092453Z
+    - ID: "3adcd2b3-7498-458f-98d4-3862bafb8102"
+      Hint: TextAndImageList
+      Value: |
+        {84F04213-C535-46EB-BFFC-AB0F613DB54D}
+        {FC0DEE56-3B63-47C5-A8EE-B25517A6D01B}
+        {643546DA-21D3-43C4-8C54-DDEB4406EAB9}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "194ccd2c-585f-49f3-b268-41ddb16866d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T093052Z

@@ -1,0 +1,71 @@
+﻿---
+ID: "9704ba3f-0b6c-42aa-95f9-060980bf687d"
+Parent: "1b0c38fa-e4de-4936-8de4-6eef5b01a1c6"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-limestone-tile-floors/Data/How to Clean Limestone Floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Limestone Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        Routine cleaning is the key to keeping your limestone floors looking their best. You should plan to clean your limestone floors at least once a week and more often if they are exposed to high foot traffic or if you have active pets.<br />
+        <br />
+        <h3>Step 01 of 05: Do a Dry Cleaning</h3>
+        <br />
+        <p>Start by sweeping with a soft bristle broom or vacuuming your limestone floors using a soft brush attachment to remove loose dirt and dust. This helps prevent scratches while mopping. If you plan to use a vacuum for this step, you should either make sure the vacuum does not have a beater bar or use a hose attachment with a soft brush. </p>
+        <br />
+        <h3>Step 02 of 05: Prepare the Cleaning Solution</h3>
+        <br />
+        <p>For washing the tile, you can use either a few drops of dishwashing liquid or a <a class="font-bold" href="/installation-care/care-maintenance/cleaners">commercial stone floor cleaner</a>. Dilute your preferred cleaning agent in warm water. If you are using a commercial product, carefully follow the manufacturer's instructions to avoid damaging your limestone tile. Do not use harsh chemicals, vinegar and ammonia, as they can quickly discolor or etch the limestone.</p>
+        <br />
+        <h3>Step 03 of 05: Mop the Floor</h3>
+        <br />
+        <p>Using a soft mop, dunk the mop in the bucket to get it thoroughly soaked, then wring it out so it is only slightly damp. Limestone is porous, so using excessive water while mopping may cause water to seep in and damage the tiles or grout. Mop in sections, rinsing the mop frequently in clean water to prevent spreading dirt and to avoid letting the floor sit saturated for long periods. </p>
+        <br />
+        <h3>Step 04 of 05: Dry with a Towel</h3>
+        <br />
+        <p>Use a soft towel, thoroughly dry the tiles. The <a class="font-bold" href="/material/limestone">limestone tile</a> should not stay wet for extended periods, as this leads to residual water marks that can make the floor look dirty.</p>
+        <br />
+        <h3>Step 05 of 05: Regular Maintenance</h3>
+        <br />
+        <p>Small scratches from dirt and debris can begin to add up over time and can impact the look of your limestone tile floors. Daily sweeping or vacuuming is the best way to keep your limestone tiles clear. It is also a good idea to place doormats at entry points to trap dirt and debris before they reach the limestone floors and to use felt pads under furniture legs to prevent scratches.<br />
+        </p><p><br /></p>
+        <h2>The Importance of Sealing Limestone Tile</h2>
+        <br />
+        <p>Sealing your limestone tiles is the number one way you can ensure they stay scratch free and do not retain moisture. This will keep them from getting stained or scratched as well as prevent mold and mildew from forming. To maintain the sealer's effectiveness, you should plan to reseal the tile every three to five years, depending on manufacturer specifications and the amount of regular wear they receive.</p>
+        <br />
+        <p>Limestone tiles installed in <a class="font-bold" href="/room/outdoor">outdoor spaces</a> will require more attention to the resealing schedule because they are exposed to sun, rain, wind, and extreme temperatures. These elements can cause the sealant to deteriorate faster than with indoor tiles. Regular inspection and resealing every one to three years is recommended to maintain protection.</p>
+        <br />
+        <p>Ideally, your limestone floors should be sealed with a penetrating sealer. If you are unsure about your limestone's sealing status, consult a professional or test a small, inconspicuous area by pouring a small amount of water directly onto the tile. If the water beads, your sealer is in good shape. If the tile starts to absorb the water, dry it as quickly as possible and reseal the tile.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b59dc2d8-ba26-479d-a886-3ef7022492f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T133718Z

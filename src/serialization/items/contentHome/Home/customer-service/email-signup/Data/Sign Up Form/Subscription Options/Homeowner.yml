@@ -1,0 +1,37 @@
+﻿---
+ID: "fa642e89-28b0-4c36-8898-3bb6fcdf5f13"
+Parent: "4ddfe485-a301-4035-8d58-4333e84e163a"
+Template: "b3b0af6b-d221-412d-b51c-385a1ccafb7e"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/email-signup/Data/Sign Up Form/Subscription Options/Homeowner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T080836Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5ccd217e-88a5-44c5-9e7e-19bdc443b987"
+      Hint: Value
+      Value: 5
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "7e778754-598b-4a5d-b47f-cdbc4a51cf02"
+      Hint: Key
+      Value: Homeowner
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bfb7cef-4922-4200-b4c6-bc9e3af2dddf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T084440Z

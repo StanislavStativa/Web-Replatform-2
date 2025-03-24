@@ -1,0 +1,75 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.TileShop",
+  "references": [ "Template.TileShop", "Layouts.TileShop" ],
+  "items": {
+    "includes": [
+      {
+        "name": "tenant",
+        "path": "/sitecore/content/TTS",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "site",
+        "path": "/sitecore/content/TTS/TileShop",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      /*{
+        "name": "contentHome",
+        "path": "/sitecore/content/TTS/TileShop/Home",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateOnly"
+      },*/
+      {
+        "name": "contentMedia",
+        "path": "/sitecore/content/TTS/TileShop/Media",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "Data",
+        "path": "/sitecore/content/TTS/TileShop/Data",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "Dictionary",
+        "path": "/sitecore/content/TTS/TileShop/Dictionary",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "Presentation",
+        "path": "/sitecore/content/TTS/TileShop/Presentation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "Settings",
+        "path": "/sitecore/content/TTS/TileShop/Settings",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateOnly",
+        "rules": [
+          {
+            "path": "/Site Grouping/TileShop",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "GlobalData",
+        "path": "/sitecore/content/TTS/GlobalData",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "GlobalContent",
+        "path": "/sitecore/content/TTS/Global Content",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      }
+    ]
+  }
+}

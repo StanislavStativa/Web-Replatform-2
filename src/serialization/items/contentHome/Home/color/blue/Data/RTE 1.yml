@@ -1,0 +1,43 @@
+﻿---
+ID: "68d11218-8f49-474b-be42-ca0e67bc5dbb"
+Parent: "31e8c9bc-ce07-42af-9b0d-16f1d148e965"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/color/blue/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="richText-max richText ">
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Create Brilliant Designs With Blue Tiles</span></h2>
+        <p class="extra-small-bottom-margin">Achieve a cool, calming look in any room with our wide selection of blue tiles. From sky to navy, our assortment of brilliant hues will brighten your home. Our blue tiles come in a variety of materials including durable and versatile <a href="https://www.tileshop.com/material/porcelain"><strong><span style="text-decoration: underline;">porcelain tile</span></strong></a> and the ever popular <a href="https://www.tileshop.com/material/ceramic"><strong><span style="text-decoration: underline;">ceramic tile</span></strong></a><span style="text-decoration: underline;">.</span></p>
+        <p>Blue tiles also come in a wide range of styles. Whether your aesthetic is bold or soft, modern or timeless, add pattern and interest to your next project with our selection of intricately patterned <a href="https://www.tileshop.com/featured/mosaics"><strong><span style="text-decoration: underline;">mosaic tile</span></strong></a> or artisanal <a href="https://www.tileshop.com/featured/handmade-look"><strong><span style="text-decoration: underline;">handmade-look tile</span></strong></a>.</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "881351eb-f442-4d10-8be3-8e80d479f20c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T072653Z

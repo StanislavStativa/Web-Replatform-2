@@ -1,0 +1,48 @@
+﻿---
+ID: "5f879fde-e21c-4251-b45e-f3ac8460fd1f"
+Parent: "1d1c9f4a-4d54-48ea-8304-bdcc4ff73c4e"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/shipping-handling/Data/Ship to Stores FAQ/Accordion Item 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T124426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What should I expect when I pickup my tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p /><ul>
+            <li>
+            <p><span>The store will require the order number and/or telephone number provided on your order with the shipping information to locate.</span></p>
+            </li>
+            <li>
+            <p><span>The associate assisting will either bring your material to the front for pickup, or if a larger order, send you around back to the warehouse for pickup.</span></p>
+            </li>
+            <li>
+            <p><span>Upon pickup, the store will go through the order item by item indicating materials being picked up. You are responsible to sign for the order indicating all items are receiving in good standing.</span></p>
+            </li>
+        </ul><p /></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bd0922e-031c-4616-9c33-b6260e007701"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T102839Z

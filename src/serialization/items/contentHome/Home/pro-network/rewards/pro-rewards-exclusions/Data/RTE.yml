@@ -1,0 +1,45 @@
+﻿---
+ID: "58de8837-4209-46fe-af31-8e4c1ba34ff5"
+Parent: "68e6afd9-cd2e-4764-9a9f-01ef213e2af7"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/rewards/pro-rewards-exclusions/Data/RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T120421Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text md:px-10">
+        <h2 class="md:leading-48 text-2xl md:text-40">Pro Rewards Exclusions</h2><br />
+        <p>Pro Rewards is free to join starting with your first purchase or referred order. The total dollar amount spent on your account or referred to your account counts toward your Rewards tier. Your Rewards tier perks and discount achieved in the calendar year apply to the following year. Year-to-date spend resets every year on January 1.
+        </p>
+        <br>
+        <p>Discounts associated with each tier are applicable on tile and accessories. Discounts on installation tools and materials vary by product – check with your local store for pricing.
+        </p></br>
+        <p><span style="text-align: -webkit-center;">To receive 5% back on referred orders your customer number must be associated with the order prior to the order closing. You must have a valid Pro account and have submitted a W9 / Direct Deposit form to qualify for 5% back. Referred orders without a W9 will not be paid. You can download the W9&nbsp;</span><a class="font-bold" rel="noopener noreferrer" href="https://www.irs.gov/pub/irs-pdf/fw9.pdf" target="_blank" style="text-align: -webkit-center;"><strong>here</strong></a><span style="text-align: -webkit-center;">&nbsp;and, Direct Deposit form&nbsp;</span><a class="font-bold" rel="noopener noreferrer" href="https://s7d1.scene7.com/is/content/TileShop/pdf/forms-and-applications/Direct_Deposit_Form_2024.pdf" target="_blank" style="text-align: -webkit-center;"><strong>here</strong></a><span style="text-align: -webkit-center;">.&nbsp;Once completed submit to <a class="font-bold" href="mailto:prorewards@tileshop.com">prorewards@tileshop.com</a>. Once confirmed you will receive an ACH deposit the following month on any qualifying orders in the previous month with adjustments from returns if applicable.&nbsp;</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e97b596-bd72-4301-afca-0867a7d11205"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T102536Z

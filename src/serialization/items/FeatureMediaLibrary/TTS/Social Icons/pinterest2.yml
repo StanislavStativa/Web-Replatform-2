@@ -1,0 +1,57 @@
+﻿---
+ID: "50b844af-87c0-4371-92a0-f828a9448e3f"
+Parent: "a0fd26d3-f7b5-44e4-bb84-fef928f742d4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Social Icons/pinterest2
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/50B844AF87C0437192A0F828A9448E3F.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "c7cfed09-6814-4cdc-a9fc-1d017add6d06"
+  Value: PCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPgo8dGl0bGU+cGludGVyZXN0MjwvdGl0bGU+CjxwYXRoIGZpbGw9IiMzZDM5MzUiIGQ9Ik0xMiAwYy02LjYxOSAwLTEyIDUuMzgxLTEyIDEyczUuMzgxIDEyIDEyIDEyIDEyLTUuMzgxIDEyLTEyLTUuMzgxLTEyLTEyLTEyek0xMiAyMi4zOTdjLTEuMDczIDAtMi4xMDUtMC4xNjQtMy4wODAtMC40NjQgMC40MjItMC42ODkgMS4wNTktMS44MjMgMS4yOTQtMi43MjMgMC4xMjctMC40ODggMC42NDctMi40NyAwLjY0Ny0yLjQ3IDAuMzM4IDAuNjQ3IDEuMzMxIDEuMTk1IDIuMzgxIDEuMTk1IDMuMTM2IDAgNS4zOTUtMi44ODMgNS4zOTUtNi40NjkgMC0zLjQzNi0yLjgwMy02LjAwNS02LjQwOC02LjAwNS00LjQ4NiAwLTYuODY3IDMuMDE0LTYuODY3IDYuMjkxIDAgMS41MjMgMC44MTEgMy40MjIgMi4xMDkgNC4wMjcgMC4xOTcgMC4wOTQgMC4zIDAuMDUyIDAuMzQ3LTAuMTQxIDAuMDMzLTAuMTQ1IDAuMjExLTAuODQ4IDAuMjkxLTEuMTgxIDAuMDIzLTAuMTAzIDAuMDE0LTAuMTk3LTAuMDcwLTAuMy0wLjQzMS0wLjUyLTAuNzczLTEuNDgxLTAuNzczLTIuMzcyIDAtMi4yOTIgMS43MzQtNC41MTQgNC42OTItNC41MTQgMi41NTUgMCA0LjM0MSAxLjczOSA0LjM0MSA0LjIyOCAwIDIuODEzLTEuNDIgNC43NjMtMy4yNjcgNC43NjMtMS4wMjIgMC0xLjc4Ni0wLjg0NC0xLjUzOC0xLjg4IDAuMjk1LTEuMjM3IDAuODYyLTIuNTY5IDAuODYyLTMuNDU5IDAtMC43OTctMC40MjctMS40NjMtMS4zMTctMS40NjMtMS4wNDUgMC0xLjg4IDEuMDc4LTEuODggMi41MjcgMCAwLjkxOSAwLjMwOSAxLjU0MiAwLjMwOSAxLjU0MnMtMS4wMzEgNC4zNTUtMS4yMTkgNS4xNjZjLTAuMjExIDAuOS0wLjEyNyAyLjE2MS0wLjAzOCAyLjk4MS0zLjg2Ny0xLjUwOS02LjYwOS01LjI2OS02LjYwOS05LjY3NSAwLTUuNzQyIDQuNjU1LTEwLjM5NyAxMC4zOTctMTAuMzk3czEwLjM5NyA0LjY1NSAxMC4zOTcgMTAuMzk3YzAgNS43NDItNC42NTUgMTAuMzk3LTEwLjM5NyAxMC4zOTd6Ij48L3BhdGg+Cjwvc3ZnPgo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1139
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240514T122041Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveen.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveen.kumar@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: pinterest
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6224062-4b31-4bb5-8dc6-7619b0842b82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveen.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240514T122207Z

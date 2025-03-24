@@ -1,0 +1,27 @@
+﻿---
+ID: "551f04a1-1092-44f7-9a0e-9e5e08e17dc1"
+Parent: "f80962c9-b5a1-4db3-b5bf-414b3f3f9e3b"
+Template: "16ed1d04-56d1-4284-a95f-c266730f6a32"
+Path: /sitecore/content/TTS/TileShop/Data/Secondary Banner/Secondary Banner/Link 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240501T105334Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30587eb4-4744-4cff-9bfa-0348440b237b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240501T110050Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="home" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

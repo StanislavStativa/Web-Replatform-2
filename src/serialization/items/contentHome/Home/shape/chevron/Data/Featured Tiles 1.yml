@@ -1,0 +1,49 @@
+﻿---
+ID: "945e6f62-a7bb-4758-8f90-8c3f31570702"
+Parent: "7ef87e77-2f89-4f5a-b10c-dc6fe16eedcd"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/shape/chevron/Data/Featured Tiles 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {2E40939B-8D15-4B6F-ADBF-76041E8B24E6}
+        {D204FB3B-68F9-4A28-B567-7224D7CC2B7C}
+        {45836995-3DCC-434E-B388-A82ED80943DA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Popular Types of Chevron Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p style="color: #333333; margin: 0px; padding: 0px; border: 0px;">&nbsp;</p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Because of their widespread popularity in a variety of interior design aesthetics, chevron tiles are available in a wide range of sizes, colors and materials. To narrow down the options, it can be helpful to think of how a room will be used, as well as how you want it to feel. For example: White chevron tiles are particularly popular for both bathrooms and kitchens, because it can help a space feel brighter and more open.</span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"><br />
+        </span></p>
+        <p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Darker colors—like black chevron tile—and large-format chevron tiles are particularly popular for room flooring, with smaller sizes used more widely in wall applications. You can use multiple sizes and colors of chevrons together in one space—for instance, a chevron-tile shower would likely feature a small chevron mosaic tile on the floor for ample traction underfoot, and a complementary mosaic in a larger size up the&nbsp;</span><a class="font-bold" href="/room/bathroom/shower-wall">shower walls</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, or on the coordinating sink backsplash. (And speaking of backsplashes, a white chevron tile kitchen backsplash is an easy and versatile way to incorporate this trend into your home.)&nbsp;</span></p>
+        <p>&nbsp;</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdcb243c-52c1-4928-a4e0-4bc56f551bd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061909Z

@@ -1,0 +1,43 @@
+﻿---
+ID: "6da89712-498e-48eb-a9ff-7030471da262"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Accordion 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {F6033436-B905-4049-BEB5-8265E594AB81}
+        {B65E15B8-F734-4A44-B400-95B2E76AB4F5}
+        {A36A5265-9562-44F4-82FC-582B5AB848F4}
+        {7D1F53F2-9D4F-4439-97C1-07BDBAD61905}
+        {2707AC85-FEF2-4A25-8F5C-918FC01A2C35}
+        {0AA30C89-C787-4E6B-890B-074202DF7F64}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T174928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask The Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43e7db74-21be-43d7-a85c-4f852fca15f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T093257Z

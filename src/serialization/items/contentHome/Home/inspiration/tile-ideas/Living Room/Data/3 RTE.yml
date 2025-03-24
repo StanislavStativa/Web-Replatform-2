@@ -1,0 +1,43 @@
+﻿---
+ID: "086d1dbb-835f-4b3a-a7e1-9e1c955ed0fa"
+Parent: "aa4709d1-b414-4859-8034-f78092604338"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Living Room/Data/3 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Living Room Walls</h2>
+        <p class="mb-4">
+        Tile is also an outstanding way to add personality and style to your living room walls. Make your space beautiful with authentic texture or an artful mosaic design. With our natural stone families, you can customize your walls in a way that&rsquo;s unique to your home. Use marble, slate, quartzite or granite to establish a bold accent wall or add trim to create a frame shape that&rsquo;s a contemporary alternative to hanging paintings. Add some depth to your space by installing our striking three-dimensional tiles. Whatever your personal taste, our experienced associates at The Tile Shop can help you set the right mood in your living room.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1ba24d7-f175-48c6-9990-5551a9fb8edd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200713Z

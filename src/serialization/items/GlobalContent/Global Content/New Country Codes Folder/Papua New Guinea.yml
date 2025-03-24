@@ -1,0 +1,34 @@
+﻿---
+ID: "c149f0f4-faba-4e33-8efa-44c503bc85ab"
+Parent: "f874b1b4-17d3-42af-ac8c-662d874e03f8"
+Template: "3b87128e-17c1-4ffb-a058-2279283fe236"
+Path: /sitecore/content/TTS/Global Content/New Country Codes Folder/Papua New Guinea
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T170906Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8549c447-fe4a-4b82-850c-d7b9e2fb84e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d7981c5f-0830-47ee-8008-9b439b03e58e"
+      Hint: Code
+      Value: PG
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190729T170906Z

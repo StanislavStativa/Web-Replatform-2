@@ -1,0 +1,57 @@
+﻿---
+ID: "01c3af05-12c5-48b4-9d85-65bf095ec9e4"
+Parent: "cb687aef-494c-44c9-864d-64bea16385de"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/tools/tile-cutting/Data/Category Card with link"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Tile Saws and Cutting Tools
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Ensure your installations look excellent every time with clean, precise tile cuts.&nbsp; With a variety of wet and dry tile saws, as well as score-and-snap tile cutters, our selection offers a number of tile cutting solutions that cater to any project.&nbsp; Our high-quality saws cut through materials such as porcelain, ceramic, glass and stone with speed and accuracy, creating crisp lines without any chips or breakage.&nbsp; Along with saws and tile cutters, we also carry a wide range of blades and other tile cutting accessories so you have everything you need to get the job done right.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5326667d-1269-4ced-931d-fbfe47ec069e"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T074646Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {4824FF56-C4E5-4D12-A722-4CC5651F9ABB}
+        {54283017-2FB9-465F-A299-ADCCB380337D}
+        {16D5AD96-5FE4-4145-AF6B-4F0D2C487169}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

@@ -1,0 +1,31 @@
+﻿---
+ID: "65790097-3ba3-4e4a-8ed9-ab9aad644f72"
+Parent: "4ef44576-ab80-44e4-8ccf-1db3112c0c54"
+Template: "34173251-e329-44f1-b3eb-072b3c104d8e"
+Path: /sitecore/content/TTS/Global Content/PDF Links/Warranty Data Sheets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221018T155502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dakotas
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dakotas
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddc223b5-386d-49f3-b11e-c7bc42f9eece"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dakotas
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221018T155502Z

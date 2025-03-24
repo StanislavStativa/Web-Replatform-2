@@ -1,0 +1,44 @@
+﻿---
+ID: "3d7ac2fb-45f0-4799-bb70-3af4cad7d54a"
+Parent: "960ef074-7cab-4b8f-adb0-28bd77895404"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/large-format/Data/Featured Tiles 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {BE92147C-5E83-44D6-890D-BF181D66714F}
+        {F49EE09E-BC03-4EE7-AEE3-7B983BC280E4}
+        {ADD65B96-059B-4DA6-A9A2-2ABB9F0C3B64}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Now Trending: Large-Format Tile"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p class="monday-block-1" data-monday-block-type="1" data-monday-block-id="173933c2-6887-40ea-8bbb-7a40f58c7373" style="color: #333333; margin: 0px; padding: 0px; border: 0px;"></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">As part of the overall popularity of bringing luxe hotel-style design elements into the home, large-format tiles have increasingly made their way into mainstream interior design.</span></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"><br /></span></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">This is especially true of </span><a href="/inspiration/tile-ideas/bathroom" class="font-bold">bathroom design</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">. For years, features like large, uninterrupted pieces of smooth marble were something you’d see in luxurious hotels or spas—picture a gleaming </span><a href="/material/marble/floor" class="font-bold">marble floor</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> or walls. As demand for this glamourous look has built, it has become more and more common to find features like a large-format tile shower or backsplash added in-home, particularly in primary or en suite bathroom sanctuaries.</span></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;"><br /></span></p><p style="margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;">Choosing large bathroom tiles for your space can have benefits beyond just looking good. One bonus feature is that there will be fewer grout lines per square foot than you would have with a smaller tile. Some of our largest products are 24x48 inches, which is 8 square feet of uninterrupted tile surface. (Just one more reason to love large shower tiles!) </span></p><p></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c96307f3-9f54-413d-a240-d78b7926fcd4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061917Z

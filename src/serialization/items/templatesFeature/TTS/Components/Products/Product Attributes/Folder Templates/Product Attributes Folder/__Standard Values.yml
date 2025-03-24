@@ -1,0 +1,33 @@
+﻿---
+ID: "2c9e7e19-036f-439a-8c3d-82d4d4c04bd8"
+Parent: "00521adc-df62-4720-bedb-a20017337832"
+Template: "00521adc-df62-4720-bedb-a20017337832"
+Path: /sitecore/templates/Feature/TTS/Components/Products/Product Attributes/Folder Templates/Product Attributes Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B808BDC1-BAFC-4F36-BF96-77792454AF49}
+    {EF784837-6EBF-48A2-A6C9-B6E22129DF9F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c1414bc-0d0d-468c-b9ce-ab06ccb0ce1f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T103108Z

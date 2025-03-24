@@ -1,0 +1,23 @@
+﻿---
+ID: "b12d24bd-8e50-4291-b1fc-b9f31045a4ef"
+Parent: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: /sitecore/templates/Feature/TTS/Components/Card/Datasource Folder/Card/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240417T095536Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "017557c8-6810-4b44-8980-997609e58f9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240417T095536Z

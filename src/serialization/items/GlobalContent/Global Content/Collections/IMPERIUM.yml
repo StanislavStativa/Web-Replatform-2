@@ -1,0 +1,40 @@
+﻿---
+ID: "d8e67889-ec33-4553-8bfc-6f7f41588a6f"
+Parent: "5b7b8fac-bf77-47a0-8475-c8e3ca758987"
+Template: "4ff74399-e9f2-46c6-919d-67fab8a67d6a"
+Path: /sitecore/content/TTS/Global Content/Collections/IMPERIUM
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T041953Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "586303b7-41de-4351-98ea-d37193280a1a"
+      Hint: CollectionName
+      Value: Imperium
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "183d18c0-7741-44a8-b1eb-6c30e1b0afe7"
+    - ID: "b082b188-84eb-4b2f-ab37-056591e5650b"
+      Hint: CollectionCode
+      Value: 614
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c4e2c36e-f12b-4b11-8213-2856762d96fa"
+      Hint: SAPMACollection
+      Value: Liguria
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T071501Z

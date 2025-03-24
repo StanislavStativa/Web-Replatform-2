@@ -1,0 +1,48 @@
+﻿---
+ID: "2963c231-0483-461b-9268-49cc19ba099a"
+Parent: "8adb51e0-02f9-4130-911d-de01665e848b"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/ivory/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {C5B2758A-86AC-4D85-BA84-2493F22FF792}
+        {24D96485-B5D1-4D41-87A7-AF601BA061AA}
+        {4C513793-26E5-431C-B8AA-1B0224D42118}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Styles of Ivory Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Ivory is a wonderfully neutral color. But just because it does not pop with color does not mean it has to blend into the background. There are lots of ways to play with styles of ivory tiles to make your space feel like home.</span></p>
+        <br />
+        <p>For a bolder look, consider a <a href="/material/porcelain/floor" class="font-bold"><strong><span style="text-decoration: underline;">porcelain floor tile</span></strong></a> that features a geometric pattern. To create a warm, homey feel, consider <a href="/material/luxury-vinyl" class="font-bold"><strong><span style="text-decoration: underline;">luxury vinyl tiles</span></strong></a> that perfectly emulate a natural wood grain. Another option is to go with hexagon tile to create an understated accent wall.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0410e61-5580-4dbd-8d95-754f1ecf5ed2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T120226Z

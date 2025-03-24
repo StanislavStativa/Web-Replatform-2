@@ -1,0 +1,69 @@
+﻿---
+ID: "4c27e8c8-42d6-4a61-8f47-b3b6a57ae684"
+Parent: "e4ede2bc-f492-4969-988e-4ebd05c6fbf5"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Secondary Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Subway Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Simple yet chic, subway tile is a design staple for a reason. From solid black or white ceramic to natural stone, marble or glass, the design possibilities are endless. Kitchen and bathroom backsplashes are a few of our favorite places and ways to feature subway tiles throughout the home. Consider selecting subway tiles in an unexpected color to create more visual interest.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5deefa6d-d932-4d27-b21e-fa20dee0eb1b"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="FAQs" linktype="external" url="/resources/how-to-lay-tile" anchor="" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240707T164015Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Imperial_Cement-look_Dora-B_Hero1_Nashville%3aCategory_Intro_Image"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="DESIGN IDEAS" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5D5148E6-E497-4C11-B52C-9425DF33250F}" />
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {3A0D6794-ACDF-4797-A3F4-379E35B1AC20}
+        {38F03133-73A2-4C13-A776-64536DCA3146}
+        {811DD1D3-3D90-4267-AC70-13BDEC76DB78}
+        {1CCC757A-B672-4336-9BEC-BE0C58355029}
+        {C458E371-DF9F-4C57-BC75-2CB853C893F7}
+        {C7EAA5D1-3E3C-48A9-AD35-92D91D26AEA1}
+        {7AE789AD-74BC-4906-B400-ABE2E85C2E2A}
+        {64E62856-5965-438B-AB33-5791271EF550}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

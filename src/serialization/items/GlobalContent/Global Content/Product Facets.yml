@@ -1,0 +1,31 @@
+﻿---
+ID: "2ae424b4-3abe-405f-b672-94888ff4ad45"
+Parent: "6023c06d-7221-4372-8c40-7ea3c1d4af74"
+Template: "52b85cda-ed30-4419-a42a-4ba34c8a5eee"
+Path: /sitecore/content/TTS/Global Content/Product Facets
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{D8FD2DA6-DDEF-43C6-B6A0-E428023C1233}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180907T215935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da177c29-147e-4f1f-98db-468ae14b867d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T095308Z

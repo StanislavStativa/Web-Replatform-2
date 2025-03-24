@@ -1,0 +1,161 @@
+﻿---
+ID: "9748beac-042b-41e4-ad61-73986a674391"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "9fba7db0-0937-453e-8801-2684a4239b3e"
+Path: /sitecore/content/TTS/TileShop/Home/room
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{7C62719A-826E-4A7E-889D-375EAC8C09FF}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: 
+- ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+  Hint: Priority
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: room
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{70A8282E-8432-44D5-8744-5076DB9C40D8}"
+              p:before="*"
+              s:ds="local:/Data/Bar Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/column-8-2" />
+            <r
+              uid="{FAE29683-D665-46CC-AA3A-129EE4A4CF2E}"
+              p:after="r[@uid='{70A8282E-8432-44D5-8744-5076DB9C40D8}']"
+              s:ds="local:/Data/Laundry Room Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/column-7-2" />
+            <r
+              uid="{79F259DB-124F-48D9-9E52-419D79A0A1D3}"
+              p:after="r[@uid='{FAE29683-D665-46CC-AA3A-129EE4A4CF2E}']"
+              s:ds="local:/Data/Outdoor Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/column-6-2" />
+            <r
+              uid="{8AD5D15F-D5B5-4378-87F5-289C33B8EA68}"
+              p:after="r[@uid='{79F259DB-124F-48D9-9E52-419D79A0A1D3}']"
+              s:ds="local:/Data/Entryway Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/column-5-2" />
+            <r
+              uid="{D222F50D-3616-4516-A59E-95C3C89D4868}"
+              p:after="r[@uid='{8AD5D15F-D5B5-4378-87F5-289C33B8EA68}']"
+              s:ds="local:/Data/Fireplace Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/column-4-2" />
+            <r
+              uid="{ED547BE8-3E3B-4A38-AB05-80E04398C96D}"
+              p:after="r[@uid='{D222F50D-3616-4516-A59E-95C3C89D4868}']"
+              s:ds="local:/Data/Kitchen Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/column-3-2" />
+            <r
+              uid="{F4BC5E85-6412-4704-87BF-4C801F6BB926}"
+              p:after="r[@uid='{ED547BE8-3E3B-4A38-AB05-80E04398C96D}']"
+              s:ds="local:/Data/Shower Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/column-2-2" />
+            <r
+              uid="{26C7AFD9-9F8D-4281-A507-DD166575CEF5}"
+              p:after="r[@uid='{F4BC5E85-6412-4704-87BF-4C801F6BB926}']"
+              s:ds="local:/Data/Bathroom Tile"
+              s:id="{D4812085-143E-4281-9719-EBD203E5DEDD}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B28833031-CEB9-4087-AEC6-83446C55D5C0%7D&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/column-1-2" />
+            <r
+              uid="{05E8AC44-05BE-48CD-8542-CD89DCB5653B}"
+              p:after="r[@uid='{26C7AFD9-9F8D-4281-A507-DD166575CEF5}']"
+              s:ds=""
+              s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+              s:par="CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{CA1C8227-5071-4F9D-9319-3A2A81D9147F}"
+              p:after="r[@uid='{05E8AC44-05BE-48CD-8542-CD89DCB5653B}']"
+              s:ds=""
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B26DB9446-51FA-42E9-8D38-13DCCDB614A5%7D&amp;Styles=%7B97ECAA03-83DD-425D-9F0E-E9DE6AB88294%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{B4406BEB-E6DF-4B8D-B0C6-9ED155FAE54C}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth2=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth3=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth4=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth5=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth6=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth7=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;ColumnWidth8=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D%7C%7B37B8F625-37B3-41B9-BA85-D31AA5A44463%7D&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181004T221653Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jimg
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Room
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Shop Tile by Room | The Tile Shop
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\markb
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bc9519f-fad6-4efa-aa30-d24bfe5bb87f"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Room
+    - ID: "b8b35f13-26ea-4708-933d-b1ae231a7c9f"
+      Hint: Indexable
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Shop our huge selection of tile by room and get expert advice and assistance from The Tile Shop. Visit us today for your free design consultation!"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193436Z

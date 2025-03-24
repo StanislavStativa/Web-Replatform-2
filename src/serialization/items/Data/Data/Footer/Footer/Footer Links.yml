@@ -1,0 +1,39 @@
+﻿---
+ID: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Parent: "fcdd231d-a18d-4fcf-8931-4deada292ed5"
+Template: "35f49eb6-eaa0-40e6-977e-911ddc1e5a44"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links
+BranchID: "7b6234fe-415a-4fbf-874f-225ea6c75a4e"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D3D0E18-3EBE-4D47-9012-1B6F410C75A6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T081037Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89769f53-8f18-4576-9611-1785987c9ade"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240420T093317Z

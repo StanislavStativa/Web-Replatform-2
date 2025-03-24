@@ -1,0 +1,43 @@
+﻿---
+ID: "0f1973aa-63b2-466f-aa01-91af81d1dd48"
+Parent: "bf2ef789-9b01-4b97-a7f6-ca3718526dac"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Material/Data/1 Best Patterns for Ceramic Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T191928Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h1 class="lato-h1 mb-8">1. Best Patterns for Ceramic Tile</h1>
+        <p class="mb-4">
+        The wide variety of shapes, colors, sizes and designs available in ceramic tile means that there&rsquo;s no limit to the ways you can customize the layout in your home. Available in plank, hexagonal, square, rectangular, mosaic and more, there&rsquo;s a ceramic tile that will work for any pattern you have in mind, from offset to Versailles and everything in between.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a3b2235-5191-4cdb-9d8b-3946b3d91ea9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T061608Z

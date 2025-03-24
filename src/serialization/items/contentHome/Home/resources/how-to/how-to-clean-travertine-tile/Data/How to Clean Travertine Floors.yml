@@ -1,0 +1,59 @@
+﻿---
+ID: "9b776d30-8d37-4a6a-b3ec-5ad20eafb2e2"
+Parent: "ec66310b-e223-4416-a5f6-6c0bdb7df895"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-travertine-tile/Data/How to Clean Travertine Floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Travertine Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h3 style="margin-left: 40px;">Step 01 of 04: Sweep or Vacuum</h3>
+        <br />
+        <p style="margin-left: 40px;">Use a soft-bristled broom or vacuum cleaner to remove loose dirt and debris, which could scratch the surface of the travertine if they are spread around with a mop. If you are using a vacuum, either use one without a beater bar or use a soft bristle hose attachment. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 02 of 04: Mix the Cleaning Solution</h3>
+        <br />
+        <p style="margin-left: 40px;">Fill your bucket with warm water and mix a small amount of dish soap or the appropriate amount of <a class="font-bold" href="/installation-care/care-maintenance/cleaners">commercial stone tile cleaner</a> as directed by the manufacturer. Never use harsh chemicals or acid-based cleaners, as these can seriously damage travertine tiles..</p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 03 of 04: Mop the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Dunk your mop into the bucket to get it wet and then thoroughly wring it out so it is slightly damp. Leaving excess moisture on <a class="font-bold" href="/material/travertine">travertine tiles</a> even for a short period can put the tiles at risk of water damage, especially if they are not properly sealed.
+        <br />
+        Fill a second bucket with clean water and rinse the mop regularly to ensure you are not spreading dirt from one area of the floor to another. Once all the mopping is complete, go over the floor a second time with clean water to remove any cleaning solution residue that may be left over.
+        </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 04 of 04: Dry the Floor</h3>
+        <br />
+        <p style="margin-left: 40px;">Go over the floor with a soft towel or a microfiber cloth to pick up any remaining water. Doing this quickly will help prevent water spots that can make it so your floor still looks dirty.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dda4c38c-ccdd-41d5-ae23-935448941673"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T180624Z

@@ -1,0 +1,58 @@
+﻿---
+ID: "29b4c4fc-5dc3-449c-be70-42bd1c227643"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/05 Plan Your Tile Layout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 5: Plan Your Tile Layout"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Starting on the back wall, measure across left to right. Divide that measurement by the tile size plus the spacer size. This will tell you how many full tiles will fit along your back wall.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt=" Illustration showing where tile will be installed on a shower wall, demonstrating how to calculate how many full tiles will fit in a single row." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Layout1:16x9" /></p>
+        <br />
+        <p>Next, find your center point on the back wall and either start a full tile from that center line or place a grout joint at that center line.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt="Image showing the center line of a shower wall, which is used to plan the placement of the first rows of tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Layout4:16x9" /></p>
+        <br />
+        <p>If you are doing a pattern, like the offset brick-lay pattern (running bond) for this demonstration, you will want to make sure the layout works for that specific pattern. Since we are doing an offset brick-lay pattern that alternates tile positions every other row, I will be checking how the layout falls for two rows of tile.</p>
+        <br />
+        <p><img class="rtc__list-item-with-image__image" alt="Checking the alignment and placement of shower wall tiles across multiple rows of an offset pattern." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Layout2:16x9" style="color: #3d3935;" /></p>
+        <br />
+        <p>Using a level, position your ledger board for your first row of tile, starting at least one tile&rsquo;s height up from the base of your shower. Note where your wall studs are, and screw into studs along the ledger board.</p>
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="Installing a ledger board near the base of a shower wall, in order to guide the installation of the first few rows of tile." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Layout3:16x9" />
+        <br />
+        <div class="rtc__callout-text">
+        <p><strong>Important</strong>: After removing your ledger board, remember to waterproof the holes with waterproof sealant before you install the final row of tile.</p>
+        </div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8663487e-2ebf-4493-a3c8-cdfa19be8ed2"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T071204Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 5

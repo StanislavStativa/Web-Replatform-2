@@ -1,0 +1,53 @@
+﻿---
+ID: "c47e3582-47ea-458d-945d-af490e4d6fc3"
+Parent: "ec66310b-e223-4416-a5f6-6c0bdb7df895"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-travertine-tile/Data/How to Clean a Travertine Tile Shower"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean a Travertine Tile Shower
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h3 style="margin-left: 40px;"><span class="h3-style">Step 01 of 04: Mix a Bottle of Cleaning Solution</span></h3>
+        <p style="margin-left: 40px;">Fill a spray bottle with warm water and add a few drops of liquid dish soap or the recommended amount of commercial stone tile cleaning solution as specified by the manufacturer. Shake the bottle thoroughly to mix the solution. Do not use shower cleaners that are not specifically designed to be used on natural stone tiles, as they are very likely to damage your travertine shower.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;"><span class="h3-style">Step 02 of 04: Wet the Surface</span></h3>
+        <p style="margin-left: 40px;">Wet the <a class="font-bold" href="https://www.tileshop.com/room/shower">shower tiles</a> with warm water to loosen any dirt or soap scum. Consider cleaning the shower tiles immediately after taking a shower to take advantage of the lengthy steaming the tiles have received.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;"><span class="h3-style">Step 03 of 04: Spray and Scrub the Tile</span></h3>
+        <p style="margin-left: 40px;">Spray the shower walls with the cleaning solution and allow it to sit for a few minutes. Use a soft sponge to gently wipe down the surface in a circular motion. Work your way from top to bottom to avoid streaking. Pay particular attention to spots where fixtures meet the tile to avoid unsightly rings of soap scum around the showerhead or faucet.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 style="margin-left: 40px;"><span class="h3-style">Step 04 of 04: Rinse and Dry Thoroughly</span></h3>
+        <p style="margin-left: 40px;">Once you've finished cleaning the tiles, thoroughly rinse the entire surface area with clean, warm water. This removes any cleaning solution residue that can leave streaks.</p>
+        <p style="margin-left: 40px;">Next, working top to bottom, use a squeegee to remove excess water from the tile, then go over the area with a soft towel or microfiber cloth to get any remaining water. This two step process will help your tiles look as fresh and clean as possible.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09f37ecb-13f6-46f5-9bb1-993605f97b38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T180003Z

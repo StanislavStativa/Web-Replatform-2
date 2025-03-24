@@ -1,0 +1,39 @@
+﻿---
+ID: "abaa2541-0167-4ff0-b308-575d8cb05f91"
+Parent: "32fa42ce-9fcc-401f-935b-b491b8ecfe25"
+Template: "14bd839e-6291-4b1d-aeb9-1dbe8f26d8fd"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Content Tile Stack/Content Tile Stack1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240507T091244Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Schedule a Design Consultation
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Everyone deserves the luxury of good design. Schedule a free in-person or online consultation with one of our experts to get started on your project.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05820e50-aa2f-46a5-8e73-d51567b19828"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "c1ab852c-0a25-4c3b-b4a9-3091700cae6d"
+      Hint: Label
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T101623Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ProductsProsTrust_Moodboard_044-1:4x5"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SCHEDULE NOW" anchor="" linktype="internal" class="" title="View All" target="" querystring="" id="{7F6901C4-2943-4286-A2A4-8C273CB5CCAA}" />

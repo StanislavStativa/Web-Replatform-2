@@ -1,0 +1,49 @@
+﻿---
+ID: "3851a2e9-5d13-424b-baa2-40438edcf7bd"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/09 Finish Tile Edges"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 9: Finish Tile Edges"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Tile edges are present at locations where a plane of tile ends, such as where the drywall outside your shower begins, where a shower niche meets the main shower wall, or around a shower bench. Finished tile edges will elevate the overall look of your shower and give it a more complete finish.&nbsp; When considering how to finish your tile edges, you have a few choices:</p>
+        <br />
+        <ul>
+            <li><strong>Bullnose tile. </strong>Some tiles offer matching bullnose styles, which means one side of the tile is rounded and shows no raw tile edge.</li>
+            <li><strong>Pencil tile. </strong>Pencil tiles are small, thin pieces of tile that can frame the borders of a larger tile installation. Similar to bullnose tiles, many tiles offer matching pencil pieces.</li>
+            <li><strong>Tile profiles. </strong>Tile profiles have become increasingly popular due to their versatility and streamlined appearance. They come in many finishes and colors, making it easy to accent your shower finishes (such as the shower head, shower valve and tub spout) or match it completely to your tile or grout choice.</li>
+        </ul>
+        <br />
+        <p>These are all effective options for finishing tile edges, and your decision will ultimately come down to your personal design preferences. <strong>For more information and detailed instructions, check out <a href="/resources/how-to/top-ways-to-finish-tile-edges">How to Finish Tile Edges: 3 Go-To Techniques</a></strong>.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4ae1c2a-c10b-4f9f-a7fc-d4992408c2ee"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T073024Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 9

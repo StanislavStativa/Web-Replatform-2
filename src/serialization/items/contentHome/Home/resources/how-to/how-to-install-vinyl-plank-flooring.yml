@@ -1,0 +1,208 @@
+﻿---
+ID: "36fbd911-4c32-4a16-bce7-1bb6d8e38cb9"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-vinyl-plank-flooring"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{42E503A1-0313-4F15-9529-328D1477C606}"
+          p:before="*"
+          s:ds="{EDEFC91C-40E3-4296-A44C-02BE072854EE}"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B1D9C0A2A-2FA4-434F-BB3C-014E228C611C%7D&amp;HeadingSize=h1&amp;HeadingTag=h1&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{F869CA22-7B19-4467-884D-2CA02571FE66}"
+          p:after="r[@uid='{42E503A1-0313-4F15-9529-328D1477C606}']"
+          s:ds="local:/Data/Step By Step"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{3547931A-55B7-4A81-998B-0D733482BD99}"
+          p:after="r[@uid='{F869CA22-7B19-4467-884D-2CA02571FE66}']"
+          s:ds="{F2B088FD-BFF6-4C70-BA1C-CFA1529641D0}"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{AACEFC45-460C-4B4E-B476-F721A31177F8}"
+          p:after="r[@uid='{3547931A-55B7-4A81-998B-0D733482BD99}']"
+          s:ds="local:/Data/02 Remove Baseboards"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7B59014F-F5E6-4752-9229-79228AB60FE5}"
+          p:after="r[@uid='{AACEFC45-460C-4B4E-B476-F721A31177F8}']"
+          s:ds="local:/Data/03 Prepare Subfloor"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{60A3EC76-D7CD-465A-A260-DB05F068D80D}"
+          p:after="r[@uid='{7B59014F-F5E6-4752-9229-79228AB60FE5}']"
+          s:ds="local:/Data/04 Lay Underlayment"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{3949747B-DE24-429D-BB29-72FA4F084D88}"
+          p:after="r[@uid='{60A3EC76-D7CD-465A-A260-DB05F068D80D}']"
+          s:ds="local:/Data/05 Plan the Layout"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{9DEF9816-4E10-4BE9-A511-580FE8D3F009}"
+          p:after="r[@uid='{3949747B-DE24-429D-BB29-72FA4F084D88}']"
+          s:ds="local:/Data/06 Cut the Vinyl Planks"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{F2E79FF0-CFF0-4F0E-A96E-6E8BFA206539}"
+          p:after="r[@uid='{9DEF9816-4E10-4BE9-A511-580FE8D3F009}']"
+          s:ds="local:/Data/07 Install First Row"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{0BC0765A-E2BB-4DF7-B946-50DAA68585D0}"
+          p:after="r[@uid='{F2E79FF0-CFF0-4F0E-A96E-6E8BFA206539}']"
+          s:ds="local:/Data/08 Continue and Finish Installation"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{18942972-97EB-4247-A349-E945334FAD28}"
+          p:after="r[@uid='{0BC0765A-E2BB-4DF7-B946-50DAA68585D0}']"
+          s:ds="local:/Data/09 Finishing Touches"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;NumberListFontSize=h2&amp;ShowNumberList=1&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{407693D7-8672-4329-A5BB-F2195493619C}"
+          p:after="r[@uid='{18942972-97EB-4247-A349-E945334FAD28}']"
+          s:ds="local:/Data/Common Mistakes"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B7C5A42FB-3E19-488B-9F5C-A5B3FA682311%7D%7C%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{B6CFA1CE-F5A7-4720-BDCB-1589F1CB381C}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Vinyl Plank Flooring Installation FAQs"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B9B3796C3-A793-4C3E-8F64-AD7203028B3E%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How to install Vinyl Plank Flooring
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{42E503A1-0313-4F15-9529-328D1477C606}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;CTAColor=Black&amp;HeadingSize=h2&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{F869CA22-7B19-4467-884D-2CA02571FE66}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;CTAColor=Black&amp;HeadingSize=h2&amp;DynamicPlaceholderId=12" />
+            <r
+              uid="{3547931A-55B7-4A81-998B-0D733482BD99}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=2" />
+            <r
+              uid="{AACEFC45-460C-4B4E-B476-F721A31177F8}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=3" />
+            <r
+              uid="{7B59014F-F5E6-4752-9229-79228AB60FE5}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=4" />
+            <r
+              uid="{60A3EC76-D7CD-465A-A260-DB05F068D80D}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=5" />
+            <r
+              uid="{3949747B-DE24-429D-BB29-72FA4F084D88}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=6" />
+            <r
+              uid="{9DEF9816-4E10-4BE9-A511-580FE8D3F009}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=7" />
+            <r
+              uid="{F2E79FF0-CFF0-4F0E-A96E-6E8BFA206539}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=8" />
+            <r
+              uid="{0BC0765A-E2BB-4DF7-B946-50DAA68585D0}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=9" />
+            <r
+              uid="{18942972-97EB-4247-A349-E945334FAD28}"
+              s:par="FieldNames&amp;NumberListFontSize&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;ShowNumberList=0&amp;HeadingSize=h2&amp;ShowImageCaption=0&amp;DynamicPlaceholderId=10" />
+            <r
+              uid="{B6CFA1CE-F5A7-4720-BDCB-1589F1CB381C}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;HeadingTag=h2&amp;CSSStyles&amp;GridParameters&amp;HeadingSize=h2&amp;DynamicPlaceholderId=11" />
+          </d>
+        </r>
+    - ID: "05e4357f-e613-4c29-b6e4-11e3582db4f5"
+      Hint: MetaKeywords
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: How to install Vinyl Plank Flooring
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: How To Install Vinyl Plank Flooring
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53460915-5097-4fa6-8099-2f864a175b13"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: How to install Vinyl Plank Flooring
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "Explore our comprehensive guide for a hassle-free installation of vinyl plank flooring. Equip yourself with the right tools and sidestep common errors. "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T102132Z

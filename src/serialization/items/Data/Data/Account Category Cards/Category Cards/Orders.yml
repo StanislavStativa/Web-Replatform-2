@@ -1,0 +1,44 @@
+﻿---
+ID: "efdff784-238b-4843-99a0-ecbbbdc0faa0"
+Parent: "28d26961-7aa6-4330-accd-5bb155c16439"
+Template: "84129a16-aeff-495d-9b35-7cdbc2b6578d"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Orders
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2140e16d-d3d7-4341-80d0-7f7ce02fcc3e"
+      Hint: CardList
+      Value: |
+        {42273DBB-814E-4AFA-B131-61416A52B629}
+        {0A48190F-6051-4AE8-AEF2-6E3AA916F030}
+        {D793EB18-8641-4671-B55C-99B1FCE05154}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240609T083128Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{A9B040CC-E67A-44F6-88EC-484B0A7F78F1}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b627247a-45fa-49ca-97a8-32f1d710c59b"
+    - ID: "9db5e89c-e2f3-4395-baf6-362932ad0c99"
+      Hint: Title
+      Value: Orders
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240701T091921Z

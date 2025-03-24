@@ -1,0 +1,116 @@
+﻿---
+ID: "532d2fc4-737d-489c-b381-8d40f55c1e76"
+Parent: "59231cba-4a3c-4468-8251-b0b9bbb24aef"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/returns-exchanges/Data/Rich Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T113826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Returns & Exchanges
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br />
+        <p>
+        <br />
+        <strong>General Information</strong></p><br />
+        <div class="rich-text">
+        <ul>
+            <li>A refund will be issued for active* products returned in original packaging and good sellable condition within sixty (60) days of pickup or shipment date. Field tile must be returned in original factory boxes and in full-box quantities only, unless sold as a sample.</li>
+            <li>The Tile Shop sells products that are either a natural stone cut from a quarry, a clay tile or another material that is processed and manufactured to achieve certain colors and textures.</li>
+            <li>Stone is a natural product subject to variations in size, color, shade, veining, texture and polish. These variations are what make natural stone unique. All stone samples are provided by the manufacturer and are intended to convey the characteristics of a certain type of stone, but variations will occur, and the product&rsquo;s conformity to a sample is not assured.</li>
+            <li>Although manufactured tiles may be more uniform, variations in color and texture can still occur, and the color of any sample may differ from the current product offering.</li>
+            <li>The coverages displayed are approximate, and product specifications are not guaranteed.</li>   
+        </ul>
+        </div> <br />
+        <p><span>*<em>An active product is any SKU that is not discontinued in our system, is not a Special Order item, or is not a freight charge.</em></span></p><br />
+        <p><strong>Inspections</strong></p><br />
+        <div class="rich-text">
+        <ul>
+            <li>Buyer or Buyer&rsquo;s representative must inspect material upon receipt and promptly contact their store with any concerns and/or damages as well as noting damages on Proof of Delivery receipt.</li>
+            <li>If submitting a damage claim, Buyer must give The Tile Shop sufficient time after notification to inspect for damage.</li>
+            <li><span>The product is to be kept secure until inspected.</span></li>
+        </ul><br />
+        </div class="rich-text">
+        <p><strong>Returns</strong></p><br />
+        <div>
+        <ul>
+            <li><span>If Buyer is dissatisfied with the product for any reason, they are to notify a Tile Shop representative to arrange for the materials to be returned.</span></li>
+            <li><span>Products must be returned in the same unit of measure as purchased (E.G., pallet, box, or each). Field tile must be returned in original packaging and in full-box quantities only, unless purchased as a sample as indicated on the sales receipt.</span></li>
+            <li><span>Liquid and powder products must remain unopened and in good sellable condition to be eligible for return.</span></li>
+            <li><span>Installation of product constitutes acceptance of material. Once installed, Buyer accepts the product without recourse, and no returns will be offered.</span></li>
+            <li><span>Returns are not permitted for Special Order material or discontinued material.</span></li>
+            <li><span>Delivery, freight, and shipping &amp; handling fees are nonrefundable.</span></li>
+            <li><span>The Buyer is only eligible for a full refund for returned materials as detailed above within sixty (60) days of pickup or shipment date.</span></li>
+        </ul>
+        </div>
+        <br />
+        <p><strong>Refunds</strong></p>
+        <br />
+        <div class="rich-text">
+        <ul>
+            <li><span>A refund will be issued for active* products returned in the same condition they were received within sixty (60) days of pickup or shipment date. Field tile must be returned in original packaging and in full-box quantities only, unless sold as a sample.</span></li>
+            <li><strong><span>All refunds will be issued to the bill-to party name on the original invoice.</span></strong></li>
+            <li><span>Cash (under $10): Cash will be given for refunds of cash or debit purchases under $10.</span></li>
+            <li><span>Cash ($10 and over) and check: A refund check will be processed and sent to the customer at the address on the invoice in 10&ndash;14 days. If a check is used, please allow 3&ndash;4 business days for the check to clear before a refund may be processed.</span></li>
+            <li><span>Credit and Tile Shop gift cards: All refunds will be processed to the same credit card used for the original purchase. Customer must present the original card to receive a refund.</span></li>
+            <li><span>Third-party gift cards: The Tile Shop cannot process refunds onto third-party gift cards of any type, including those offered by major credit card providers. In the event a third-party gift card was used for the original purchase, a refund will be issued in the form of a Tile Shop gift card.</span></li>
+        </ul>
+        </div>
+        <br />
+        <p>
+        <span>*<em>An active product is any SKU that is not discontinued in our system, is not a Special Order item, or is not a freight charge</em></span></p>
+        <p>
+        <br />
+        <strong>Exchanges</strong></p><br />
+        <div class="rich-text">
+        <ul>
+            <li><span>Exchanges are welcome and subject to the same specifications as our Return Policy.</span></li>
+        </ul>
+        </div><br />
+        <p>
+        
+        <strong>Cancellations &ndash; Store &amp; Online Orders</strong></p><br />
+        <div class="rich-text">
+        <ul>
+            <li><span>The Buyer may call a Tile Shop sales representative or visit a local store to cancel an order or any part of an order that has not yet been received by the Buyer.</span></li>
+            <li><span>With the exception of Special Order products, orders cancelled prior to shipping will never assess a penalty.</span></li>
+            <li><span>Deposits on Special Order products are refundable only within 24 hours of the order being placed. Any cancellations after 24 hours forfeit the full deposit. Net30 accounts will be billed 50% of full order if cancelled after 24 hours.</span></li>
+            <li><span>If uncertain who is handling your order since placed online, please contact customer service at 888-398-6595 for assistance in cancelling your order.</span></li>
+            <li><span>Once an order is processed to ship or has shipped, it may be cancelled, but applicable freight fees will still apply. If an order has shipped before cancellation, additional fees may be determined.</span></li>
+        </ul>
+        </div><br />
+        <p>
+        <strong>Warranty</strong></p>
+        <br />
+        <div class="rich-text">
+        <ul>
+            <li><span>The Tile Shop offers a 25-year system warranty for projects completed in accordance with the Tile Council of North America (TCNA) standards and using only Tile Shop products for preparation, installation and maintenance. No product warranties, expressed or implied, are offered for purchases installed using Tile Shop products in part.</span></li>
+        </ul>
+        </div>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e477fa8-4e3d-4dd9-9f24-787bdd925801"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T133009Z

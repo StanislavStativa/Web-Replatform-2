@@ -1,0 +1,41 @@
+﻿---
+ID: "41579c3e-eb65-43d6-9d85-75b61df51f30"
+Parent: "28d26961-7aa6-4330-accd-5bb155c16439"
+Template: "84129a16-aeff-495d-9b35-7cdbc2b6578d"
+Path: /sitecore/content/TTS/TileShop/Data/Account Category Cards/Category Cards/Projects
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2140e16d-d3d7-4341-80d0-7f7ce02fcc3e"
+      Hint: CardList
+      Value: "{FFC42238-DD00-46CF-9E83-C41BD3635EB9}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240609T083227Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{EE1FA073-E166-49BF-98CF-87BCB097B401}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a1c9bad-ca92-4dcc-a7a8-8164803181b8"
+    - ID: "9db5e89c-e2f3-4395-baf6-362932ad0c99"
+      Hint: Title
+      Value: Projects
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T100731Z

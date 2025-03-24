@@ -1,0 +1,35 @@
+﻿---
+ID: "a60d0ffd-83e0-4d8b-a066-634e0fadb37c"
+Parent: "8c3934cd-a1c2-4497-80fa-279c343d57d4"
+Template: "98439906-d788-481d-b1cf-57be6e613e45"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Company/Terms of Use
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T101159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41cd20d3-d69f-4cca-a105-5c39bc400340"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T113549Z
+    - ID: "f2c0048e-40ec-4e1c-9918-1509fc8fb0e1"
+      Hint: Link
+      Value: |
+        <link text="Terms of Use" anchor="" linktype="internal" class="" title="Terms of Use" target="" querystring="" id="{3BD67C19-9B80-4855-A2D8-67D0466F9AD0}" />

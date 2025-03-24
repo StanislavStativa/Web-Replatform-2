@@ -1,0 +1,33 @@
+﻿---
+ID: "3ab66874-256e-4169-9f9a-10ea264015f0"
+Parent: "99f7d7cc-bfe1-4559-8973-b22b02abf533"
+Template: "99f7d7cc-bfe1-4559-8973-b22b02abf533"
+Path: /sitecore/templates/Feature/TTS/Components/Pay on Account/Folder Templates/Pay On Account Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {98368640-3077-439D-A06F-1A59606B1FBC}
+    {99F7D7CC-BFE1-4559-8973-B22B02ABF533}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "141c2137-b803-4a80-9e3f-cd367aae387a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T190427Z

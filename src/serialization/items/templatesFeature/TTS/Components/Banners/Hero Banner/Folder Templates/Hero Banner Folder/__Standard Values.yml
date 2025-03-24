@@ -1,0 +1,33 @@
+﻿---
+ID: "17e102b4-b101-4b8b-bb17-335685e060a5"
+Parent: "6e2c6dda-5d0b-4d34-ac32-036194adbaf9"
+Template: "6e2c6dda-5d0b-4d34-ac32-036194adbaf9"
+Path: /sitecore/templates/Feature/TTS/Components/Banners/Hero Banner/Folder Templates/Hero Banner Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B2CC6590-D3D2-4910-8254-7F13189BA453}
+    {6E2C6DDA-5D0B-4D34-AC32-036194ADBAF9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2545a5f4-ef02-4e31-9422-7455b21426d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240416T112828Z

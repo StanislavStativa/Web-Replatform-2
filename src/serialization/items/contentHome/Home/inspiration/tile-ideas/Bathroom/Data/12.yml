@@ -1,0 +1,42 @@
+﻿---
+ID: "19abd050-6605-43f5-b597-4382f70cf479"
+Parent: "d30cc777-0165-4157-9187-6ff931fc11c7"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Bathroom/Data/12"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Layering Trim
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Create a masterpiece in your bathroom by layering a trim boarder around a <a class="font-bold underline" href="/featured/mosaics"><span>mosaic</span></a>. This technique is great for accenting a <a class="font-bold underline" href="/room/bathroom/shower-wall"><span>shower wall</span></a>, like the one shown above. Many of our stone collections include mosaics and trim pieces, so you can achieve a highly-designed, cohesive look in your bathroom. Make sure to check out our <a class="font-bold underline" href="/inspiration/tile-ideas/shower">shower tile ideas</a> page for more inspirational designs for your shower walls and floors.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c82027d0-26f9-438e-9df0-af980402729a"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 32
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nndGgLsZ18
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T121341Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Volakas_SHOWER_CORNER_DETAIL:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 12

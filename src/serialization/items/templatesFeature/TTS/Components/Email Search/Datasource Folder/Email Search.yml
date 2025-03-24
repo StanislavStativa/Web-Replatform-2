@@ -1,0 +1,50 @@
+﻿---
+ID: "10b3c54b-9644-45b3-858e-239aa3e82ea9"
+Parent: "7af3e2d1-6106-4d0e-854b-db3e33cc7031"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/TTS/Components/Email Search/Datasource Folder/Email Search
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
+    {D6BE475E-2BE3-4B29-BE7D-61A3BA6FA1C9}
+    {895115B6-8FFB-43AB-B1C7-105195E69F3D}
+    {E59BE647-800E-4252-9E97-F6BEB151F7E7}
+    {6A5AFF35-DCCE-45A5-80D1-56C21A562D56}
+    {872CAFDB-679C-4F2C-9B45-170A4A78351E}
+    {9776BF60-6531-464B-B67B-4DA77789D7C9}
+    {F2BFF547-1417-478C-817E-81020072E43E}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{9F9AB915-EB7B-43E2-BB90-A523863619DD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241210T103931Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45ffba52-2382-433e-a549-71e18ac7f085"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241216T064355Z

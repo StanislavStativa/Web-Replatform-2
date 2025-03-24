@@ -1,0 +1,34 @@
+﻿---
+ID: "ab5c4b67-664d-4cde-94ed-f6a8110733fa"
+Parent: "f874b1b4-17d3-42af-ac8c-662d874e03f8"
+Template: "3b87128e-17c1-4ffb-a058-2279283fe236"
+Path: /sitecore/content/TTS/Global Content/New Country Codes Folder/Singapore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190729T170911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\james
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\james
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ed0bdcc-1190-4600-b509-4017c49c36cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\james
+    - ID: "d7981c5f-0830-47ee-8008-9b439b03e58e"
+      Hint: Code
+      Value: SG
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190729T170911Z

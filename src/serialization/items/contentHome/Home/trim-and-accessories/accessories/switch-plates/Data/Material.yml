@@ -1,0 +1,46 @@
+﻿---
+ID: "5b032715-905b-4216-aaf8-79afb4ae4cee"
+Parent: "0c7c765c-3a3a-4adf-a436-ef955c986378"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/switch-plates/Data/Material"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {AE4B882E-90C9-45D2-BDA7-0D1348A6E612}
+        {064B5087-B318-4CCB-82B7-FC2AF237B67A}
+        {D1455F5D-D6A6-4FB9-B7E1-ECF070CDC3E3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Material
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1fcc7b6-fda8-408d-858c-7dea139dccb5"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: "<p>We’ve created natural stone outlet covers that will match our most popular tile styles, including dozens of colors in travertine like Sandlewood, Bucak and Hampton. Finish your pearly-white Carrara marble walls with matching outlet covers that are just as pristine and stylish.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T161234Z

@@ -1,0 +1,54 @@
+﻿---
+ID: "1c91973d-7dbd-42a2-a147-e491178ef3c1"
+Parent: "4571aca4-4646-4761-82ed-6dd134044fad"
+Template: "caebb3c7-7945-4be3-961c-f5e1bdfb8b36"
+Path: /sitecore/content/TTS/TileShop/Home/My Account/Projects/My Projects/Data/My Projects
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T081405Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3F1D8184-4970-455D-92E3-E49DEE94C950}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: My Projects
+    - ID: "5cd7e9b9-66df-411f-a5d3-e009e367096b"
+      Hint: APIEndPoint
+      Value: api/cart/getprojects
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: My Projects List
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1277093-b732-4b42-a222-b757d910a934"
+    - ID: "a7efdd10-6de4-4ff1-9866-3d6085ce4c86"
+      Hint: EnableProUsers
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d719daba-e728-4d22-af5d-a7debc08cf9c"
+      Hint: EnablePersonalUsers
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T081615Z

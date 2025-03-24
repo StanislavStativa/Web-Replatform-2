@@ -1,0 +1,50 @@
+﻿---
+ID: "48e34365-f220-4ce2-824f-e58a7fb81cd4"
+Parent: "e110b149-ef79-4418-ad4a-6c5b2696feb2"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: /sitecore/content/TTS/TileShop/Home/products/*/Data/Get Pro Rewards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2253f172-c452-4368-adcb-980be3e6f434"
+      Hint: HoverImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T071053Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Get Pro Rewards
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Get Pro Rewards
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>From tiered discounts to job-site delivery, our Pro Rewards Program offers numerous benefits designed to help you deliver the highest quality work to your clients.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da3dbdd8-a17c-4db6-9478-323f1a512c74"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T071916Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "ProProducts_ToolRun_Trowel-Thinset_Hand_Hero:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="BECOME A PRO" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E059C3A7-4644-436C-9959-D130A3723EFF}" />

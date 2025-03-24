@@ -1,0 +1,41 @@
+﻿---
+ID: "4c6a915e-ac2c-46f7-a480-856f52df3aca"
+Parent: "9a5a74a9-67ac-40df-a33e-fb61088aaa9a"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-lay-tile/Data/Before You Begin"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T114155Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Before You Begin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <img class="rtc__list-item-with-image__image" alt="wet saw" src="https://s7d1.scene7.com/is/image/TileShop/Underlayment_Img%3aImage_Caption_Hero" />
+        <p style="margin-bottom: 0.25in;">It&rsquo;s important to have the right surface prepared before you start to tile. Determine your existing subfloor and adjoining floor height, and whether you want to include in-floor heating. This will help you decide which underlayment will work best for your project.</p>
+        <p style="margin-bottom: 0.25in;">You&rsquo;ll want to ensure you are working on a clean, dry surface. Thoroughly sweep and vacuum your space before you install your underlayment.</p>
+        <p>There are many different versions of snap cutters on the market, but all of them have virtually the same components: they&rsquo;ll have a cutting wheel, rails (usually two, but sometimes a single rail), and a handle so you can apply pressure.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "061463f0-b5d0-4528-95b9-db43a61d7964"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T071722Z

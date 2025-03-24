@@ -1,0 +1,53 @@
+﻿---
+ID: "807f438d-3c9f-476d-b3ab-7d68f93ddf34"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Color
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T102914Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c1cd253-0536-4eed-b990-0c4015181d48"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {54CCF0A8-69C9-4413-B939-287F494AFA2A}
+        {7E47E22B-0C56-4FC0-B1AF-DB0F69D10330}
+        {458314DE-0E44-4EA2-8570-BB109974ECAE}
+        {7B15BBA3-E4CA-42E1-878C-3F59AF30FDA9}
+        {13BA4585-5D9B-4B2E-930D-6203210399DE}
+        {5A16FEB0-A160-4025-B0A5-6E85A3B2E738}
+        {BC028C1A-E8BF-4BA3-B008-D7353EBEA93C}
+        {041192CA-B860-4E0A-987F-B98B01B93676}
+        {3ED9B43B-BD51-4175-81C0-8EC497395BD9}
+        {0C1095BB-DDFF-48CE-BD90-8CCA2A3EFCAC}
+        {E6993C91-F15F-4A6A-8523-FB4CF832A5D4}
+        {F464AD3D-0F8C-4281-A6EC-095B86481AE3}
+        {0D668959-BD8E-4BEA-975B-1F18D237520B}
+        {D833A988-C267-43E7-90AF-812FBE423B70}
+        {8F5E7D5B-38CB-4880-B8CA-5E6281FE50C0}
+        {31354152-2858-4142-996F-25214D3645A5}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T024941Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Color" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{23E3616B-2938-4A40-A5FA-25CF70A43679}" />

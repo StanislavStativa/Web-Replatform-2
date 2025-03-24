@@ -1,0 +1,206 @@
+﻿---
+ID: "4a565229-d45d-42d6-ac10-d55ec2be777a"
+Parent: "23e3616b-2938-4a40-a5fa-25cf70a43679"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: /sitecore/content/TTS/TileShop/Home/color/pink
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1225
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B92D18EC-7898-49BC-ADC0-F0404B53CC75}"
+          p:before="*"
+          s:ds="local:/Data/Category Card with link"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;Opacity&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+          s:ph="headless-main" />
+        <r
+          uid="{0B813661-93B9-4CBF-820A-3CA538B55EDA}"
+          p:after="r[@uid='{B92D18EC-7898-49BC-ADC0-F0404B53CC75}']"
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:ph="headless-main" />
+        <r
+          uid="{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}"
+          p:after="r[@uid='{0B813661-93B9-4CBF-820A-3CA538B55EDA}']"
+          s:ds="{20D717E4-090F-46C5-8640-2631C477C50A}"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+        <r
+          uid="{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}"
+          p:after="r[@uid='{A7DF45C6-A953-4F7A-8AC1-3ED613352C1F}']"
+          s:ds="local:/Data/RTE 1"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6&amp;class=md:px-10"
+          s:ph="headless-main" />
+        <r
+          uid="{C6F41D46-E710-4CB3-AEB2-6B85CBA1E085}"
+          p:after="r[@uid='{250F8FB3-ACB8-40DC-A6A5-E263062BE0EE}']"
+          s:ds="local:/Data/Featured Tile 1"
+          s:id="{E9171FFC-E742-493E-B70B-0E874B14EEBE}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h3&amp;HeadingTag=h3&amp;IsPinterestEnable=1&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
+          s:ph="headless-main" />
+        <r
+          uid="{DF5852D4-5A91-44EB-B549-5D7D5D130A9A}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/RTE 2"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{8A7D17A3-CD2B-4420-8EC9-7209037EF62F}|{7CE54E6B-A9E5-448B-B398-C73F2E74E0F4}&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=16&amp;class=md:px-10"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1072afea-9467-4fe0-a593-6f565d0456e3"
+      Hint: FacetName
+      Value: Pink
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "From shimmering to subtle, pink tile is available in shades and finishes that can match the personality of any room. Pack a punch in your powder room or opt for a subtle rose hue with a hint of shine. Faint pink coloration in natural stone or wood-look tile can add earthy elegance that remains realistic."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{B0506400-2684-4368-A028-A93C4A619FD1}" querystring="" anchor="" title="" linktype="internal" text="Red" url="/TTS/TileShop/Home/tile/color/red" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" querystring="" id="{F759954B-72C5-4DC2-98DF-47F7DABE419E}" anchor="" title="" linktype="internal" text="White" url="/TTS/TileShop/Home/color/white" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181009T135714Z
+    - ID: "2fe36a94-8298-4776-b050-9173f9c84b4d"
+      Hint: ProductHierarchy1
+      Value: |
+        {05B92E0F-050F-4DF0-9DDD-9EEF9E964008}
+        {5807AA8A-DE6A-4D89-B862-D6B369C3266D}
+        {74C2F521-730A-4EB8-B4F0-0E36E7D1630F}
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{C5B15EBA-0E91-41E5-8635-D4D8275BEC8C}" />
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link class="" querystring="" id="{5189A7EE-4B10-4CC5-B6ED-D761D45C7926}" anchor="" title="" linktype="internal" text="Grey" url="/TTS/TileShop/Home/tile/color/grey" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Pink & Pinkish Tile for Bathrooms & More | The Tile Shop
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Pink Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\smallaya
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" querystring="" id="{12926EAD-0598-4EBD-B61D-24986848572A}" anchor="" title="" linktype="internal" text="Black and White" url="/TTS/TileShop/Home/tile/color/black-white" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "BariJ_ORCSpring2021_Bathroom_009:Category_Intro_Image_V2"
+    - ID: "7a7f643e-36d6-4528-9965-73228b36972b"
+      Hint: RelatedLink8
+      Value: |
+        <link class="" id="{03052925-2507-4F24-90D1-0932E85C1675}" querystring="" anchor="" title="" linktype="internal" text="Metallic" url="/TTS/TileShop/Home/tile/color/metallic" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79309d29-7591-41a8-8444-1055d4758e3f"
+    - ID: "97d3baa4-e854-4132-bf76-d04276f03662"
+      Hint: ExcludedSKUs
+      Value: |
+        {DEB8B836-6E41-4904-B714-7F0FF8E1A8A7}
+        {A7B7C8AF-DF5D-40E2-89C4-0EE2D157374B}
+        {C0B8625F-36AD-4672-BE04-B6DC76E1AB8D}
+        {EE55C1D1-23B5-498A-ACD0-BD28D9F2133D}
+        {9130206C-2E2E-4D68-8777-0F173060AED0}
+        {F5F94C20-BCCF-4A76-A26D-D284D1B65BC0}
+        {1A7C54F0-3A8D-42A3-AB33-5474A0820698}
+        {D4546744-7881-45A4-946A-21C8ED8F3B40}
+        {5419DB7D-4DE7-483A-A6CF-DD07730DD73F}
+        {0075F0BB-7A99-442F-BC7B-D2A9A90AFF66}
+        {E6E1C16F-3845-4F94-B207-CCC3F032120F}
+        {D55139E1-12B4-40EB-83D1-8CD809594DB6}
+        {39CD08AE-BAAE-489A-83A2-793CF1C02B73}
+        {8FE097E6-D9DB-410E-AB6A-F65AD8C645C5}
+        {D40BEABB-C1DE-4CE8-9FFD-5C3534D4EF39}
+        {C30F5B8E-8B61-45CD-89AB-EC3D90595423}
+        {1765A2E3-DAE2-4299-AA5E-13E9CDA3516E}
+        {93276626-8D5B-4BAF-875C-76D6EA5C43C4}
+        {E6A1A92B-4C3B-44DE-94D7-E72FAAC5EEE5}
+        {251AAFC2-EBAD-4560-956B-0AB0DA50BF49}
+        {4FCA711D-F7E3-4DB0-B0DB-1F900FA1DD60}
+        {DDEB80DF-1172-4507-AD75-092EE473DC86}
+        {95EB29E7-7EAA-4952-B045-452AE8637809}
+        {3E218AB4-9082-47E0-850E-BDB4B2DED330}
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Pink Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{E89EA496-FC84-4A27-A43A-F1CC06FB15B2}" querystring="" anchor="" title="" linktype="internal" text="Purple" url="/TTS/TileShop/Home/tile/color/purple" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: "The Tile Shop offers a wide selection of pink tile for walls & floors. Shop in-store or online today to get started. Order a sample for only $3."
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{69BC85E4-37D4-4DB2-9D0D-3B511498443E}" querystring="" anchor="" title="" linktype="internal" text="Orange" url="/TTS/TileShop/Home/tile/color/orange" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T125801Z
+    - ID: "f212cd7a-8afb-423e-8694-e2429fe95a66"
+      Hint: Color
+      Value: "{E89181C1-864C-4E36-9F22-5EBDB0EC03F3}"
+    - ID: "f35220e0-1521-4df8-8e63-828af4fde1ce"
+      Hint: DefaultItemsPerPageMobile
+      Value: 24
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" querystring="" id="{60A04858-F82A-4C5F-96B2-1AC90340324B}" anchor="" title="" linktype="internal" text="Black" url="/TTS/TileShop/Home/color/black" />

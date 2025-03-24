@@ -1,0 +1,90 @@
+﻿---
+ID: "2e02f0e9-69c3-4485-8c0c-a571fc29c38a"
+Parent: "5f06f3bd-6bf1-4f5d-9aaa-efd8ca191968"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/shopping-cart"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{1444CC58-2EFD-49FE-B680-A574FCE610FB}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1D56E115-B03B-42DA-B9DF-0F3B700B6173}"
+          p:before="*"
+          s:ds="local:/Data/CartItem Details"
+          s:id="{017FD0E1-E4D2-43D6-BECB-F0D824B58E71}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;Color=Outline&amp;Size=Medium&amp;CTAColor=Black&amp;CTASize=Medium&amp;SecondaryCTAColor=Outline&amp;CTASecondarySize=Medium&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-cartandorder/column-1-2" />
+        <r
+          uid="{C3F052AC-6648-4A5F-8235-66FFCB9E83B4}"
+          p:after="r[@uid='{1D56E115-B03B-42DA-B9DF-0F3B700B6173}']"
+          s:ds="local:/Data/Order Summary"
+          s:id="{C7CA592E-C8C0-48DE-A3BB-6E18B0CD9A58}"
+          s:par="PageName=shopping-cart&amp;GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-cartandorder/column-2-2" />
+        <r
+          uid="{A33CDEF7-1A1E-4B30-9FA8-ED810A1D51AF}"
+          p:after="r[@uid='{C3F052AC-6648-4A5F-8235-66FFCB9E83B4}']"
+          s:ds="local:/Data/Order Summary"
+          s:id="{3EF63F27-7462-4014-ADEE-8667360B08ED}"
+          s:par="PageName=shopping-cart&amp;GridParameters&amp;FieldNames&amp;Styles&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-cartandorder/column-1-2" />
+        <r
+          uid="{E72EFD7F-1358-4253-A13C-B8765DE8CFA3}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Carousel"
+          s:id="{A435DE8B-1801-480A-B237-AEE4B4466055}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;SectionHeadingTag=h2&amp;SectionHeadingSize=h2&amp;HoverEffect&amp;CTAColor=Black&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T163101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: Shopping Cart
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: Shopping Cart
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23874607-df12-4ed8-9fe8-c0f3149d3f0b"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Shopping Cart
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\tJcvpTqENg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T193530Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "88d56990-7391-40f2-9a48-943f0a4cef1c"
+Parent: "633b2e39-a55c-4f31-84d3-0d9c2ae26c4b"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Accordion/What should I do once
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T072631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What should I do once I receive my tile samples?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>First, bring your sample into the space where it&rsquo;s going to be used. For example, bring a bathroom tile sample into your bathroom, and think about how it fits with the overall style of the space you&rsquo;re trying to create. Check back often so you can see how your samples look throughout the day under different types of light.</p>
+        <p>Next, see how a sample looks with other elements in the room:</p>
+        <ul>
+            <li>If you have ordered backsplash tile samples, how do they look paired with your cabinets and counters?&nbsp;</li>
+            <li>Place floor tile samples on the ground, and see if you like how they look with your baseboards, door frames and more.</li>
+            <li>Consider whether your wall tile samples&nbsp;will work with your existing paint colors, or if you should test swatches of wall paint before completing your tile purchase.</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6caa1821-7c03-4e78-a1e7-5de41ec34df5"
+    - ID: "a8f9155a-3c36-4d7f-b91a-8d50afab0dc1"
+      Hint: BacktoTop
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T100658Z

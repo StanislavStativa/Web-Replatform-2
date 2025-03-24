@@ -1,0 +1,46 @@
+﻿---
+ID: "6c373da1-5ed9-4cfc-a4be-289a6a915d87"
+Parent: "955919c4-e2cf-453e-b7a2-9c0a7eea3acc"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/white/Data/Featured Tile 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {3244240A-52F4-4DA8-99A9-22F4C4AB2649}
+        {9B174DEF-C152-45B3-A28E-50D5A0781112}
+        {B0C5C58D-FC76-4E42-9E36-22D48E1D41B1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Don't Forget Grout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><a href="/installation-care/installation/grout" class="font-bold"><strong><span style="text-decoration: underline;">Grout</span></strong></a><span> can be part of your design statement. Match grout to your tiles for elements that blend together or choose a contrasting accent color to emphasize your tiles&rsquo; shape (this will also make cleaning easier&mdash;perfect for white shower tile!).  </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5bca990-cf66-4cfa-b3c9-4b066547c8fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T115926Z

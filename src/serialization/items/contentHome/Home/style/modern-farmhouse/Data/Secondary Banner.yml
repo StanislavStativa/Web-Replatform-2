@@ -1,0 +1,65 @@
+﻿---
+ID: "d969468c-ca7c-4f68-b634-3bf6c5e1f6ec"
+Parent: "0584dd2f-7db4-42d3-b063-3748cb7065ed"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/style/modern-farmhouse/Data/Secondary Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T153227Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Modern Farmhouse Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Modern farmhouse style is characterized by its warmth, simplicity, natural textures and modern touches. Inspired by the architectural style, building materials and layouts of traditional American farmhouses, this style blends old and new, combining traditional elements with a modern twist. Hexagonal, subway, encaustic, patterned and natural wood-look tiles all bring elements of modern farmhouse style to your home. Complete the look with painted cabinetry and warm tones for a unique blend of traditional and contemporary.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb5f274a-9e99-4672-8c72-72d9328916aa"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240718T173456Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Encaustic-Imperial_Charlotte-E_detail3_Plymouth_Cat%3aCategory_Intro_Image+"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Learn More About Modern Farmhouse" linktype="external" url="/blog/modern-farmhouse/" anchor="" target="" />
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {DE38BB6A-9A33-4EA4-AD81-A837E30363B7}
+        {3C4D7138-5AD3-4D47-8DBE-08AF2FB1FEEC}
+        {C2FF6824-A761-4440-AB99-D5A568A7C54A}
+        {75159D58-5D75-4EF0-B9BE-3D7418947FDD}
+        {45CB14CE-ABE3-41CB-BBE1-9B2B7B5608A7}
+        {93C7CFED-6938-44B7-9675-65CCD3A7E893}
+        {10064F61-DD45-4D62-8127-A1076BB006CF}
+        {F12C4F74-F374-4679-A458-08DBB565E740}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

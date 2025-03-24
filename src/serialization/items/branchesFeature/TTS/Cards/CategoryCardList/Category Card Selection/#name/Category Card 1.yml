@@ -1,0 +1,26 @@
+﻿---
+ID: "066abbbf-3236-44f7-86f5-5eadfa854b9b"
+Parent: "70e4ae24-cf52-456e-b773-0410ff91e008"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: /sitecore/templates/Branches/Feature/TTS/Cards/CategoryCardList/Category Card Selection/$name/Category Card 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240419T030526Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Category Card
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "138b5961-d963-421f-aafd-94d8833ff9c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240419T030539Z

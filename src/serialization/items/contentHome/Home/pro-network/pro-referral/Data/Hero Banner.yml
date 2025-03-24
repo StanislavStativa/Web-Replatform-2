@@ -1,0 +1,44 @@
+﻿---
+ID: "c88409f4-863e-4a5f-a5ea-e2d19adf1ded"
+Parent: "57b3377a-5bbf-4185-9c6a-9bce0e5672dd"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/pro-referral/Data/Hero Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T071103Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Pro Referral Program
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: "Homepage_Hero_{0}"
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: <p>At The Tile Shop, we love our Pro Rewards members. And Pro Rewards members love earning 5% cash back on qualifying orders through our Pro Referral Program.</p>
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pro Referral Program
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>At The Tile Shop, we love our Pro Rewards members. And Pro Rewards members love earning 5% cash back on qualifying orders through our Pro Referral Program.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad625988-69a4-409b-9b52-c112b8940f40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240826T070443Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Hero_PaymentWorks
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

@@ -1,0 +1,48 @@
+﻿---
+ID: "df7e859a-138a-4704-8420-b76f5e6b7b82"
+Parent: "a5f7ba0b-537b-4180-a1bc-627c8cc04c7e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/picket/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin"><span class="h2">Picket Tile: A Twist on the Classics</span></h2>
+        <p class="extra-small-bottom-margin">Picket tiles offer a contemporary take on the traditional <a class="font-bold" href="/shape/hexagon">hexagonal tile</a>, making them an excellent choice for blending classic elements with modern design trends. Their unique style can bridge the gap between different design eras, making them at home in new construction as well as renovations where the goal is to update the space while honoring its original character.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Where to Use Picket Tile</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Wall Tile</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">If you want an <a class="font-bold" href="/application/accent">accent wall</a>, you want it to be unexpected and memorable. Picket tile provides a wide variety of options for how to deliver on this goal. A picket tile design with an offset tessellation gives a strong sense of movement, bordering on the suggestion that the tiles themselves are dancing. For an equally memorable but more refined look, go with a long, thin picket tile in a darker tone to create an accent wall that exudes sophistication.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Backsplashes</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The picket shape itself is a bit unorthodox as a backsplash tile, breaking away from the standard square or <a class="font-bold" href="/featured/subway">subway tile</a> format. This adds a touch of whimsy and visual interest to your kitchen without straying too far from the shapes elsewhere in the kitchen. The elongated shape also creates a sense of spaciousness, making your kitchen feel bigger. And for the DIY enthusiasts, picket tile comes mounted on a mesh backing, making it as easy to install as any other shape.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Showers</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Ceramic and porcelain picket tile is a perennial favorite for shower surrounds. The tall, narrow shape of the tiles gives the small space the illusion of being larger, which enhances feelings of relaxation while showering. You can boost this effect by opting for white picket tile, which will further increase the sense of openness compared to darker color tile.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1256f8b-2c8c-478a-8afa-0cb81b872db2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T080552Z

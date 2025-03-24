@@ -1,0 +1,51 @@
+﻿---
+ID: "4576c7c7-55e8-4b95-b866-d9e4b63509b7"
+Parent: "403f5a8c-302b-47e9-91dd-d6f5699f0633"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/FAQ/Accordion Item 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T130904Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you offer tile installation education to customers?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes, we offer multiple tile installation education tools, including:</p><br />
+        <div class="rich-text">
+        <ul>
+            <li>
+            <p>One-on-one installation guidance from our store associates, no appointment necessary.</p>
+            </li>
+            <li>
+            <p>Various resources such as "how-to" videos, problem solving tools, and planning and installation tips and guides in the "<a href="/resources">Resources</a>" section of our website.</p>
+            </li>
+            <li>
+            <p>Free in-store educational "How to Tile" workshops every Saturday at 9:30a.m. These are open to the public and will cover the basics of prepping your surfaces, laying out your materials, installing your materials and more. For more information, please contact your local store. </p>
+            </li>
+        </ul>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1a94bee-62f1-4b98-abba-be8fa8dc667c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T053507Z

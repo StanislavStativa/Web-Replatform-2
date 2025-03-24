@@ -1,0 +1,49 @@
+﻿---
+ID: "7452c39e-032d-4cf0-b85d-aaae304714a3"
+Parent: "9a2481cd-eb66-4989-b980-9ec78a482b8a"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-regrout-bathroom-tile/Data/Finishing Touches"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Finishing Touches
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>
+        After about 15 to 30 minutes, the grout will start to set. At this point you can use a grout shaper to put the finishing touches on the joints. This will give your grout a neat, professional look.
+        <br />
+        <br />
+        
+        Once the grout is finished, gently wipe the surface with a damp sponge to remove any excess grout. Be sure the sponge is not excessively wet, or it will pull the grout from the joints. Use a light, circular motion to smooth the grout and eliminate any pinholes before wiping the grout clean. Rinse the sponge frequently and change the water as needed. To prevent digging out the grout, make sure you wipe diagonally and only wipe in one direction.
+        <br />
+        <br />
+        
+        A powdery residue known as grout haze will be left on the tile surface when this process is complete. Simply polish the tile with a soft, dry cloth to remove the grout haze. For more stubborn haze or to make this step go more quickly, you can also use a grout haze remover.
+        
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e229b93-7428-445a-9c7f-74bea871f82e"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 7
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T161047Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 6

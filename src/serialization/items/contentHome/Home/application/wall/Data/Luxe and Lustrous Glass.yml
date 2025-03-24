@@ -1,0 +1,44 @@
+﻿---
+ID: "6a3ee24e-6441-4700-9c67-f6205cc4424c"
+Parent: "c522e319-7fb7-4a51-8d9c-8851ff69c702"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Luxe and Lustrous Glass
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {75AB6198-CFD2-48A8-BA48-2A51F2126BB2}
+        {0DEF66F5-CB21-4F5A-BEED-A0708CAFFB67}
+        {A0696B8D-19ED-4396-8F43-B24A44675359}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxe and Lustrous Glass
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">From sophisticated neutrals to vibrant, bold colors, </span><a href="/material/glass/wall" class="font-bold">glass wall tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #0086c0;"></span><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">will reflect your personality and add shine and interest to your walls. Glass tile is available in a myriad of styles including </span><a href="/material/glass/mosaic" class="font-bold">stunning mosaics</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> and chic subway—and is easy to clean, to boot. </span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec8c8b7e-f2c3-4196-871c-187fd31f2aeb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T184832Z

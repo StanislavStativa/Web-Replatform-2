@@ -1,0 +1,57 @@
+﻿---
+ID: "36891abb-4bdc-4aef-8dd3-c5c11b807fb3"
+Parent: "c0a0d52e-e37b-4ea0-8ad0-a1d3a5b52cf7"
+Template: "586a4bc8-43f3-496e-ada0-41337464865a"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/Contact Us Emarsys Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11679c8d-7551-4f96-90bc-a68e9f4109c8"
+      Hint: TopicsFieldId
+      Value: 965
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T121509Z
+    - ID: "4cc54a56-bc84-49b0-bb13-5b6a6d60c95a"
+      Hint: ZipCodeFieldId
+      Value: 13
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5b272ad9-470c-41ae-9497-3b11e78afc7e"
+      Hint: SubmitAction
+      Value: |
+        {2AFA203C-0A3C-4494-9890-7C34F145AC76}
+        {1E09DD46-28A3-4D81-A720-2404C792E2AC}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f68b84c-d510-4030-8d9f-8f8a5f03cbf5"
+    - ID: "8f4b6a9b-cf85-4039-8650-45dca6704a3c"
+      Hint: MessageFieldId
+      Value: 979
+    - ID: "a2322456-5a76-4ea0-9958-c5c0627e5ae2"
+      Hint: EmailFieldId
+      Value: 3
+    - ID: "aefaf7e4-db33-4134-abb1-f85da5f11d1c"
+      Hint: LastNameFieldId
+      Value: 2
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "bbe921e0-27f6-4eec-ad1a-8ae820b18cdb"
+      Hint: FirstNameFieldId
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240528T081659Z
+    - ID: "fb5b30cf-0930-4dc0-929a-f86dd71f2093"
+      Hint: DaytimePhoneFieldId
+      Value: 15

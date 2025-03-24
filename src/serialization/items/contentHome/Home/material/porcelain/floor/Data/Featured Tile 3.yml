@@ -1,0 +1,47 @@
+﻿---
+ID: "94063576-0a2d-4d97-9a41-8adb8513837f"
+Parent: "9c9facd4-daae-4ed5-8e3d-c6a007fe159a"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/floor/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {FC37E847-C26C-4B7F-AE74-8C5E2982DF60}
+        {FE63ABE4-EEA2-44FE-95BC-3E290330E1CB}
+        {F633B691-C3D1-4D30-8794-D05ECCB9BF8D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Create a Natural Look with Porcelain
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        
+        <p><span>If you’re looking for an easy-to-maintain and cost-effective alternative to natural wood or stone, porcelain is a great option. Wood- or stone-look porcelain kitchen floor tiles can withstand traffic and spills. Porcelain will also stand up to the elements, so you can achieve a durable marble or wood look outdoors.</span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70746465-2896-4a55-9152-742207b08f59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240711T093036Z

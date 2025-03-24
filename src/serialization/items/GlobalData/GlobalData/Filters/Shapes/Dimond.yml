@@ -1,0 +1,33 @@
+﻿---
+ID: "65ed1d32-17c0-4383-b372-2a1186e76c1d"
+Parent: "6ea21f27-54ac-4211-bf0e-bd82265c29aa"
+Template: "f678a831-c1e1-4e8e-83dc-943d019ac855"
+Path: /sitecore/content/TTS/GlobalData/Filters/Shapes/Dimond
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T130310Z
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{1A91D073-3829-43B9-9063-B3E1B00B8A25}" />
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Dimond
+    - ID: "5acfe851-0d4e-4dfd-9c72-2ab76c211e38"
+      Hint: FilterID
+      Value: Dimond
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76a062db-82d7-45ff-8a13-27fee24b26b1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240508T104626Z

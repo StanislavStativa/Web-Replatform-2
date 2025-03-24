@@ -1,0 +1,63 @@
+﻿---
+ID: "e769bb18-5355-4f85-ae1e-d8bcd35e0b01"
+Parent: "c3f1d424-ac0b-478f-928c-acc0f2d3583a"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: "/sitecore/media library/Feature/TTS/Cards/Category Card /TileShop/Rewards Banner/diamond-tier-bullet"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/34676797B3A8405AA64A539909D0312A.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 39
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b97b4834-b4c5-48d0-8525-27d0fab4152b"
+  Value: /9j/4AAQSkZJRgABAQEAeAB4AAD/4QBmRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAAExAAIAAAAQAAAATgAAAAAAAAB4AAAAAQAAAHgAAAABcGFpbnQubmV0IDQuMS41AP/bAEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwHCQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAB8AJwMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APz+8B+B9T+JfjLTdB0e1kvNS1SdYIIlBOSepPoqjLE9gCegr9SfAH7A/wAMfCHgrTNNvPCuj6xeWdskdxfXMJaS7kx88hyeMtkgdACAOBXj/wDwSm/Zkj8O+FZviNq9tnUdWDW+jhwc29sOHlHvI2VBxkKnBw5r7IFejgMKlDnmtX+R8vnWZSlV9lSbSjvbq/8Agf5nl/8AwxV8KP8AoQ/Dv/gP/wDXryD9tf8AYD8M6z8F7rUPAfhuz0vxBobfa1isYiG1CIDEkW0dWx8y8E5TaPvV9X0V2VMPTlFxsvuPKpY6vTmpqT082fhvRX0d/wAFI/2ZY/gZ8XxrWk2wh8N+Ki1xCiD5LS5H+tiHoCSHUcDDEAYWivmqtN05uEuh9/h8RGtTVWGzPUP+CUX7Tq20s3wy1iZsTu93obseAcFpoM54zjzFGOvmc8gV91CvxE8N+Ir7wh4hsdV024ktNQ024S6tp0+9FIjBlYZ44IHXiv0a8A/8FVvh3qHgvTJvEE2pafrb26fb7eKweSNJgMPsYEgqSCRznBGec162BxkeTkqO1j5nOMrn7X21CN+bdLv/AMH8z6hpssixKzMwVVGSScACvnf/AIek/CP/AKCWsf8AgskryP8AbU/4KPeG/iJ8Gbnw34FuNQkvNcfyL64mtmgEFr1dVJ5LPwvAxt39DiuyeMpRi2mmeXSyvEzmoODSfVrY8K/bx/aZ/wCGkfjPNLp8rN4b0MGz0tTwJRn95Pj/AG2HHT5FTIBzRXiVFfOVKjnJzluz7ujRjSpqnDZH/9k=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1322
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "b0145335-8735-414b-9169-a1d4e4dc9641"
+  Hint: Software
+  Value: paint.net 4.1.5
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 39 x 31
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 31
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T103557Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Diamond
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97ba32cf-6b71-41a8-8444-98678dc51c7b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240712T081225Z

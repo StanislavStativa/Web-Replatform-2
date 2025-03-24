@@ -1,0 +1,33 @@
+﻿---
+ID: "6da5ede2-b18f-465b-a02b-17721024f3d8"
+Parent: "a0f7fa06-9fd0-45ed-9fb8-c32b104c2d06"
+Template: "a0f7fa06-9fd0-45ed-9fb8-c32b104c2d06"
+Path: /sitecore/templates/Feature/TTS/Components/Cards/CategoryCardList/Rendering Parameters/CategoryCardList/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9646ece8-6212-46a9-8a18-10127ae97ee1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T062157Z
+    - ID: "da89e8fc-26e6-49a9-9aa4-1d1d1e65bd3d"
+      Hint: IsComponentClickable
+      Value: 1
+    - ID: "e2f69131-6bf4-4686-9a8c-1f3a7e0f7fe1"
+      Hint: CTAHoverEffect
+      Value: 

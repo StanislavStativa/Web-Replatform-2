@@ -1,0 +1,38 @@
+﻿---
+ID: "851393d9-94f1-4277-9281-2e7ce1332365"
+Parent: "88fdc25f-f380-4aee-a4b5-e4b10ddb3912"
+Template: "eda1a11d-4b30-432b-94c0-65bf932cacde"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Footer Links/Support
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23dfcada-e65b-4afe-9198-6851ab0bb820"
+      Hint: FooterSubLinks
+      Value: |
+        {FA2167FB-0A90-47AD-A8AD-6483EE106245}
+        {A0E871DB-C4C7-4736-AA93-56DE888BC730}
+        {8633DEBD-287E-4B4C-927C-0EC2181CF3BF}
+        {D4B1D69B-DB27-4417-B504-E80C7D5F56DC}
+        {F8783911-2628-4216-9B91-532C9B35E053}
+        {7FE8C8DC-7D48-4DBD-A8E4-75E914271D68}
+        {FB5D5CC2-B303-45A8-A6A2-774342A33760}
+        {CE7D8BA4-024A-44A1-A26E-ECD8F90DD15B}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T101306Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36edbee4-ab0a-4054-b15e-dc31c761587e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T114751Z
+    - ID: "f0603d5d-027f-47e4-96a6-009494468d6c"
+      Hint: CTA
+      Value: |
+        <link text="Support" anchor="" linktype="internal" class="" title="Support" target="" querystring="" id="{D9F41BE2-75A0-405A-B979-A86C61C580C4}" />

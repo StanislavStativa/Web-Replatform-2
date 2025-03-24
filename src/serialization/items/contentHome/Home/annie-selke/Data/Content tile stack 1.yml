@@ -1,0 +1,34 @@
+﻿---
+ID: "a5fc8d5e-e21b-4cc2-ab94-df1ba4e16684"
+Parent: "3137c169-3ff9-4229-94f7-5d052c2d785e"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: "/sitecore/content/TTS/TileShop/Home/annie-selke/Data/Content tile stack 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: "{63379771-E35E-4AFD-9366-F23B41995886}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T150411Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70c8ac74-9aa8-46b7-9d3f-e300437c4294"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T130253Z

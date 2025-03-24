@@ -1,0 +1,50 @@
+﻿---
+ID: "42c61c45-b182-41c9-909b-777b1a50d3b0"
+Parent: "550397e9-57f7-4b8a-a0bb-267f32feddc4"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-tile-a-shower/Data/01 Prepare Your Space"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Step 1: Prepare Your Space"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Tiling a shower can be a messy job. If you are doing the demolition of your old shower tile yourself, you will want to make sure you protect the work area.</p>
+        <br />
+        <p>Shut off your AC/HEAT, lay down tarps and floor protection along the walking path, and hang plastic over surfaces where you don&rsquo;t want fine dust to settle.</p>
+        <br />
+        <p>If tiling over a tub space, you may want to protect the surface of your tub with a tarp, tub protector, or piece of plywood to avoid chipping and damaging your tub surface.</p>
+        <br />
+        <p>
+        <img class="rtc__list-item-with-image__image" alt=" In preparation for tiling a shower, the walls above a tub have been demolished and the work area is protected with a tarp and plywood." src="https://s7d1.scene7.com/is/image/TileShop/TTC_Tile_a_shower_Prep1:16x9" /></p>
+        <br />
+        <p>Finally, make sure you always wear appropriate protective equipment, like a mask, gloves and eyewear, for your safety when performing the demo of your bathroom.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "122aebe5-f807-4741-a2f7-0529dbf384c3"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 14
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240809T070636Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

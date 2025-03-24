@@ -1,0 +1,20 @@
+﻿---
+ID: "32213f83-ef3e-40cc-9396-5654ccc94f74"
+Parent: "45130bdb-bae3-4edc-aea8-7b68b9d94c7f"
+Template: "45130bdb-bae3-4edc-aea8-7b68b9d94c7f"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/Container/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89a8cda1-b85f-4670-8d5f-2248c1f5841f"

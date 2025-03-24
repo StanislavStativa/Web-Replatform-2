@@ -1,0 +1,63 @@
+﻿---
+ID: "2bb3f887-2bce-4e6f-be63-cf3303170b92"
+Parent: "580a7f33-c442-4f46-95eb-d6262c4247d5"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: /sitecore/content/TTS/TileShop/Home/color/orange/Data/Category Card with link
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T092004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Orange Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Orange tones can bring a rich and colorful feel to any room where it is installed. Natural stone tile like slate and travertine can feature peach and rust orange coloration that adds depth and complexity to your flooring and walls. Breathe new life into your kitchen, entry, laundry area, living room, bathroom and shower with the unique appearance of orange tile.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b6cbf25-c5a7-4c8f-a440-441fdd675970"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T153851Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Art_Bora_Darlene-C_Detail_Franklin%3aCategory_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {B778CA9F-C9FC-4653-8654-B9406B1BD16D}
+        {55AE25F4-C84B-4AEF-A7CA-8D79BFB5B8C7}
+        {0D75A2C0-B766-4C22-B29C-49046976C9F9}
+        {CF83FDCE-95EB-416D-B7E5-9F8FA2BD5D99}
+        {D9E5441B-DE1B-4731-BB5C-67753DDF13F9}
+        {3082FB1A-4E8F-4B3F-8E33-D2D22C692F10}
+        {0E98B87C-852E-4EF2-8532-8E31FAA4B7DD}
+        {BFA187E2-520B-4330-8894-AA703A2A6E86}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: RELATED LINKS

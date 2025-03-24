@@ -1,0 +1,38 @@
+﻿---
+ID: "31b74801-7451-4761-88a2-63ab9002d20c"
+Parent: "dc20a806-bd06-4d39-8f20-0af0adc918fb"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material/porcelain/Data/Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T140151Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <section class="c-rich-text md:px-10">
+        <h2 class="h1">Porcelain Toilet Paper Holders, Towel Bars, Shelves and Soap Dishes</h2>
+        <br />
+        <p>Upgrade your bathroom’s decor with the sophisticated look of porcelain fixtures. With glossy and matte finishes, these tile accessories help you complete your room with class. A variety of color options allows you to coordinate with your tile for a holistic design. Soap dishes, toilet paper holders and towel bars enhance the natural look of your powder room while corner wall shelves offer convenience as you indulge in your newly tiled shower. An assortment of recessed porcelain tile finishing pieces offers clean permanence to your overall look.</p></section>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2110ecb8-4a15-4ecb-97c7-5d7c376e74c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T140905Z

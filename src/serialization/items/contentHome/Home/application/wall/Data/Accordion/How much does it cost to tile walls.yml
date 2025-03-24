@@ -1,0 +1,37 @@
+﻿---
+ID: "6dbfdd25-988f-4296-9fa1-5e74c8b49b5f"
+Parent: "1df7ce85-801d-4cf3-b4c8-371e2eff12f3"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/application/wall/Data/Accordion/How much does it cost to tile walls
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T065831Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How much does it cost to tile walls?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>As with all home remodeling projects, the cost greatly depends on the materials. A tile wall is more of an investment than paint or wallpaper, but the installation and style will last for many more years. You should also consider the different benefits of wall tile. It adds color, texture and a sense of space to a room, not to mention that you can even create works of art out of tile, which is a great budget option instead of tiling an entire wall.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16ce9b81-776c-4bb5-b913-76bf1da577c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T065929Z

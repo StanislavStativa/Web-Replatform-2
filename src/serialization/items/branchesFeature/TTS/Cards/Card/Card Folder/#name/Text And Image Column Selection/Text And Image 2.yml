@@ -1,0 +1,26 @@
+﻿---
+ID: "2ed00036-786c-4cfb-aada-0b56f4ee3a41"
+Parent: "efc6aa81-6d32-44cd-a6c1-f1a57f6f105c"
+Template: "c219ac94-6682-4d4f-be0c-3f25dc8b40bf"
+Path: /sitecore/templates/Branches/Feature/TTS/Cards/Card/Card Folder/$name/Text And Image Column Selection/Text And Image 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240417T103457Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Text And Image 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6afa5c32-9fde-4e3f-a9df-f31d793ecba4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240417T103457Z

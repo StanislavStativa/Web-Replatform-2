@@ -1,0 +1,38 @@
+﻿---
+ID: "cf37d376-2e3f-4752-b789-7091b913e254"
+Parent: "18b9afe4-3719-4c5c-abcf-88bbc7127a3f"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/installation-design/Data/Design Services FAQ/Accordion Item 5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T130945Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Do you have any additional photos of your materials installed?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes, many photos are available for viewing in our <a href="/inspiration">Inspiration section</a>&nbsp;or through our <a href="/inspiration/customer-room-gallery">customer photo gallery</a>. We often share new photos on our <a rel="noopener noreferrer" href="https://www.instagram.com/thetileshop/" target="_blank">Instagram</a>, <a rel="noopener noreferrer" href="https://www.facebook.com/thetileshop1" target="_blank">Facebook </a>and <a rel="noopener noreferrer" href="https://www.houzz.com/pro/thetileshop" target="_blank">Houzz</a> pages.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5afff6e8-3a85-4183-8f54-39c049e10a63"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240628T060311Z

@@ -1,0 +1,20 @@
+﻿---
+ID: "a124693f-e2f4-444a-96cc-02304f54f0cb"
+Parent: "15185b0e-6418-4449-9f93-4ff03b7ee032"
+Template: "15185b0e-6418-4449-9f93-4ff03b7ee032"
+Path: /sitecore/templates/Feature/JSS Experience Accelerator/Media/Rendering Parameters/Image/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b37cde7-1d8a-4e78-b59c-d12ff1758b2d"

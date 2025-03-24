@@ -1,0 +1,34 @@
+﻿---
+ID: "5193f556-597d-4cea-acc8-58ff5d108a41"
+Parent: "5f23fc38-f4e1-4f01-a17b-26dbaa7ee5f8"
+Template: "f38cfc12-cb66-470a-92cb-17856f1103a5"
+Path: "/sitecore/content/TTS/TileShop/Home/natural-stone/Data/Image Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240806T022526Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d416ede-aee9-4d65-9864-87a744cb7ec7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240806T022726Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Claros_Christos14B_Hero_WestAllis_Img%3aImage_Caption_Hero

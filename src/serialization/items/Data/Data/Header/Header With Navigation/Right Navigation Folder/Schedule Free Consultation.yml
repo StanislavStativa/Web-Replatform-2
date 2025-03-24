@@ -1,0 +1,49 @@
+﻿---
+ID: "7957cf86-3657-43f7-ae04-e37d5291615a"
+Parent: "3e68123f-7238-485c-a4b0-79dc4972497f"
+Template: "c7e9bcba-fdb0-4e94-afd6-8889e182a4f3"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Right Navigation Folder/Schedule Free Consultation
+Languages:
+- Language: en
+  Versions:
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240502T195424Z
+    - ID: "2fd2a0b0-c8f0-42c0-9670-42334d097a1d"
+      Hint: NavigationType
+      Value: "{521D11F9-25C6-4A84-A3B2-DAF3C4F409D5}"
+    - ID: "3211ad45-78f8-4b37-9061-be6efbb21e9d"
+      Hint: PopUpDescription
+      Value: |
+        <p>Make a free appointment to talk about your project, either in store or with a remote consultation, anytime.</p>
+        <!-- https://via.placeholder.com/738x222?text=Free%20Design%20Consultation -->
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Schedule Free Consultation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b180b432-14aa-46d0-be24-603ef54949b6"
+    - ID: "915d15c9-7a52-41af-a8e3-28e9e4ce1d7b"
+      Hint: Buttons
+      Value: |
+        {AEDC86BD-CE58-4371-AF2E-BBF7ADC979DB}
+        {8464D733-CB66-4F4E-BEA8-267B181CC919}
+    - ID: "a6d4fbea-5a84-4130-9e4d-ec97d41a6304"
+      Hint: PopupImage
+      Value: "TileShop_DesignConsultation0224-COMP_RC:Asset_Grid_All_V2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240821T114439Z
+    - ID: "db3d1e21-511c-4553-888f-87169c46d5e1"
+      Hint: PopUpTitle
+      Value: Free Design Consultation
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{570C59CF-53CD-42B5-904D-A1C36465D4BE}" />

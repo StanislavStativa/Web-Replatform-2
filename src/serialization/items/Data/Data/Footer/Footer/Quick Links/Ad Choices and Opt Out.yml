@@ -1,0 +1,42 @@
+﻿---
+ID: "c6022b98-3f2b-4aa1-862b-926e822b8026"
+Parent: "92ef70dd-0acd-407b-8d18-123d53c9089e"
+Template: "bd4c4a5e-9d05-40dc-abbd-580c53586791"
+Path: /sitecore/content/TTS/TileShop/Data/Footer/Footer/Quick Links/Ad Choices and Opt Out
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240420T082553Z
+    - ID: "3b8f5f74-5125-49f8-93d5-8be7873e6dc8"
+      Hint: Link
+      Value: |
+        <link text="Ad Choices and Opt Out" anchor="" linktype="internal" class="" title="Ad Choices and Opt Out" target="" querystring="" id="{E07EFEB0-752C-4E7D-BCE4-DCEB8B23B0A5}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dbc45cf-4c73-494b-9902-19af6918f82c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T115520Z
+    - ID: "eb6d6df5-80d7-4c92-b538-451295240471"
+      Hint: HideLinkOnMobile
+      Value: 1

@@ -1,0 +1,49 @@
+﻿---
+ID: "88fc1d53-529a-4a1b-bb4a-b97475fd72cb"
+Parent: "a6ed186d-5085-48a9-bb25-daf4143eeff1"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/glass/mosaic/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {FA0E0E13-46FC-4392-A702-1F13D8026569}
+        {3137A351-283B-4395-B0DF-8DAB046089D8}
+        {F07A0590-CEE6-4F85-A05D-D2CD0762AB6E}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Where to Use Glass Mosaic Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>Glass mosaic tiles are an attractive choice for many rooms in the home, and the mesh backing makes it easy to get a flawless installation every time. Here are just a few ideas to get you started:</p>
+        <br />
+        <p>• <strong>Glass Mosaic Bathroom Tiles</strong>: If you love a good before-and-after (and who doesn’t?), you’ll love the results of adding mosaic tiles to your bathroom. Or use a mosaic to complete your space with glass accent tile—simply complementing your sink backsplash with a small coordinating shower niche is a small touch that can elevate the overall look of your bathroom.</p><br />
+        <p>• <strong>Glass Mosaic Kitchen Tiles</strong>: The kitchen is the heart of the home, and adding mosaic tiles will make yours even more inviting. And you don’t need to do a full renovation to reap the benefits; just installing a mosaic tile backsplash is an easy (but high impact) way to refresh the look of your cooking and gathering space.</p><br />
+        <p>• <strong>Specialty Spaces</strong>: As a manmade material, glass tile is incredibly versatile, and many newer options evoke the look and feel of natural materials like wood and stone. That means even more ways to get the look you want using a material that meets the needs of your space.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4060ec99-30c0-48ff-ba29-4e77bf25f580"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T141128Z

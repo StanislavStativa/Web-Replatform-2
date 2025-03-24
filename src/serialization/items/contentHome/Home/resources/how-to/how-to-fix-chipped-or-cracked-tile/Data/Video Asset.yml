@@ -1,0 +1,41 @@
+﻿---
+ID: "70bd727d-a382-4498-b2a5-df0e2abb2015"
+Parent: "3252f0c0-2510-4181-865e-c19c17f56dad"
+Template: "a3d6f8e4-583d-4409-baf2-0f37e2e49d92"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-fix-chipped-or-cracked-tile/Data/Video Asset"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "225ab5bd-125b-48e3-9777-19f47b45f810"
+      Hint: Caption
+      Value: |
+        <p style="color: windowtext; margin-right: 0px; margin-left: 0px; padding: 0px;">In this how-to article,&nbsp;we’ll&nbsp;talk about how to fix a chipped tile, and how to replace a cracked tile.&nbsp;We’ll&nbsp;go over step-by-step instructions, as well as the equipment and tools&nbsp;you’ll&nbsp;need for each type of repair. Along the way,&nbsp;we’ll&nbsp;share&nbsp;safety tips and tried-and-true advice&nbsp;for getting the&nbsp;very&nbsp;best&nbsp;results from your project.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T151235Z
+    - ID: "46b8cc1a-d19e-49e2-8422-4732245b0722"
+      Hint: Title
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf283ca8-0e2d-46d2-87d2-8fee215cdd0c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T101830Z
+    - ID: "ef592633-9103-488c-83ad-36f7382d0846"
+      Hint: YoutubeVideoID
+      Value: 879obfYId_g

@@ -1,0 +1,58 @@
+﻿---
+ID: "49e0c088-14c3-4adc-97ff-37518c9ac1c4"
+Parent: "7cedc9c8-bf00-4827-b3be-d7426fe6be9b"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-ceramic-tile/Data/How to clean ceramic tile floors"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Ceramic Tile Floors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <br />
+        <img class="rtc__list-item-with-image__image" alt="The floor of this living space features square ceramic stone-look tiles." src="https://s7d1.scene7.com/is/image/TileShop/683138_Floor_V2_R1:16x9" />
+        <h3>Step 1. Sweep</h3>
+        <br />
+        <p>Start by removing loose dirt and debris. Sweep or vacuum your tile floors regularly to prevent dirt and grit from scratching the surface.</p>
+        <br />
+        <h3>Step 2. Mop With Water</h3>
+        <br />
+        <p>Once the loose debris is removed, mop the floor with warm water. For tiles that are regularly maintained, this will be enough to restore their shine.</p>
+        <br />
+        <h3>Step 3. Dry Thoroughly</h3>
+        <br />
+        <p>You can allow the floor to air dry, but leaving excess moisture on the tiles can lead to unsightly water spots. For a more polished look, use a microfiber cloth to dry the ceramic tiles thoroughly.</p>
+        <br />
+        <h3>Step 4. Use Tile Cleaner for Deep Cleaning</h3>
+        <br />
+        <p>For tougher stains or built-up grime, you may need to mop with a mild cleaning solution. Mix warm water with a <a href="/installation-care/care-maintenance/cleaners">pH-neutral cleaner</a> specifically designed for ceramic tile. Avoid harsh chemicals or abrasive cleaners, which are likely to damage the tile.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17c9a141-870c-4c99-88af-86eebfb19d5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061912Z

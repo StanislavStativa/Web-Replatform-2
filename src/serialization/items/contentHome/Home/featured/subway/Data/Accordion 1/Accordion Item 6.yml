@@ -1,0 +1,38 @@
+﻿---
+ID: "0aa30c89-c787-4e6b-890b-074202df7f64"
+Parent: "6da89712-498e-48eb-a9ff-7030471da262"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: /sitecore/content/TTS/TileShop/Home/featured/subway/Data/Accordion 1/Accordion Item 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T175545Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "How do you install subway tile?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p><span style="margin-top: 0pt; margin-bottom: 0pt; color: #0e101a;">Subway tile is installed like any other tile. There are different installation methods depending on which pattern or layout you choose. For more detailed installation information, check out our resources to learn </span><a class="font-bold" rel="noopener noreferrer" target="_blank" href="/resources/how-to-lay-tile" class="editor-rtfLink" style="color: #4a6ee0; margin-top: 0pt; margin-bottom: 0pt;">how to install tile</a><span data-preserver-spaces="true" style="margin-top: 0pt; margin-bottom: 0pt; color: #0e101a;">. For more pattern information, check out our </span><a class="font-bold" rel="noopener noreferrer" target="_blank" href="/inspiration/tile-layout-patterns" class="editor-rtfLink" style="color: #4a6ee0; margin-top: 0pt; margin-bottom: 0pt;">tile patterns</a><span data-preserver-spaces="true" style="margin-top: 0pt; margin-bottom: 0pt; color: #0e101a;"> inspiration.</span></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbad3597-ba75-4324-92ad-12a35a5df136"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061918Z

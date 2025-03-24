@@ -1,0 +1,38 @@
+﻿---
+ID: "2544ab26-7e31-4f9b-97d9-5909534be8d7"
+Parent: "4f8d2b19-9471-441a-892e-ad55eb07e82f"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/grout/colors/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Explore Grout Colors
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p>Grout plays an important role in the structural soundness of your tilework, but its aesthetic contributions are just as important. Whether you want the grout to disappear into the background, blend harmoniously with the tile or stand out and make a statement of its own, the grout color you choose can have a big impact.</p><h2 class="extra-small-bottom-margin"><span class="h2">Shop for Grout by Color</span></h2><h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3-style">White Grout Colors</span></h3><p style="margin-left: 40px;margin-bottom:0.67em">White is often considered the standard color for grout, and for good reason. With lighter color tiles, white grout allows you to create a seamless look that feels fresh and clean. On the other hand, using white grout with darker tiles creates a stark, vibrant contrast that can give a very modern feel.</p><p style="margin-left: 40px;margin-bottom:0.67em">Selecting the exact shade of white grout, it's important to make sure the color coordinates with the tile. For example, a brilliant white grout would work well with a wall of <a href="/featured/subway?facet_color=facet_idV2hpdGU*" class="font-bold underline">white subway tiles</a>. Tiles with light colors may benefit from an off white or ivory grout that has undertones that pair with the tile's color.</p><p style="margin-left: 40px;" /><h3 style="margin-left: 40px;;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Grey Grout Colors</span></h3><p style="margin-left: 40px;margin-bottom:0.67em">For nearly every tile color, grey grout is a versatile choice that can create multiple effects depending on where it is used. Light or medium grey grout used with bright or saturated tiles can create a subtle border that allows the tiles to take center stage. Dark grey grout is also helpful for creating a dramatic, uniform look with dark grey and <a href="/color/black" class="font-bold underline">black tiles</a>.</p><p style="margin-left: 40px;margin-bottom:0.67em">Most shades of grey grout are popular for how well they hide dirt. This is especially helpful for floors that need wider grout lines. Grey grout ensures that sanded grout colors will be less likely to look dirty or dingy between cleanings.</p><p style="margin-left: 40px;" /><h3 style="margin-left: 40px;margin-bottom:0.67em" class="extra-small-bottom-margin"><span class="h3">Other Grout Color Options</span></h3><p style="margin-left: 40px;margin-bottom:0.67em">Grout colors are not limited to white and grey. Rich shades of brown, yellow and taupe are all available to help complement your tile's color scheme and highlight specific tones within more intricate designs. This is particularly useful with natural stone tiles, where using white or grey grout would look out of place and distract from the beauty of the tile.</p><p style="margin-left: 40px;" /><h2 class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2><p>You do not need to navigate the subtleties of pairing grout and tile colors alone! You can schedule a <a href="/free-design-services" class="font-bold underline">free design consultation</a> and our expert staff will help guide you on how to choose a grout color that will help you achieve your personal design vision.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f96f0e5-f2d6-435b-968c-69c32e0ebb29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124235Z

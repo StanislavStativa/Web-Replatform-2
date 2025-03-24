@@ -1,0 +1,46 @@
+﻿---
+ID: "42670b16-7163-4d9f-bcb7-f7a6d6cfa126"
+Parent: "ca24627d-7f02-496a-b62e-58f038726770"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/Data/Tile 1"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Adhesives
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: "{98E1FDDA-CF09-4928-9AE3-C9644F51C1A9}"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Give your beautiful installation the strong base it deserves.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c20fcc0-46bb-4afc-bb79-576668bf2acf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T110018Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Shot13_MixingWithBucket_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{DE274BA3-729C-4668-963B-5BE33A685DAD}" querystring="" anchor="" target="" title="" linktype="internal" text="Adhesives" url="/TTS/TileShop/Home/tile/installation-care/installation" />

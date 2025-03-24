@@ -1,0 +1,43 @@
+﻿---
+ID: "41131753-807c-4ed5-95d1-1b411a08a640"
+Parent: "227d08b8-ec4d-45b7-8397-8a05d1605275"
+Template: "ef784837-6ebf-48a2-a6c9-b6e22129df9f"
+Path: /sitecore/content/TTS/TileShop/Data/Product Attributes/PDP Calculator
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T052335Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Coverage Calculator
+    - ID: "5e222d2b-77c2-44e6-8888-384f9400df6b"
+      Hint: AlertSummary
+      Value: <p>We highly recommend adding at least 15% overage to compensate for tile cuts and possible breakage</p>
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Measuring your space can be tricky. Remember to calculate overage so you don't run out of tile for your project. When you're finished, simply return any unopened boxes of excess tile with our&nbsp;<a class="font-latoBold underline text-dark-gray hover:text-black" href="/customer-service/returns-exchanges" target="_blank">return policy</a>.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0467caf6-cf49-4fa2-85ad-0584b26e4347"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c7abd4ec-1640-4a14-b97c-1d056a9a4c01"
+      Hint: OverageDropdown
+      Value: |
+        {F2610BF9-E523-487F-B91A-AC5A88FA4227}
+        {FD09408C-8458-47A2-908A-366DCE0BF5D8}
+        {FDE61C9E-3115-4AD7-8672-0E1E55B8ED26}
+        {339C4D5B-0E68-481E-B57C-1F9D2F1EBA56}
+        {F77F2CFD-2316-4978-A9DD-32B661D5F3E5}
+        {C19F9993-8C55-4385-975C-4223F4416170}
+        {41128FD1-529C-4C31-BB1B-08829255346A}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T065701Z

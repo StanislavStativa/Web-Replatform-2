@@ -1,0 +1,43 @@
+﻿---
+ID: "8f8cf407-ae91-4854-906a-50faf92a7e71"
+Parent: "9a687ef1-caf3-40c4-9afd-100eb7aee184"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/featured/handmade-look/Data/Featured Tiles 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {54B17D60-80B6-4C51-B31C-64AB5405E8B6}
+        {6D89D126-9D0C-495E-8E7B-68FB40B60C51}
+        {2F316048-05FC-4490-8531-6FD6FAAE98D6}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240707T172340Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Walls or Floors?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>As materials, ceramic and porcelain are both hard enough to withstand use on floors, and look beautiful on walls. However, the surface variations that make handmade-look tiles so uniquely beautiful on walls mean that they may not be even enough to provide a safe walking surface. Always check the product details to confirm whether your favorite tiles are rated for use on walls, floors or both. </p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7784114-ac29-4d61-99b6-a834b45c1b7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T024303Z

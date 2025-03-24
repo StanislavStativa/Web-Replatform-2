@@ -1,0 +1,45 @@
+﻿---
+ID: "1ff52beb-e467-4216-a9a3-1aeb0338be89"
+Parent: "a37bbf96-c8d9-4b5b-a227-55e499fd6663"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-wall/Data/Featured Tile 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {6B6AF769-6C43-4CEE-81FC-3CE87DA6528C}
+        {17747C56-84FA-4BB7-B612-93DCCECB3F34}
+        {5C94C339-1F6A-407C-B1EC-571319FC0C3E}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Outdoor Tiles for Patio: Finding the Right Material"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>When it comes to choosing tiles for your outdoor patio, it’s all about finding the perfect combination of function and design to fit your climate, lifestyle and aesthetic. For those looking for something durable and water resistant, one popular option is porcelain tile for outdoor patio design; because it’s an engineered material, you’ll also have a wide variety of colors, patterns and finishes to choose from to bring your vision to life. And of course, you can never go wrong with </span><a href="/material/slate" class="font-bold">slate tiles</a><span>, or our assortment of natural outdoor patio stone tiles. These tile materials are low maintenance and long-lasting, making them a sensible, fashionable investment that will pay off for years to come. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb697f95-3cd1-40c8-a8d4-c3ce58d3e63b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T101249Z

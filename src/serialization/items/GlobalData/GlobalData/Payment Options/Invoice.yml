@@ -1,0 +1,52 @@
+﻿---
+ID: "75758f3f-f984-4705-96b7-e1d6bc2861cc"
+Parent: "0febb07e-4a95-4226-8c02-2ed9d721cead"
+Template: "b3928807-7734-4b2b-98df-5577ec17461d"
+Path: /sitecore/content/TTS/GlobalData/Payment Options/Invoice
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T165900Z
+    - ID: "31a89620-1c58-4482-8147-0e1f0d38628c"
+      Hint: CTA
+      Value: 
+    - ID: "3b815720-2165-4dfa-a316-64cfa0297d2e"
+      Hint: Order
+      Value: 10
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Invoice
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>You will be sent an Invoice to your default shipping address</p>
+    - ID: "796b7f57-8650-4382-bf25-8e8f85e551b2"
+      Hint: Remarks
+      Value: <p> The billing address is the address connected to the customer's payment method.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e85fa033-2f3b-4e12-8b4a-aaa3c7e196cf"
+    - ID: "90117a05-50ec-4d70-8344-17b0dd2a8a30"
+      Hint: ExternalProvider
+      Value: 
+    - ID: "a6d6275f-d1a6-41b2-b18a-3f4896fa235e"
+      Hint: ID
+      Value: 3
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T175801Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "9636787c-5bbe-469f-a057-0a0c872ce626"
+Parent: "9e28e66f-5774-4516-8fde-2fc123c88d26"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/Data/Preparation and Layout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084233Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d46ba345-1c2b-40ee-bd62-c77747d9631e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link text="Preparation &amp; Layout" anchor="" linktype="internal" class="" title="Preparation &amp; Layout" target="" querystring="" id="{4B210320-ED61-4469-B729-D663C3E77733}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240521T101142Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Shot15_With_Hat_AG:Asset_Grid_All"

@@ -1,0 +1,35 @@
+﻿---
+ID: "4bc430c7-3a31-4f0e-bc9e-ed6daa945c79"
+Parent: "3ec78dfe-df13-460a-b967-3d90a4c38f3f"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Luxury Vinyl/Luxury Vinyl Looks
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T063252Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxury Vinyl Looks
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2978db7-2b61-4086-ae74-62b5711a14dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {5988FD11-6FC5-49C9-922B-C9281F8FAC7B}
+        {9E52E67E-EAA9-4D41-B2ED-CBD278560578}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240724T072048Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Luxury Vinyl Looks" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8A9A1BC2-AECD-4FC7-B133-80110056B838}" />

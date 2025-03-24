@@ -1,0 +1,33 @@
+﻿---
+ID: "63d5f50a-ddec-4983-83da-78a5cbda3ee3"
+Parent: "49e5786e-01d2-4c0d-b630-1483f6a2d240"
+Template: "49fa9f22-a0a4-45fe-9ff8-cfe42056037f"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Shop by Application/Wall
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240414T113946Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Wall
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff128763-4cd3-4b84-b3f6-c977d3552395"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240722T121207Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "CuratedCollections_Cali_Bathroom_Vertical_V2:1x1"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Wall" anchor="" linktype="internal" class="" title="SHOP WALL TILE" target="|Custom" querystring="" id="{D4644185-7894-411E-BAB7-BC638656EBC0}" />

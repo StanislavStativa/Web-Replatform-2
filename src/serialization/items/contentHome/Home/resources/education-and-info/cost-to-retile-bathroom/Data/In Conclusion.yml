@@ -1,0 +1,42 @@
+﻿---
+ID: "855e315e-9c4a-40b6-91a1-4fa7f82f6b2a"
+Parent: "9ca3f601-9666-4175-90c2-67f38908462e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/cost-to-retile-bathroom/Data/In Conclusion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T173148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: In Conclusion
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>&nbsp;</p>
+        <img class="rtc__list-item-with-image__image" alt="Bathroom with lace-patterned floor and white subway tile wall with three bands of blue pencil trim." src="http://s7d1.scene7.com/is/image/TileShop/MorrisCo_Bathroom_Vertical:3x2" />
+        <p>&nbsp;</p>
+        <p>As you embark on your bathroom retiling journey, keeping these cost considerations in mind will empower you to make informed decisions. Whether you choose to enlist professional help or embark on a DIY adventure, thoughtful planning and communication with your installer ensures a beautiful bathroom that aligns with your vision and budget.</p><p /><div></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "327129e6-0d60-4e8d-9f5e-8120f1132c30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240909T141926Z

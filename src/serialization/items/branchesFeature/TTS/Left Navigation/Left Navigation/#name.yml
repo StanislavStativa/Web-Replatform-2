@@ -1,0 +1,23 @@
+﻿---
+ID: "c3ff5a5a-a8e2-42ec-ad01-663dc73f12d9"
+Parent: "9758baa0-6418-4e92-bf7c-eace0cef27d3"
+Template: "4dac0981-40bd-427d-9354-680969c88e58"
+Path: /sitecore/templates/Branches/Feature/TTS/Left Navigation/Left Navigation/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240510T060918Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b89fcab8-64f9-49dd-81d1-4bbc5d81fef3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240510T060918Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "55a32137-853d-495c-b03f-b515e49b56af"
+Parent: "245b6f15-d04d-421d-b80e-33ab5ff3f5a0"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Shower/Data/27"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240529T103911Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Bold and Bright Marble-Look Tile"
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        Porcelain and ceramic marble-look tile has the unique advantage of crafting striking, multi-colored veins you wouldn't find in nature, while still providing the luxurious look of marble. Radiant shades of green, pink, blue and rich ochre, like in the <a class="font-bold underline" href="/products/macchia-vecchia-porcelain-wall-and-floor-tile-24-x-48-in-681146">Macchia Vecchia tile</a> shown here, create a vibrant and ultra-luxe aesthetic that's durable and easy to maintain.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9261a584-4c04-4337-bd29-abb37f0ffa3f"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 27
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T142129Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "NikkiChu_PrimaryBath_Vignette_Shower_Niche:3x2"
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 27

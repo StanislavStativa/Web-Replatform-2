@@ -1,0 +1,35 @@
+﻿---
+ID: "6eb617f1-32f7-4975-97eb-cdca9c3fbdcd"
+Parent: "f078cf90-ed59-43cf-bb9a-c309ca086976"
+Template: "f078cf90-ed59-43cf-bb9a-c309ca086976"
+Path: /sitecore/templates/Feature/TTS/Folders/Product Hierarchy 4 Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{8BDAD5B8-91A4-4550-B473-B40AED733B10}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181026T175241Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\markb
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b6343ae-0f6d-46c0-8c6a-42a0062cf667"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\markb
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181026T175333Z

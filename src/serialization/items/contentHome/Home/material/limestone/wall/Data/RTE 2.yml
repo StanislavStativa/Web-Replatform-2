@@ -1,0 +1,41 @@
+﻿---
+ID: "33c726cd-2579-4d96-8805-eb5be297f0ef"
+Parent: "9d0143e5-ad9e-4424-ae92-1829f3eaf67e"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/limestone/wall/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        <p><span>&nbsp;</span></p>
+        <p>There’s a lot to consider when you’re shopping for natural stone tiles, and a visit to <a href="/store-locator/" class="font-bold">one of our showrooms</a> is a great place to start. You can see our wide selection of limestone wall tiles in person, chat with our friendly sales associates, <a href="/samples" class="font-bold">order samples</a>, and learn about installation and care. We can’t wait to help you create the home of your dreams.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f04872d-a7ea-4bac-bcfb-5dd30a4aee3f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T123201Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "88d8a062-4243-4396-95d9-f63847ee6787"
+Parent: "5c93be4e-dacd-44ba-b444-31c2c26dc8dd"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Data/Tile Layout Pattern Heading"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240607T051356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h1 class="lato-h1 mb-8">Tile Layout Patterns</h1>
+        <div>
+        <p class="mb-4"><strong>Different Types of Tile Patterns</strong></p>
+        <p>Wherever you're laying tile in your home, our experts at The Tile Shop are available to help you choose a beautiful pattern - either subtle or eye-catching - that enhances your room's decor.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbe202e5-6c1e-4a26-92d2-96451dfac798"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T122547Z

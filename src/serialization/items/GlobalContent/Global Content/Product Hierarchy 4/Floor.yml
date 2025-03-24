@@ -1,0 +1,37 @@
+﻿---
+ID: "e2bb0aad-a7b8-4a08-a60e-e3e372ebfb11"
+Parent: "dec0de44-8aff-4fc5-ad0f-424285645686"
+Template: "8bdad5b8-91a4-4550-b473-b40aed733b10"
+Path: /sitecore/content/TTS/Global Content/Product Hierarchy 4/Floor
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181211T054439Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        extranet\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f7ef283-2be7-4343-a40a-4588b1d7aee9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        extranet\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181211T054439Z
+    - ID: "ef08b784-c4a0-4dfb-b6bd-4c6119f37fbb"
+      Hint: ProductHierarchy4Name
+      Value: Floor
+    - ID: "f2c8c1e7-8083-4865-a964-8a30ab65ecc8"
+      Hint: ProductHierarchy4Id
+      Value: FLR

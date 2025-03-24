@@ -1,0 +1,48 @@
+﻿---
+ID: "c9cd8d10-9898-4f2a-b9bf-ee6bafa63806"
+Parent: "d5b46d85-1fa5-4d3b-8fdf-1542dc7b94ed"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/limestone/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin"><span class="h3">The Many Looks of Limestone</span></h3>
+        <p class="extra-small-bottom-margin">The Tile Shop’s experts travel the globe to source a truly world-class selection of limestone tiles that includes a wide range of colors, sizes and shapes, so you can see the best this material has to offer.</p>
+        <h4 class="extra-small-bottom-margin"><span class="h4">Shop by finish</span></h4>
+        <p class="extra-small-bottom-margin">Depending on how a piece of limestone is treated after cutting, a variety of finishes are possible. These include the rustic texture of tumbled limestone to the high shine of polished pieces—and everything in between.</p>
+        <h4 class="extra-small-bottom-margin"><span class="h4">Shop by Color</span></h4>
+        <p class="extra-small-bottom-margin">From creamy shades of taupe and ivory to moody black and dark gray and a range of earthy brown tones, there’s a naturally occurring shade of limestone right for your space.</p>
+        <h4 class="extra-small-bottom-margin"><span class="h4">Shop by Shape</span></h4>
+        <p class="extra-small-bottom-margin">We love the juxtaposition of a material from classical architecture with the clean lines and geometric shapes favored today, like clean and minimalist hexagons, <a href="/featured/subway?facet_material=facet_idTGltZXN0b25l" class="font-bold">classic subway tiles</a>, and eye-catching chevrons.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Our Experts Can Help</span></h3>
+        <p class="extra-small-bottom-margin">There’s a lot to consider when you’re shopping for natural stone, and a visit to <a href="/store-locator/" class="font-bold">one of our showrooms</a> is a great place to start. You can see our wide selection of limestone tiles in person, chat with our friendly sales associates, <a href="/samples" class="font-bold">order samples</a>, and learn about installation and care. We can’t wait to help you create the home of your dreams.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb640ca9-c300-49e3-9dfa-a85195d09e65"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T033644Z

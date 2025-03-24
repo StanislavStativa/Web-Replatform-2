@@ -1,0 +1,54 @@
+﻿---
+ID: "0461c83e-2ec5-46da-a743-8165aff7c42f"
+Parent: "cba6a3e9-064f-469a-a64e-3c3ede3b771f"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/shower/Data/Multi Asset Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Bathroom Shower Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        When you encounter something every day, it should be beautiful. Shower tile not only protects your bathroom from splishes and splashes, but it transforms your space into a work of art. Invoke anything from spa vibes to bold pattern to glamour to make your shower your retreat from the world.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {34D52909-65A9-41F3-924B-0FD58A2E4265}
+        {6ADEF6FB-F583-43C5-A081-CA232354A539}
+        {D65485CF-7973-456E-ABEF-C50E35ABAC99}
+        {F7645409-F68C-4E4D-946B-5E7950BCE547}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea562c75-eed3-4f4b-98bd-ba70028fa4d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T135729Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "AnnieSelke_PalmSprings_OfficeBath_Argento_shower_Floor:3x2"

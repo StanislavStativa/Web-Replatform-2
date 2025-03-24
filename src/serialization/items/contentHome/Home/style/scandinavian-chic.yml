@@ -1,0 +1,177 @@
+﻿---
+ID: "77982158-8672-4aaf-a0dd-6c6d4547a6ec"
+Parent: "5d58157a-b836-4412-a4eb-a6a7c0bb61a8"
+Template: "d99a18de-5be0-4989-bf07-295cbf6054a0"
+Path: "/sitecore/content/TTS/TileShop/Home/style/scandinavian-chic"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FBAF1E94-F29D-4DDA-9626-FD99C62A8761}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{021B8103-2353-47AF-8018-97F762D6C412}"
+          p:before="*"
+          s:ds="local:/Data/Secondary Banner"
+          s:id="{83A6F9F3-8863-4423-B79E-E9356F35496F}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;IsPinterestEnable=1&amp;BackgroundColor=Dark&amp;CTAColor=White&amp;CTASize=Small&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{918230BD-1D8E-4535-8CB2-C99AD07D2348}"
+          p:after="r[@uid='{021B8103-2353-47AF-8018-97F762D6C412}']"
+          s:ds=""
+          s:id="{5283878D-861F-4748-8A17-B417BAA1A017}"
+          s:par="CSSStyles"
+          s:ph="headless-main" />
+        <r
+          uid="{34B00E27-170B-4993-A68A-127EB8E8DF92}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Product Listing"
+          s:id="{78DE797F-A5C0-477A-B1D5-4C560375F4A6}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=|{4CC2D1CA-7110-4C81-A9B2-7AB19E6D05A5}&amp;IsCTATextInCaps=1&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "110f5633-8531-4524-b25a-6e457ef53101"
+      Hint: CategoryIntroduction
+      Value: "Establish feelings of warmth in your tiled spaces. By incorporating elements of hygge, you can create a space made for relaxation. Hygge (pronounced &ldquo;hoo-gah&rdquo;) is the Scandinavian word for coziness and well-being. Honed marble, wood tile and soft tones of white, blush, grey and green complete Scandinavian Chic."
+    - ID: "15cd36bf-ab18-4d7f-8301-10ab30de8f10"
+      Hint: RelatedLink2
+      Value: |
+        <link class="" id="{35ACB122-538A-4E2B-864A-AF10A5F3778B}" querystring="" target="" title="" linktype="internal" text="Transitional" url="/TTS/TileShop/Home/tile/style/transitional" />
+    - ID: "18a287ab-4991-4a9c-8366-60e6783cdbc8"
+      Hint: AvailableFacets
+      Value: |
+        {2A1E77C1-DF7A-47AA-B174-297D83332A87}
+        {4665DB88-7E8F-468D-8A4E-C19548F659E8}
+        {66B38BEF-FAE4-47E0-8134-9BAB9A3D1B22}
+        {901CB82A-35F1-4E20-91B9-8E50741971AC}
+        {69BBE08C-4768-43CD-96C2-F636DEB86107}
+        {943516E3-9F25-4989-9A6A-1E546D31D953}
+        {4EF164C6-D6D1-4AE6-A157-CB7DC06BD379}
+        {4E80E584-86E1-4D5F-B494-2E79C4F6F833}
+        {C74A1B01-AE58-4A60-AAB1-153846F5CCC0}
+        {5BBC223A-09B7-4CC2-A4C7-789EE940C767}
+    - ID: "1d2e8fcf-804d-41cb-b152-9cbb860ef421"
+      Hint: RelatedLink4
+      Value: |
+        <link class="" id="{F450DCD5-C9A4-488F-A3C6-422A8DC2426F}" querystring="" target="" title="" linktype="internal" text="Modern Farmhouse" url="/TTS/TileShop/Home/tile/style/modern-farmhouse" />
+    - ID: "223fce0e-44cf-45db-887f-358e111cb3f0"
+      Hint: AdditionalSKUs
+      Value: |
+        {F3FDF8B5-88AE-4E82-BF5A-6B4AA6A4DBDB}
+        {8AF9C161-FEF0-4540-AF10-9A12FF0C02EF}
+        {8707F0B5-401A-4C32-9C3A-5E3B7B9B49DD}
+        {8CDD3430-F1C8-49AB-8987-A0A4F4E2212E}
+        {C5852135-B80B-4511-AED7-00E464516532}
+        {BE81DF47-C633-48B5-87B4-F8109E6F30A2}
+        {BE81DF47-C633-48B5-87B4-F8109E6F30A2}
+        {1CABEE5F-92DE-4114-B308-7702B6A90C8C}
+        {C85E43C9-A1D6-4D5E-86F9-2F38C71DAD1E}
+        {040C3A6D-5A5B-4B8B-9DC1-0291D7B589BB}
+        {876948EA-BDCF-4DFA-9F24-B78604A5621C}
+        {B216310D-5821-45A3-A9D1-0CA978F1939E}
+        {57525F56-4002-494D-AC28-934B470949B2}
+        {A74B6D63-2500-4BDE-9543-EFF101FC4A02}
+        {94647CA5-13D8-4B3B-BA90-28AB3DE09CA6}
+        {B859EB64-8789-41D8-90E3-ECBBF83F7740}
+        {64514BED-50E0-40E2-97BD-2A0B9679FF81}
+        {0E9316EC-47CB-4E86-858C-60604DBB360C}
+        {6C8ACC36-9C82-4217-9537-9796B79266D4}
+        {44EDF7A7-F4BE-41BC-B51A-83A40D1499B4}
+        {E92D0D48-A10B-465A-88FD-D46E345DBB07}
+        {419CEC52-E72C-47B6-9BFA-F351087390A9}
+        {276309AE-0831-4FA9-BA65-3BEF5DFAB2A3}
+        {1A7D0DC0-AC95-448B-B788-D95F9948C7B6}
+        {60BCF14F-B51F-4A97-873C-C353F3BC79BA}
+        {49AE9EB9-AD87-483F-91A9-213CEBDFF7C8}
+        {08A84DBB-21C9-4A7D-971D-D113EB5809A3}
+        {6437F865-2A2A-43C5-874C-9D4D217D58B5}
+        {A4BDC11F-0DBD-4D5E-A078-D60BAE3D4CAC}
+        {4BD84950-4278-47FE-8145-63805C0E020F}
+        {6732F375-B6CC-4A24-AE75-10F41A516EFA}
+        {33E741EE-A3F1-4B9B-8FAC-2D180643B4E2}
+        {553E537C-3D34-4CA9-9987-3C1092259350}
+        {928A9B84-9B72-4620-B23A-F144D407A78F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190125T155350Z
+    - ID: "38503162-7288-4c45-84dc-548ca6050bcc"
+      Hint: Style
+      Value: "{4BAED221-B070-4CD7-AAB7-8C7B31EB0E30}"
+    - ID: "42bd7f2f-65d8-4cf5-9255-875ec4c7e3c3"
+      Hint: RelatedLink7
+      Value: |
+        <link class="" id="{72C05701-BB6E-416F-93C3-814651426E33}" querystring="" target="" title="" linktype="internal" text="Nantucket Vintage" url="/TTS/TileShop/Home/tile/style/nantucket-vintage" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: "Scandinavian Chic Tile - The Tile Shop"
+    - ID: "5cfa40b2-276c-4d69-ae6d-6aae88f51804"
+      Hint: CategoryName
+      Value: Scandinavian Chic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jnelson
+    - ID: "63ce10a9-314f-4a5b-ae34-7374fd529097"
+      Hint: RelatedLink6
+      Value: |
+        <link class="" id="{93FC411A-5D17-4C1B-B0DF-944516DC6654}" querystring="" target="" title="" linktype="internal" text="Gilded Glamour" url="/TTS/TileShop/Home/tile/style/gilded-glamour" />
+    - ID: "646fd5c9-7658-4ce3-9e88-ce75a8aef93f"
+      Hint: ImageUrl
+      Value: "Hygge_towel_KJ_Cat:Category_Intro_Image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff766537-6029-41ba-913d-93cf95536881"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: Scandinavian Chic Tile
+    - ID: "abaccecc-b180-44dd-8210-ce99fdce5d73"
+      Hint: RelatedLink1
+      Value: |
+        <link class="" id="{BE58098B-C889-4B27-983B-2BEACDC130B3}" querystring="" target="" title="" linktype="internal" text="Traditional" url="/TTS/TileShop/Home/tile/style/traditional" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c062edba-a9e6-405c-a204-82db37a4c2d5"
+      Hint: MetaDescription
+      Value: Shop the perfect balance of comfort and luxury with the Scandinavian Chic tile look at The Tile Shop. Get your Free Design Consultation at a local store.
+    - ID: "cdbedb0e-13c8-44b4-b03f-c545abaf681d"
+      Hint: RelatedLink3
+      Value: |
+        <link class="" id="{7B33316C-D824-4D7E-8687-98216450FB5B}" querystring="" target="" title="" linktype="internal" text="Contemporary" url="/TTS/TileShop/Home/tile/style/contemporary" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240918T090411Z
+    - ID: "f43fe8f9-1961-49ba-adde-7d519948050d"
+      Hint: ButtonLink
+      Value: |
+        <link text="Learn More About Scandinavian Chic" linktype="external" url="https://blog.tileshop.com/five-elements-of-hygge/" anchor="" target="_blank" />
+    - ID: "f4f95a9c-2b41-4e7f-9503-e7115fa798b3"
+      Hint: RelatedLink5
+      Value: |
+        <link class="" id="{AE4B86CE-0E5E-4E24-A459-B97682A0E0F5}" querystring="" target="" title="" linktype="internal" text="Spa Oasis" url="/TTS/TileShop/Home/tile/style/spa-oasis" />

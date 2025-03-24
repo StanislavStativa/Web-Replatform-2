@@ -1,0 +1,48 @@
+﻿---
+ID: "ffcc8866-eebf-4cca-9aed-66f48dea87b8"
+Parent: "7d588e8b-5333-45fd-b308-67cc2e10a515"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Shape/Architectural
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/FFCC8866EEBF4CCA9AED66F48DEA87B8.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ffcc8866-eebf-4cca-9aed-66f48dea87b8"
+  Value: PCEtLSBSZXBsYWNlIHRoZSBjb250ZW50cyBvZiB0aGlzIGVkaXRvciB3aXRoIHlvdXIgU1ZHIGNvZGUgLS0+Cjxzdmcgd2lkdGg9IjM3IiBoZWlnaHQ9IjE5IiB2aWV3Qm94PSIwIDAgMzcgMTkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMzMuMDU1MSAwSDBWNC4wODA4OFY4LjE2MTc3SDMuMDEyNDJWMTIuMjQyNkgxMS45NjgyVjguMTYxNzdIMjQuMjYyMlY0LjA4MDg4SDMzLjA1NTFWMFoiIGZpbGw9IiM4RjhGOEYiPjwvcGF0aD4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNC43MDM2IDUuMDMzMkgzMi41NDMxVjkuMTE0MDlIMzUuNzc1OVYxMy4xOTVWMTcuMjc1OUgyLjcyMDdWMTMuMTk1SDEyLjU4MDdWOS4xMTQwOUgyNC43MDM2VjUuMDMzMloiIGZpbGw9IiM4RjhGOEYiPjwvcGF0aD4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zMy43NzUxIDMuODA4NTlWNy44MjgzNEgzNi45OTk4VjE4LjQ5OThIMS40OTYwOVYxMS44NDgxSDExLjMzMTVWNy44MjgzNEgyMy40MjQxVjMuODA4NTlIMzMuNzc1MVpNMTIuNTk3IDEzLjE2NDFIMi43NjE2MVYxNy4xODM4SDM1LjczNDNWOS4xNDQzMUgzMi41MDk1VjUuMTI0NTZIMjQuNjg5NlY5LjE0NDMxSDEyLjU5N1YxMy4xNjQxWiIgZmlsbD0id2hpdGUiPjwvcGF0aD4KPC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 765
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240509T112651Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b98b640-a875-439a-9963-9989bf666c6e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T112651Z

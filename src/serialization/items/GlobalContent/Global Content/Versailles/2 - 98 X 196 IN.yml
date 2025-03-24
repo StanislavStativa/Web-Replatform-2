@@ -1,0 +1,37 @@
+﻿---
+ID: "7e5982a2-7627-4bd0-aa83-4a2def02a960"
+Parent: "8143e8ee-0954-459d-90b3-7a74fab11969"
+Template: "c62c022a-5051-4011-9c55-360bba154d50"
+Path: "/sitecore/content/TTS/Global Content/Versailles/2 - 98 X 196 IN"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230701T054052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        extranet\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "5e3e06e1-a7a7-4819-9db3-9c53d2ffda48"
+      Hint: VersaillesId
+      Value: "2 - 9.8 X 19.6 IN."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a404969-f0dd-4432-8e50-88501d9286cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        extranet\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230701T054052Z
+    - ID: "e40b6f96-6e24-453c-b5f8-901c992c6556"
+      Hint: VersaillesName
+      Value: "2 - 9.8 X 19.6 In."

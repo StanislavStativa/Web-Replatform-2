@@ -1,0 +1,45 @@
+﻿---
+ID: "1c759422-0888-486e-b163-8cb7ee577624"
+Parent: "f6fd5cf8-2b05-4d11-bf67-dd2ab325156c"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {B4F6CAEE-659D-40D8-A0DF-7351FB5AC443}
+        {CAB92E1B-06A3-4F04-9FB9-4104ED52FDE7}
+        {ACADAEE8-7D61-4E2E-A99C-1EF461E7714A}
+        {0614C797-99C4-48BC-A0D3-4A97CD857C8E}
+        {2D70FE96-1D1C-495B-8D83-64E469E46F85}
+        {7FDCBEE8-F81F-4205-8A9E-10BEEE38BD52}
+        {8DBA4A66-2682-460F-8EC0-C8A1EF3EE98A}
+        {49EE6DB9-DC54-4BFD-A9F3-AA2ACCA931C6}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ffb4531-8f33-4038-ab65-237550e3cada"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240627T115730Z

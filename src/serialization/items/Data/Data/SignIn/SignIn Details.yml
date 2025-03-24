@@ -1,0 +1,67 @@
+﻿---
+ID: "4b6804e9-2288-4ae7-ae5c-7fc68282b2a5"
+Parent: "8a9791e4-bf10-4c7f-93a5-80a202cbe568"
+Template: "4d217247-4c6a-4629-8ba0-c6cba07f1112"
+Path: /sitecore/content/TTS/TileShop/Data/SignIn/SignIn Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "013f9f88-3960-4277-ac16-47f56d8856be"
+      Hint: RegisterLink
+      Value: |
+        <link class="" querystring="" id="{85F6F16C-B3C3-45D6-B22F-4FC308ABEF9C}" anchor="" target="" title="" linktype="internal" text="Register" url="/TTS/TileShop/Home/Register" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240515T190836Z
+    - ID: "29317d82-1361-4511-9fe6-a3c5419f37a7"
+      Hint: RegisterPrompt
+      Value: "Don’t have an account? Register Now."
+    - ID: "2975e8c0-21bc-4d00-b9a0-2e411d486432"
+      Hint: ForgotPasswordLink
+      Value: |
+        <link text="Forgot Password" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4CA610A4-01EB-43AC-8A6C-373123BCE211}" />
+    - ID: "467551f7-16a0-4dfd-a633-1446ca7ea685"
+      Hint: Disclaimer
+      Value: Your connection to this site is secure
+    - ID: "504ea812-b611-4fea-9bbe-806be69075b7"
+      Hint: InvalidEmail
+      Value: Please enter the valid email
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Welcome to The Tile Shop
+    - ID: "5d03fcac-ef74-4a72-953a-541886f0d7ab"
+      Hint: PasswordMandatory
+      Value: Please enter the password
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Special features like ordering samples and creating projects are only <br /> available with a tileshop.com account.  Sign in or create an account below</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bb5df52-b258-4002-b02a-a19c964b7186"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T172210Z
+    - ID: "e038963c-ec89-46e7-9bf7-6afd33d05a40"
+      Hint: LoginFailed
+      Value: Login Failed.  Please enter valid credentials
+    - ID: "f7186898-0927-4289-b64a-17bf81265384"
+      Hint: EmailMandatory
+      Value: Please enter the email
+    - ID: "ff6822a0-3907-442b-884b-6d1cab03c169"
+      Hint: HomeLink
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F06F3BD-6BF1-4F5D-9AAA-EFD8CA191968}" />

@@ -1,0 +1,76 @@
+﻿---
+ID: "123fd4f8-e53e-4536-8433-6b0a81dee66c"
+Parent: "91ddb9f6-eeed-4e5e-8239-c1446113b052"
+Template: "cb3c3b5f-b890-487f-96cc-2540a4432503"
+Path: "/sitecore/content/TTS/TileShop/Home/pro-network/rewards/Data/Rewards"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03bfa8f2-f7db-4ea7-987b-a539aafb9627"
+      Hint: RightSectionDescription
+      Value: |
+        <p>WITH SAVINGS AND PERKS INCREASING AT EACH TIER</p>
+        <ul id="pro-rewards-list">
+            <li style="background-image: url(-/media/E7E2D17D614C486D984F2EBB1949384B.ashx);">
+            <h3>GOLD </h3>
+            <p>Perks: Gold savings, free samples</p>
+            </li>
+            <li style="background-image: url(-/media/88442C4B592743BDB92C840DA99C060D.ashx);">
+            <h3>PLATINUM
+            <div>$20K annual spend</div>
+            </h3>
+            <p> Perks: Platinum savings, free samples, dedicated Pro Care representative, event invitations </p>
+            </li>
+            <li style="background-image: url(-/media/E769BB1853554F85AE1ED8BCD35E0B01.ashx);">
+            <h3>DIAMOND
+            <div>$50K annual spend</div>
+            </h3>
+            <p> Perks: Diamond savings, free samples, dedicated Pro Care representative, event invitations, free delivery on orders over $100* </p>
+            </li>
+        </ul>
+        <p>&nbsp;</p>
+        <div class="richText">
+        <p>* For full details and exclusions, <a href="/pro-network/rewards/pro-rewards-exclusions">click here</a>.</p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T183404Z
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: WELCOME TO PRO REWARDS
+    - ID: "43a4ad8e-9695-4ed6-a6b9-0272ca3add59"
+      Hint: RightSectionTitle
+      Value: SPEND MORE TO GET MORE
+    - ID: "6b7b061f-e9c6-4619-9a32-ad2f6c922358"
+      Hint: LeftSectionTitle
+      Value: AS A VALUED PRO YOU CAN
+    - ID: "73aa864e-bdc1-4529-ab95-5a5b375359cd"
+      Hint: LeftSectionDescription
+      Value: |
+        <div>
+        
+        <h4>SAVE</h4>
+        <p>
+        Spend more to save more with exclusive pricing and savings.
+        </p>
+        <h4>EARN</h4>
+        <p>
+        Get rewarded when you refer clients and colleagues.
+        </p>
+        <h4>STREAMLINE</h4>
+        <p>
+        Place orders and manage your account online.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "233ecd88-fd19-4f69-86c3-8829ff35f223"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T105234Z

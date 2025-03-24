@@ -1,0 +1,38 @@
+﻿---
+ID: "40bcd154-dbf3-4f2b-8e3b-bb1c565ea001"
+Parent: "1c66cfe8-7692-498a-b650-9a099658af4b"
+Template: "ec9b95b3-3345-4bad-abd0-8db5ef005960"
+Path: /sitecore/content/TTS/TileShop/Home/samples/Data/Short Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240827T130606Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Still got questions?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b043f8db-dfb3-4587-bec5-02b082d661b0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240827T130742Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Contact Us" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7D079F51-41A7-4017-923D-E069C8D113F4}" />

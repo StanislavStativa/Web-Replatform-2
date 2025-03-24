@@ -1,0 +1,46 @@
+﻿---
+ID: "165b3200-55b9-4556-81e7-3dde2ac999a1"
+Parent: "92c10c4b-dd07-4418-a934-15da70c253cf"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {201A0E82-93A5-44C0-9EFD-85CD114861B4}
+        {332E9FB9-ECAB-49A6-BEC0-BDA4E3136FD5}
+        {6AD9A849-0D06-4A00-BE2B-B9966903D418}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Considerations When Choosing Porcelain Tiles 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Porcelain is incredibly strong and durable, so it can be installed anywhere in your home, from floors to walls. However, there are some spaces that need extra consideration. For instance, when it comes to picking out </span><a href="/room/bathroom/shower-wall?facet_material=facet_idUG9yY2VsYWlu" class="font-bold">porcelain shower tile</a><span>, small-scale sizes and shapes will offer extra traction underfoot.  </span></p>
+        <p><span></span><span>There’s also the question of when to use </span><a href="/room/outdoor/patio-floor" class="font-bold">porcelain tile outdoors</a><span>. Because it’s such a durable material, there are some cases where it might make sense to use porcelain in your outdoor space, but it depends on multiple factors (like your climate and how you want the space to function, just to name a few). Because there’s so much to consider, and every project and tile is different, we recommend starting with a </span><a href="/store-locator/" class="font-bold">visit your local Tile Shop showroom</a><span>, where you can go over all the details of your project with one of our friendly and knowledgeable sales associates. </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5147649-12de-411a-8112-5f798ddbdb13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T105831Z

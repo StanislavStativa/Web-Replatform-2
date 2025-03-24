@@ -1,0 +1,75 @@
+﻿---
+ID: "e7da957a-e76f-4834-84dd-3695dc735a1c"
+Parent: "995cb17d-c1df-4f7a-be21-c1dbac32673f"
+Template: "12f560d6-caf8-44cc-a645-725e1aa27c0a"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/payment/Data/Payment Options
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "154aff54-1b8c-459d-9002-8caf67aa4e5d"
+      Hint: MastercardImage
+      Value: |
+        <image mediaid="{1F2A5456-9360-46B5-8183-7C662DA64B57}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T171117Z
+    - ID: "4403d933-34ad-424d-84ac-3ef0cf8c8ab4"
+      Hint: VisaImage
+      Value: |
+        <image mediaid="{31B31AFB-C7D8-4B41-82DA-B985C3EA23FD}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Payment Method
+    - ID: "5b0fe0ad-45bc-4c48-9445-0e80f2f1407f"
+      Hint: PersonalUsers
+      Value: |
+        {B36ECA97-CC99-432D-966C-97F056814E1B}
+        {49AE6FE9-7B48-466D-B789-047882086129}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Payment Methods</p>
+    - ID: "6e72ee84-9987-4d6c-90c8-440a5478d9c6"
+      Hint: DiscoverImage
+      Value: |
+        <image mediaid="{AC5C83D8-3CDA-44FC-B449-EE7603125C1F}" />
+    - ID: "81a548e8-9b54-4463-8700-5f589d1e5faf"
+      Hint: ProUsers
+      Value: |
+        {B36ECA97-CC99-432D-966C-97F056814E1B}
+        {75758F3F-F984-4705-96B7-E1D6BC2861CC}
+    - ID: "86df2c1c-a60f-4d63-8e88-0682ac6f21a1"
+      Hint: InvoiceImage
+      Value: |
+        <image mediaid="{141249FD-750F-4C95-9DA4-14FF44A26ABF}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98b941a9-070a-4508-9db5-a5331a669328"
+    - ID: "9ed386f7-489f-4408-b0d1-810eb0e65ad3"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{9E560B61-2BB6-4805-8485-81E359978336}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240729T084601Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="See Details" anchor="" linktype="internal" class="" title="See Details" target="" querystring="" id="{B7924688-993D-461C-9F9C-9CABDD565B8E}" />
+    - ID: "fc228b2e-afa3-4ac7-b9fc-9042c7946220"
+      Hint: CitizenImage
+      Value: |
+        <image mediaid="{2C47ECAC-D82E-490F-8C83-CC7904197FDB}" />

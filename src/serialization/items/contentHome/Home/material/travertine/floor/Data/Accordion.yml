@@ -1,0 +1,47 @@
+﻿---
+ID: "7639f8cc-ffd6-4555-b2c6-a80e778397a8"
+Parent: "895c7d90-d7cf-41f7-818f-414a9233169e"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: /sitecore/content/TTS/TileShop/Home/material/travertine/floor/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {B966D296-D946-4763-8E22-50D771BAD795}
+        {2D8AA6A4-362F-4BA4-8111-6E6199366F9E}
+        {DA00EF47-71A5-4778-96BF-E31EC63EE02D}
+        {0D316FC7-80A5-4A00-862B-A3B70597D39F}
+        {EB9F0703-3775-4EA5-BAA3-D99E4F72F7AA}
+        {7687464C-A027-4F5D-874B-FB6C983349CC}
+        {D3D76E38-85E5-48DC-8C2C-DCF10DED7FC2}
+        {B9CD7C2E-52C0-42A8-A250-409AC962264E}
+        {4201B8C3-A295-4A37-8DEB-92642D73E222}
+        {C91EE608-38C0-4B4B-8E01-5D7E7E82135C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113046Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fd905ce-c2c9-4500-a48f-474bdbdd8bbb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240710T152428Z

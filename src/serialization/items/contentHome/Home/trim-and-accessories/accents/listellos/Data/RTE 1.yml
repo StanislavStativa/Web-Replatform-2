@@ -1,0 +1,41 @@
+﻿---
+ID: "e84347e3-fad9-4175-b5ff-1e07b3b7218f"
+Parent: "0e5df92b-51b2-4b63-a8a8-4538e4a23a16"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accents/listellos/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240828T153556Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text   ">
+        
+        <h2 class="md:leading-48 text-2xl md:text-40 extra-small-bottom-margin">Elevate Your Rooms with Border Tiles & Listellos</h2>
+        <p><span>Bring a touch of beauty and elegance to your home by installing some eye-catching listello tile. A striking border design can be the perfect accent to your room’s decor, serve as a divider between two different tiles and provide a visual break in a large stretch of field tile. Use listello tile to introduce patterns to your walls and floors—they are a fun opportunity to get creative!</span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e20ea9d-743c-4bc4-8c3e-9dd51576d6f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T091041Z

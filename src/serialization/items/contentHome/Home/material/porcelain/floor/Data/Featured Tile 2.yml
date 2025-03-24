@@ -1,0 +1,44 @@
+﻿---
+ID: "423ee3d9-02cb-4874-b8f4-c77cf0412008"
+Parent: "9c9facd4-daae-4ed5-8e3d-c6a007fe159a"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/floor/Data/Featured Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {36BC3F3A-1819-4655-BC69-FF9E5F2ECB1E}
+        {41BEDB38-7B87-4D2D-82CB-32FC5F9C80A6}
+        {C1305503-C82C-4B65-B4D2-79BF5D225BEB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Add Interest With Shape
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><p><span>Porcelain comes in a wide variety of shapes – from hexagon to square to </span><a href="/shape/penny-round" class="font-bold">penny round tiles</a><span>, we have the looks you want. Shop our wide assortment of <a href="/material/porcelain/mosaic" class="font-bold">porcelain </a></span><a href="/material/porcelain/mosaic" class="font-bold">mosaic tiles</a><span> to create interest and traction on your floors. An intricate shape will add dimension to your floor, while a simple square or rectangular tile is always a classic.  </span></p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9659335a-c23f-4bf5-a839-2124c954c57f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T185211Z

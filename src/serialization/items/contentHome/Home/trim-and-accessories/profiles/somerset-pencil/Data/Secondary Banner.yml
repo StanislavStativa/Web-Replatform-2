@@ -1,0 +1,61 @@
+﻿---
+ID: "19e87e66-2b5a-4ed2-8107-aa2176ea33b9"
+Parent: "f54941ec-bc84-4491-a7b1-ed985626ec6a"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/profiles/somerset-pencil/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Somerset & Pencil
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Pencil wall tile is an ideal way to finish your modern or traditional decor. Dress up your walls by giving them a sleek, polished accent border. Rounded pencil tile can frame a mosaic design or serve as a smooth transition between two types of wall tile. Somerset tile supplies a sleek and sophisticated accent to your kitchen, bathroom or laundry room.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffe6914e-f9af-470a-b9ff-5cd7b6d0c1ca"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T120640Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Bronze-Glass-Stria_Christos16A_Hero_WestAllis:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {209F0493-E3CA-4A57-A5B4-BABF0E4D8F7A}
+        {E9552825-C395-4760-9472-C6F552D7FED0}
+        {2135530C-71A0-4AF6-B626-20275AC4FD2D}
+        {87D17C0E-7FB1-435D-A9CD-10DF7615DE8A}
+        {666555C8-85F0-47E9-A94B-ACB571A682CB}
+        {DA0583DB-3F38-4501-9B1F-AEE5237684A7}
+        {0ACF1307-E178-410C-8AFC-22DD3A61A333}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

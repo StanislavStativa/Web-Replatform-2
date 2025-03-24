@@ -1,0 +1,183 @@
+﻿---
+ID: "b21d3bcb-e0f1-4107-8b8d-400d7e1e04ab"
+Parent: "7a7a01e4-3a20-4226-ad97-0e85d23cf1f7"
+Template: "cc5654ff-0b12-4305-85b3-c929de0bca2f"
+Path: /sitecore/content/TTS/TileShop/Home/DCA/Data/DCA Form
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e616b2-aa49-480e-8327-394e6e702788"
+      Hint: Project
+      Value: |
+        {5946E6AF-9787-4A55-ABDF-D69074F80254}
+        {244DD4F8-A7DF-42B2-9BCF-09D7D982A777}
+        {A4C37D0D-CA07-42A4-AFFD-FC5F769F0856}
+        {5B83B262-F727-4B71-8243-82B960E0059C}
+    - ID: "13abe4a4-bdbc-44de-8f6d-0e1764d478ca"
+      Hint: HTMLBody
+      Value: |
+        <label>First Name: </label>{{firstname}}<br />
+                
+        <label>Last Name: </label>{{lastname}}<br />
+                
+         <label>Email: </label>{{email}}<br />
+                
+        <label>Phone Number: </label>{{phonenumber}}<br />
+                
+        <label>Selected Store: {{storename}}, {{storenumber}}</label>
+                
+         <label>Scheduled Date: </label>{{date}}<br />
+                
+         <label>Preferred Time: </label>{{time}}<br /><br />
+                
+        <label>Project Area: </label>{{projectareas}}<br /><br />
+                
+         <label>Where are you in the project? </label>{{projectprogress}}<br /><br />
+                
+        <label>Were you referred to The Tile Shop by a pro (builder, installer, designer)? If so, who? </label><br />{{referred}}<br /><br />
+        
+        <h3>WHAT TO BRING</h3>
+        <label style='font-size:16px;font-weight:bold'>1. Inspiration</label><br /><label>Pictures from our customer room gallery, Houzz, Instagram or your Pinterest board... If you love it, bring it along! You may also find
+        inspiration with our <a href='https://visualizer.tileshop.com/#'>tile visualizer</a>, where you can try our tiles in various room scenes.</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>2. Swatches</label><br /><label>Bring in samples of anything already in your space or that you plan to use, including paint, cabinets, countertops and fabrics.</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>3. Dimensions</label><br /><label>Any measurements and photos you have of your space will help us better visualize your project.</label>
+        <br /><br /><br /><label>Thanks,</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>The Tile Shop {{StoreName}}</label><br />
+        <label>Store Management Team</label><br />
+        <label>Store email: {{StoreEmail}}</label><br />
+        <label>Store phone number: {{StorePhoneNumber}}</label><br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240606T175114Z
+    - ID: "26160699-beab-457a-b405-ee4ad09409cb"
+      Hint: Step3Title
+      Value: REVIEW YOUR INFORMATION
+    - ID: "33aeeaf0-9634-4d5e-a424-d21508092c91"
+      Hint: SectionTitle
+      Value: Schedule Your Free Design Consultation
+    - ID: "3a89f8af-0a50-48df-91e5-7630e72c6258"
+      Hint: StoreManagerHtmlMessage
+      Value: |
+        <h3>New Design Consultation Request</h3><br /><br />
+        <h5>Customer Information</h5><br />
+        
+        <label>First Name: </label>{{firstname}}<br />
+                
+        <label>Last Name: </label>{{lastname}}<br />
+                
+         <label>Email: </label>{{email}}<br />
+                
+        <label>Phone Number: </label>{{phonenumber}}<br />
+                
+        <label>Selected Store: {{storename}}, {{storenumber}}</label>
+                
+         <label>Scheduled Date: </label>{{date}}<br />
+                
+         <label>Preferred Time: </label>{{time}}<br /><br />
+                
+        <label>Project Area: </label>{{projectareas}}<br /><br />
+                
+         <label>Where are you in the project? </label>{{projectprogress}}<br /><br />
+                
+        <label>Were you referred to The Tile Shop by a pro (builder, installer, designer)? If so, who? </label><br />{{referred}}<br /><br />
+        
+    - ID: "512a07cb-79f6-4029-b02c-b9947b7e5970"
+      Hint: Description
+      Value: |
+        <div class="rich-text">If you experience problems with this form, please&nbsp;<a class="font-bold text-dark-gray hover:text-black underline" href="~/link.aspx?_id=7D079F5141A74017923DE069C8D113F4&amp;_z=z">contact us here</a></div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5480a2d0-b469-45d2-8a15-90e21801b186"
+      Hint: PreferredTime
+      Value: |
+        {5C4CF056-3F31-4FB4-9B0D-9839ACCCE095}
+        {D47C9F06-AADE-4CB7-8334-721D4DC1E03A}
+        {09EEF153-503A-49F4-A237-C90C7DD6541D}
+        {6C563111-422F-40B1-881D-D446072F1172}
+        {514B8ED6-D6E3-4F04-9E69-AA61489B79E2}
+        {137DAEC1-2C0C-4089-B217-D31A2EDC3596}
+        {B0C05586-2764-44D4-A217-5FAF303AFA8A}
+        {A4DDBD45-480D-4799-B0D7-818941822DAD}
+        {2B3E4285-3A11-401C-A887-F03299CA0E79}
+        {0C216AF4-8CD1-4A1D-940E-A9793E8749B7}
+        {ACFC3C1E-29D6-4ECE-9223-A25FC9953D8C}
+        {667E2EDF-B3FC-48D4-B8CC-01A16E4463C0}
+        {A33A0106-2FEE-4536-8E17-D02A7593433E}
+        {BF92CA95-30E7-4954-B4DC-2D51017270A6}
+        {E2223D48-6E83-434A-AF19-27F6B28F6353}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "72a6a087-555a-4ac5-bd86-08f76831cd80"
+      Hint: EmailTemplate
+      Value: |
+        <h3>WHAT TO BRING</h3>
+        <label style='font-size:16px;font-weight:bold'>1. Inspiration</label><br /><label>Pictures from our customer room gallery, Houzz, Instagram or your Pinterest board... If you love it, bring it along! You may also find
+        inspiration with our <a href='https://visualizer.tileshop.com/#'>tile visualizer</a>, where you can try our tiles in various room scenes.</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>2. Swatches</label><br /><label>Bring in samples of anything already in your space or that you plan to use, including paint, cabinets, countertops and fabrics.</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>3. Dimensions</label><br /><label>Any measurements and photos you have of your space will help us better visualize your project.</label>
+        <br /><br /><br /><label>Thanks,</label><br /><br />
+        <label style='font-size:16px;font-weight:bold'>The Tile Shop {{storename}}</label><br />
+        <label>Store Management Team</label><br />
+        <label>Store email: {{getstoreemailto}}</label><br />
+        <label>Store phone number: {{storephonenumber}}</label><br />
+    - ID: "7bfa0d14-482f-4689-b601-fd8d6f1d5873"
+      Hint: Step2Image
+      Value: "TimberTrails_WarmWhites_Kitchen_013:1x1"
+    - ID: "8925f167-56bf-4804-9eef-f5fbc76e06ca"
+      Hint: ProjectAreaTitle
+      Value: Project area (check all that apply)
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef2cf443-79cf-4030-840d-81a24ffc8f7f"
+    - ID: "a8173626-66dc-4321-b294-6aa3aef13c14"
+      Hint: Step2CheckboxTitle
+      Value:  Sign me up for the email list to keep me up to date with the latest in tile trends.
+    - ID: "af95576b-84f0-40a0-acd5-262fafc4c1f6"
+      Hint: ProjectArea
+      Value: |
+        {7B74D23A-C4D9-4F1C-A107-CB617FEB48E1}
+        {09C9D5DB-4716-4CB2-9D59-3B76512612F6}
+        {62139A97-3EB3-477C-B805-6AAC189D8A6F}
+        {66F351F6-D6CA-40C8-81D2-42B9A24723B2}
+        {7E2A1369-E9A7-40EC-9C0A-37F320A71664}
+        {8B8DF6D0-F0C3-448E-AD32-1D60E2331D6A}
+        {BE4B25A7-8B61-4C15-9323-C068049A86C2}
+        {FC4CEE01-39F3-4914-9347-2B399F3820D1}
+        {3A80EE1D-B3D3-460B-971C-F8B6F7D53774}
+        {3C46F93F-54C8-4A47-92EB-2D1F48F42794}
+        {A98C85C8-ED1D-424D-A711-8822356F7880}
+        {118CF50A-6E0B-4EF7-9EA8-6B488FA13C70}
+    - ID: "b7d8d56d-ef27-4a79-b41e-28e30929cfcc"
+      Hint: StoreEmail
+      Value: "{{storenumber}}mgmt@tileshop.com"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "bbb50c09-1562-4758-997b-942acefc86ab"
+      Hint: ProjectTitle
+      Value: "Where are you in the project?"
+    - ID: "d067168d-0f1a-44d9-9c67-f9d13fc06017"
+      Hint: EmarsysDetails
+      Value: "{102B0EAE-2470-4FED-94B2-707FCB0C8168}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240814T102756Z
+    - ID: "dafc5fc9-7c18-4502-a486-964c8ef7bf1c"
+      Hint: Icon
+      Value: "DCA-icon"
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "681708_Floor_V2:1x1"
+    - ID: "df5eea73-7a35-47ba-bc23-9292163244c4"
+      Hint: Step2Title
+      Value: Please select a date and time for your free design consultation.
+    - ID: "ff17d031-3401-42fe-8fc8-fb30b289610b"
+      Hint: CheckboxTitle
+      Value: "Were you referred to The Tile Shop by a pro (builder, installer, designer)? If so, who?"

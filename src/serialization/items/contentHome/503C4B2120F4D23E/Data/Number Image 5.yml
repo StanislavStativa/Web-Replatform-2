@@ -1,0 +1,60 @@
+﻿---
+ID: "bbe8f4ee-2cce-49e3-b49d-e2ff53c08c38"
+Parent: "689ba7cd-b3eb-4ab8-820e-8447ac4ff6f6"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower/Data/Number Image 5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T114708Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mark the Tile Layout
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Once you have prepared your shower walls, you are ready to mark the tile layout.</p>
+        <p><strong>Instructions</strong>:</p>
+        <ol>
+            <li>Start by finding the center point of the wall. To do this, measure the width of the wall and divide it in half. Then, measure the height of the wall and divide that in half as well. The place where the two points intersect will be your center point. Mark the center point on the wall with a pencil.</li>
+            <li>Draw a vertical line down the center of the wall with a pencil or chalk. This will be your center line.</li>
+            <li>Draw a horizontal line across the wall at the center point. This will be your horizontal center line.</li>
+            <li>Place a tile on the wall at the intersection of the two lines.</li>
+            <li>Use a level to make sure the tile is level.</li>
+            <li>Mark the outline of the tile on the wall with a pencil.</li>
+            <li>Remove the tile and measure the width of the tile plus the width of a spacer.</li>
+            <li>Mark the next tile location on the wall with a pencil.</li>
+            <li>Repeat steps 8 and 9 until you have marked the entire wall with tile locations. Planning your tile grid in this way helps you anticipate any cuts that may be necessary when you reach the corners.</li>
+            <li>Once you have marked the entire wall with tile locations, you can start installing the tiles.</li>
+        </ol>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1965a7bf-6f58-4fb9-b817-18dc09ffdb07"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T131133Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 5

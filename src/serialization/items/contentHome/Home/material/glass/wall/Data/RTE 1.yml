@@ -1,0 +1,42 @@
+﻿---
+ID: "6e92fff9-c2f9-48c6-8ac9-e52460a42b4d"
+Parent: "a02e2b35-15b8-41ca-ab8c-6c63a4e65ddd"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/material/glass/wall/Data/RTE 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h2 class="extra-small-bottom-margin">Bring Your Space to Life With Glass Wall Tiles</h2>
+        
+        <p>From sophisticated neutrals to vibrant, bold colors, glass wall tiles will reflect your personality and add interest to your home. <a class="font-bold" href="/material/glass/wall" class="font-bold">Glass wall tiles</a> are available in a myriad of styles—from classic subway shapes to hexagon mosaics, and stunning shimmer finishes to realistic wood-look tiles—that not only look great, but are durable and easy to clean, too.</p>
+        <p>Choosing wall tile means not having to consider things like hardness ratings or holding up to foot traffic, so you can really home in on expressing your individual style. In other words, finding the “best glass wall tile” is about whatever you like best. (Of course, having so many beautiful options means having more choices to narrow down, but that’s where we come in!) Here are some of our customers’ favorite ways to use glass wall tiles:</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "991e471b-2c43-4857-a22f-6beba6547f53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240905T124227Z

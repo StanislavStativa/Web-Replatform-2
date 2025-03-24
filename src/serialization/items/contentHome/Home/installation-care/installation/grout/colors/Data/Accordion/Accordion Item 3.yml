@@ -1,0 +1,40 @@
+﻿---
+ID: "8b833087-d4fa-478b-b777-412350a84a82"
+Parent: "85929a2f-6c33-4e0b-a45c-e4ffede7b377"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/installation/grout/colors/Data/Accordion/Accordion Item 3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T113504Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "What’s the difference between sanded and unsanded grout?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        A cement mixture that contains very fine sand, sanded grout is the most common grout type because it provides increased stability, better resistance to cracking and less grout shrinkage. Unsanded grout has a smoother texture since it doesn’t contain any sand grains. Its thinner consistency makes it easier to work into narrow joints, so it’s recommended for joints less than 1/8” wide and for glass and metal tiles that will scratch if they’re used with sanded grout. You should also use unsanded grout when working with soft, polished tile, like limestone or marble, since the more abrasive sanded grout might scratch your tile’s surface. Since it’s easy to work with, unsanded grout is a great choice for vertical surfaces like tiled shower walls.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e99c1281-8e5d-414b-9c55-836b47e9c93a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240708T081925Z

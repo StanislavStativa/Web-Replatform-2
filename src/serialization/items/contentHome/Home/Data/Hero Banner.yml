@@ -1,0 +1,60 @@
+﻿---
+ID: "96a3a22a-8e0c-415d-8893-4ac8ff9e783d"
+Parent: "003a5fea-cebe-4b70-83da-4859ce1d0eb7"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240416T135147Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Nikki Chu
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: "Homepage_Hero_{0}"
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: <p>Bring home celebrity designer Nikki Chu’s modern, organic, global style with this exclusive new tile collection.</p>
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Nikki Chu
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Bring home celebrity designer Nikki Chu’s modern, organic, global style with this exclusive new tile collection.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ecb0a4c-120c-4eb3-aad7-22642223a897"
+    - ID: "9e87fa34-5874-4be0-852d-11a28c3cbdce"
+      Hint: Video
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240828T105646Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: Hero_NikkiChu 1
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="SHOP NOW" anchor="" linktype="internal" class="" title="SHOP NOW" target="|Custom" querystring="" id="{E2964A05-EB70-42B8-86B8-FFC2D6ED35FA}" />
+    - ID: "f59199d5-4c0d-4f4f-9e4a-fcb3af150eea"
+      Hint: MobileImage
+      Value: 
+    - ID: "f8424eb8-e593-42c6-84cb-de891a9f8c0e"
+      Hint: TabletImage
+      Value: 

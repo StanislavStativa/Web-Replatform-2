@@ -1,0 +1,46 @@
+﻿---
+ID: "82b28691-7a79-450e-98d2-95d469232114"
+Parent: "3842ed41-a3ea-4c49-9e76-798b22515d9b"
+Template: "228d934e-e593-4c91-9be4-ba6afe31986a"
+Path: "/sitecore/content/TTS/TileShop/Home/room/outdoor/patio-floor/Data/Ask the Tile Experts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "138f00f1-c556-4080-88c4-ae218b96c8fa"
+      Hint: AccordionItem
+      Value: |
+        {0980FE06-571C-4E6A-89F3-6449127FD13F}
+        {65CA1F14-A925-4118-8DCA-10366E08FBC8}
+        {A2E8B57D-D2CF-4CCC-AA43-C01CBB473487}
+        {4FE4E7BE-D978-4D64-911D-2AC382E0100D}
+        {E018AE5B-3C21-4E3E-99BB-3540131EB220}
+        {E15E98D8-0722-4516-92C7-A273B1B93620}
+        {67069F00-15FE-4B73-8380-A3607F045D04}
+        {01F0F533-A681-4F61-926B-68B31A739ADE}
+        {1AFDBB03-7668-4906-AAB7-CDA4FCEBA42B}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240829T065502Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ask the Tile Experts
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0dbb4491-b5ad-44e0-bd4e-b88006a47345"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T070555Z

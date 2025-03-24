@@ -1,0 +1,29 @@
+﻿---
+ID: "41128fd1-529c-4c31-bb1b-08829255346a"
+Parent: "41078d5c-d00e-4488-a744-fd5ffe5e645c"
+Template: "b8cebf60-4429-4d46-a4a5-08e708cd5adf"
+Path: /sitecore/content/TTS/GlobalData/Products/Overage/30
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T111535Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26d1a88a-6efe-4776-952c-3ac297478f9d"
+    - ID: "ba1d21ce-b537-42bb-b06e-0e4ad4a589c5"
+      Hint: DisplayName
+      Value: +30% Overage
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T111719Z
+    - ID: "db4aece4-8079-470f-b51e-397e9b5fcac5"
+      Hint: Value
+      Value: 30

@@ -1,0 +1,72 @@
+﻿---
+ID: "8f32ee69-476b-4b81-b09c-0b07d08fd269"
+Parent: "7140a0a5-0eba-41d2-aaab-66ed0a1233e4"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-backsplash/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  "><h2 class="extra-small-bottom-margin"><span class="h2">Find the Best Shower Backsplash Tile</span></h2>
+        <p>Your shower's backsplash is a functional bit of wall covering that is the perfect place to add your own sense of style.</p>
+        <p>&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Shop by Material</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Ceramic and Porcelain</span></h4>
+        <p style="margin-left: 40px;">Ceramic and <a class="font-bold" href="/material/porcelain">porcelain tiles</a> are the most popular materials for installing as a shower backsplash due to their durability, water resistance, and ease of maintenance. They come in multiple colors and shapes, making them an easy and affordable choice for any style.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Natural Stone Tiles</span></h4>
+        <p style="margin-left: 40px;">Natural stone tiles such as <a class="font-bold" href="/material/marble">marble</a>, travertine, and limestone offer a luxurious look and can elevate the aesthetics of your bathroom. Stone is also highly durable and water-resistant when sealed properly.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Glass</span></h4>
+        <p style="margin-left: 40px;"><a class="font-bold" href="/material/glass">Glass tiles</a> add depth, brightness, and the illusion of more space to the shower area. They are easy to clean and resistant to mold and mildew growth. You can find glass tiles in a variety of colors and finishes, including glossy, matte, and patterned options.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Shop by Color</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Neutrals</span></h4>
+        <p style="margin-left: 40px;">Neutrals such as white, beige, taupe, or grey provide the perfect backdrop to accentuate bolder style choices elsewhere in the bathroom. They are also exceptional at creating a serene, spacious feel in <a class="font-bold" href="/blog/12-small-bathroom-shower-tile-ideas-for-2024/">smaller showers</a>.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Go Bold</span></h4>
+        <p style="margin-left: 40px;">Bold colors like black, navy blue, and forest green can create a dramatic, sophisticated look, especially when contrasting with lighter fixtures. Darker tiles are also more forgiving with water spots and stains, reducing the appearance of soap residue and hard water marks.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Vibrant Colors</span></h4>
+        <p style="margin-left: 40px;">Vibrant colors like bright red, green, and blue can create a bright and energetic feel. When paired with <a class="font-bold" href="/installation-care/installation/grout?pageNumber=1&amp;pageSize=12&amp;facet_color=facet_idV2hpdGU*">white grout</a>, these brilliant tiles will pop even more, creating a brilliant and playful backsplash.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Shop by Shape</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Rectangular Tiles</span></h4>
+        <p style="margin-left: 40px;"><a class="font-bold" href="/shape/rectangle">Rectangular tiles</a> have an enduring appeal that works well in both traditional and contemporary bathrooms. They can be arranged in classic brick patterns, herringbone, stacked, and more, to suit different design styles.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Mosaics</span></h4>
+        <p style="margin-left: 40px;"><a class="font-bold" href="/featured/mosaics">Mosaic tiles</a> are made up of intricate designs and patterns and create a sense of movement and whimsy. They are also popular for creating unique accents and borders.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Penny Round</span></h4>
+        <p style="margin-left: 40px;"><a class="font-bold" href="/shape/penny-round">Penny round tiles</a> can be used to create a classic or contemporary style depending on the color and grout choice. Lighter penny round tiles bring a vintage look, reminiscent of early 20th-century bathroom styles, while brighter or more dramatic colors give a modern feel.</p>
+        <p style="margin-left: 40px;">&nbsp;</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We Can Help</span></h3>
+        <p>From guest baths to en suites, choosing the right tile backsplash for your shower will set the tone for the rest of the bathroom. You can explore all our shower backsplash tile options by <a class="font-bold" href="/store-locator/">visiting one of our showrooms</a> or order a sample to see the tile in your home.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f200b68-28e2-487a-a6c2-fd55df071cf0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T055632Z

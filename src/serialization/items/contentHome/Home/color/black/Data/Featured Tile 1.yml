@@ -1,0 +1,46 @@
+﻿---
+ID: "64293605-7a76-4bdc-92fa-5c890c95eef2"
+Parent: "b7d47f73-f3f4-4ccd-9e7e-7766082775aa"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/black/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {4FEBECEA-62C9-45FF-98E8-EE323966ED2F}
+        {2F1F0927-20FA-47A3-AE12-0FBD0DEBAEAE}
+        {1BB4ECE1-3E1F-432C-91BC-721ACEF21850}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Pick Your Look
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>Black tiles also come in a wide range of styles to bring your design vision to life, whether you want your space to feel minimalist or maximalist, modern or timeless. Bring further interest and depth to your next project with our selection of intricate mosaics, artisanal handmade and </span><a href="/featured/handmade-look" class="font-bold"><strong><span style="text-decoration: underline;">handmade-look tiles</span></strong></a><span>, or geometric patterned encaustic tile, and more. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8fab65d-bad2-4300-a22f-0099636efc7e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T045114Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "8720eea9-80ad-4054-88e4-81f0879a147a"
+Parent: "5dbbcd96-6e62-40c7-a2bb-50a18977601e"
+Template: "5dbbcd96-6e62-40c7-a2bb-50a18977601e"
+Path: /sitecore/templates/Feature/TTS/Components/Tiles/Content Tile Stack/Folder Templates/ContentTileStack Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{E7D55E66-6072-4935-9EE3-BEAF739E7D23}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fff722f1-ed75-426e-bb39-853ca91a94ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240506T142327Z

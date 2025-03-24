@@ -1,0 +1,136 @@
+﻿---
+ID: "5bb0cbbd-7e34-49b2-8539-e9f93dc39620"
+Parent: "8c591817-077d-4378-8b5b-beeeb5b38342"
+Template: "5fcbea3a-600f-4071-b694-b6b03f8f697a"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54A420A-8644-4634-970F-28D8A8042765}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0C06613D-2B5A-41F3-B6ED-844B6633F572}"
+          p:before="*"
+          s:ds="local:/Data/How to Install Mosaic Tile"
+          s:id="{83969962-2802-423F-B7D8-8406B9243F02}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles=%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;CTAColor=Black&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{F99F5EB5-C868-4FE7-AB3A-525F43AB6C91}"
+          p:after="r[@uid='{0C06613D-2B5A-41F3-B6ED-844B6633F572}']"
+          s:ds="local:/Data/Prepare the Surface"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{ADF990F3-E9B2-48DF-93D1-5809108400FE}"
+          p:after="r[@uid='{F99F5EB5-C868-4FE7-AB3A-525F43AB6C91}']"
+          s:ds="local:/Data/Plan the Layout"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{22E2E946-C446-447C-ABA0-5A8B1E74191A}"
+          p:after="r[@uid='{ADF990F3-E9B2-48DF-93D1-5809108400FE}']"
+          s:ds="local:/Data/Cut the Mosaic Sheets"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{EE5A3743-EDA3-4B38-80BC-57F1ED9B72E6}"
+          p:after="r[@uid='{22E2E946-C446-447C-ABA0-5A8B1E74191A}']"
+          s:ds="local:/Data/Mix and Apply Thinset Mortar"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{022A7D95-304F-4D54-88F6-9F4AB325388F}"
+          p:after="r[@uid='{EE5A3743-EDA3-4B38-80BC-57F1ED9B72E6}']"
+          s:ds="local:/Data/Install the First Mosaic Sheet"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{9C2E3B6E-108A-4FDE-B128-602430087085}"
+          p:after="r[@uid='{022A7D95-304F-4D54-88F6-9F4AB325388F}']"
+          s:ds="local:/Data/Add the Remaining Sheets"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{0FD4F1B2-AAA6-47BC-9679-F26F5719CB98}"
+          p:after="r[@uid='{9C2E3B6E-108A-4FDE-B128-602430087085}']"
+          s:ds="local:/Data/Mix and Apply Grout"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{7E9DD040-67CB-4203-8697-E639201F7840}"
+          p:after="r[@uid='{0FD4F1B2-AAA6-47BC-9679-F26F5719CB98}']"
+          s:ds="local:/Data/Clean Seal and Caulk"
+          s:id="{6C890E4D-EF25-4445-BC47-7F20FEAB28D0}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;HeadingSize=h2&amp;HeadingTag=h2&amp;RenderingIdentifier&amp;NumberListFontSize&amp;ShowNumberList&amp;ShowImageCaption&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+        <r
+          uid="{4B8D3778-BE3D-404E-977F-8C7EA67142FF}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Mosaic Tile Installation FAQs"
+          s:id="{12944D5C-B49A-4434-9401-5168BF382D5C}"
+          s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7BF9737E34-7B3D-4ABD-8A84-10F84E512B28%7D&amp;Styles=%7B392BB837-DD2D-40BC-B404-985F04B7E227%7D&amp;HeadingSize=h5&amp;HeadingTag=h5&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/sxa-tile-partial/column-2-3" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: How to install mosaic tile
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240528T054314Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5884d6fa-a5d2-4dcd-843b-f0c98feea026"
+      Hint: Title
+      Value: How to install mosaic tile
+    - ID: "59cbee2d-30a2-4a03-9501-2e3e0d4e8ced"
+      Hint: PageTitle
+      Value: How To Install Mosaic Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c74fd88-ca57-47a9-a741-0c9180938f0e"
+    - ID: "a85d2606-c144-4bba-9476-d31d5b8d2d55"
+      Hint: NavigationTitle
+      Value: How to install mosaic tile
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240912T102132Z

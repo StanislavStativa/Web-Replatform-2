@@ -1,0 +1,37 @@
+﻿---
+ID: "81b1e422-b3f0-412f-b3fd-96b0330da865"
+Parent: "379bbc05-41a5-4e0a-b9fb-ae8bfaccc068"
+Template: "23ce5eaa-412e-4a1f-9658-3425e83a7a08"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/maintenance-and-care-videos/Data/How to Seal Grout Penetrating Sealer"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240521T084335Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecfec4b2-dbb7-4cbb-8a54-eebede70c441"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "bbe59862-9183-4984-afdf-1073a16e7170"
+      Hint: SecondaryCTA
+      Value: |
+        <link class="" id="{1C349578-391B-42AE-886E-8ED99642CE08}" querystring="" anchor="" target="" title="How to Seal Grout: Penetrating Sealer" linktype="internal" text="How to Seal Grout: Penetrating Sealer" url="/TTS/TileShop/Home/resources/maintenance-and-care-videos/how to seal grout with penetrating sealer" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240802T070204Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "How-to-Use-Sealers-and-Cleaners-on-Grout-and-Tile"

@@ -1,0 +1,52 @@
+﻿---
+ID: "2c02e59a-8db4-4c5c-a787-a8b8770211d9"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Application
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T120649Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Application
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb3fedd2-418f-4af0-8ada-36383a2a2428"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {93584155-1BC2-4E71-9497-C8DE4080644C}
+        {98846789-DCFF-407D-B049-14F6ABD0DB83}
+        {6772D8DD-C6C0-4718-9AA6-8C30002D8A36}
+        {A50868BF-2DD8-4A4F-B9BD-A90A426644E0}
+        {5BCE0112-D909-451E-8079-C07A784831D7}
+        {54379C8D-2ACB-4920-9C76-A5D1E74D0EE5}
+        {7EC2DF83-C762-464E-BBC7-26274606DCD2}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T102150Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Application" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{56C617A5-E669-4386-AA39-A59FB2264E35}" />

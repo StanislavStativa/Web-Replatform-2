@@ -1,0 +1,43 @@
+﻿---
+ID: "86435e37-64eb-4233-bd32-f1d5e7cfb42b"
+Parent: "36637585-d2e1-48b7-8b4e-a12793aeef3f"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: "/sitecore/content/TTS/TileShop/Home/free-design-services/Data/Feature Tile/Tile 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T160402Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38c3897c-bd53-49ad-9b66-53ed6422d156"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <div class="rich-text">
+        <p>&nbsp;</p>
+        <h4 class="extra-small-bottom-margin">Inspiration</h4>
+        <p>Pictures from our <a href="/inspiration/customer-room-gallery "><strong>customer room gallery</strong></a>,<strong> <a href="https://www.houzz.com/pro/thetileshop/the-tile-shop ">Houzz</a>, <a href="https://www.instagram.com/thetileshop/ ">Instagram</a></strong> or your <a href="https://www.pinterest.com/thetileshop/?eq=the%20tile%20shop&amp;etslf=4920 "><strong>Pinterest</strong></a> board&hellip;if you love it, <span style="color: #000000;">share it with us!</span></p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240916T142948Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Inspiration_design-services_DI%3aDesign_Ideas_All"

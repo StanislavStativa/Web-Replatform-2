@@ -1,0 +1,42 @@
+﻿---
+ID: "113b3af7-6484-4b2a-b640-85fae75b4f35"
+Parent: "0292ff87-1f30-4066-be6c-484ecfe96773"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/checkout/confirmation/Data/My Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240720T164310Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: "Need Help or Have Questions? "
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: "Call us at 1-888-398-6595, Mon - Fri, 8 am to 5 pm CST"
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Need Help or Have Questions? "
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Call us at 1-888-398-6595, Mon - Fri, 8 am to 5 pm CST"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94ccc03f-733f-4fcb-a3c4-c4c3833697c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T165917Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Hero_DCA:Homepage_Hero_Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Contact us" anchor="" linktype="internal" class="" title="Contact us" target="" querystring="" id="{7D079F51-41A7-4017-923D-E069C8D113F4}" />

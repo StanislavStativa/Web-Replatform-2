@@ -1,0 +1,39 @@
+﻿---
+ID: "6490eaae-7449-4f6e-b8a2-ced22fef3130"
+Parent: "2b1bb11b-9fc6-4337-b88c-12a84cdb8101"
+Template: "ae0bab92-36c2-469f-a429-43a97ea7406b"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/education-and-info/lvp-flooring-buying-guide/Data/LVP Flooring FAQs/Is LVP better than laminate"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T064816Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Is LVP better than laminate?"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Yes, LVP is better than laminate as a flooring material. While they share many characteristics in terms of durability and affordability, LVP boasts superior moisture resistance. LVP is waterproof, making it an excellent choice for areas prone to moisture.</p>
+        <p>Laminate flooring, on the other hand, is more susceptible to moisture damage. Exposure to water can cause laminate to swell and warp. Even though some modern laminate floors offer better water resistance than older options, they still do not match the waterproof capabilities of LVP.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44c0c1ed-73ce-4524-a365-46accf4b276b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T064840Z

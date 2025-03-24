@@ -1,0 +1,46 @@
+﻿---
+ID: "cf492709-69fc-48a6-92d5-b021c597e3c7"
+Parent: "29e54b25-1ed7-4258-b29a-dc4b330f54ed"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/pink/Data/Featured Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {0786BE90-C1F7-47D9-9633-A32776DCEA99}
+        {F0D75CF5-1C4E-419C-AA82-BA328E843594}
+        {A8FE0FAB-514C-4065-A64A-5E95FF0C31FB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: The Many Looks of Pink Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>
+        Pink tile offers a wide palette to choose from. For those looking for a bit of natural calm, pinkish tiles that evoke the look of wood. If you want something bolder, vibrant fuchsia hexagons can add an energetic pop to any room, especially when used as an accent wall. To make an unexpected statement, consider pink mosaic tiles. Whether you are looking for serenity, excitement or something altogether new, pink tiles can help you capture the vibe you're after.
+        </p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c4b75c2-527f-43db-9e4d-494feb21b479"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240704T083112Z

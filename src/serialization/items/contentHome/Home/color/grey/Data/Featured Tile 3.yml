@@ -1,0 +1,48 @@
+﻿---
+ID: "cbbe7fcf-9e1c-487b-be86-939aa22f19e9"
+Parent: "798af4f9-fae1-4557-a44e-fb447e224da5"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/color/grey/Data/Featured Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {445D2D0B-38CA-4FBB-AD5C-F9482BEE668A}
+        {AB668781-5532-4C04-8C72-3C714918C7D0}
+        {781011ED-AC4A-4410-B2E8-53A5DA6C77E0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Express Your Style with Grey Bathroom Tiles
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p><span>From small powder rooms to grand master baths, grey tiles are an attractive choice for bathrooms of any kind. Whether you choose natural stone, glass, or </span><a href="/material/ceramic" class="font-bold"><strong>ceramic</strong></a><span>, your finished project will be a tasteful space that&rsquo;s as beautiful as it is functional. </span></p>
+        <br />
+        <p><span></span><span>Our tile collections include many options for grey shower tile that will mix and match with tile choices throughout the rest of the bathroom. And with a restrained color like grey, you can incorporate grey ceramic tile mosaics in intricate patterns or distinctive shapes into your floor or walls, without a space ever feeling over the top. </span></p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "170afee3-b118-4776-8271-fb9c942b8aa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T104557Z

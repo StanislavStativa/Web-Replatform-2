@@ -1,0 +1,55 @@
+﻿---
+ID: "cfdf61f7-cc37-4e3d-aa1e-535c976c3e3a"
+Parent: "689ba7cd-b3eb-4ab8-820e-8447ac4ff6f6"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower/Data/Number Image 4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f1ee68f-b2a3-4974-988d-b6905ac81e50"
+      Hint: ImageCaption
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240805T114708Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Prepping Your Shower Walls for Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Before you mark the tile layout on your shower walls, it is important to prep the walls properly. This will help to ensure your tiles are installed correctly and that they last for many years to come.</p>
+        
+        <p><strong>To prep your shower walls, you will need to:</strong></p>
+        <ol>
+            <li>Remove any existing tile or wall covering.</li>
+            <li>Repair any damage to the walls, such as holes or cracks.</li>
+            <li>Install a backer board on the walls if there isn't one already. This will create a solid surface for attaching your tiles. When tiling walls, it's recommended to use a&nbsp;<a href="/products/goboard-tile-backer-board-3-ft-x-5-ft-x-1-2-in-350052" class="font-bold underline">½ inch backer board</a>.</li>
+            <li>Install a moisture barrier on the walls by taping the seams of the backerboard.&nbsp; This will help to prevent water from seeping into the walls and causing damage. Consider running a bead of <a href="/installation-care/installation/caulk" class="font-bold underline">silicone caulk</a> down the corners of your shower in addition to taping them. This will help minimize any cracking from the expansion and contraction of the tile over time.</li>
+        </ol>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1055f108-48e0-4d79-b418-a942d7ae9463"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 6
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240807T174843Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 4

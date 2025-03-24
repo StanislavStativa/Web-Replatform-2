@@ -1,0 +1,23 @@
+﻿---
+ID: "2464e053-ec3f-4eac-82e7-6a6d05ea8306"
+Parent: "b7d69af7-77e8-4511-b03a-ddf6c91f3230"
+Template: "b7d69af7-77e8-4511-b03a-ddf6c91f3230"
+Path: /sitecore/templates/Feature/TTS/Components/PaymentWork Module/PaymentWorks/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20241224T130553Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96dbb8ef-4d4d-46a1-956c-6ab9231b0e17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241224T130553Z

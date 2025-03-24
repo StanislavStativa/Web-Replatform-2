@@ -1,0 +1,50 @@
+﻿---
+ID: "8a3ff6ad-c7bb-4331-a6b6-2009d6fb694e"
+Parent: "7ce67a0b-a573-43aa-bcac-825ef816d8c0"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/shape/herringbone/Data/RTE 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240719T081133Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text ">
+        <h3 class="extra-small-bottom-margin"><span class="h3">Top Things to Consider</span></h3>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Color</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Warm colors like cream, <a href="/color/brown">light brown</a>, or terracotta can imbue a space with a cozy and inviting atmosphere. Cooler and lighter colors, like white herringbone tile, are a good choice in smaller spaces or rooms that do not get much natural light. For bigger spaces, darker colors will add to the herringbone tile's opulent feel.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Finish</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The texture and finish of the tile can impact how it looks in your home. Glossy tiles reflect more light and can appear lighter, while matte tiles absorb light and can look slightly darker. Consider getting samples to see how the color looks in your space under various lighting conditions. Herringbone floor tile should be made with a brushed or matte finish, while other applications such as herringbone backsplash tile may look best with a polished finish.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Material</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Herringbone tiles are made from a variety of materials. Marble herringbone tile can create a sense of sophistication in a room. Limestone herringbone tile gives a space a rustic charm. <a href="/material/porcelain">Porcelain tile</a> offers versatility that can adapt to different design aesthetics and functional requirements.</p>
+        <h4 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h4">Size</span></h4>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">The length and width of the tiles will impact the herringbone pattern. Shorter, wider herringbone subway tile will have a much more spacious feel. Longer, thinner tile will create a more delicate, intricate mosaic.</p>
+        <h3 class="extra-small-bottom-margin"><span class="h3">We Can Help</span></h3>
+        <p class="extra-small-bottom-margin">If you love the look of herringbone tile but are not quite sure how it could fit into your home's decor, we can help. Simply <a href="/DCA">schedule a complimentary styling consultation appointment</a> and our design experts will walk you through the selection process.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d8f8d50-a0e9-40a1-adc1-9102e58f05de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T074647Z

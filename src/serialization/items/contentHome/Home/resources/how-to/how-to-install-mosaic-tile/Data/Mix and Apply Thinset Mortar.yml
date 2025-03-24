@@ -1,0 +1,44 @@
+﻿---
+ID: "695362f5-cff9-4eb3-a57b-ab210a9e9f5f"
+Parent: "c9404b5e-d89c-46d0-a8d7-8c409b5550a3"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile/Data/Mix and Apply Thinset Mortar"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Mix and Apply Thinset Mortar
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Mix the thinset mortar according to the manufacturer's instructions. Only mix as much as you will be able to use within about 20 minutes to prevent the adhesive from drying out before you are able to apply it.<br />
+        <br />
+        Using the notched trowel's flat side, spread <a href="/installation-care/installation/adhesives">thinset mortar</a> onto a small section of the prepared surface, following your layout lines. The grooves created by the trowel notches will help ensure proper tile adhesion. Work in small sections to prevent the adhesive from drying out.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b96a3e82-16bf-452d-9ecc-f5b472b798cf"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 8
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T095205Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: 
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 4

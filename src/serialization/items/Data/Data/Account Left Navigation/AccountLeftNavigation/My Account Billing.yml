@@ -1,0 +1,52 @@
+﻿---
+ID: "85948882-a679-4ab6-ab87-22cf01f9a00d"
+Parent: "dc86125e-1893-46b7-8811-13090f16d468"
+Template: "b6903cb3-781f-4b02-9c93-ce7ee59f792c"
+Path: /sitecore/content/TTS/TileShop/Data/Account Left Navigation/AccountLeftNavigation/My Account Billing
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T061423Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: My Account Billing
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acc3d8ab-4434-49b6-a9cf-8e4764cee773"
+    - ID: "b80bb08c-c825-449e-9de8-bbcca35f9dc3"
+      Hint: IsVsibleOnlyForNT30ProUser
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "c0dd834e-faa0-4765-9c7c-59366c41cab3"
+      Hint: SecondaryLinks
+      Value: |
+        {6A3C64E3-EB84-438C-B0D5-4C626170B154}
+        {93721E19-2022-4AEE-A723-B83BC83D3DFF}
+        {19948987-8183-46A1-9F70-581D13D5678E}
+        {C03D0AEB-E86C-4175-8B0B-0938F979AB30}
+        {223F0575-2C4E-4305-AE28-639E691F363B}
+    - ID: "c3b26db7-edd2-4d70-9343-d13b5080a600"
+      Hint: IsVsibleOnlyForProUser
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T123738Z

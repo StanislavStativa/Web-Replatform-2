@@ -1,0 +1,61 @@
+﻿---
+ID: "764b9943-3f1b-4c67-a7ec-dc24a0e6d325"
+Parent: "26adfdfe-e68d-415a-89ab-e27a4b653421"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material/travertine/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Travertine Finishing Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "<p>Take your bathroom decor to a higher level with the beauty of travertine. This eye-catching natural stone can create a sensuous, spa-worthy experience that’s one-of-a-kind. From soap dishes to corner seats to paper holders, we offer travertine finishing pieces that add authentic character to your home.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2222592b-31c6-467c-86c4-cc4753a01b36"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T071943Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Claros_Christos14B_Detail3_WestAllis:Category_Intro_Image"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {EAF726B0-E96F-49DE-B34B-84C037ECDAFA}
+        {A5D31E4D-8426-4BBA-9DF1-AD73B3FECFF3}
+        {B8851247-023E-4BD3-88CC-1210246B02F1}
+        {C54ED605-EABD-40E2-BFCE-4D5101CEA905}
+        {7CE4908A-6217-4D1D-AD82-8ECB91147BC3}
+        {444B6881-E734-442D-B0C3-A7CE2AC0D78E}
+        {F1AC3122-7052-49A5-AA32-1EB9794E06A7}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

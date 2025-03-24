@@ -1,0 +1,48 @@
+﻿---
+ID: "7a266529-6a31-48a4-b82d-18ecaff998da"
+Parent: "3f04c930-7099-463e-abda-edc03d0db447"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Trim and Accessories/View All Trim and Accessories
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/7A2665296A3148A4B82D18ECAFF998DA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d6566007-3946-448f-947b-3bc6980daec6"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iIzhGOEY4RiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjAgMzhjOS45NDEgMCAxOC04LjA1OSAxOC0xOFMyOS45NDEgMiAyMCAyIDIgMTAuMDU5IDIgMjBzOC4wNTkgMTggMTggMThabS05LTE0Ljc4NmEzLjIxNCAzLjIxNCAwIDEgMCAwLTYuNDI5IDMuMjE0IDMuMjE0IDAgMCAwIDAgNi40MjlabTkgMGEzLjIxNCAzLjIxNCAwIDEgMCAwLTYuNDI5IDMuMjE0IDMuMjE0IDAgMCAwIDAgNi40MjlabTEyLjIxNC0zLjIxNWEzLjIxNCAzLjIxNCAwIDEgMS02LjQyOSAwIDMuMjE0IDMuMjE0IDAgMCAxIDYuNDI5IDBaIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 407
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240730T061618Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab040a4e-adaf-453b-bd73-4cb6b278d99f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240730T061716Z

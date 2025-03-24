@@ -1,0 +1,43 @@
+﻿---
+ID: "edee68a4-67ae-4880-9038-e3745bae2a23"
+Parent: "a00a4612-1ec9-485f-a705-242c3f514bdd"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/customer-service/ad-choices-opt-out/Data/Rich Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240604T134439Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Ad Choices & Opt Out Prominent Notice
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><strong>Interest-Based Advertising</strong>
+        <p>Advertising supports the free Internet. It is the primary way that most website and app publishers make money in order to produce the content consumers want. Not all advertising shown to consumers is relevant to their interests, though. Interest-based advertising is advertising that tries to make the ads you see more interesting and relevant to you based on the types of sites you visit online and other non-personally identifiable information. We conduct interest-based advertising on this website.</p><br />
+        <p>Without interested-based advertising, you will still see ads, but those ads are not likely to have anything to do with products or services you care about. With interest-based advertising, you receive ads and offers that are more likely to be useful to you.</p><br />
+        <p>There is also a second benefit to you: companies that create websites and apps rely on the revenue from interest-based advertising to support the rich array of content they produce. Without that revenue, the content would either be unavailable or consumers would have to pay for it.</p><br />
+        <p>Interest-based advertising does not depend on information that is personally identifiable to you, such as your name, address, phone number, etc.</p>
+        <p>For more information about the data we collect and how we use it, please refer to The Tile Shop Privacy Policy <a class="font-bold" href="/customer-service/privacy-policy">click here</a>.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d969db2-5ac6-4f8f-8e5c-ed0d8d4f5ab5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240729T104239Z

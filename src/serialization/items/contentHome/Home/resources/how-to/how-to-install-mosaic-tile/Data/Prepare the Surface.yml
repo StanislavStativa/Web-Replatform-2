@@ -1,0 +1,39 @@
+﻿---
+ID: "02a5d08c-2886-49ae-8737-31df275f86e7"
+Parent: "c9404b5e-d89c-46d0-a8d7-8c409b5550a3"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-install-mosaic-tile/Data/Prepare the Surface"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Prepare the Surface
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>While the smaller tiles that make up the mosaic will be more forgiving of a gradually sloping substrate, such as the floor of a shower, it is still important to ensure the surface you're tiling onto is clean, dry and flat. Patch any holes or cracks. If the surface beneath the <a href="/featured/mosaics">mosaic tiles</a> is too uneven, those imperfections may start to cause the tiles themselves to look unevenly spaced. In wet areas like bathrooms, shower surrounds or <a href="/room/kitchen/backsplash">kitchen backsplashes</a>, use a backer board or waterproofing membrane.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac8a0cf4-d946-42aa-ba24-42459e4b97b4"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 8
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T050357Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

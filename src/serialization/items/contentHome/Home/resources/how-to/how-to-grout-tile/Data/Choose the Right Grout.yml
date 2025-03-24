@@ -1,0 +1,43 @@
+﻿---
+ID: "0fef5f5a-c3b7-45ab-9bdc-d50379982d9f"
+Parent: "b7b54fc6-4f5d-4bca-997c-5362857d5a6b"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-grout-tile/Data/Choose the Right Grout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Choose the Right Grout
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Sanded grout is typically used for larger joints, generally wider than 1/8 inch. The sand in the grout keeps it sturdy and prevents cracking when spread into wider joints.</p>
+        
+        <p>Unsanded grout has a smoother texture that's easy to work into narrower joints of less than 1/8 inch. This consistency also makes it easier to apply and wipe off tiles, which is particularly useful for vertical surfaces like tiled walls where the grout needs to stay in place without sagging.</p>
+        
+        <p>It is also important to choose a grout color that gives the visual impact you want. There are many factors for how to decide on grout color, including coordinating with the tile color for an understated, seamless look or contrasting with the tile color to make the grout's bold lines their own design element.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4541b925-3028-4a4d-81bb-4dca2eef768e"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 7
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T130719Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 1

@@ -1,0 +1,37 @@
+﻿---
+ID: "6b31b0ce-a7c2-44d5-afde-545817ccaa8d"
+Parent: "9a13b784-b199-41e6-8598-b3da6d411d65"
+Template: "d5760c8d-1221-4df1-8676-ddaee6833e66"
+Path: /sitecore/content/TTS/Global Content/Material Groups/NonSto Mat wo ID
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "016867a4-3c93-49b9-9944-7ccaeffc8ee0"
+      Hint: MaterialGroupCode
+      Value: YBMM00
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181203T042029Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01cff28c-abff-4421-898a-bafe0849d08b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181220T182556Z
+    - ID: "da43d3a7-367e-4ed2-b1a0-b9aa6847ea91"
+      Hint: MaterialGroupDescription
+      Value: "Non-Sto Mat. w.o ID"

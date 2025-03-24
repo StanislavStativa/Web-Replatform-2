@@ -1,0 +1,42 @@
+﻿---
+ID: "b1c3acd5-1f7c-470f-b7ca-82ec5f766477"
+Parent: "bb1fde3e-e20d-4c40-9730-9fbe842c37e2"
+Template: "bb1fde3e-e20d-4c40-9730-9fbe842c37e2"
+Path: /sitecore/templates/Feature/TTS/Folders/Category Components Folder/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_blue.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {1A75DC44-B939-497C-AC27-DB735B954661}
+    {3DB468DE-3C48-4291-A823-25973024F24D}
+    {5BCAFBBA-C84E-4442-B7E3-D69BA7E512B2}
+    {40095059-5BE6-4FBF-9B2D-E776477E5B8C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181004T220740Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\markb
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\markb
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8eac950-9a39-4cd1-9692-89c0b6f30a26"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jimg
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20181025T144802Z

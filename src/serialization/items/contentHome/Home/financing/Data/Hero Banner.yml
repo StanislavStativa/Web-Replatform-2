@@ -1,0 +1,61 @@
+﻿---
+ID: "aa64ff0d-94a3-47d5-8616-7f65fe86405b"
+Parent: "a335bf66-e9d8-4b16-986e-96819b32aaff"
+Template: "b2cc6590-d3d2-4910-8254-7f13189ba453"
+Path: /sitecore/content/TTS/TileShop/Home/financing/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240822T123541Z
+    - ID: "33355ea4-7528-48c2-bc1c-874f82621aa4"
+      Hint: MobileTitle
+      Value: Buy Now, Pay Over Time
+    - ID: "3af3eb2b-9a61-46cf-96b4-b91e885290df"
+      Hint: ImageSmartCropFormat
+      Value: "Homepage_Hero_{0}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "53be5707-efba-4e65-8cda-4cbd84ed4c81"
+      Hint: MobileDescription
+      Value: |
+        <div class=" rich-text"><p>Bringing your dream space to life just got easier with Citizens&nbsp;Pay<sup>®</sup>.</p><br />
+        <p>Use Citizens&nbsp;Pay<span><sup>®</sup></span> for Tile Shop purchases and enjoy zero down and interest as low as 0% APR for 6-12 months, then 29.99% for the remaining term of 24-60 months.*</p>
+        
+        </div>
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Buy Now, Pay Over Time
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class=" rich-text"><p>Bringing your dream space to life just got easier with Citizens&nbsp;Pay<sup>®</sup>.</p><br />
+        <p>Use Citizens&nbsp;Pay<span><sup>®</sup></span> for Tile Shop purchases and enjoy zero down and interest as low as 0% APR for 6-12 months, then 29.99% for the remaining term of 24-60 months.*</p>
+        
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "543ac62b-fd63-48fd-843b-b82c98e459cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T150123Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "citizens-hero2"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="CHECK ELIGIBILITY" linktype="external" url="https://thetileshop.citizensbank.com/?src=1&amp;cm=5" anchor="" target="_blank" />

@@ -1,0 +1,33 @@
+﻿---
+ID: "916beaf6-7a47-4ced-b24d-9219c3bb940a"
+Parent: "68156f0c-caf4-40b5-ad7e-f3fb0dee96aa"
+Template: "68156f0c-caf4-40b5-ad7e-f3fb0dee96aa"
+Path: /sitecore/templates/Feature/TTS/Components/Tiles/Featured Tiles/Rendering Parameters/FeaturedTiles/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1cf40ed0-388c-41ea-8659-807c7b0271ed"
+      Hint: HeadingSize
+      Value: h4
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8657e055-86d3-408a-9b3f-def85157f882"
+      Hint: HeadingTag
+      Value: h4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9aecd806-84aa-430a-b8b0-05f1f2a11c55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T114001Z

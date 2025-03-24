@@ -1,0 +1,52 @@
+﻿---
+ID: "18830d73-fd0b-4a51-8235-c95a86dde2a2"
+Parent: "0f451a75-f2dd-4bee-844a-c5cd852aaade"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/top-ways-to-finish-tile-edges/Data/03 Installing a Metal Profile Piece"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T045507Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Installing a Metal Profile Piece
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p>Metal profile pieces are a popular choice for protecting delicate tile edges while creating a streamlined transition from tile to another surface, such as drywall. They are commonly offered with either rounded or squared edges, and come in a range of metal tones and finishes, making it easy to coordinate with the other fixtures in a room.. </p>
+        
+        <img alt="A close up shower wall tile, where a metal profile trim piece has been used to create a streamlined transition between the shower tile and the adjacent drywall." class="rtc__list-item-with-image__image" src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_15:16x9" />
+        <p>Unlike bullnose tile and pencil-shaped trim pieces, metal profile pieces are installed before you set your final row of tile. Only a portion of metal trim is visible after installation. The narrow edge side provides a visually pleasing finish to a tiled area, while the “leg” of the piece—the wide, flat part with triangle cut-outs—lays flush with the wall, securely embedded underneath the tile.</p>
+        <p>&nbsp;</p>
+        <div class="rtc__callout-text">
+        <p>Metal profile edging is sold in long pieces, so you will need to cut it to size. For safety reasons, our preferred tool for cutting metal edging is a miter box and hacksaw, but a <a href="/products/cortag-zapp-600-127-v-electric-wet-saw-10-in.-60347">wet saw</a> can also be used.</p>
+        <p><img alt="A person uses a miter box and saw to cut a piece of metal profile trim to the correct length." class="rtc__list-item-with-image__image" src="http://s7d1.scene7.com/is/image/TileShop/TTC_Finish_Tile_Edges_8:16x9" /></p>
+        </div><p />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0d7336e-c5cf-4e13-8e77-88ae496d96e0"
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 3
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061913Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 3

@@ -1,0 +1,42 @@
+﻿---
+ID: "3fba71d1-6e7f-4aad-943b-f60630d90704"
+Parent: "bf2ef789-9b01-4b97-a7f6-ca3718526dac"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-layout-patterns/Material/Data/7 Mixing Materials"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T194235Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h1 class="lato-h1 mb-8">7. Mixing Materials</h1>
+        <p class="mb-4">When installing your tile, don&rsquo;t be afraid to mix materials like ceramic, wood look and natural stone. Selecting patterns in similar colors is a way to make different materials fit seamlessly together. Mosaic tile is available in a mix of materials like glass and travertine, allowing you to create a unique blend of hues and finishes.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b068ce1e-17d1-4cef-bd1a-7ecbf2aaabc9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240614T074156Z

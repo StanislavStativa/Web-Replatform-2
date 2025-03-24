@@ -1,0 +1,48 @@
+﻿---
+ID: "f729cab6-f327-46bb-a25c-41c134c605c6"
+Parent: "7d588e8b-5333-45fd-b308-67cc2e10a515"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/Tile Search/Shape/Chevron
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F729CAB6F32746BBA25C41C134C605C6.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f729cab6-f327-46bb-a25c-41c134c605c6"
+  Value: PCEtLSBSZXBsYWNlIHRoZSBjb250ZW50cyBvZiB0aGlzIGVkaXRvciB3aXRoIHlvdXIgU1ZHIGNvZGUgLS0+Cjxzdmcgd2lkdGg9IjM2IiBoZWlnaHQ9IjM2IiB2aWV3Qm94PSIwIDAgMzYgMzYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjcuNjI4MSAxNi44ODgyTDM2IDI2Ljg3NDlWMTkuMTM1NkwyNy42MjgxIDkuNjAyODVWMTYuODg4MlpNMjYuNzkwOSA5LjEyNTc5TDE4IDE5LjEzNTZMOS4yMDkwOSA5LjEyNTc1VjE2LjM4ODRMMTggMjYuODc0OUwyNi43OTA5IDE2LjM4ODRWOS4xMjU3OVpNMCAxOS4xMzU2TDguMzcxODggOS42MDI4OVYxNi44ODgyTDAgMjYuODc0OVYxOS4xMzU2WiIgZmlsbD0iIzhGOEY4RiI+PC9wYXRoPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTI3LjYyODEgNy43NjI0TDM2IDE3Ljc0OTFWMTAuMDA5OEwyNy42MjgxIDAuNDc3MDYzVjcuNzYyNFpNMjYuNzkwOSAxLjMwNTcyZS0wNUwxOCAxMC4wMDk4TDkuMjA5MDkgLTMuMjU5NjZlLTA1VjcuMjYyNTlMMTggMTcuNzQ5MUwyNi43OTA5IDcuMjYyNjRWMS4zMDU3MmUtMDVaTTAgMTAuMDA5OEw4LjM3MTg4IDAuNDc3MTA5VjcuNzYyNDVMMCAxNy43NDkxVjEwLjAwOThaIiBmaWxsPSIjOEY4RjhGIj48L3BhdGg+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjcuNjI4MSAyNi4wMTM1TDM2IDM2LjAwMDJWMjguMjYwOUwyNy42MjgxIDE4LjcyODJWMjYuMDEzNVpNMjYuNzkwOSAxOC4yNTExTDE4IDI4LjI2MDlMOS4yMDk5MSAxOC4yNTJWMjUuNTE0N0wxOCAzNi4wMDAyTDI2Ljc5MDkgMjUuNTEzN1YxOC4yNTExWk0wIDI4LjI2MDlMOC4zNzI3IDE4LjcyNzNWMjYuMDEyNkwwIDM2LjAwMDJWMjguMjYwOVoiIGZpbGw9IiM4RjhGOEYiPjwvcGF0aD4KPC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 999
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240509T112651Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d4a25fb-2aaa-46ed-a869-0c24a0a00360"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240509T112651Z

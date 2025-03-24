@@ -1,0 +1,51 @@
+﻿---
+ID: "8b453db7-936a-4f8e-98f1-df1fe300d1a6"
+Parent: "b31373cb-d999-4074-99b2-4cb048cc1e38"
+Template: "1cc04aeb-0f43-4170-bd7d-b9ce8453f3cf"
+Path: /sitecore/content/TTS/TileShop/Home/tile/Data/Shape
+BranchID: "a53b4353-b5e1-4b57-b4a1-7f2c8e518698"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{40104B01-EEAE-450B-8DB3-64C83C0B587F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T051224Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shape
+    - ID: "5eb07e82-37dd-4a74-b1d8-9c49adbf3372"
+      Hint: Links
+      Value: |
+        {99A1B4F5-1228-4460-AA7B-043DBAE6BB9C}
+        {A5DCCFDA-B9B3-4C8A-AC9E-E98759A1499B}
+        {9B0543E5-3BD4-46E1-9078-76BF67B76258}
+        {723131EA-D9B1-4B38-B1AD-FCE4C79F6A5D}
+        {87BEFFEB-F4FE-4711-9F95-7E98710795B3}
+        {4F4E07C6-A161-4309-8C53-60E028B4AFDF}
+        {C54FB5F1-FC8A-4B9C-A9C7-1A44F2DA5008}
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Choosing the perfect tile is an important part of defining your style. The Tile Shop has thousands of products to help you make sure your home expresses your true vision.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99b2c31f-ca51-400c-adcb-95242a438d69"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\SRG8xztKCH
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240812T115031Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Biltmore_April_Hero_Haltom_Hov:Hover_Image_All"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{F507E7B6-A95A-475F-ABF3-4F3D0F71D1F1}" />

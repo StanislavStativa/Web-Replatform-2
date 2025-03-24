@@ -1,0 +1,56 @@
+﻿---
+ID: "2be8f39f-85dd-49f0-b3b8-64c681bbc95c"
+Parent: "1337e1bc-76ff-4345-bfad-f6fa0a9a8806"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Material
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240522T120649Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Material
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a67d361-d1a6-4f66-87dc-383f36ce7297"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {A168F80B-9846-468E-A569-55F2D87999AE}
+        {ADD56CA6-7359-43B4-8964-B265FFE93BDF}
+        {76D33FE3-6C91-40C4-BD81-C615E877B952}
+        {A0C81C17-CDFA-4E75-8353-461709D3B903}
+        {C92886EA-06DD-4A2B-91D7-CEA3F9F01E4B}
+        {6EB7CFC9-6E55-46DD-B362-6A30CD55BCE1}
+        {A2B013E9-7B6B-44D1-B98A-D8AA866E0084}
+        {CFFCBF67-5067-4593-B9C2-ABACFDC375E7}
+        {48152E4E-3F9C-4E9E-A64B-442E58194BEC}
+        {56E3901A-6324-40DC-8097-99C39455D140}
+        {7F127470-F4E0-46C4-9853-B9F0ACE65352}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T105840Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Material" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{388DF468-AB6C-4B01-AE88-F0AAE279CE1C}" />

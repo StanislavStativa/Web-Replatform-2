@@ -1,0 +1,88 @@
+﻿---
+ID: "102b0eae-2470-4fed-94b2-707fcb0c8168"
+Parent: "c0a0d52e-e37b-4ea0-8ad0-a1d3a5b52cf7"
+Template: "2ed42a1c-9e2b-4f3f-a33c-5eb419fb296b"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/Schedule Consultation Emarsys Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09351619-6678-4b70-b583-a5ce7b7d6ba4"
+      Hint: EmailFieldId
+      Value: 3
+    - ID: "102ff32e-e8bc-44a9-9c42-5e8759b7ca50"
+      Hint: ReferredFieldId
+      Value: 975
+    - ID: "11ae0cd6-689b-4d22-90d1-685c8327f8f0"
+      Hint: DateFieldId
+      Value: 1072
+    - ID: "1a73b90a-f3a6-4319-99d7-1c95c9b7b385"
+      Hint: DesignStyleFieldId
+      Value: 973
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240610T113858Z
+    - ID: "263875cb-68a2-4614-b61d-87f6f2478654"
+      Hint: ProjectProgressFieldId
+      Value: 1073
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "5c9f1a8d-8bea-4f78-8f0f-de6a3d073fe3"
+      Hint: PhoneNumberFieldId
+      Value: 15
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "7d6a7291-23ea-4584-8556-f60ef1f38d5a"
+      Hint: OptInFieldValue
+      Value: 31
+    - ID: "86d4021b-715c-4bb0-88ce-b1e6debd6bfd"
+      Hint: SubmitAction
+      Value: "{66F4D6EC-4506-409D-8BD2-E732BF678BFD}"
+    - ID: "88ee6ddf-fbc5-438a-a390-a735cd084057"
+      Hint: FirstNameFieldId
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5786835b-2da4-4baa-93da-a3dae2dbd952"
+    - ID: "a877891d-79f0-4b69-b919-72bdaf062053"
+      Hint: ProjectAreasFieldId
+      Value: 1075
+    - ID: "b46e0ac7-a769-4bb5-a7ec-e745719168f7"
+      Hint: StateFieldId
+      Value: 12
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "c7614496-bb64-476d-a2a6-ea0b85ad0357"
+      Hint: CityFieldId
+      Value: 11
+    - ID: "d0c4dfd5-8dfb-4eab-aee4-9fec19dd5475"
+      Hint: InspirationFieldId
+      Value: 974
+    - ID: "d326d35f-58a0-491a-8735-3c0c6a4e6f8f"
+      Hint: ZipCodeFieldId
+      Value: 13
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T123815Z
+    - ID: "dd333be1-1aef-42ca-8528-27518c190cd3"
+      Hint: TimeFieldId
+      Value: 978
+    - ID: "e04a129e-795f-4630-b813-76723b462ce1"
+      Hint: StoreNumberFieldId
+      Value: 968
+    - ID: "e26613fc-306e-440e-8ea0-bae20f484429"
+      Hint: StreetAddressFieldId
+      Value: 10
+    - ID: "ef59589c-d24f-46ee-90b7-ef51c1794c55"
+      Hint: LastNameFieldId
+      Value: 2
+    - ID: "fa4c5330-5666-4fdf-b98f-606847fb3faf"
+      Hint: EstimatedBudgetFieldId
+      Value: 970

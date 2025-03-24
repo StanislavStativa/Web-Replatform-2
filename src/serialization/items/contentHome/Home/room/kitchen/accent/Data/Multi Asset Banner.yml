@@ -1,0 +1,55 @@
+﻿---
+ID: "5481ccac-374c-47bf-9666-85bde97b9ffd"
+Parent: "27ff1f2c-396c-46ac-ac64-2f196f904208"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: /sitecore/content/TTS/TileShop/Home/room/kitchen/accent/Data/Multi Asset Banner
+BranchID: "6da4f1e0-56f7-4121-88e1-bc39a9c116e7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Kitchen Accent Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        Take your kitchen tile design from basic to beautiful with exciting accent pieces that stun. Standout features like metallic finishes, iridescent effects and 3-D patterns will be instant conversation starters in your kitchen. With advancing technology and our large selection, there is always something new and exciting in accent tile.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {EEC1D997-DDEF-49D4-A87A-1A9DEABF1EB3}
+        {993DF4FE-C87F-4DDB-BE0B-308A74757DDC}
+        {515D7876-58D9-46B6-8E3A-2B8A27AB2489}
+        {3206415F-7D21-4C9B-963E-9B7F455FC93A}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c1d9808-0781-4a4a-9d83-64745a9973e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240829T094028Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "TimberTrails_CalmCoolandCollected_Pantry_007:3x2"

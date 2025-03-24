@@ -1,0 +1,27 @@
+﻿---
+ID: "e21a792e-6304-4152-b21f-04d6153bccf5"
+Parent: "b4101dce-104c-43d9-9aac-cdc2553ded54"
+Template: "b4101dce-104c-43d9-9aac-cdc2553ded54"
+Path: /sitecore/templates/Feature/TTS/Components/CTA/Rendering Parameters/CTA Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "136097e8-0a6e-471a-93e1-6e15d0ce4f72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241224T124802Z

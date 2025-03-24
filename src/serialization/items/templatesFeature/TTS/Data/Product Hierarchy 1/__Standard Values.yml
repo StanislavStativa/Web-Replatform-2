@@ -1,0 +1,34 @@
+﻿---
+ID: "a7a2b593-94f0-4309-b61d-95df6e5f2e38"
+Parent: "a091ea1d-6ced-4e67-849f-9833de80409c"
+Template: "a091ea1d-6ced-4e67-849f-9833de80409c"
+Path: /sitecore/templates/Feature/TTS/Data/Product Hierarchy 1/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180918T205015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72a04688-d14a-4098-844b-1a14b08c81ff"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d8a4f77b-090c-4847-93c8-cb86e3af6e0f"
+      Hint: ProductHierarchy1Code
+      Value: $name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180918T205024Z

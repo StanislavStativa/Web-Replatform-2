@@ -1,0 +1,66 @@
+﻿---
+ID: "a067c082-cfe5-411a-a07d-b257149e9e76"
+Parent: "ad280140-5136-48e6-94b6-10611c6b26dc"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-clean-marble-tile/Data/How to Clean Marble Tile Showers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240617T053140Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: How to Clean Marble Tile Showers
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <br />
+        <h3 style="margin-left: 40px;">Step 01 of 06: Prepare the Cleaning Solution​</h3>
+        <br />
+        <p style="margin-left: 40px;">Mix warm water with a few drops of mild dish soap or a pH-neutral cleaner in a spray bottle. Shake well to mix. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 02 of 06: Wet the Surface​</h3>
+        <br />
+        <p style="margin-left: 40px;">Generously spray the marble surfaces with the cleaning solution, letting it sit for a few minutes to loosen any soap scum or mineral deposits. </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 03 of 06: Gently Scrub</h3>
+        <br />​
+        <p style="margin-left: 40px;">
+        Starting from top to bottom, wipe down the tiles and grout lines with your microfiber cloth, paying extra attention to areas with soap scum or grime.
+        </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 04 of 06: Rinse Thoroughly</h3>
+        <br />​
+        <p style="margin-left: 40px;">Rinse the tiles with clean water, making sure all soap and cleaner residues are washed away.
+        </p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 05 of 06: Dry and Polish​</h3>
+        <br />
+        <p style="margin-left: 40px;">Use a squeegee or a clean, soft towel to remove any excess moisture from the marble surface. This will help prevent water spots and mildew growth..</p>
+        <br />
+        <h3 style="margin-left: 40px;">Step 06 of 06: Regular Maintenance</h3>
+        <br />
+        <p style="margin-left: 40px;">To prevent soap scum and hard water deposits from building up, squeegee the tiles after each shower and consider applying a marble sealer periodically for extra protection.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6988e3b-bbbe-4480-80e7-4edab0b7bff4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240808T173214Z

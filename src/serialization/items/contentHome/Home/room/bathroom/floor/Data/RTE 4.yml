@@ -1,0 +1,41 @@
+﻿---
+ID: "2c83253e-5af3-4ebe-90d4-a3fefa8e8453"
+Parent: "30f80bc3-f222-4b8c-ac4b-e16e26e0bee2"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: /sitecore/content/TTS/TileShop/Home/room/bathroom/floor/Data/RTE 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text  "><h4 class="extra-small-bottom-margin"><span class="h4">Add Geometry With Chevron Tile</span></h4>
+        
+        <p class="extra-small-bottom-margin"><a href="/shape/chevron" class="font-bold">Chevron tile</a><span> is similar to herringbone but uses a distinct V shape that creates an interesting geometric pattern. We have a variety of materials, including ever-popular marble and <a href="/featured/wood-look" class="font-bold">wood looks</a>, cut in a chevron pattern for easy installation.</span></p><p><span></span></p>
+        <p>With a vast array of materials, styles, and shapes to choose from, the floor can set the stage and add interest to your bathroom. <a href="/store-locator/" class="font-bold">Visit one of our showrooms</a> for more bathroom floor tile inspiration. </p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66dd5d83-d420-47ae-8a83-1f0e99ee83fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240910T093326Z

@@ -1,0 +1,56 @@
+﻿---
+ID: "f128bffc-c4f7-486e-9a6b-0020ca4e4021"
+Parent: "998510c6-c4ab-4d2b-9070-56adb3b3cfb3"
+Template: "61edc31a-7a3d-4be0-aa57-5daa6e6355da"
+Path: /sitecore/content/TTS/TileShop/Data/Customer Cart/Customer Cart Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e3d1438-833d-42fa-b8fe-9397562ef9b4"
+      Hint: SuccessfullyDelete
+      Value: Successfully removed the product.
+    - ID: "19179db4-3499-4ea1-9177-3c7eb8c13886"
+      Hint: CTAEnabled
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240523T172916Z
+    - ID: "2ddbe1fa-634d-47ad-838d-6fc374f1284f"
+      Hint: PopupTitle
+      Value: Confirmation
+    - ID: "4ee1040e-b09f-4069-bb09-cdade840b9d1"
+      Hint: ConfirmDelete
+      Value: "Are you sure want to delete ?"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Cart Details
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0afbc161-edc0-43b0-bf56-a197d82cced2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "c9c0f846-610d-471f-82a6-8addf12800e1"
+      Hint: DisclaimerText
+      Value: "All Products ships in 2-4 days via Fedex."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240523T173304Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" linktype="external" url="https://www.tileshop.com/customer-service/shipping-handling" anchor="" target="" />
+    - ID: "ea610ad1-7df3-440d-952d-937698a4e5a3"
+      Hint: CTATitle
+      Value: Learn More

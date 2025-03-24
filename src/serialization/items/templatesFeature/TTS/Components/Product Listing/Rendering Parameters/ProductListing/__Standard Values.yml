@@ -1,0 +1,27 @@
+﻿---
+ID: "4ee68d92-fc80-49c1-b4e5-63eee9d8bb25"
+Parent: "296d95e6-02c9-4dda-ad92-5aefa88ac04a"
+Template: "296d95e6-02c9-4dda-ad92-5aefa88ac04a"
+Path: /sitecore/templates/Feature/TTS/Components/Product Listing/Rendering Parameters/ProductListing/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ecfaec5-9c45-4723-a43f-80bcea86f4f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240611T064535Z

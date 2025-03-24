@@ -1,0 +1,36 @@
+﻿---
+ID: "01505d81-5875-41d2-8cdc-14b179dc2d75"
+Parent: "cbdd799c-44d7-4c79-b96a-3c4e888b250b"
+Template: "e7d55e66-6072-4935-9ee3-beaf739e7d23"
+Path: /sitecore/content/TTS/TileShop/Home/resources/Data/Frequently Asked Questions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1de88566-7705-44c7-8786-37fbf9faac87"
+      Hint: ItemList
+      Value: |
+        {7C2CF162-0629-4459-8EAD-9682F3B4F364}
+        {BC1E3566-3325-48FB-B490-2E9397A8FCB6}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240626T104923Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "948b63f4-7bcb-4ccc-8d83-65be323f1757"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240626T105545Z

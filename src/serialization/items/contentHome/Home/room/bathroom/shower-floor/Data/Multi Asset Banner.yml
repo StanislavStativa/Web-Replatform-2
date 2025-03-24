@@ -1,0 +1,55 @@
+﻿---
+ID: "bbf36815-b597-42ad-b837-7c4079aafba1"
+Parent: "78d20275-22c7-4fd5-8c6c-fa8d8c08a5e5"
+Template: "7f83c412-c704-4ec4-be84-15163bffc701"
+Path: "/sitecore/content/TTS/TileShop/Home/room/bathroom/shower-floor/Data/Multi Asset Banner"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC077B67-23F0-4996-86BD-A53C8F0AA764}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T054539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Shower Floor Tile
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <p> 
+        Mosaic tiles are the most popular choice for shower floor tiles. The small size of the individual tiles means they conform to the slope and shape of the shower floor better than a larger tile would. There are also more grout lines present between mosaic tiles, offering much-needed slip resistance in the shower.
+        </p>
+    - ID: "779507c5-264a-42da-b117-1a1f4531a931"
+      Hint: Tiles
+      Value: |
+        {853CAA21-DA1B-4E22-B928-F7807AEC9ED7}
+        {324F4E69-6AF3-44B9-906D-092077D97C70}
+        {F2BEAFA2-1BDC-4239-8483-7EDA660B8B24}
+        {EE2F3E7E-2C71-48C5-B8FE-1AB959E8AD68}
+        {D2D1ADC2-96EF-4F27-AFE6-3D6F6B7B51A7}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9038d4fc-eb5c-4b2b-b227-400b6383b7bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T140334Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "AnnieSelke_PalmSprings_OfficeBath_Argento_shower_Floor:3x2"

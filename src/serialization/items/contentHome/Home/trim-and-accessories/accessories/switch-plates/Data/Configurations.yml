@@ -1,0 +1,46 @@
+﻿---
+ID: "9f43d60c-63bb-4278-b516-306a6b015772"
+Parent: "0c7c765c-3a3a-4adf-a436-ef955c986378"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/accessories/switch-plates/Data/Configurations"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {E899912D-45F4-4EED-86B7-5EE535AD221E}
+        {CBCEB8B6-AEE2-4E88-8BF6-C79ABF4147DC}
+        {C8B35DD5-6170-4F14-AF6B-D5C923DCC4FD}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Configurations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c999812f-b830-4488-9780-117c2880e794"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: <p>We offer a variety of different combinations of switch plate covers from double duplex outlets to the traditional toggle to the more modern rocker switch. They are available in a stylish single switch, double rocker, triple toggle or even a quadruple switch plate for larger rooms.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240920T161212Z

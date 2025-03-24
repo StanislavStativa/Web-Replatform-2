@@ -1,0 +1,38 @@
+﻿---
+ID: "f2e06127-495b-4be5-941a-2006e6ed59a1"
+Parent: "d605f896-8532-44dd-9d47-eb8f7ee19b7d"
+Template: "9447e6b2-1c65-4ad3-b7a1-69b11258760a"
+Path: /sitecore/content/TTS/TileShop/Home/material/porcelain/wall/Data/Featured Tile 1/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T063631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0da38751-00dd-4d46-954d-ebae591f9915"
+    - ID: "ad5df638-bd0e-4afe-8fd1-83cc885b89a9"
+      Hint: Text
+      Value: |
+        <p><span>Featured Tile:&nbsp;<a class="font-bold" href="/products/brick-x-brick-by-alison-victoria-petal-porcelain-wall-and-floor-tile-2-x-10-in-484078">Brick x Brick by Alison Victoria Petal</a>, <a class="font-bold" href="/products/brick-x-brick-by-alison-victoria-pewter-porcelain-wall-and-floor-tile-2-x-10-in-484080">Pewter</a> &amp; <a class="font-bold" href="/products/brick-x-brick-by-alison-victoria-powder-porcelain-wall-and-floor-tile-2-x-10-in-484079">Powder</a></span></p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Bcyk8MqS4n
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240822T112631Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "AV_BrickxBrick_StripeWall_VerticalAngle_4x5:Design_Ideas_All_V2"

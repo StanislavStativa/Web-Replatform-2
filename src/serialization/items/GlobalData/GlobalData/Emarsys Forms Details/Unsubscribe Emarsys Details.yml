@@ -1,0 +1,40 @@
+﻿---
+ID: "971573b8-e81a-4ce2-b14a-dc9250f34dd5"
+Parent: "c0a0d52e-e37b-4ea0-8ad0-a1d3a5b52cf7"
+Template: "fe07d030-6509-45a1-bb0f-4988f8c18266"
+Path: /sitecore/content/TTS/GlobalData/Emarsys Forms Details/Unsubscribe Emarsys Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T063732Z
+    - ID: "3885e735-e526-420b-8da2-4112ef0911ae"
+      Hint: EmailFieldId
+      Value: 3
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "8a51b6ca-8b8d-44cb-bd44-33f71b3314d3"
+      Hint: OptInFieldId
+      Value: 31
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4220944b-c3aa-4081-8714-68f0c28149b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T063921Z
+    - ID: "d9e84449-f511-4832-93b6-12c58bb2dd49"
+      Hint: SubmitAction
+      Value: "{B247AF2B-A085-4A89-9512-82DB9BCF062C}"

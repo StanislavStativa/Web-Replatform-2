@@ -1,0 +1,50 @@
+﻿---
+ID: "031665c8-e38f-4ffa-9a2e-13881b074d66"
+Parent: "9a2481cd-eb66-4989-b980-9ec78a482b8a"
+Template: "9587fe2a-4b1d-49cd-8cc0-2f17f2455eda"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/how-to/how-to-regrout-bathroom-tile/Data/Remove the Old Grout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T123207Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Remove the Old Grout
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p>
+        Before the new grout can go in, the old grout must come out.
+        <br />
+        <br />
+        The easiest way to remove old grout is with an oscillating multitool. However, if you do not have one on hand, it can be more investment than some DIY bathroom remodelers want to make, especially for a one-time use. If you are looking for a more cost effective tool, manual grout removal tools tend to be about 10% the cost but do require significantly more elbow grease.
+        <br />
+        <br />
+        
+        Use the grout saw or oscillating tool to score along the grout lines to create a shallow groove. This will make it easier to remove the old grout. Once the grout is scored, continue chipping away at it, being careful not to damage the tile. Use the shop vac to vacuum the dust and grout remnants as you go.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0a14737-de83-43dd-af65-829bd44d9069"
+    - ID: "8fca9c4c-86b5-423e-8bc6-fee7d78a8125"
+      Hint: BacktoTop
+      Value: 
+    - ID: "939d27a0-0450-429c-83aa-e67a0708ca33"
+      Hint: TotalNumber
+      Value: 7
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ajay.raipurkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240805T161206Z
+    - ID: "f1792211-4c0b-4f0e-9b76-0ab6d5e90799"
+      Hint: CurrentNumber
+      Value: 2

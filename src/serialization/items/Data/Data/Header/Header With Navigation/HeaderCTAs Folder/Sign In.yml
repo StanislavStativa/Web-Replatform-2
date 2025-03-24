@@ -1,0 +1,80 @@
+﻿---
+ID: "02f6dacd-b07a-4838-980c-71a3a10d1aba"
+Parent: "3f9159ca-ae3a-499b-8dd0-d747e1d8e425"
+Template: "1cc93858-89fb-4af3-9b06-b77831c8bf83"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/HeaderCTAs Folder/Sign In
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240620T151916Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Sign In
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58eb18f7-bf52-429e-a7d1-f377b1363ca0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivasan.krishnamurthy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240620T151916Z
+  - Version: 2
+    Fields:
+    - ID: "00372376-dad3-4a73-b9f4-e3ab947b2a74"
+      Hint: OverlayCTA
+      Value: |
+        <link text="SIGN IN" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{97655800-3FCB-4D86-A0BD-2E8294A0844D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240418T111804Z
+    - ID: "32aeb692-778d-4a8f-9dc5-e49494d94fcb"
+      Hint: CTAType
+      Value: SignIn
+    - ID: "40e78ff1-9786-4ca8-8694-d2404e8b364e"
+      Hint: Icon
+      Value: |
+        <image mediaid="{76CFB277-F58F-4388-A12C-74F861B4452B}" />
+    - ID: "447bd7dc-bfe3-4e70-97a8-1c81bac8cd27"
+      Hint: OverlayCTASize
+      Value: Small
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Sign In
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "463be2eb-baf3-40c1-be0d-545c56e66c51"
+    - ID: "97d0e7d0-0121-4636-a1f1-94b730a17722"
+      Hint: OverlayCTAColor
+      Value: Black
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cc512514-796e-4950-9b0d-3ee45f82d4d4"
+      Hint: OverlayDescription
+      Value: |
+        <p class="signin-alert-footer">Don't have an account? <a href="/Register">Create an account</a></p>
+    - ID: "cf9c3a11-a58b-474e-8b3c-f3664185ec02"
+      Hint: OverlayTitle
+      Value: Sign in or create an account below for a personalized shopping experience.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240906T061809Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Sign In" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{97655800-3FCB-4D86-A0BD-2E8294A0844D}" />

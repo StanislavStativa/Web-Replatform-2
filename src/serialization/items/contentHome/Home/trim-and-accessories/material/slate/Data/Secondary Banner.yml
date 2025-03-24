@@ -1,0 +1,61 @@
+﻿---
+ID: "c138fed5-6b00-44f8-8850-61df102152b9"
+Parent: "dd5cbeba-fa9f-4b64-9dc2-6dd579efdb51"
+Template: "787b638a-c8f3-461e-8fd9-fcc9e73c1f17"
+Path: "/sitecore/content/TTS/TileShop/Home/trim-and-accessories/material/slate/Data/Secondary Banner"
+BranchID: "100adfa3-cb63-4581-8fba-98dd7c97d0b7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{27EFC5A6-0BDD-4C09-B38E-A9E0C446B8EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240704T061538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Slate Finishing Pieces
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: <p>Finishing a tile design properly is almost as important as the design as a whole. When you accent your slate field tile with finishing pieces, the entire room comes together as a cohesive look. Pieces like Somersets, Durands, out corners and bullnoses elegantly define your room.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3408692d-abcd-42bf-8653-4ec15e0d3a0e"
+    - ID: "a07db640-53d6-4d69-a047-2ef7fdbcfd85"
+      Hint: RightColumnBackgroundColor
+      Value: Light
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240709T064413Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "Copper_Rust_RC_BDR:Category_Intro_Image+"
+    - ID: "fd469bb6-9433-4fc6-8ae6-0c64665aa5b0"
+      Hint: RelatedLinks
+      Value: |
+        {D15F241C-1393-4B9D-AFC3-1F7E8B65772E}
+        {13D47D96-3A1A-4A85-90BD-2AB396EFAAB7}
+        {2A635489-9028-4846-B091-E46DBB5490C4}
+        {901B2310-5C04-454F-9151-B2D95AB14B54}
+        {BAC130F4-C8A0-470D-8124-54CCBC156BAB}
+        {3F6567C5-C2D6-4E53-AD22-E2F1F29F883D}
+        {89A45B2C-DD40-480D-9386-248C12BAAE1B}
+    - ID: "ff4cf8c3-5536-4f4a-8707-e36321f8a050"
+      Hint: RightColumnTitle
+      Value: Related Links

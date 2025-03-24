@@ -1,0 +1,34 @@
+﻿---
+ID: "36116672-bf08-4173-b728-7f7dc4be25ca"
+Parent: "9fcf2dda-5fba-4e80-a8e3-e213fb654384"
+Template: "7339bea4-6883-4343-adf5-063260672149"
+Path: /sitecore/content/TTS/Global Content/Areas/ENTRYWAY
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "106048ae-c5ba-4335-9f1c-022be5ad6084"
+      Hint: AreaName
+      Value: Entryway
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230307T083942Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anonymous
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b508fe3c-932d-47a0-b954-f4b26e22c125"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kulsh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240126T165455Z

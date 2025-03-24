@@ -1,0 +1,30 @@
+﻿---
+ID: "9faf128e-0dc6-4edb-9fb2-68ad5e3c3db8"
+Parent: "a9090a7e-b513-4ab3-bcb1-f84775e8cedf"
+Template: "a9090a7e-b513-4ab3-bcb1-f84775e8cedf"
+Path: /sitecore/templates/Feature/TTS/Common/Rendering Parameters/Alignment/_TitleAlignment/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32bf8c5e-1618-409e-8028-cc06031f6fa2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohit.gupta1@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240508T133641Z
+    - ID: "dbaac69b-8753-43c6-92de-ce4824d1b42a"
+      Hint: TitleAlignment
+      Value: Left

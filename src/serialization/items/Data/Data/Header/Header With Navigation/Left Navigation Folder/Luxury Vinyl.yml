@@ -1,0 +1,41 @@
+﻿---
+ID: "3ec78dfe-df13-460a-b967-3d90a4c38f3f"
+Parent: "ab4518be-cd34-4543-b183-e3aa8c73e7e0"
+Template: "06508c5a-ea0e-4619-8981-6a44edf9bd2f"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Luxury Vinyl
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T060202Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Luxury Vinyl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Achieve the timeless beauty of natural wood and stone with this durable, easy-to-maintain and -install material."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd213d1f-cdba-456a-b3eb-c46cbf8341ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "cb14d512-9962-459b-a145-f382235cb5d1"
+      Hint: ChildMenu
+      Value: |
+        {4BC430C7-3A31-4F0E-BC9E-ED6DAA945C79}
+        {5A6736F8-174A-4F11-89CA-B5ACA90D80BC}
+        {30006214-AD51-4201-A587-A98010AB317D}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T115807Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LVT_Cyrus_Plus_Fauna_DOG_3:Hero_Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: 

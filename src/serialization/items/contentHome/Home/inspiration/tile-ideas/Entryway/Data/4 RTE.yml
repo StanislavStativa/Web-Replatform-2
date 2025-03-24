@@ -1,0 +1,42 @@
+﻿---
+ID: "b2c5959b-af4f-4502-95f0-836cb2ec426e"
+Parent: "a0cb9766-e764-4380-b3e6-89b4893e0710"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/inspiration/tile-ideas/Entryway/Data/4 RTE"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240614T102034Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div>
+        <h2 class="lato-h1 mb-8">Wood Look</h2>
+        <p class="mb-4">Wood-look tiles have become a very popular option for homeowners who want to combine the timeless beauty of wood with the long-lasting durability of tile. Advances in tile technology have managed to duplicate the distinctive grains, knots, colors and patterns of natural wood to achieve a realistic alternative. Faux wood adds warmth to your entryway decor and can provide a rustic, farmhouse vibe. Check out our newest designs in person by stopping in to your local store.
+        </p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5490adba-e352-423c-a084-86c00625e127"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ashwani.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240813T200212Z

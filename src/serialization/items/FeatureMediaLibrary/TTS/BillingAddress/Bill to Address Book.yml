@@ -1,0 +1,60 @@
+﻿---
+ID: "58368f31-636e-4405-8013-e6da8f1a0994"
+Parent: "d6a4cf20-f2bb-48ca-877d-2feca64e7e23"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/TTS/BillingAddress/Bill to Address Book
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/58368F31636E44058013E6DA8F1A0994.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 45
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d1583cc9-64f6-48af-8cea-7ef556573870"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAP/SURBVHgBzZmBNTwxEMZjK6ACVIAK0AEV0AEdoAJUgApQASpABe4quOsg//zmmX17K9lksnvv/b/39h13m8mXZDLzZbLhA1wllsul+/7+di8vL242m7mvry/5jkexs7Mjz/7+vjs6OnJ7e3vy/xhs1JD++Phwj4+PQnZzc1PIQGp7e1s+u2AwDII2DOr9/V3ePz8/d2dnZ64K3oDQoQ8d+kDUX11d+Z+fH28FbR4eHnyYbXnC4L0VRaTpqEt2sVj4KdAl//b2VtwuS/r5+VnIXl5eTka2j9vbW+nj+vq66P1B0hjBGMTXDVaTGT85OclOTnIj3tzcyGYLy1a823WzsfmAbtLDw8Oi9mzY09NT+aRf2sfQuAkIQ/L4+NiFWZLooIQZAFFid3fXPT09Ze3Qhj4Ji9hLoj/1bA5cojQy8F7O59Vmqc9iJ4ROsRmD6xOwhiHeJ6LkQHRgjkqjhE5GbD+tkA5LKU8pQnIR0qWw2meAEO+vYEtaY6YlYbB8qSWMgUFCwgLyQ9+tWtI12QmDljZMCC5iiffqJt02Ej0IVaBaC6wRRC/C5v39ffudkCa88UONwa6iy2E+n8tnKv6mcHFx4e7u7tr/hTRqjR+sQNERi0sRlvqPCiyBTqjmgAbXYOQ1xkgCDLgUr6+vVSsKSFK0Bw3sawiD/gwMgazJAGv3DRPU9kMECP7ia0E4wkYOxOeS91LQKAKYZZOWjYFwOTRwDXU1h4YusBFWzOPP/vPz048B7bETi9kqDUpSfQ56WGgIWVtbW64Wergl/LFZumoOPz44OHDah+aDKSBTbgHZCXfAR2nPJ+kcKdDPdgge9XtWg9nCv2tcRWda3MNCGrK0gUSMZA50CmkGayXfkrYcKunEeghNAbIEAYtI0/3HaaNI9LDEdDL14TbEbSGes8vv7ldsuRJ5OVXISoHJyJ1qqLnwHmhWMk0CpE8iw9hyVgrYzskBOGr/DYdRrcGlwO/rIgyQEXqCT4FBwRU0eszv6tX/DVrc1FKESFNGMLQ8Vt1sBbaHVpKSRtc9hTTKi9GkfJtqqEU3W4Ht1MFAea2oQ92dGtJi6CqsdUAzagwxFdmSJv4NqbUphFUK2I4lrFSoXal7aJ0hFo8hvK6qaWoyUurwT1mMZSrJUOsGbpEqBEVLvfjQmFPGWCjhVAaOktYCYEmteGpoTXxIMiSL6krcWiobA3XNXH/Z6ws1VHOhUwqVqTwlE1R0UaTFydoTRwqsJu5AWLPc6RRfyUG2e+JAKtaCEKe+y4a3HipM94hAyetVGn9Twg2pONmGGeQdzW7u91xZewKqurFVoAnQ2mgHlbd94aPXzlr9RKkh0KxFyC5Gke4Dcn1hpXfjU+IfCRMZi4JXKEAAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1130
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 45 x 45
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 45
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240720T070537Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Bill to Address Book
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70bddb6f-3db8-40e2-9e0e-1d8a1b63de91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jaydip.amrutlal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T070552Z

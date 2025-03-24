@@ -1,0 +1,67 @@
+﻿---
+ID: "19294376-ec70-409a-9411-feed03f977cc"
+Parent: "63592a59-2fac-4337-997f-307ba95b0c31"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/installation-care/care-maintenance/sealers/Data/RTE 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240627T062724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Keep Your Tiles Looking Fresh with Tile Sealer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text">
+        <p class="extra-small-bottom-margin">Tile sealers protect tile surfaces from stains, water damage and wear. Understanding the different types of sealers and how they work in various locations can help in maintaining the durability and appearance of tiles. Here&rsquo;s an overview of how tile sealers are used in common locations.</p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Where to Use Tile Sealer</span></h2>
+        <h3 class="extra-small-bottom-margin"><span class="h3">Backsplashes</span></h3>
+        <p class="extra-small-bottom-margin">Tile backsplashes are frequently exposed to water, oils and cooking splatters. A tile backsplash sealer, especially those made of porous materials like natural stone or unglazed ceramic, helps prevent staining and makes cleaning easier.</p>
+        <p class="extra-small-bottom-margin">Using a penetrating sealer will help prevent staining from grease, oil, and food coloring. Because <a href="/application/backsplash" class="font-bold underline">backsplashes</a> are often made with decorative, colorful tile, a penetrating sealer is preferred since it won't alter the appearance of the tile in the way a "wet look" tile sealer will.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Showers</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">It is usually necessary to use a sealer for <a href="/room/bathroom/shower-floor" class="font-bold underline">tile shower floors</a> as well as tile shower surrounds. All surfaces in a shower are routinely exposed to water and soap scum, so adding the protective layer of a tile sealer helps prevent water absorption and makes the tiles easier to clean. When selecting a shower tile sealer, it's important to go with one that offers strong moisture resistance such as a penetrating sealer, which are usually rated for indoor and outdoor use.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">
+        </p>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3">Floors</span></h3>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">Floor tile sealer is needed to protect flooring against dirt, spills and foot traffic. A water-based sealer will add an additional layer of durability to your <a href="/application/floor" class="font-bold underline">floor tile</a> while protecting it from stains and making it easier to clean.</p>
+        <p style="margin-left: 40px;" class="extra-small-bottom-margin">For marble floors specifically, a marble tile sealer is essential to protect against stains. A penetrating sealer is recommended to protect your <a href="/material/marble/floor" class="font-bold underline">marble floors</a> for years to come.</p>
+        <p style="margin-left: 40px;">
+        </p>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Tips for Applying Tile Sealer</span></h2>
+        <ul>
+            <li><strong>Apply it on a clean, dry surface</strong>. If the tile is dirty, the sealer may not adhere or you may end up with patchy coverage.</li>
+            <li><strong>Work in sections</strong>. Especially for larger areas, it's easier to manage the application process by tackling the floor or wall in sections.</li>
+            <li><strong>Allow the sealer to cure fully</strong>. The curing time can vary depending on the type of sealer and environmental conditions, but it is typically 24 hours.</li>
+        </ul>
+        <h2 class="extra-small-bottom-margin"><span class="h2"></span></h2>
+        <h2 class="extra-small-bottom-margin"><span class="h2">We're Here to Help</span></h2>
+        <p>Our expert staff are available to help you pick the right sealer for your tile floor, shower, backsplash or other area. Visit <a href="/store-locator/" class="font-bold underline">one of our locations</a> to speak with one of our associates.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35464547-2a69-4792-94e4-08c297de1edb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240911T131643Z

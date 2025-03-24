@@ -1,0 +1,59 @@
+﻿---
+ID: "03542f86-0bed-4ab4-b26f-8c766e3606eb"
+Parent: "0cb718bf-80a6-435c-ab4b-03fa35a3a3e9"
+Template: "22818b63-2fea-4d15-aa4a-7bf1f6a889aa"
+Path: "/sitecore/content/TTS/TileShop/Home/resources/what-is-travertine-tile/Data/What is Travertine Tile"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240625T075335Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <h1>What is Travertine Tile?</h1>
+        <h6>Last Updated: 08/02/2019</h6>
+        <br />
+        What is travertine tile? Travertine is a type of limestone that is formed by mineral deposits from natural springs. This sedimentary stone is created by a rapid precipitation of calcium carbonate, known as calcite. Other minerals mix together with the calcite to create unique swirls and movement that give travertine its distinctive character.<br /><br />
+        <img src="https://s7d1.scene7.com/is/image/TileShop/NAVANO-Navona-Light_Kelli-A_Detail2_Franklin_Img%3aImage_Caption_Hero" alt="travertine bathroom shower tile" title="travertine bathroom shower tile" />
+        
+        <h4><br />Travertine Finishes</h4>
+        <br />
+        <p><a href="/material/travertine">Travertine</a> is a versatile product choice as it has many different finishes to help you achieve the look you are going for.</p>
+        <br />
+        <p><strong>Polished</strong>:&nbsp;Create a look of luxury with the high shine from polished travertine. Polished travertine is smoothed and glossed over to get a shiny reflective surface.</p>
+        <br />
+        <p><strong>Honed</strong>: Honed finishes provide a smooth yet matte finish without any shine. Honed travertine can either be filled or unfilled. A honed look and texture is achieved by grinding and buffing one side of the unfinished stone.</p>
+        <br />
+        <p><strong>Brushed</strong>: Utilize the natural look of travertine with a brushed finish. This textured finish features an unfilled exterior and provides a rustic yet sophisticated look. This look is obtained by brushing the surface of the stone with a brush or wire wheel until the preferred texture is achieved.</p>
+        <br />
+        <p><strong>Tumbled</strong>: To create tumbled travertine, pieces of stone are cut, sized and placed in a rubber coated or plastic barrel with an abrasive grit and water. Sometimes a small amount of acid is mixed in. The tub/barrel is turned over and over again, allowing for the stones to rub against each other. The edges of the travertine are softened and worn down. This feature provides a much more natural, worn look. Like brushed travertine, tumbled travertine has a high-textured finish. The major difference between the two is that tumbled travertine has softened edges.</p>
+        <br />
+        <p>DIY Installation tip: Tumbled travertine should be sealed before and after grouting.&nbsp;&nbsp;</p><p><br /></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9463807-ba2b-49fa-9422-87f0f8744ba7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T083040Z

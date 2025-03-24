@@ -1,0 +1,44 @@
+﻿---
+ID: "aa885489-ab98-4e3d-8ac1-4ca5cac88b92"
+Parent: "b794768a-77fb-4857-9970-5394ebd53a42"
+Template: "94b4c0b7-7bff-4325-858d-de9734a9aece"
+Path: /sitecore/content/TTS/TileShop/Home/application/floor/Data/Express Your Style
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5c2e5c-2cc3-48f8-96db-01be2cab20a2"
+      Hint: Tiles
+      Value: |
+        {1130435C-0D40-46D2-A733-532BF2BF123B}
+        {9CC48748-7496-4710-99C1-42B2C7A5442C}
+        {3948D6D8-6AFC-43E4-BDC0-F85DD5241EA4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240701T131102Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: "Express Your Style: Color, Shape and Pattern"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: |
+        <div class="rich-text"><div>There are countless ways to add individuality to your space with patterned tiles for floor: </div><ul><li><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Color: </strong>Color can define the look and feel of a room, and in the case of flooring, color literally creates your space from the ground up.</li><li><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Shapes: </strong><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">From </span><a href="/featured/large-format?Shape=Rectangle" class="font-bold">large-format rectangles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> to small-scale </span><a href="/shape/penny-round" class="font-bold">penny rounds</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">, shapes allow you to make tile floors all your own. </span><a href="/featured/mosaics" class="font-bold">Mosaic tiles</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> create unique patterns through shapes, and offer additional visual interest when they combine multiple materials, such as a mix of glass and stone. </span></li><li><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Pattern: </strong><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Whether you add in just a few tiles as accents around a hearth, or do wall-to-wall pattern in a powder room for big impact even in a small space.</span></li><li><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span><strong style="color: #323338; margin: 0px; padding: 0px; border: 0px;">Styling: </strong><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">One of the wonderful things about tile is that even the most “basic” option is packed with possibility (case in point: </span><a href="/featured/subway?Color=White" class="font-bold">white subway tile</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">). From herringbone to straight-stacked, offset and brick lay, arranging the same tile in different ways during the installation process is an easy way to add layers of texture to a space. </span></li></ul></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88a39bfb-947c-459a-9bf1-bc96daafe851"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240731T061712Z

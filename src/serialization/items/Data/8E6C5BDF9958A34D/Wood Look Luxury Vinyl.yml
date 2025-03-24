@@ -1,0 +1,38 @@
+﻿---
+ID: "b5bacc54-f53d-4c3b-918a-f5d7a4f65c9b"
+Parent: "c92886ea-06dd-4a2b-91d7-cea3f9f01e4b"
+Template: "a61643fd-149a-4c31-b09b-2d3778a5c5f5"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Tile and Stone/Material/Luxury Vinyl/Wood Look Luxury Vinyl
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T112751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: Wood Look Luxury Vinyl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kZiu0RiNxf
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "efaa800c-f04f-4a5c-a250-2945d7a3d98f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\aFU6oHBAEl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240720T144517Z
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link class="" id="{1C8984DD-D17D-4333-AA3F-6454DA18E343}" querystring="" anchor="" target="" title="" linktype="internal" text="Wood Look Luxury Vinyl" url="/TTS/TileShop/Home/tile/material/luxury-vinyl/wood-look-luxury-vinyl-flooring" />

@@ -1,0 +1,36 @@
+﻿---
+ID: "30006214-ad51-4201-a587-a98010ab317d"
+Parent: "3ec78dfe-df13-460a-b967-3d90a4c38f3f"
+Template: "b3ad9479-36c1-4595-85ee-77dc1557b5b9"
+Path: /sitecore/content/TTS/TileShop/Data/Header/Header With Navigation/Left Navigation Folder/Luxury Vinyl/Shop All Luxury Vinyl
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240503T065402Z
+    - ID: "58351303-1764-4885-a5f5-5f4df623669e"
+      Hint: Title
+      Value: 
+    - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
+      Hint: Description
+      Value: "Achieve the timeless beauty of natural wood and stone with this durable, easy-to-maintain and -install material."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8d65574-e17f-4d7c-ba3e-b6a2f3e86b53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T115938Z
+    - ID: "dbdbc6c6-9990-4f89-8285-10e6c6503241"
+      Hint: Image
+      Value: "LVT_Cyrus_Plus_Fauna_DOG_3:Hero_Desktop"
+    - ID: "e66ad410-c1fe-4220-9c17-a4891ba540ac"
+      Hint: CTA
+      Value: |
+        <link text="Shop All Luxury Vinyl" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8A9A1BC2-AECD-4FC7-B133-80110056B838}" />
