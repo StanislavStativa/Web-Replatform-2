@@ -1,7 +1,7 @@
 {
   "name": "TileShop",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
-  "version": "22.4.0",
+  "version": "22.5.0-beta.4",
   "private": true,
   "config": {
     "appName": "TileShop",
@@ -37,7 +37,7 @@
     "@sitecore-cloudsdk/core": "^0.4.2",
     "@sitecore-cloudsdk/events": "^0.4.2",
     "@sitecore-feaas/clientside": "^0.5.19",
-    "@sitecore-jss/sitecore-jss-nextjs": "^22.4.0",
+    "@sitecore-jss/sitecore-jss-nextjs": "^22.5.0-beta.4",
     "@sitecore/components": "^2.0.1",
     "@splidejs/react-splide": "^0.7.12",
     "@tanstack/react-query": "^5.37.1",
@@ -98,8 +98,8 @@
     "@graphql-codegen/typescript-resolvers": "^4.0.6",
     "@graphql-typed-document-node/core": "^3.2.0",
     "@netlify/plugin-nextjs": "^5.9.4",
-    "@sitecore-jss/sitecore-jss-cli": "^22.4.0",
-    "@sitecore-jss/sitecore-jss-dev-tools": "^22.4.0",
+    "@sitecore-jss/sitecore-jss-cli": "^22.5.0-beta.4",
+    "@sitecore-jss/sitecore-jss-dev-tools": "^22.5.0-beta.4",
     "@types/google.maps": "^3.58.1",
     "@types/js-cookie": "^3.0.6",
     "@types/jsdom": "^21.1.7",
