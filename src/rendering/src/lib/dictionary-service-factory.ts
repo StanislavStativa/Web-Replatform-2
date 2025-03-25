@@ -39,6 +39,7 @@ export class DictionaryServiceFactory {
           */
           retries: (process.env.GRAPH_QL_SERVICE_RETRIES &&
             parseInt(process.env.GRAPH_QL_SERVICE_RETRIES, 10)) as number,
+          useSiteQuery: true,
         })
       : new RestDictionaryService({
           apiHost: config.sitecoreApiHost,
