@@ -6,6 +6,7 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { siteResolver } from 'lib/site-resolver';
 import config from 'temp/config';
+import { clientFactory } from '@/lib/client-factory';
 
 interface ProductSitemap {
   ProductCode: string;
@@ -46,8 +47,7 @@ const sitemapApi = async (
 
   // create sitemap graphql service
   const sitemapXmlService = new GraphQLSitemapXmlService({
-    endpoint: config.graphQLEndpoint,
-    apiKey: config.sitecoreApiKey,
+    clientFactory,
     siteName: site.name,
   });
 
