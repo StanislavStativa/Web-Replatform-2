@@ -5,7 +5,7 @@ import {
   ErrorPages,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
-import NotFound from 'src/NotFound';
+// import NotFound from 'src/NotFound';
 import { componentBuilder } from 'temp/componentBuilder';
 import Layout from 'src/Layout';
 import { GetStaticProps } from 'next';
@@ -14,7 +14,7 @@ import clientFactory from 'lib/graphql-client-factory';
 
 const Custom404 = (props: SitecorePageProps): JSX.Element => {
   if (!(props && props.layoutData)) {
-    return <NotFound />;
+    // return <NotFound />;
   }
 
   return (
