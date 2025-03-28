@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
-import NotFound from 'src/NotFound';
+// import NotFound from 'src/NotFound';
 import Layout from 'src/Layout';
 import {
   SitecoreContext,
@@ -19,7 +19,7 @@ import { useAtom } from 'jotai';
 import { anonymousSignIn } from '@/data/order-cloud/auth.service';
 
 const SitecorePage = ({
-  notFound,
+  // notFound,
   componentProps,
   layoutData,
   headLinks,
@@ -34,9 +34,9 @@ const SitecorePage = ({
       anonymousSignIn();
     }
   }, [isAuthenticated]);
-  if (notFound || !layoutData?.sitecore?.route) {
-    return <NotFound />;
-  }
+  // if (notFound || !layoutData?.sitecore?.route) {
+  //   return <NotFound />;
+  // }
 
   const isEditing = layoutData.sitecore.context.pageEditing;
 

@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { QueryClient, dehydrate } from '@tanstack/react-query';
-import NotFound from 'src/NotFound';
+// import NotFound from 'src/NotFound';
 import Layout from 'src/Layout';
 import {
   SitecoreContext,
@@ -14,47 +14,47 @@ import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
 import { sitemapFetcher } from 'lib/sitemap-fetcher';
 import { QUERY_CONFIG } from '@/constants/react-query';
-import { useAtom } from 'jotai';
-import { authorizationAtom } from '@/data/atoms/authorization';
-import { anonymousSignIn, refreshAccessToken } from '@/data/order-cloud/auth.service';
-import { ROUTES } from '@/utils/routes';
-import router from 'next/router';
+// import { useAtom } from 'jotai';
+// import { authorizationAtom } from '@/data/atoms/authorization';
+// import { anonymousSignIn, refreshAccessToken } from '@/data/order-cloud/auth.service';
+// import { ROUTES } from '@/utils/routes';
+// import router from 'next/router';
 
 const SitecorePage = ({
-  notFound,
+  // notFound,
   componentProps,
   layoutData,
   headLinks,
 }: SitecorePageProps): JSX.Element => {
-  const [{ isAuthenticated, refreshToken }] = useAtom(authorizationAtom);
-  const isAuthRequired = (
-    layoutData?.sitecore?.route?.fields?.IsProtectedPage as { value: boolean }
-  )?.value;
+  // const [{ isAuthenticated, refreshToken }] = useAtom(authorizationAtom);
+  // const isAuthRequired = (
+  //   layoutData?.sitecore?.route?.fields?.IsProtectedPage as { value: boolean }
+  // )?.value;
   const isEditing = layoutData?.sitecore?.context?.pageEditing;
-  useEffect(() => {
-    if (
-      (isAuthRequired && !isAuthenticated && !isEditing) ||
-      (!isAuthenticated && !isEditing && router?.asPath.includes(ROUTES.MYACCOUNT))
-    ) {
-      router.push(`${ROUTES.EMAILSEARCH}?returnurl=${router.asPath}`);
-    }
-  }, [isAuthenticated, isAuthRequired, router]);
+  // useEffect(() => {
+  //   if (
+  //     (isAuthRequired && !isAuthenticated && !isEditing) ||
+  //     (!isAuthenticated && !isEditing && router?.asPath.includes(ROUTES.MYACCOUNT))
+  //   ) {
+  //     router.push(`${ROUTES.EMAILSEARCH}?returnurl=${router.asPath}`);
+  //   }
+  // }, [isAuthenticated, isAuthRequired, router]);
 
   useEffect(() => {
     // Since Sitecore editors do not support Fast Refresh, need to refresh editor chromes after Fast Refresh finished
     handleEditorFastRefresh();
   }, []);
-  useEffect(() => {
-    if (!isAuthenticated && refreshToken) {
-      refreshAccessToken(refreshToken);
-    } else if (!isAuthenticated) {
-      anonymousSignIn();
-    }
-  }, [isAuthenticated, refreshToken]);
-  if (notFound || !layoutData?.sitecore?.route) {
-    // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
-    return <NotFound />;
-  }
+  // useEffect(() => {
+  //   if (!isAuthenticated && refreshToken) {
+  //     refreshAccessToken(refreshToken);
+  //   } else if (!isAuthenticated) {
+  //     anonymousSignIn();
+  //   }
+  // }, [isAuthenticated, refreshToken]);
+  // if (notFound || !layoutData?.sitecore?.route) {
+  //   // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
+  //   return <NotFound />;
+  // }
 
   return (
     <ComponentPropsContext value={componentProps}>
