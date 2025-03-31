@@ -535,7 +535,6 @@ const Layout = ({
           href="/assets/Images/favicon/android-chrome-512x512.png"
           sizes="512x512"
         />
-        <link rel="manifest" href="/assets/Images/site.webmanifest.json" />
         <link rel="mask-icon" href="/assets/Images/safari-pinned-tab.svg" color="#950715" />
         <meta name="apple-mobile-web-app-title" content="The Tile Shop" />
         <meta name="application-name" content="The Tile Shop" />
