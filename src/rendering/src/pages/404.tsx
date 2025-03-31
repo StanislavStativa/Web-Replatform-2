@@ -15,7 +15,12 @@ import NotFound from '@/NotFound';
 
 const Custom404 = (props: SitecorePageProps): JSX.Element => {
   if (!(props && props.layoutData)) {
-    return <NotFound />;
+    return (
+      <>
+        <div>404!!!!!!!!!!!!!!!</div>
+        <NotFound />
+      </>
+    );
   }
 
   return (
