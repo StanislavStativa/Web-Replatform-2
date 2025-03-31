@@ -22,8 +22,8 @@ import { useAtom } from 'jotai';
 import { CartItemDetails } from './core/cartStore/CartStoreType';
 import { cartDetailAtom } from './core/cartStore/cartState';
 import { EXCLUDED_TEMPLATES } from './utils/constants';
-import { ROUTES } from './utils/routes';
-import { authorizationAtom } from './data/atoms/authorization';
+// import { ROUTES } from './utils/routes';
+// import { authorizationAtom } from './data/atoms/authorization';
 const EmarsysTracking = dynamic(
   () => import('./core/molecules/EmersaysTracking/EmersaysTracking'),
   {
@@ -79,10 +79,11 @@ const Layout = ({
   ogTitle,
   ogCanonical,
 }: LayoutProps): JSX.Element => {
-  const { route } = layoutData.sitecore;
+  console.log('---------------------------------------', layoutData);
+  const { route } = layoutData?.sitecore;
   const fields = route?.fields as RouteFields;
   const router = useRouter();
-  const [{ isAuthenticated }] = useAtom(authorizationAtom);
+  //const [{ isAuthenticated }] = useAtom(authorizationAtom);
   const isPageEditing = layoutData?.sitecore?.context?.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
   const googleTagManagerId = process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID;
@@ -276,17 +277,17 @@ const Layout = ({
     isEventTriggered,
   ]);
 
-  useEffect(() => {
-    const urlWithoutQuery = new URL(router?.asPath, location.origin).pathname.toLocaleLowerCase();
-    const registerPaths =
-      urlWithoutQuery.includes(ROUTES.REGISTERROUTE) ||
-      urlWithoutQuery.includes(ROUTES.REGISTERCONFIRM) ||
-      urlWithoutQuery.includes(ROUTES.FORGOTROUTE) ||
-      urlWithoutQuery.includes(ROUTES.EMAILSEARCH);
-    if (isAuthenticated && registerPaths) {
-      router.push(ROUTES.MYACCOUNT);
-    }
-  }, [isAuthenticated, router]);
+  // useEffect(() => {
+  //   const urlWithoutQuery = new URL(router?.asPath, location.origin).pathname.toLocaleLowerCase();
+  //   const registerPaths =
+  //     urlWithoutQuery.includes(ROUTES.REGISTERROUTE) ||
+  //     urlWithoutQuery.includes(ROUTES.REGISTERCONFIRM) ||
+  //     urlWithoutQuery.includes(ROUTES.FORGOTROUTE) ||
+  //     urlWithoutQuery.includes(ROUTES.EMAILSEARCH);
+  //   if (isAuthenticated && registerPaths) {
+  //     router.push(ROUTES.MYACCOUNT);
+  //   }
+  // }, [isAuthenticated, router]);
 
   if (customerId) {
     triggerEvent({

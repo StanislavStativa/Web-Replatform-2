@@ -14,9 +14,9 @@ import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
 import { QUERY_CONFIG } from '@/constants/react-query';
 import { GenericService, ProductService } from '@/api';
-import { authorizationAtom } from '@/data/atoms/authorization';
-import { useAtom } from 'jotai';
-import { anonymousSignIn } from '@/data/order-cloud/auth.service';
+// import { authorizationAtom } from '@/data/atoms/authorization';
+// import { useAtom } from 'jotai';
+// import { anonymousSignIn } from '@/data/order-cloud/auth.service';
 
 const SitecorePage = ({
   // notFound,
@@ -24,16 +24,16 @@ const SitecorePage = ({
   layoutData,
   headLinks,
 }: SitecorePageProps): JSX.Element => {
-  const [{ isAuthenticated }] = useAtom(authorizationAtom);
+  //const [{ isAuthenticated }] = useAtom(authorizationAtom);
   useEffect(() => {
     handleEditorFastRefresh();
   }, []);
 
-  useEffect(() => {
-    if (!isAuthenticated) {
-      anonymousSignIn();
-    }
-  }, [isAuthenticated]);
+  // useEffect(() => {
+  //   if (!isAuthenticated) {
+  //     anonymousSignIn();
+  //   }
+  // }, [isAuthenticated]);
   // if (notFound || !layoutData?.sitecore?.route) {
   //   return <NotFound />;
   // }
