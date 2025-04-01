@@ -5,19 +5,5 @@
     "esbenp.prettier-vscode",
     "mikestead.dotenv",
     "redhat.vscode-yaml",
-    "csstools.postcss",
-    "sourcegraph.cody-ai",
-    "wallabyjs.console-ninja",
-    "editorconfig.editorconfig",
-    "mhutchie.git-graph",
-    "eamodio.gitlens",
-    "wix.vscode-import-cost",
-    "oderwat.indent-rainbow",
-    "pkief.material-icon-theme",
-    "rvest.vs-code-prettier-eslint",
-    "sonarsource.sonarlint-vscode",
-    "bradlc.vscode-tailwindcss",
-    "rangav.vscode-thunder-client",
-    "pflannery.vscode-versionlens"
   ]
 }

@@ -17,6 +17,4 @@ export type SitecorePageProps = {
   notFound: boolean;
   layoutData: LayoutServiceData;
   headLinks: HTMLLink[];
-  dehydratedState: unknown;
-  productData: unknown;
 };

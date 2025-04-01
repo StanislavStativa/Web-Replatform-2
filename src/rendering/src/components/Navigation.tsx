@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
-import { LinkField, Text, TextField, useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
-import Link from '@/core/atoms/Link/Link';
+import {
+  Link,
+  LinkField,
+  Text,
+  TextField,
+  useSitecoreContext,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
   Id: string;
