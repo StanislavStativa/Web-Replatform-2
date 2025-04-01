@@ -118,6 +118,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
       queryKey: ['layoutData', ...(context.params?.path || [])],
       queryFn: () => sitecorePagePropsFactory.create(context),
     });
+
+    console.log('+++++++++++++++++++++++++++++++++++++++++++++props', props);
     return {
       props: {
         ...props,

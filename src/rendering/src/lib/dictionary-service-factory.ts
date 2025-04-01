@@ -5,7 +5,7 @@ import {
   constants,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import config from 'temp/config';
-import { clientFactory } from './client-factory';
+import clientFactory from 'lib/graphql-client-factory';
 
 /**
  * Factory responsible for creating a DictionaryService instance

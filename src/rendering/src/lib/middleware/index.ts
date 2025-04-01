@@ -249,6 +249,7 @@ export default async function middleware(
     const splitDomains = process.env.BLOG_DOMAINS_URL?.split(',') || [];
     const modifiedHtml = replaceBlogUrls(fetchHTML, splitDomains, updateBlogURL);
     const nextURL = req.nextUrl.origin || 'https://www.tileshop.com';
+
     const env = process.env.NEXT_PUBLIC_ENV;
     const updatedHTML = modifiedHtml
       .replace(
