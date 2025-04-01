@@ -76,8 +76,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     },
   });
 
-  console.log('++++++++++++++++++++++++++sitecoreData', sitecoreData);
-
   return {
     props: {
       ...sitecoreData,

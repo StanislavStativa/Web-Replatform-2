@@ -135,9 +135,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
   } else {
     props.notFound = true;
   }
-
-  console.log('!!!+++++++++++++++++++++++++++++++++++++++++++++props', props);
-
   return {
     props: {
       ...props,

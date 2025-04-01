@@ -175,8 +175,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
     },
   });
 
-  console.log('+45454545+++++++++++++++++++++++++sitecoreData', sitecoreData);
-
   return {
     props: {
       ...sitecoreData,
