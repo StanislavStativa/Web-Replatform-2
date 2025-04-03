@@ -56,7 +56,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
   });
   let resultErrorPages: ErrorPages | null = null;
 
-  if (process.env.DISABLE_SSG_FETCH?.toLowerCase() !== 'true') {
+  if (!process.env.DISABLE_SSG_FETCH) {
     try {
       resultErrorPages = await errorPagesService.fetchErrorPages();
     } catch (error) {

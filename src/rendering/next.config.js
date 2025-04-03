@@ -29,14 +29,14 @@ const nextConfig = {
 
   // Enable React Strict Mode
   reactStrictMode: true,
-
-  // Disable the X-Powered-By header. Follows security best practices.
-  poweredByHeader: false,
+  // Enable source maps in production builds
+  // productionBrowserSourceMaps: false,
 
   // use this configuration to ensure that only images from the whitelisted domains
   // can be served from the Next.js Image Optimization API
   // see https://nextjs.org/docs/app/api-reference/components/image#remotepatterns
   images: {
+    dangerouslyAllowSVG: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -45,7 +45,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'xmc-*.**',
+        hostname: 'xmcloudcm.**',
         port: '',
       },
       {
@@ -53,10 +53,26 @@ const nextConfig = {
         hostname: 'feaas*.blob.core.windows.net',
         port: '',
       },
-    ]
+      {
+        protocol: 'https',
+        hostname: 'tileshop.scene7.com',
+        port: '',
+      },
+      {
+        protocol: 'https',
+        hostname: 's7d1.scene7.com',
+        port: '',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.sitecorecloud.io',
+        port: '',
+      },
+    ],
   },
 
   async rewrites() {
+    console.log('jssConfig.sitecoreApiHost', jssConfig.sitecoreApiHost);
     // When in connected mode we want to proxy Sitecore paths off to Sitecore
     return [
       // API endpoints
@@ -79,8 +95,28 @@ const nextConfig = {
         source: '/sitecore/service/:path*',
         destination: `${jssConfig.sitecoreApiHost}/sitecore/service/:path*`,
       },
+      {
+        source: '/shop/sitemap.xml',
+        destination: '/api/shop/sitemap',
+      },
+      {
+        source: '/stat/assets/sitemap-0.xml',
+        destination: '/stat/assets/sitemap-0',
+      },
     ];
   },
+
+  headers: () => [
+    {
+      source: '/stat/api/locations/search',
+      headers: [
+        {
+          key: 'Cache-Control',
+          value: 'no-store',
+        },
+      ],
+    },
+  ],
 };
 
 module.exports = () => {

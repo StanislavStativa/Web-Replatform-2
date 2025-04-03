@@ -1,16 +1,15 @@
 import { SitecorePageProps } from 'lib/page-props';
-import { getDesignLibraryStylesheetLinks } from '@sitecore-jss/sitecore-jss-nextjs';
+import { getComponentLibraryStylesheetLinks } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Plugin } from '..';
 import config from 'temp/config';
 
 class ComponentThemesPlugin implements Plugin {
-  // Make sure to run this plugin after the personalization plugin, since it relies on the layout data
-  order = 10;
+  order = 2;
 
   async exec(props: SitecorePageProps) {
     // Collect FEAAS, BYOC, SXA component themes
     props.headLinks.push(
-      ...getDesignLibraryStylesheetLinks(
+      ...getComponentLibraryStylesheetLinks(
         props.layoutData,
         config.sitecoreEdgeContextId,
         config.sitecoreEdgeUrl

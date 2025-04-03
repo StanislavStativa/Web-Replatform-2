@@ -9,10 +9,13 @@ import { jssConfigFactory } from './config';
   Generates the /src/temp/config.js file which contains runtime configuration
   that the app can import and use.
 */
+// JSS_APP_NAME env variable has been deprecated since v.21.6, SITECORE_SITE_NAME should be used instead
 const defaultConfig: JssConfig = {
   sitecoreApiKey: process.env[`${constantCase('sitecoreApiKey')}`],
   sitecoreApiHost: process.env[`${constantCase('sitecoreApiHost')}`],
-  sitecoreSiteName: process.env[`${constantCase('sitecoreSiteName')}`],
+  sitecoreSiteName:
+    process.env[`${constantCase('sitecoreSiteName')}`] ||
+    process.env[`${constantCase('jssAppName')}`],
   graphQLEndpointPath: process.env[`${constantCase('graphQLEndpointPath')}`],
   defaultLanguage: process.env[`${constantCase('defaultLanguage')}`],
   graphQLEndpoint: process.env[`${constantCase('graphQLEndpoint')}`],
@@ -28,11 +31,6 @@ generateConfig(defaultConfig);
  * @param {JssConfig} defaultConfig Default configuration.
  */
 function generateConfig(defaultConfig: JssConfig): void {
-  // Handle undefined values
-  Object.keys(defaultConfig).forEach((prop) => {
-    defaultConfig[prop] = defaultConfig[prop] || '';
-  }, {});
-
   jssConfigFactory
     .create(defaultConfig)
     .then((config) => {
@@ -57,9 +55,7 @@ const config = {};\n`;
 
   // Set configuration values, allowing override with environment variables
   Object.keys(config).forEach((prop) => {
-    // Handle undefined values
-    const value = config[prop] || '';
-    configText += `config.${prop} = process.env.${constantCase(prop)} || '${value.trim()}';\n`;
+    configText += `config.${prop} = process.env.${constantCase(prop)} || '${config[prop]}',\n`;
   });
 
   configText += `module.exports = config;`;

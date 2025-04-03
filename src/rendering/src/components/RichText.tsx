@@ -20,7 +20,7 @@ export const Default = (props: RichTextProps): JSX.Element => {
 
   return (
     <div
-      className={`component rich-text ${props.params.styles.trimEnd()}`}
+      className={`component rich-text container mx-auto ${props.params.styles.trimEnd()} ${props?.params?.Styles?.includes('no-padding') ? '' : 'px-7 md:px-10 '}`}
       id={id ? id : undefined}
     >
       <div className="component-content">{text}</div>
