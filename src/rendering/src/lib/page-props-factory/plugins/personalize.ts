@@ -21,7 +21,11 @@ class PersonalizePlugin implements Plugin {
 
     // Modify layoutData to use specific variant instead of default
     // This will also set the variantId on the Sitecore context so that it is accessible here
-    personalizeLayout(props.layoutData, personalizeData.variantId);
+    personalizeLayout(
+      props.layoutData,
+      personalizeData.variantId,
+      personalizeData.componentVariantIds
+    );
 
     return props;
   }

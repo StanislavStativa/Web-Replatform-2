@@ -18,6 +18,7 @@ export class DictionaryServiceFactory {
   create(siteName: string): DictionaryService {
     return process.env.FETCH_WITH === constants.FETCH_WITH.GRAPHQL
       ? new GraphQLDictionaryService({
+          useSiteQuery: true,
           siteName,
           clientFactory,
           /*

@@ -1,6 +1,11 @@
+import {
+  Link,
+  LinkField,
+  Text,
+  TextField,
+  useSitecoreContext,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import React from 'react';
-import { Text, useSitecoreContext, LinkField, TextField } from '@sitecore-jss/sitecore-jss-nextjs';
-import Link from '@/core/atoms/Link/Link';
 
 interface Fields {
   data: {
@@ -12,7 +17,8 @@ interface Fields {
       field: {
         jsonValue: {
           value: string;
-          editable: string;
+          editable?: string;
+          metadata?: { [key: string]: unknown };
         };
       };
     };
@@ -24,7 +30,8 @@ interface Fields {
       field: {
         jsonValue: {
           value: string;
-          editable: string;
+          editable?: string;
+          metadata?: { [key: string]: unknown };
         };
       };
     };
@@ -43,11 +50,11 @@ type ComponentContentProps = {
 };
 
 const ComponentContent = (props: ComponentContentProps) => {
-  const id = props?.id;
+  const id = props.id;
   return (
-    <div className={`component title ${props?.styles}`} id={id ? id : undefined}>
-      <div className="component-content container mx-auto pl-3 pr-5 md:pr-0 md:pl-0 lg:py-3">
-        <div className="field-title">{props?.children}</div>
+    <div className={`component title ${props.styles}`} id={id ? id : undefined}>
+      <div className="component-content">
+        <div className="field-title">{props.children}</div>
       </div>
     </div>
   );
@@ -56,16 +63,11 @@ const ComponentContent = (props: ComponentContentProps) => {
 export const Default = (props: TitleProps): JSX.Element => {
   const datasource = props.fields?.data?.datasource || props.fields?.data?.contextItem;
   const { sitecoreContext } = useSitecoreContext();
-
-  const text: TextField = {
-    value: datasource?.field?.jsonValue?.value,
-    editable: datasource?.field?.jsonValue?.editable,
-  };
+  const text: TextField = datasource?.field?.jsonValue || {};
   const link: LinkField = {
     value: {
       href: datasource?.url?.path,
       title: datasource?.field?.jsonValue?.value,
-      editable: true,
     },
   };
   if (sitecoreContext.pageState !== 'normal') {
@@ -77,9 +79,9 @@ export const Default = (props: TitleProps): JSX.Element => {
   }
 
   return (
-    <ComponentContent styles={props?.params?.styles} id={props?.params?.RenderingIdentifier}>
+    <ComponentContent styles={props.params.styles} id={props.params.RenderingIdentifier}>
       <>
-        {sitecoreContext?.pageState === 'edit' ? (
+        {sitecoreContext.pageEditing ? (
           <Text field={text} />
         ) : (
           <Link field={link}>
