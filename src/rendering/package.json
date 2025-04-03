@@ -1,7 +1,7 @@
 {
   "name": "TileShop",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
-  "version": "22.1.0",
+  "version": "22.0.0",
   "private": true,
   "config": {
     "appName": "TileShop",
