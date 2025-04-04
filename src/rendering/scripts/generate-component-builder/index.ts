@@ -1,4 +1,4 @@
-// eslint-disable-next-line @typescript-eslint/no-var-requires
+// eslint-disable-next-line @typescript-eslint/no-require-imports
 const plugins = require('scripts/temp/generate-component-builder-plugins');
 import { PackageDefinition, ComponentFile } from '@sitecore-jss/sitecore-jss-dev-tools';
 
@@ -15,7 +15,7 @@ export interface ComponentBuilderPlugin {
   order: number;
   /**
    * A function which will be called during component builder generation
-   * @param {JssConfig} config Current (accumulated) config
+   * @param {JssConfig// eslint-disable-next-line @typescript-eslint/no-require-imports} config Current (accumulated) config
    */
   exec(config: ComponentBuilderPluginConfig): ComponentBuilderPluginConfig;
 }

@@ -11,4 +11,10 @@
   "plugins": ["@typescript-eslint", "prettier", "yaml", "react"],
   "ignorePatterns": [".generated/**/*", "**/*.d.ts", "**/*.js"],
   "rules": {},
+  "@typescript-eslint/no-unused-vars": [
+    "error",
+    {
+      "caughtErrorsIgnorePattern": ".",
+    },
+  ],
 }
