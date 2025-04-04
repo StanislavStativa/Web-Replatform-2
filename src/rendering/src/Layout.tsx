@@ -173,6 +173,8 @@ const Layout = ({
     queryFn: () => GenericService.genericGetSiteSettings(),
   });
 
+  console.log('---------------layoutData', layoutData);
+
   const headerScript = data?.headerScript?.value || '';
   const scriptBlocks = headerScript.match(/<script[^>]*>[\s\S]*?<\/script>/gi) || [];
 
