@@ -6,16 +6,10 @@ import { useOnlyEditor } from '@/hooks/useEditor';
 export const Default = (props: HeroBannerProps): JSX.Element => {
   const isEditing = useOnlyEditor();
 
-  return (
-    <>
-      HERO - <HeroBanner {...props} {...(!isEditing && { key: Date.now() })} />
-    </>
-  );
+  return <HeroBanner {...props} {...(!isEditing && { key: Date.now() })} />;
 };
 
 export const HeroBannerWithSecondaryCTA = (props: HeroBannerProps): JSX.Element => {
   const isEditing = useOnlyEditor();
   return <HeroBanner {...(!isEditing && { key: Date.now() })} {...props} />;
 };
-
-//export default withDatasourceCheck()(Default);
