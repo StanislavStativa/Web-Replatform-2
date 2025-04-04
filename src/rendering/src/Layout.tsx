@@ -91,6 +91,10 @@ const Layout = ({
   const [{ isAuthenticated }] = useAtom(authorizationAtom);
   const isPageEditing = layoutData?.sitecore?.context?.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
+
+  const theme = layoutData.sitecore.context.theme as string;
+  const contextSiteClass = `site-${theme?.toLowerCase()}`;
+
   const googleTagManagerId = process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID;
   const sitName: string | undefined = process.env.NEXT_PUBLIC_OG_SITE_NAME; //layoutData?.sitecore?.context?.site?.name;
   const { getData } = useLocalStorage();
@@ -571,7 +575,7 @@ const Layout = ({
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}
-      <div className={mainClassPageEditing}>
+      <div className={`${mainClassPageEditing} ${contextSiteClass} body`}>
         {layoutData.sitecore.context.renderingType === RenderingType.Component ? (
           <DesignLibrary {...layoutData} />
         ) : (
