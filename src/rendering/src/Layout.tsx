@@ -4,7 +4,13 @@
 import React, { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Script from 'next/script';
-import { Placeholder, Field, HTMLLink } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  Placeholder,
+  Field,
+  HTMLLink,
+  DesignLibrary,
+  RenderingType,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import config from 'temp/config';
 import Scripts from 'src/Scripts';
 import { useRouter } from 'next/router';
@@ -566,16 +572,28 @@ const Layout = ({
 
       {/* root placeholder for the app, which we add components to using route data */}
       <div className={mainClassPageEditing}>
-        <header>
-          <div id="header">{route && <Placeholder name="headless-header" rendering={route} />}</div>
-        </header>
-        <main className="mt-14 md:mt-24 lg:mt-32">
-          {children}
-          <div id="content">{route && <Placeholder name="headless-main" rendering={route} />}</div>
-        </main>
-        <footer>
-          <div id="footer">{route && <Placeholder name="headless-footer" rendering={route} />}</div>
-        </footer>
+        {layoutData.sitecore.context.renderingType === RenderingType.Component ? (
+          <DesignLibrary {...layoutData} />
+        ) : (
+          <>
+            <header>
+              <div id="header">
+                {route && <Placeholder name="headless-header" rendering={route} />}
+              </div>
+            </header>
+            <main className="mt-14 md:mt-24 lg:mt-32">
+              {children}
+              <div id="content">
+                {route && <Placeholder name="headless-main" rendering={route} />}
+              </div>
+            </main>
+            <footer>
+              <div id="footer">
+                {route && <Placeholder name="headless-footer" rendering={route} />}
+              </div>
+            </footer>
+          </>
+        )}
       </div>
     </>
   );
