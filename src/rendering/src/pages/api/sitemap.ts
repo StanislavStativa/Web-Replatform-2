@@ -55,7 +55,7 @@ const sitemapApi = async (
     const isAbsoluteUrl = sitemapPath.match(ABSOLUTE_URL_REGEXP);
     const sitemapUrl = isAbsoluteUrl ? sitemapPath : `${config.sitecoreApiHost}${sitemapPath}`;
     res.setHeader('Content-Type', 'text/xml;charset=utf-8');
-    let externalSitemaps = '';
+
     // Fetch product sitemaps from external API
     const productResponse = await fetch(
       `${process.env.NEXT_PUBLIC_MIDDLEWARE_API_URL}/api/Product/GetProductSitemaps`
@@ -69,12 +69,11 @@ const sitemapApi = async (
     const reqProtocolProduct = req.headers['x-forwarded-proto'] || 'https';
     res.setHeader('Content-Type', 'text/xml;charset=utf-8');
     // Generate sitemap entries from the external API data
-    externalSitemaps =
-      productData?.Results?.map((item: ProductSitemap) => {
-        return `<url>
+    productData?.Results?.map((item: ProductSitemap) => {
+      return `<url>
         <loc>${escapeXml(`${reqProtocolProduct}://${reqtHostProduct}${item?.Link}`)}</loc>
       </url>`;
-      }).join('') || '';
+    }).join('') || '';
 
     // need to prepare stream from sitemap url
     try {
