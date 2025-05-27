@@ -3,21 +3,39 @@ import Link from '@/core/atoms/Link/Link';
 import { MdArrowBackIos, MdArrowForwardIos } from 'react-icons/md';
 import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 import { useEffect, useState } from 'react';
-import useLocalStorage from '@/utils/useLocalStorage';
 import { useRouter } from 'next/router';
 import Head from 'next/head';
+import { useQuery } from '@tanstack/react-query';
+import { ProductService } from '@/api/services/ProductService';
+import useLocalStorage from '@/utils/useLocalStorage';
 const Breadcrumb: React.FC<BreadcrumbProps> = ({ rendering }) => {
   const { fields, uid } = rendering;
   const router = useRouter();
   const context = useSitecoreContext();
-  const { setData, getData } = useLocalStorage();
+  const { setData, getData, getSessionData } = useLocalStorage();
   const localBreadCrumbs = getData<BreadcrumbItem[]>('breadcrumbItems');
+  const isBreadCrumbsFromApi = getSessionData('isBreadCrumbsFromApi') ?? false;
   const [updatedBreadCrumbs, setUpdatedBreadCrumbs] = useState<BreadcrumbItem[] | []>([]);
+
   const breadcrumbItems = [...fields?.data?.item?.ancestors]
     .reverse()
     .concat(fields?.data?.item)
     .filter((data) => data?.HideInNavigation?.value !== '1');
 
+  const { data: productBreadcrumbs } = useQuery({
+    queryKey: ['productBreadcrumbsDetails', router?.asPath],
+    queryFn: () => {
+      return ProductService.productGetProductBreadcrum(
+        router?.asPath?.match(/(\d+\w*)$/)?.[0] as string
+      );
+    },
+    enabled: Boolean(
+      context.sitecoreContext?.productData !== undefined &&
+        // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+        // @ts-ignore
+        context.sitecoreContext?.productData?.ProductName !== ''
+    ),
+  });
   useEffect(() => {
     const handleRouteChange = () => {
       if (context.sitecoreContext?.route?.templateId === 'd99a18de-5be0-4989-bf07-295cbf6054a0') {
@@ -29,26 +47,64 @@ const Breadcrumb: React.FC<BreadcrumbProps> = ({ rendering }) => {
       router.events.off('routeChangeComplete', handleRouteChange);
     };
   }, [router, context.sitecoreContext?.route?.templateId, breadcrumbItems]);
-
   useEffect(() => {
     if (
       context.sitecoreContext?.productData !== undefined &&
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
-      context.sitecoreContext?.productData?.ProductName !== ''
+      context.sitecoreContext?.productData?.ProductName !== '' &&
+      productBreadcrumbs?.length > 0
     ) {
+      const productFirstData = {
+        NavigationTitle: productBreadcrumbs?.[0]?.NavigationTitle,
+        name: productBreadcrumbs?.[0]?.Name,
+        path: productBreadcrumbs?.[0]?.Path,
+      };
+      const productLastData = {
+        NavigationTitle: '*',
+        name: '*',
+        path: '*',
+      };
+      const relevantAncestors = productBreadcrumbs?.[0]?.ancestors
+        ?.slice(
+          0,
+          productBreadcrumbs?.[0]?.ancestors.findIndex(
+            (a: { name: string }) => a?.name?.toLowerCase() === 'home'
+          ) + 1
+        )
+        .reverse();
+
+      const concatedApiBreadCrumb = [...relevantAncestors, productFirstData, productLastData];
+
+      const mappedProductsBreadCrumb = concatedApiBreadCrumb?.map((item) => ({
+        url: { path: item.path },
+        name: item.name,
+        NavigationTitle: { value: item.NavigationTitle },
+        PageTitle: { value: item.NavigationTitle },
+        HideInNavigation: { value: '' },
+      })); // api breadcrumb
+
       const concatedBreadCrumb = localBreadCrumbs?.concat(breadcrumbItems) || [];
 
       const uniqueBreadCrumb = concatedBreadCrumb?.filter(
         (item: { name: string }, index: number, self: BreadcrumbItem[]) =>
           index === self?.findIndex((t) => t?.name === item?.name)
-      );
-      setUpdatedBreadCrumbs(uniqueBreadCrumb);
+      ); //Local breadcrumb
+      if (uniqueBreadCrumb?.length > 0 && isBreadCrumbsFromApi === false) {
+        setUpdatedBreadCrumbs(uniqueBreadCrumb);
+      } else {
+        setUpdatedBreadCrumbs(mappedProductsBreadCrumb);
+      }
     } else {
       setUpdatedBreadCrumbs([]);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [context.sitecoreContext?.productData, router?.pathname]);
+  }, [
+    context.sitecoreContext?.productData,
+    router?.pathname,
+    productBreadcrumbs,
+    isBreadCrumbsFromApi,
+  ]);
   // Generate the breadcrumb schema
   const breadcrumbSchema = updatedBreadCrumbs.length > 0 ? updatedBreadCrumbs : breadcrumbItems;
 

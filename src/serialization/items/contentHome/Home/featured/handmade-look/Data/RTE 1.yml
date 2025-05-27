@@ -25,15 +25,15 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text"><h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2" style="color: #323338;">What Is Handmade-Look Tile? </span></h2>
-        <p style="margin-bottom:0.67em;"><span style="color: #323338;">As its name implies, handmade-look tile is mass-produced tile that approximates the perfectly imperfect artisanal look of true handmade tiles. It offers much of the same variation (in surface texture, glazing and color) of handmade tile, but is typically more affordable. In some cases, handmade-look tile may also utilize materials that offer additional durability for use in spaces where true handmade tiles would typically not be used. </span></p></div>
+        <div class="rich-text"><p /><h2 style="margin-bottom:0.67em;"><span class="h2" style="color: #323338;">What Is Handmade-Look Tile? </span></h2>
+        <p style="margin-bottom:0.67em;"><span style="color: #323338;">As its name implies, handmade-look tile is mass-produced tile that approximates the perfectly imperfect artisanal look of true handmade tiles. It offers much of the same variation (in surface texture, glazing and color) of handmade tile, but is typically more affordable. In some cases, handmade-look tile may also utilize materials that offer additional durability for use in spaces where true handmade tiles would typically not be used. </span></p><p /></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d50796d6-f996-4c8d-a8af-da500be44c8a"
+      Value: "303610c1-96c9-4ddd-ba2c-097e0ca0cbf8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sailaab.tirkey@altudo.co
+        sitecore\ashwani.kumar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124231Z
+      Value: 20240809T140321Z

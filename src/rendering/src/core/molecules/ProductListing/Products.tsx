@@ -29,7 +29,9 @@ import useLocalStorage from '@/utils/useLocalStorage';
 
 const Products: React.FC<ProductListingProps> = (props) => {
   const { getSessionData, removeSessionData } = useLocalStorage();
-
+  const isFiltersHidden = props?.rendering?.fields?.HideFilters?.value;
+  const isPaginationHidden = props?.rendering?.fields?.HidePagination?.value;
+  const uid = props?.rendering?.uid;
   const [, setFilterData] = useAtom<SelectedFilterState[]>(selectedFilter);
   const [filterPayload, setFilterPayload] = useAtom<ProductFilterState>(filterValue);
   const [sortPayload, setSortPayload] = useAtom<ProductSortState[]>(sortValue);
@@ -94,6 +96,9 @@ const Products: React.FC<ProductListingProps> = (props) => {
   );
 
   const updatedPayload = useMemo(() => {
+    if (isFiltersHidden) {
+      return payload;
+    }
     let updatedPayload: ProductPayloadProps = payload;
     const sortData =
       sortPayload.length > 0 ? sortPayload : [{ name: PRODUCTLIST_SORT, order: 'desc' }];
@@ -102,7 +107,7 @@ const Products: React.FC<ProductListingProps> = (props) => {
     updatedPayload = {
       ...payload,
       sort: { value: sortData, choices: true },
-      page_number: current_number,
+      page_number: isPaginationHidden ? 1 : current_number,
     };
 
     if (Object.keys(filterPayload).length > 0) {
@@ -123,15 +128,18 @@ const Products: React.FC<ProductListingProps> = (props) => {
     hasNextPage,
     isLoading,
   } = useInfiniteQuery({
-    queryKey: ['products', filterPayload, sortPayload, searchTerm, viewAllFlag],
+    queryKey: [`products${uid}`, filterPayload, sortPayload, searchTerm, viewAllFlag, uid],
     queryFn: ({ pageParam = 1 }) => {
+      if (viewAllFlag === false) {
+        return Promise.resolve(null);
+      }
       if (typeof pageParam === 'object') {
         return Promise.resolve(null); // Skip the API call
       }
 
       const queryPayload = {
-        ...updatedPayload,
-        page_number: pageParam,
+        ...(isFiltersHidden ? payload : updatedPayload),
+        page_number: isPaginationHidden ? 1 : pageParam,
       };
       return ProductAPI({ pageParam: queryPayload });
     },
@@ -224,10 +232,10 @@ const Products: React.FC<ProductListingProps> = (props) => {
   }, [path]);
 
   useEffect(() => {
-    if (router?.isReady && mutation?.data?.redirect_url) {
+    if (router.isReady && mutation?.data?.redirect_url) {
       router.push(mutation.data.redirect_url);
     }
-  }, [router?.isReady, mutation?.data?.redirect_url]);
+  }, [router.isReady, mutation?.data?.redirect_url]);
 
   return (
     <div className="container mx-auto">
@@ -237,25 +245,33 @@ const Products: React.FC<ProductListingProps> = (props) => {
           {...props}
         />
       )}
-      <ProductListingFilters
-        filters={viewAllFlag ? prod?.pages[0] : mutation?.data}
-        {...props}
-        isFilter={mutation.data?.content?.product?.value?.length > 0}
-      />
-      {prod?.pages?.map((page) => (
-        <ProductListing
-          key={page?.page_number}
-          products={viewAllFlag ? page : mutation.data}
+      {!isFiltersHidden && (
+        <ProductListingFilters
+          filters={viewAllFlag ? prod?.pages[0] : mutation?.data}
           {...props}
+          isFilter={mutation.data?.content?.product?.value?.length > 0}
         />
-      ))}
-      <ProductPagination
-        pagination={viewAllFlag ? prod?.pages[0] : mutation?.data}
-        {...props}
-        fetchNextPage={fetchNextPage}
-        isLoading={isLoading}
-        hasNextPage={hasNextPage}
-      />
+      )}
+
+      {prod?.pages?.map((page) => {
+        return (
+          <ProductListing
+            key={page?.page_number}
+            id={page?.page_number}
+            products={viewAllFlag ? page : mutation.data}
+            {...props}
+          />
+        );
+      })}
+      {!isPaginationHidden && (
+        <ProductPagination
+          pagination={viewAllFlag ? prod?.pages[0] : mutation?.data}
+          {...props}
+          fetchNextPage={fetchNextPage}
+          isLoading={isLoading}
+          hasNextPage={hasNextPage}
+        />
+      )}
     </div>
   );
 };

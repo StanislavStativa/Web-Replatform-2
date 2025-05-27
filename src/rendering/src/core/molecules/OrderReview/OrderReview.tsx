@@ -14,7 +14,7 @@ import NotificationMessage from '@/core/atoms/NotificationMessage/NotificationMe
 import Cookies from 'js-cookie';
 import { SITE_ID } from '@/config';
 import { paymentSelectedOption } from '@/data/atoms/paymentSelectedOption';
-import { triggerEvent } from '@/utils/eventTracking';
+import { renderOlapicCheckout, triggerEvent } from '@/utils/eventTracking';
 import { event } from '@/config';
 
 type EventOrderSummary = {
@@ -146,6 +146,13 @@ const OrderReview = (props: ITypesOrderReview) => {
               quantity: product?.quantity,
             };
           }) || [];
+        const olapicProduct =
+          orderReviewItem?.items?.map((product) => {
+            return {
+              id: product?.item_id,
+              price: Number(product?.price?.toFixed(2)),
+            };
+          }) || [];
         setTimeout(() => {
           window?.ScarabQueue?.push(['setEmail', orderReviewDetails?.UserEmail]);
           window?.ScarabQueue.push(['cart', []]);
@@ -169,6 +176,7 @@ const OrderReview = (props: ITypesOrderReview) => {
             items: orderReviewItem?.items,
           },
         });
+        renderOlapicCheckout(olapicProduct, orderReviewItem?.transaction_id as string, 'USD');
       } else if (isShowOrder === false) {
         triggerEvent({
           event: event?.ADD_PAYMENT_INFO,

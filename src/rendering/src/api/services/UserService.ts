@@ -173,17 +173,4 @@ export class UserService {
       },
     });
   }
-  /**
-   * @param formData
-   * @returns any Success
-   * @throws ApiError
-   */
-  public static userCustomerMigration(formData?: { file?: Blob }): CancelablePromise<any> {
-    return __request(OpenAPI, {
-      method: 'POST',
-      url: '/api/user/CustomerMigration',
-      formData: formData,
-      mediaType: 'multipart/form-data',
-    });
-  }
 }

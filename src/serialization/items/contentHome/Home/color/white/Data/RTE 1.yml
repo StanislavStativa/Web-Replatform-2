@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="richText-max richText" "="">
-        <h2 class="extra-small-bottom-margin"><span>The Many Looks of White Tile</span></h2>
-        <span>White tile may be the ultimate neutral, but it’s so much more than a blank canvas. When you choose white tile for your next home project, you open up a vibrant, versatile world of design possibilities that make it possible to create a custom space that’s perfectly you.&nbsp;&nbsp;</span></div>
+        <h2><span>The Many Looks of White Tile</span></h2>
+        <p /><span>White tile may be the ultimate neutral, but it’s so much more than a blank canvas. When you choose white tile for your next home project, you open up a vibrant, versatile world of design possibilities that make it possible to create a custom space that’s perfectly you.&nbsp;&nbsp;</span></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3451f93b-d3ac-46f7-b485-71244d800b4c"
+      Value: "f3f2e817-4700-47f1-805d-7b84b3583325"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124229Z
+      Value: 20240905T064249Z

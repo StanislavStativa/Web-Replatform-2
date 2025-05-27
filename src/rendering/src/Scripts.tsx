@@ -2,10 +2,11 @@
 import BYOC from 'src/byoc';
 import CdpPageView from 'components/CdpPageView';
 import FEAASScripts from 'components/FEAASScripts';
-
+import { EditingScripts } from '@sitecore-jss/sitecore-jss-nextjs';
 const Scripts = (): JSX.Element => {
   return (
     <>
+      <EditingScripts />
       <BYOC />
       <CdpPageView />
       <FEAASScripts />

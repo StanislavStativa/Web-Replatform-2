@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 class="extra-small-bottom-margin">Create a Space You Love with Ceramic Wall Tiles</h2>
-        
+        <h2>Create a Space You Love with Ceramic Wall Tiles</h2>
+        <br />
         <p><span>Covering a wall with ceramic tile? That’s great news, because you’re officially giving yourself permission to play and unleash your creativity and style. Unlike </span><a class="font-bold" href="/application/floor">floor tile</a><span>, which must be rated to hold up to specific amounts of impact and wear, just about any tile can be used to decorate a wall. In other words, there’s really no risk of falling in love with a </span><a class="font-bold" href="/samples">tile sample</a><span> only to find out it isn’t possible to use for your project—if you like it, go for it!</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "17feb69e-e2da-44bc-b3bd-6068417f70de"
+      Value: "9b16bd1f-d031-4a1d-823d-504b1b09af9f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124225Z
+      Value: 20240905T064248Z

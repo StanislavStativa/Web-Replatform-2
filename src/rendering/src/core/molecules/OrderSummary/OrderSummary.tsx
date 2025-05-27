@@ -185,7 +185,7 @@ and selected is ship to new then pass false otherwise as per storeId presence
             id: '',
             company: creditCardEnteredAddressData?.companyName,
             address: creditCardEnteredAddressData?.addressLine1,
-            address2: creditCardEnteredAddressData?.addressLine1,
+            address2: creditCardEnteredAddressData?.addressLine2 ?? '',
             city: creditCardEnteredAddressData?.city,
             phone: creditCardEnteredAddressData?.phoneNumber ?? '',
             state: creditCardEnteredAddressData?.state,
@@ -215,7 +215,7 @@ and selected is ship to new then pass false otherwise as per storeId presence
             id: '',
             company: creditCardEnteredAddressData?.companyName,
             address: creditCardEnteredAddressData?.addressLine1,
-            address2: creditCardEnteredAddressData?.addressLine1,
+            address2: creditCardEnteredAddressData?.addressLine2 ?? '',
             city: creditCardEnteredAddressData?.city,
             phone: creditCardEnteredAddressData?.phoneNumber ?? '',
             state: creditCardEnteredAddressData?.state,
@@ -466,7 +466,7 @@ add new address
                               <p className="animate-pulse bg-slate-200 rounded h-6"></p>
                             ) : (
                               <p className="text-light-slate-red">
-                                -${fetchedCartData?.Order?.PromotionDiscount?.toFixed(2)}
+                                -${fetchedCartData?.Order?.PromotionDiscount}
                               </p>
                             )}
                           </>

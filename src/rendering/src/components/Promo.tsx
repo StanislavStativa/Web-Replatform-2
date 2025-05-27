@@ -1,11 +1,10 @@
-import React from 'react';
 import {
-  Image as JssImage,
-  Link as JssLink,
-  RichText as JssRichText,
   ImageField,
   Field,
   LinkField,
+  NextImage as JssImage,
+  Link as JssLink,
+  RichText as JssRichText,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
@@ -21,7 +20,7 @@ type PromoProps = {
 };
 
 const PromoDefaultComponent = (props: PromoProps): JSX.Element => (
-  <div className={`component promo ${props.params.styles}`}>
+  <div className={`component promo ${props.params.styles}`.trimEnd()}>
     <div className="component-content">
       <span className="is-empty-hint">Promo</span>
     </div>
@@ -29,19 +28,19 @@ const PromoDefaultComponent = (props: PromoProps): JSX.Element => (
 );
 
 export const Default = (props: PromoProps): JSX.Element => {
-  const id = props.params.RenderingIdentifier;
   if (props.fields) {
     return (
-      <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
+      <div
+        className={`component promo ${props.params.styles}`.trimEnd()}
+        id={props.params.RenderingIdentifier || undefined}
+      >
         <div className="component-content">
           <div className="field-promoicon">
             <JssImage field={props.fields.PromoIcon} />
           </div>
           <div className="promo-text">
-            <div>
-              <div className="field-promotext">
-                <JssRichText field={props.fields.PromoText} />
-              </div>
+            <div className="field-promotext">
+              <JssRichText field={props.fields.PromoText} />
             </div>
             <div className="field-promolink">
               <JssLink field={props.fields.PromoLink} />
@@ -56,22 +55,22 @@ export const Default = (props: PromoProps): JSX.Element => {
 };
 
 export const WithText = (props: PromoProps): JSX.Element => {
-  const id = props.params.RenderingIdentifier;
   if (props.fields) {
     return (
-      <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
+      <div
+        className={`component promo ${props.params.styles}`.trimEnd()}
+        id={props.params.RenderingIdentifier || undefined}
+      >
         <div className="component-content">
           <div className="field-promoicon">
             <JssImage field={props.fields.PromoIcon} />
           </div>
           <div className="promo-text">
-            <div>
-              <div className="field-promotext">
-                <JssRichText className="promo-text" field={props.fields.PromoText} />
-              </div>
-            </div>
             <div className="field-promotext">
-              <JssRichText className="promo-text" field={props.fields.PromoText2} />
+              <JssRichText field={props.fields.PromoText} />
+            </div>
+            <div className="field-promotext2">
+              <JssRichText field={props.fields.PromoText2} />
             </div>
           </div>
         </div>

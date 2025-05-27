@@ -1700,6 +1700,50 @@
         }
       }
     },
+    "/api/index/addUpdateXpIndices": {
+      "post": {
+        "tags": [
+          "Index"
+        ],
+        "operationId": "Index_AddUpdateXpIndices",
+        "parameters": [
+          {
+            "name": "adminPassword",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/index/deleteXpIndices": {
+      "delete": {
+        "tags": [
+          "Index"
+        ],
+        "operationId": "Index_DeleteXpIndices",
+        "parameters": [
+          {
+            "name": "adminPassword",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/integrationevent/addtocart": {
       "post": {
         "tags": [
@@ -3551,6 +3595,28 @@
         }
       }
     },
+    "/api/Product/GetProductBreadcrum": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "operationId": "Product_GetProductBreadcrum",
+        "parameters": [
+          {
+            "name": "productId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Product/GetProductItemDetails": {
       "post": {
         "tags": [
@@ -4043,6 +4109,28 @@
         }
       }
     },
+    "/api/SyncJob/syncProductsWithStatus": {
+      "post": {
+        "tags": [
+          "SyncJob"
+        ],
+        "operationId": "SyncJob_ImportProductsWithStatus",
+        "parameters": [
+          {
+            "name": "statusIds",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/SyncJob/syncProductPrices": {
       "post": {
         "tags": [
@@ -4426,39 +4514,6 @@
             }
           }
         ],
-        "responses": {
-          "200": {
-            "description": "Success"
-          }
-        }
-      }
-    },
-    "/api/user/CustomerMigration": {
-      "post": {
-        "tags": [
-          "User"
-        ],
-        "operationId": "User_CustomerMigration",
-        "requestBody": {
-          "content": {
-            "multipart/form-data": {
-              "schema": {
-                "type": "object",
-                "properties": {
-                  "file": {
-                    "type": "string",
-                    "format": "binary"
-                  }
-                }
-              },
-              "encoding": {
-                "file": {
-                  "style": "form"
-                }
-              }
-            }
-          }
-        },
         "responses": {
           "200": {
             "description": "Success"

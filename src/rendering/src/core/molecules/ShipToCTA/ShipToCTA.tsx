@@ -163,7 +163,7 @@ and selected is ship to new then pass false otherwise as per storeId presence
         fetchedCartData?.LineItems?.map((product: Product) => {
           const price = Number(product?.UnitPrice?.toFixed(2));
           return {
-            discount: Number(product?.xp?.PromotionDiscount) || 0,
+            discount: Number(product?.xp?.PromotionDiscount?.toFixed(2)) || 0,
             item_brand: product?.Product?.xp?.Brand || '',
             item_category: product?.Product?.xp?.ProductHierarchy1Name || '',
             item_category2: product?.Product?.xp?.ProductHierarchy2Name || '',

@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        <h3>Our Experts Can Help</h3>
         <p><span>&nbsp;</span></p>
         <p><span>We know there’s a lot to consider when selecting tile, and </span><a href="/store-locator/" class="font-bold">a visit to one of our showrooms</a><span> is a great place to start. You can see our wide selection of porcelain wall tiles in person, chat with our friendly sales associates, order samples, and learn about installation and care. We can’t wait to help you create the home of your dreams. </span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6dcb3325-9939-4852-a502-7e94dd1ff3f2"
+      Value: "072c7908-2b80-441e-9622-efcef98d06d9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T123203Z
+      Value: 20240905T064247Z

@@ -31,6 +31,8 @@ const HeroBanner: React.FC<HeroBannerProps> = (props) => {
     TabletImage,
     EnableVideoPlayerControls,
     TextColor,
+    MobileDescription,
+    MobileTitle,
   } = props?.rendering?.fields || {};
 
   const {
@@ -106,7 +108,7 @@ const HeroBanner: React.FC<HeroBannerProps> = (props) => {
         color: TextColor?.value,
       }}
       className={cn(
-        'flex relative overflow-hidden container mx-auto w-full min-h-100  px-4 pb-6 pt-10 md:py-40 md:px-36',
+        'flex relative overflow-hidden container mx-auto w-full min-h-100 px-4 pb-6 pt-10 md:py-40 md:px-36',
         {
           'lg:min-h-550': desktopImage?.url?.length > 0 || videoSRC?.length > 0,
         },
@@ -218,6 +220,7 @@ const HeroBanner: React.FC<HeroBannerProps> = (props) => {
           )}
           <Text
             className={cn(
+              'hidden md:block',
               {
                 'md:text-center': HorizontalAlignment === ALIGNMENT.CENTER,
                 'md:text-left': HorizontalAlignment === ALIGNMENT.LEFT,
@@ -241,10 +244,37 @@ const HeroBanner: React.FC<HeroBannerProps> = (props) => {
             field={Title}
             tag={HeadingTag || 'h2'}
           />
+          <Text
+            className={cn(
+              'md:hidden',
+              {
+                'md:text-center': HorizontalAlignment === ALIGNMENT.CENTER,
+                'md:text-left': HorizontalAlignment === ALIGNMENT.LEFT,
+                'md:text-right': HorizontalAlignment === ALIGNMENT.RIGHT,
+              },
+              {
+                'text-white': CTAColor === THEME.LIGHT,
+                'text-black': CTAColor === THEME.DARK,
+              },
+              {
+                'font-latoLight text-left text-dark-gray': props?.isInspirationBanner,
+              },
+              props?.params?.FinanceBanner === '1'
+                ? `text-center font-latoLight text-40 leading-10`
+                : `text-center ${getHeadingStyles(HeadingSize, HeadingTag)}`
+              // ,
+              // {
+              //   'w-60 md:w-full': isSolidBanner,
+              // }
+            )}
+            field={MobileTitle?.value?.length ? MobileTitle : Title}
+            tag={HeadingTag || 'h2'}
+          />
           {props?.isInspirationBanner && <hr className="w-14 border-dark-gray leading-none" />}
+
           <RichText
             className={cn(
-              'text-base text-center max-w-72 md:max-w-452',
+              'hidden md:block text-base text-center max-w-72 md:max-w-452',
               {
                 'md:text-center': HorizontalAlignment === ALIGNMENT.CENTER,
                 'md:text-left': HorizontalAlignment === ALIGNMENT.LEFT,
@@ -265,6 +295,30 @@ const HeroBanner: React.FC<HeroBannerProps> = (props) => {
               props?.params?.styles?.includes('pro-tutorial-hero') ? 'md:max-w-[80%]' : ''
             )}
             field={Description}
+          />
+          <RichText
+            className={cn(
+              'md:hidden text-base text-center max-w-72 md:max-w-452',
+              {
+                'md:text-center': HorizontalAlignment === ALIGNMENT.CENTER,
+                'md:text-left': HorizontalAlignment === ALIGNMENT.LEFT,
+                'md:text-right': HorizontalAlignment === ALIGNMENT.RIGHT,
+              },
+              {
+                'text-white': CTAColor === THEME.LIGHT,
+                'text-black': CTAColor === THEME.DARK,
+              },
+              {
+                'max-w-full md:max-w-540 text-justify font-normal text-base md:pb-0.5 tracking-wider leading-5 md:leading-30 text-dark-gray':
+                  props?.isInspirationBanner,
+              },
+              {
+                'max-w-full': isSolidBanner,
+              },
+              { 'max-w-full md:max-w-452': props?.params?.FinanceBanner === '1' },
+              props?.params?.styles?.includes('pro-tutorial-hero') ? 'md:max-w-[80%]' : ''
+            )}
+            field={MobileDescription?.value?.length ? MobileDescription : Description}
           />
           <div
             className={cn('flex flex-row gap-3 md:gap-y-12 justify-center', {

@@ -18,15 +18,19 @@ const PDPMainTitle: React.FC<PDPMainTitleProps> = ({
       : '';
   return (
     <div>
-      <div className="flex flex-col items-start gap-1.5 py-1.5 pb-6 pt-6 md:pt-0">
-        <h1 className="font-latoBold md:font-latoRegular text-xl mt-2.5 mb-2.5 md:text-32-s leading-6 md:leading-9 text-dark-gray">
-          {ProductName}
-        </h1>
-        <p className="flex items-center gap-1 md:gap-6 md:uppercase text-13-s font-normal font-latoRegular md:font-latoBold  mb-3.5 md:mb-0 tracking-wider text-dark-gray md:text-pdp-grey-text">
-          <span>#{ProductCode}</span>
-          {CoveragePerBox > 0 && <span>{coverageText}</span>}
-        </p>
-      </div>
+      {ProductName ? (
+        <div className="flex flex-col items-start gap-1.5 py-1.5 pb-6 pt-6 md:pt-0">
+          <h1 className="font-latoBold md:font-latoRegular text-xl mt-2.5 mb-2.5 md:text-32-s leading-6 md:leading-9 text-dark-gray">
+            {ProductName}
+          </h1>
+          <p className="flex items-center gap-1 md:gap-6 md:uppercase text-13-s font-normal font-latoRegular md:font-latoBold  mb-3.5 md:mb-0 tracking-wider text-dark-gray md:text-pdp-grey-text">
+            <span>#{ProductCode}</span>
+            {CoveragePerBox > 0 && <span>{coverageText}</span>}
+          </p>
+        </div>
+      ) : (
+        <div className="h-40 w-full skeleton rounded"></div>
+      )}
     </div>
   );
 };

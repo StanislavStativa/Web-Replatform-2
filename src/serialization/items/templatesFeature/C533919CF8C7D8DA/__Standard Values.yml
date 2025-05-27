@@ -1,0 +1,27 @@
+﻿---
+ID: "63439b5e-3af5-4eff-bb8b-5985eaf50582"
+Parent: "1224c08b-7cd8-4277-a953-8690ad778a6e"
+Template: "1224c08b-7cd8-4277-a953-8690ad778a6e"
+Path: /sitecore/templates/Feature/TTS/Components/Product Card Collection/Rendering Parameters/Product Card Collection Parameters/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8fcaacd4-a222-4c06-a897-6a48360b33ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250327T124618Z

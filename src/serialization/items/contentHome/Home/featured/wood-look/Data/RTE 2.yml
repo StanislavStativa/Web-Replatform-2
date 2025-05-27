@@ -25,19 +25,19 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text "><h3 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h3">Pattern Adds Personality</span></h3>
+        <div class="rich-text "><p /><h3 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span class="h3">Pattern Adds Personality</span></h3>
         
         <p style="color: #333333; margin: 0px; padding: 0px; border: 0px;">&nbsp; </p>
         <p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Patterns and </span><a class="font-bold" href="/inspiration/tile-layout-patterns">unique tile layouts</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> create visual interest and add personality to tile designs. Herringbone, chevron and staggered patterns can all be achieved with the right tile and help from our tile experts. </span><a class="font-bold underline" href="/DCA">Schedule a free design consultation</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> today. </span></p>
-        
-        <p> </p></div>
+        <br /><br />
+        <p> </p><p /></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9c691543-bea1-4b6e-85ca-2523c0141c29"
+      Value: "bc7eb182-cac0-41e6-91d7-78f206fbfb82"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124235Z
+      Value: 20240905T064251Z

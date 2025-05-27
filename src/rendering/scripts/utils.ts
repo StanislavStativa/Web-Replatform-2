@@ -40,7 +40,7 @@ export function getItems<Item>(settings: {
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       const name = item.name.match(fileFormat)![1];
       items.push(resolveItem(path, name));
-      if (cb) cb(name);
+      cb && cb(name);
     }
   });
 
