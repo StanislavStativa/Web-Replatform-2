@@ -45,6 +45,20 @@ export class ProductService {
     });
   }
   /**
+   * @param productId
+   * @returns any Success
+   * @throws ApiError
+   */
+  public static productGetProductBreadcrum(productId?: string): CancelablePromise<any> {
+    return __request(OpenAPI, {
+      method: 'GET',
+      url: '/api/Product/GetProductBreadcrum',
+      query: {
+        productId: productId,
+      },
+    });
+  }
+  /**
    * @param productName
    * @returns any Success
    * @throws ApiError

@@ -8,7 +8,8 @@ import { cn } from '@/utils/cn';
 import { extractProductId } from '@/utils/regex';
 
 const OlapicWidgetVarient = (props: OlapicWidgetProps) => {
-  const { DataInstance, OlapicType } = props?.rendering?.fields || {};
+  const { fields } = props?.rendering;
+  const { DataInstance, OlapicType } = fields;
   const [isLoading, setIsLoading] = useState(true);
   const router = useRouter();
   const { getSessionData } = useLocalStorage();
@@ -24,7 +25,7 @@ const OlapicWidgetVarient = (props: OlapicWidgetProps) => {
   return (
     <>
       {isLoading && (
-        <div className="relative h-40">
+        <div className={cn('relative w-full h-40', { 'h-96': isProductPage })}>
           <LoaderSpinner className="absolute top-0 left-0 right-0 bottom-0 bg-white z-50" />
         </div>
       )}

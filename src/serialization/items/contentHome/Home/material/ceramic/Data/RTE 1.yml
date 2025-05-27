@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;" class="extra-small-bottom-margin"><span style="color: #323338;" class="h2-style">5 Types of Ceramic Tile We (and Our Customers) Love&nbsp;</span></h2>
-        
+        <h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;" class="h2-style">5 Types of Ceramic Tile We (and Our Customers) Love&nbsp;</span></h2>
+        <br />
         <p>Ceramic tile remains a top choice among homeowners, designers and installers alike, and it’s easy to see why. Ceramic tiles are strong, durable and easy to maintain year after year—and ceramic is among the more cost-effective materials, too. All these qualities make it exceptionally versatile, too; depending on your project, ceramic tile can be a smart choice for floors, walls, bathrooms, kitchens and more. <span>These are some of our customers’ favorite categories of ceramic tile. (Check with your </span><a href="/store-locator/" class="font-bold">local Tile Shop store</a><span> for project and application recommendations.)  </span></p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2b3def46-7c89-467a-b3c8-5813cd82b2b4"
+      Value: "66a55e0b-06d6-4b10-b644-a5cd2fbeb979"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124226Z
+      Value: 20240905T064248Z

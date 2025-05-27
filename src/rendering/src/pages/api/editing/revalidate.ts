@@ -2,34 +2,85 @@ import type { NextApiRequest, NextApiResponse } from 'next';
 
 export default handler;
 export interface RevalidateRequest {
-  url?: string;
+  url?: string[];
   secret?: string;
 }
 async function handler(req: NextApiRequest, res: NextApiResponse) {
   const revalidateRequest = req.body as RevalidateRequest;
-  let revalidated = false;
-  console.info('REVHANDL Request body', revalidateRequest);
 
   if (revalidateRequest.secret !== process.env.NEXT_PUBLIC_REVALIDATE_TOKEN) {
-    console.info('REVHANDL Failed to revalidate, secret does not match!');
-    res.end('Revalidated: ' + revalidated);
+    return res.status(401).json({ revalidated: false, error: 'Invalid secret' });
+  }
+
+  if (!revalidateRequest?.url?.length) {
+    return res.status(400).json({ revalidated: false, error: 'No URL provided' });
   }
 
   try {
-    let pathToClear = '/';
-    if (revalidateRequest) {
-      pathToClear = revalidateRequest?.url || '';
-      console.info('REVHANDL pathToClear set to', pathToClear);
+    const succededUrls = [];
+    const failedUrls = [];
+    const skippedUrls = [];
+
+    // Process URLs sequentially instead of in parallel to avoid potential race conditions
+    for (const url of revalidateRequest.url) {
+      let retries = 3;
+      let success = false;
+      let lastError: Error | null = null;
+
+      if (!url) {
+        skippedUrls.push({
+          url: url,
+          error: 'No URL provided',
+        });
+        continue;
+      }
+
+      // Normalize the path to ensure consistent handling
+      const normalizedUrl = url?.startsWith('/') ? url : `/${url}`;
+
+      console.log(`Attempting to revalidate: ${normalizedUrl}`);
+
+      while (retries > 0 && !success) {
+        try {
+          // Add a small delay between retries to prevent overwhelming the system
+          if (retries < 3) {
+            await new Promise((resolve) => setTimeout(resolve, 1000));
+          }
+
+          await res.revalidate(normalizedUrl);
+          success = true;
+          succededUrls.push(normalizedUrl);
+          console.log(`Successfully revalidated: ${normalizedUrl}`);
+        } catch (error: unknown) {
+          lastError = error instanceof Error ? error : new Error(String(error));
+          console.error(`Revalidation attempt failed for ${normalizedUrl}: ${lastError.message}`);
+          retries--;
+        }
+      }
+
+      if (!success) {
+        failedUrls.push({
+          url: normalizedUrl,
+          error: lastError?.message || 'Unknown error',
+        });
+      }
     }
-    if (pathToClear === '') {
-      console.info('REVHANDL pathToClear is empty!');
-      res.end('Revalidated: ' + revalidated);
-    }
-    console.info('REVHANDL revalidating url', pathToClear);
-    await res.revalidate(pathToClear);
-    revalidated = true;
-  } catch (err) {
-    console.info('REVHANDL Error on revalidateRequest', err);
+
+    return res.status(200).json({
+      revalidated: failedUrls.length === 0,
+      successRatio: `${(succededUrls.length / revalidateRequest.url.length) * 100}%`,
+      items: revalidateRequest.url.length,
+      succededUrls,
+      failedUrls,
+      skippedUrls,
+    });
+  } catch (error: unknown) {
+    const err = error instanceof Error ? error : new Error(String(error));
+    console.log(JSON.stringify(req.body, null, 2));
+    console.error('Revalidation process failed:', err);
+    return res.status(500).json({
+      revalidated: false,
+      error: err.message || 'Revalidation failed',
+    });
   }
-  res.end('Revalidated: ' + revalidated);
 }

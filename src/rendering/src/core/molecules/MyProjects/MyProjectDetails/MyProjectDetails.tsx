@@ -159,7 +159,7 @@ const MyProjectDetails = ({
     onPrint(null, () => contentToPrint.current);
   };
   const viewDocumentDetails = (id: string) => {
-    router.push(`${PDPURL}/${id}`);
+    router.push(`/${PDPURL}/${id}`);
   };
   const openEdit = () => {
     setIsEdit(true);

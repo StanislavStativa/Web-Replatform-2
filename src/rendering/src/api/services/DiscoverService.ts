@@ -17,20 +17,6 @@ export class DiscoverService {
     });
   }
   /**
-   * @param productIds
-   * @returns any Success
-   * @throws ApiError
-   */
-  public static discoverExportCustomFeed(productIds?: string): CancelablePromise<any> {
-    return __request(OpenAPI, {
-      method: 'GET',
-      url: '/api/Discover/ExportCustomFeed',
-      query: {
-        productIds: productIds,
-      },
-    });
-  }
-  /**
    * @param jobId
    * @returns any Success
    * @throws ApiError

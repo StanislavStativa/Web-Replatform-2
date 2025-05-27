@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text  ">
-        <h2 class="extra-small-bottom-margin">We’re Here to Help!</h2>
+        <h2>We’re Here to Help!</h2><br />
         <p><span>There is so much to consider when deciding how to style your fireplace, but The Tile Shop is here to help. </span><a href="/store-locator/" class="font-bold underline">Visit one of our showrooms</a><span> to speak to one of our knowledgeable sales associates and </span><a href="/inspiration/tile-ideas/fireplace" class="font-bold underline">read more of our fireplace design ideas</a><span>. </span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "44b4de38-bdfc-4d4a-b843-6de0624ef16b"
+      Value: "421ac6ea-1e4e-4379-9e6a-79381ede0f4c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124219Z
+      Value: 20240905T064242Z

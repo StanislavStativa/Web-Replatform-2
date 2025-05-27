@@ -178,9 +178,14 @@ const ScheduleForm: React.FC<ScheduleConsultationFormProps> = (props) => {
         }
 
         // Split the hours into start and end times, then generate slots
-        const [start, end] = hours.split(' - ');
-        const slots = generateTimeSlots(start, end);
-        setTimeSlots(slots);
+        const [start, end] = hours?.split(' - ');
+        // Check if start and end times are defined
+        if (!start || !end) {
+          setTimeSlots([]); // Set time slots to an empty array if either start or end is not defined
+        } else {
+          const slots = generateTimeSlots(start, end);
+          setTimeSlots(slots);
+        }
       } else {
         setTimeSlots([]);
       }

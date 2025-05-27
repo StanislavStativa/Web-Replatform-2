@@ -14,7 +14,7 @@ export const handleErrors = (error: OrderCloudError) => {
   if (axios.isAxiosError(error)) {
     return {
       status: error.response?.status as number,
-      message: (error.response?.data as { error_description: string }).error_description,
+      message: (error.response?.data as { error_description: string })?.error_description,
     };
   }
 

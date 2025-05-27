@@ -93,8 +93,3 @@ export const generateTimeSlots = (start: string, end: string): ITypesTimeSlot[] 
 
   return slots;
 };
-export const extractYear = (dateString?: string): string => {
-  if (!dateString) return ''; // Handle undefined or null
-  const yearMatch = dateString.match(/\b\d{4}\b/); // Matches any 4-digit number
-  return yearMatch ? yearMatch[0] : '';
-};

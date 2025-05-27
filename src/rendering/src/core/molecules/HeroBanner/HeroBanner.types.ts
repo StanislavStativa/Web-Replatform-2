@@ -29,6 +29,7 @@ export interface HeroBannerFieldProps {
   EnableVideoPlayerControls: Field<boolean>;
   BackgroundColor?: Field<string>;
   TextColor: Field<string>;
+  MobileTitle: Field<string>;
 }
 
 export interface ImageFormatType {

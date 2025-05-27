@@ -64,7 +64,7 @@ const PaymentWorks = (props: ITypesPaymentWorks) => {
       parsedProperties.EmarsysEventID = Number(parsedProperties.EmarsysEventID);
 
       // Check if SubmitToEmailAddress is not present and add it if necessary
-      if (!parsedProperties.SubmitToEmailAddress) {
+      if (!parsedProperties?.SubmitToEmailAddress) {
         parsedProperties.SubmitToEmailAddress = data?.email;
       }
 

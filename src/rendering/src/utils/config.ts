@@ -29,7 +29,6 @@ export const checkIsNotNormal = (sitecoreContext?: SitecoreContextValue) =>
   sitecoreContext?.pageState !== LayoutServicePageState.Normal;
 export const checkIsOnlyEdit = (sitecoreContext?: SitecoreContextValue) =>
   sitecoreContext?.pageState === LayoutServicePageState.Edit;
-
 export const getPublicUrlWithLocale = (sitecoreContext?: SitecoreContextValue) => {
   const locale = sitecoreContext?.language?.toLowerCase() || config.defaultLanguage;
   return `${getPublicUrl()}${locale}`;

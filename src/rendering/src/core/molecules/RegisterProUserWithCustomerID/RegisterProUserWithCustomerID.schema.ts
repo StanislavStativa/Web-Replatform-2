@@ -18,7 +18,7 @@ export const regProUserWithCustIdSchema = (errors: RegProUserCustIdRegErrs) =>
       .string()
       .required(errors.Error_Registration_CustomerNumber)
       .matches(
-        /^(?:\(\d{3}\)\s?|\d{3}-)\d{3}-\d{2,4}$|^\d{5,10}$/,
+        /^(?:\(\d{3}\)\s?|\d{3}-)\d{3}-\d{2,4}$|^\d{5,15}$/,
         errors.Error_Registration_CustomerNumber
       ),
   });

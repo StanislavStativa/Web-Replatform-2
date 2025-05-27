@@ -214,6 +214,7 @@ export { EmarsysProductExportService } from './services/EmarsysProductExportServ
 export { EnvService } from './services/EnvService';
 export { FeedonomicsService } from './services/FeedonomicsService';
 export { GenericService } from './services/GenericService';
+export { IndexService } from './services/IndexService';
 export { IntegrationEventService } from './services/IntegrationEventService';
 export { MessageSenderService } from './services/MessageSenderService';
 export { MyAccountService } from './services/MyAccountService';

@@ -57,6 +57,17 @@ const AdvanceSearchResult = ({
   const [poNumber, setPoNumber] = useState('');
   const [date, setDate] = useState('');
   const [orderType, setOrderType] = useState<number>(0);
+  const columnsOrderHistory: ITypesTable<ITypesSearchResultTableData>['columns'] = [
+    { header: t('label_SKU'), accessor: 'sku' },
+    { header: t('label_Image'), accessor: 'image' },
+    { header: t('Cart_Description'), accessor: 'description' },
+    { header: t('label_Status'), accessor: 'status' },
+    { header: t('Labels_Store'), accessor: 'store' },
+    { header: t('label_QTY'), accessor: 'qty' },
+    // { header: t('label_Retail_Price_Each'), accessor: 'retailPrice' },
+    { header: t('label_Your_Price_Each'), accessor: 'yourPrice' },
+    { header: t('label_your_total'), accessor: 'yourTotal' },
+  ];
   const columns: ITypesTable<ITypesSearchResultTableData>['columns'] = [
     { header: t('label_SKU'), accessor: 'sku' },
     { header: t('label_Image'), accessor: 'image' },
@@ -111,7 +122,7 @@ const AdvanceSearchResult = ({
   }, []);
 
   const viewDocumentDetails = (id: string) => {
-    router.push(`${PDPURL}/${id}`);
+    router.push(`/${PDPURL}/${id}`);
   };
 
   useEffect(() => {
@@ -168,7 +179,7 @@ const AdvanceSearchResult = ({
             status: item?.status,
             store: '',
             qty: `${item?.quantity} ${item?.unit}`,
-            retailPrice: `$${Number(item?.grossPrice)?.toFixed(2)}`,
+            // retailPrice: `$${Number(item?.grossPrice)?.toFixed(2)}`,
             yourPrice: `$${Number(item?.netPrice)?.toFixed(2)}`,
             yourTotal: `$${Number(item?.netValue)?.toFixed(2)}`,
           };
@@ -350,7 +361,7 @@ const AdvanceSearchResult = ({
         <div className="col-span-2 md:col-span-12 md:col-start-1 flex flex-col gap-y-6 ">
           <Table
             data={detailsListData}
-            columns={columns}
+            columns={isOrderHistory ? columnsOrderHistory : columns}
             sortable
             clickableColumns={['sku', 'image']}
             isClickableUnderLine

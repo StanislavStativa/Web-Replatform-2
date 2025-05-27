@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        <h3>Our Experts Can Help</h3>
         <p><span>&nbsp;</span></p>
         <p><span>We know there’s a lot to consider when selecting floor tile, and </span><a href="/store-locator/" class="font-bold">a visit to one of our showrooms</a><span> is a great place to start. You can see our wide selection of limestone floor tiles in person, chat with our friendly sales associates, order samples, and learn about installation and care. We can’t wait to help you create the home of your dreams. </span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e45b1945-d979-4aec-aaef-813db2781455"
+      Value: "c8b54a9f-3e19-4117-a6db-f7afb39fb526"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T123201Z
+      Value: 20240905T064245Z

@@ -115,11 +115,13 @@ const ScheduleConsultationForm: React.FC<ScheduleConsultationFormProps> = (props
                   className="w-[92px] h-[92px]"
                 />
               </p>
-              <Text
-                tag={HeadingTag as string}
-                className="leading-6 lg:leading-38 text-xl mb-22 lg:text-32 lg:font-normal font-semibold text-center"
-                field={SectionTitle}
-              />
+              {SectionTitle && (
+                <Text
+                  tag={HeadingTag as string}
+                  className="leading-6 lg:leading-38 text-xl mb-22 lg:text-32 lg:font-normal font-semibold text-center"
+                  field={SectionTitle}
+                />
+              )}
             </div>
             <div className="block">
               <div className="flex items-center justify-center md:items-start whitespace-nowrap text-dark-gray">
