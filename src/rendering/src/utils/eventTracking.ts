@@ -82,7 +82,7 @@ export const renderGCROptIn = (
     window.renderOptIn = (): void => {
       if (window.gapi) {
         window.gapi.load('surveyoptin', () => {
-          window.gapi &&
+          if (window.gapi)
             window.gapi.surveyoptin.render({
               merchant_id: process.env.NEXT_PUBLIC_OPT_IN_MERCHANT_ID as string,
               order_id: orderId,
