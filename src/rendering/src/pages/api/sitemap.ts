@@ -1,9 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import {
-  AxiosDataFetcher,
-  GraphQLSitemapXmlService,
-  AxiosResponse,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { NativeDataFetcher, GraphQLSitemapXmlService } from '@sitecore-jss/sitecore-jss-nextjs';
 import { siteResolver } from 'lib/site-resolver';
 import clientFactory from 'lib/graphql-client-factory';
 import config from '@/temp/config';
@@ -80,33 +76,13 @@ const sitemapApi = async (
       </url>`;
       }).join('') || '';
 
-    // need to prepare stream from sitemap url
-    return new AxiosDataFetcher()
-      .get(sitemapUrl, {
-        responseType: 'stream',
-      })
-      .then((response: AxiosResponse) => {
-        let sitemapXml = '';
-        // Collect the streamed XML response from the first API
-        response.data.on('data', (chunk: Buffer) => {
-          sitemapXml += chunk.toString();
-        });
-        response.data.on('end', () => {
-          // Check if the sitemap is valid and contains the <urlset> tag
-          if (sitemapXml.includes('</urlset>')) {
-            // Insert external product sitemaps before closing </urlset> tag
-            sitemapXml = sitemapXml.replace('</urlset>', `${externalSitemaps}</urlset>`);
-          } else {
-            // If the response is malformed or missing the <urlset> tag
-            console.error('Invalid sitemap format');
-            return res.status(500).send('Invalid sitemap format');
-          }
-          // Send the final combined sitemap to the client
-          res.write(sitemapXml);
-          res.end();
-        });
-      })
-      .catch(() => res.redirect('/404'));
+    try {
+      const fetcher = new NativeDataFetcher();
+      const xmlResponse = await fetcher.fetch<string>(sitemapUrl);
+      return res.send(xmlResponse.data);
+    } catch (error) {
+      return res.redirect('/404');
+    }
   }
 
   // this approache if user go to /sitemap.xml - under it generate xml page with list of sitemaps
