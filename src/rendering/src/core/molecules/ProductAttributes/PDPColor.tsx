@@ -6,7 +6,6 @@ import { useI18n } from 'next-localization';
 import { type ProductAttributesProps } from './ProductAttributes.types';
 import { IoIosArrowForward, IoIosArrowBack } from 'react-icons/io';
 import 'react-multi-carousel/lib/styles.css';
-import Link from '@/core/atoms/Link/Link';
 interface ArrowProps {
   onClick: () => void;
 }
@@ -120,8 +119,8 @@ const PDPColor: React.FC<ProductAttributesProps> = (data) => {
                       )}
                     </div>
                   ) : (
-                    <Link
-                      field={{ href: color.IsActive ? '#' : color.ProductUrl ?? '' }}
+                    <a
+                      href={color.IsActive ? '#' : color.ProductUrl ?? ''}
                       className={cn(
                         'flex flex-col items-center w-full text-center text-dark-gray p-2 no-underline rounded-lg mr-0.5',
                         color.IsActive
@@ -159,7 +158,7 @@ const PDPColor: React.FC<ProductAttributesProps> = (data) => {
                           {color?.ProductTitle}
                         </div>
                       )}
-                    </Link>
+                    </a>
                   )}
                 </div>
               </SplideSlide>

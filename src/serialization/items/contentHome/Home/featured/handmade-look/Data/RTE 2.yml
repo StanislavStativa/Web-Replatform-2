@@ -25,14 +25,14 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text"><h3 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;" class="h3">Our Design Experts Can Help</span></h3><p style="margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">With so many beautiful handmade-look tiles to choose from, choosing just one or two for your project might be difficult! That’s where The Tile Shop’s in-house design experts can make all the difference. </span><a href="/store-locator/" class="font-bold underline">Visit one of our showrooms</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> to browse our wide selection of handmade-look tiles in person, try our complimentary design services, order samples, and learn about installation and care. We can’t wait to help you create the home of your dreams. </span></p></div>
+        <div class="rich-text"><p /><h3 style="margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;" class="h3">Our Design Experts Can Help</span></h3><p style="margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">With so many beautiful handmade-look tiles to choose from, choosing just one or two for your project might be difficult! That’s where The Tile Shop’s in-house design experts can make all the difference. </span><a href="/store-locator/" class="font-bold underline">Visit one of our showrooms</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"> to browse our wide selection of handmade-look tiles in person, try our complimentary design services, order samples, and learn about installation and care. We can’t wait to help you create the home of your dreams. </span></p><p /></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7a1b7d13-e04c-40fe-9c1f-fc46df5ba6cc"
+      Value: "f55b2dee-24a4-4ca0-b2bb-e2b4411791c9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sailaab.tirkey@altudo.co
+        sitecore\ashwani.kumar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124232Z
+      Value: 20240809T140343Z

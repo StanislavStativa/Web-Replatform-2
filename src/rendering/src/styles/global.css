@@ -1245,9 +1245,24 @@ select option:hover {
   }
 }
 
-.medium-max-width{
+.medium-max-width {
   max-width: 36.875rem; /* 590px to rem */
 }
 .large-max-width {
   max-width: 46.875rem; /* 750px to rem */
 }
+#content {
+  overflow-x: clip;
+}
+.carouselWrapper .splide__list {
+  gap: 0.625rem;
+}
+.hide-img img {
+  visibility: hidden;
+}
+.videoFull video {
+ object-fit: cover;
+}
+/* .hover-carousel .react-multi-carousel-dot-list{
+  bottom:64px
+} */

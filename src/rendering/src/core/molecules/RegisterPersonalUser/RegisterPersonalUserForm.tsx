@@ -34,6 +34,7 @@ import { WECOValidatePartnerAddressRequest } from '@/api/models/WECOValidatePart
 import { anonymousSignIn } from '@/data/order-cloud/auth.service';
 import { checkAnonymousAndRefreshToken } from '@/utils/authUtils';
 import PlacesAutocomplete from '../PlacesAutocomplete/PlacesAutocomplete';
+import { usePathname } from 'next/navigation';
 
 const InputFormField = ({ name, placeholder, control, maxLength }: FormFieldProps) => {
   const { t } = useI18n();
@@ -74,7 +75,7 @@ const RegisterPersonalUserForm: React.FC<RegisterPersonalUserFieldProps> = (prop
   const { t } = useI18n();
   const { setData } = useLocalStorage();
   const router = useRouter();
-  const routePath = router.asPath;
+  const routePath = usePathname();
   const [storeId, setStoreId] = useState('');
   const [storeRegion, setStoreRegion] = useState('');
   const errorMessages: FormErrorMessages = {
@@ -133,7 +134,12 @@ const RegisterPersonalUserForm: React.FC<RegisterPersonalUserFieldProps> = (prop
           setData('selectedStateName', selectedStateName);
         }
         setData('storeRegion', storeRegion);
-        router.push(`${routePath}?confirm=${true}`);
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
+        const { path, ...filteredQuery } = router?.query; // Remove 'path' from the query
+        router.push({
+          pathname: routePath,
+          query: { ...filteredQuery, confirm: 'true' },
+        });
       } else {
         setShowError(true);
       }

@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 class="extra-small-bottom-margin">We're Here to Help</h2>
+        <h2>We're Here to Help</h2>
         <p>It's important to consider the amount of natural light in the space when choosing pink tiles. You can <a href="/samples" class="font-bold"><strong><span style="text-decoration: underline;">order a sample</span></strong></a> of your favorite pink tile to see exactly how it looks in your home at various times of day. Or to explore many options at once,<strong> <a href="/store-locator/" class="font-bold"><span style="text-decoration: underline;">visit one of our showrooms</span></a>.</strong></p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2d7073f4-5e1f-41de-9588-c0996e82a72e"
+      Value: "0ccec5e1-4f52-477a-ad6f-fd975ce58e23"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T123207Z
+      Value: 20240905T064251Z

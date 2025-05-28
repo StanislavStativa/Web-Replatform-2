@@ -49,17 +49,22 @@ const EmailSearch = (props: ITypesEmailSearch) => {
       if (data) {
         if (data?.IsPresentInOC || data?.IsPresentInWECO) {
           // Any of the conditions is true
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
+          const { path, ...filteredQuery } = router?.query; // Remove 'path' from the query
           router.replace({
             pathname: CTA?.value?.href,
             query: {
-              ...router.query,
+              ...filteredQuery,
               email: _variable?.email,
             },
           });
         } else if (!data?.IsPresentInOC && !data?.IsPresentInWECO) {
+          // eslint-disable-next-line @typescript-eslint/no-unused-vars
+          const { path, ...filteredQuery } = router?.query; // Remove 'path' from
           router.replace({
             pathname: ROUTES.REGISTERROUTE,
             query: {
+              ...filteredQuery,
               email: _variable?.email,
             },
           });

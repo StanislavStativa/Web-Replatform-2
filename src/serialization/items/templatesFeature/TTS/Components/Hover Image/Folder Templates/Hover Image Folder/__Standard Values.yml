@@ -1,0 +1,36 @@
+﻿---
+ID: "7660a9f2-e351-4a1a-8146-569a3ba4bd24"
+Parent: "15bf19d4-557c-4cd5-be69-f4282b88c859"
+Template: "15bf19d4-557c-4cd5-be69-f4282b88c859"
+Path: /sitecore/templates/Feature/TTS/Components/Hover Image/Folder Templates/Hover Image Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4B40E936-B64A-45CC-8CAC-C39DC8C1C1AB}
+    {15BF19D4-557C-4CD5-BE69-F4282B88C859}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "95662164-6f81-4910-97c0-1101f4ce2dbf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c531c32-cb51-4265-8f97-05cc39cdb58b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kWcqIa9tCD
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250410T115938Z

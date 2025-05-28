@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 class="extra-small-bottom-margin">Bring Your Space to Life With Glass Wall Tiles</h2>
-        
-        <p>From sophisticated neutrals to vibrant, bold colors, glass wall tiles will reflect your personality and add interest to your home. <a class="font-bold" href="/material/glass/wall" class="font-bold">Glass wall tiles</a> are available in a myriad of styles—from classic subway shapes to hexagon mosaics, and stunning shimmer finishes to realistic wood-look tiles—that not only look great, but are durable and easy to clean, too.</p>
+        <h2>Bring Your Space to Life With Glass Wall Tiles</h2>
+        <br />
+        <p>From sophisticated neutrals to vibrant, bold colors, glass wall tiles will reflect your personality and add interest to your home. <a class="font-bold" href="/material/glass/wall" class="font-bold">Glass wall tiles</a> are available in a myriad of styles—from classic subway shapes to hexagon mosaics, and stunning shimmer finishes to realistic wood-look tiles—that not only look great, but are durable and easy to clean, too.</p><br />
         <p>Choosing wall tile means not having to consider things like hardness ratings or holding up to foot traffic, so you can really home in on expressing your individual style. In other words, finding the “best glass wall tile” is about whatever you like best. (Of course, having so many beautiful options means having more choices to narrow down, but that’s where we come in!) Here are some of our customers’ favorite ways to use glass wall tiles:</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "991e471b-2c43-4857-a22f-6beba6547f53"
+      Value: "359cedba-42f8-498a-aaad-5de49633adb6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124227Z
+      Value: 20240905T064248Z

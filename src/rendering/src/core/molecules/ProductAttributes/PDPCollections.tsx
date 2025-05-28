@@ -6,7 +6,6 @@ import { type ProductAttributesProps } from './ProductAttributes.types';
 import { Text, TextField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { IoIosArrowBack, IoIosArrowForward } from 'react-icons/io';
 import { getHeadingStyles } from '@/utils/StyleHeadings';
-import Link from '@/core/atoms/Link/Link';
 interface ArrowProps {
   onClick: () => void;
 }
@@ -115,8 +114,9 @@ const PDPCollections: React.FC<ProductAttributesProps> = (props) => {
                       </div>
                     </div>
                   ) : (
-                    <Link
-                      field={{ href: collection?.IsActive ? '#' : collection.ProductUrl ?? '' }}
+                    <a
+                      href={collection?.IsActive ? '#' : collection.ProductUrl ?? ''}
+                      // field={{ href: collection?.IsActive ? '#' : collection.ProductUrl ?? '' }}
                       title={collection.IsActive ? undefined : collection.ProductTitle}
                       className={cn(
                         'flex flex-col items-center text-center text-dark-gray py-2 no-underline rounded-lg mb-2.5 mr-0.5',
@@ -144,7 +144,7 @@ const PDPCollections: React.FC<ProductAttributesProps> = (props) => {
                       <div className="my-1 text-center text-dark-gray text-base">
                         {collection?.ProductTitle}
                       </div>
-                    </Link>
+                    </a>
                   )}
                 </div>
               </SplideSlide>

@@ -41,6 +41,20 @@ export class SyncJobService {
     });
   }
   /**
+   * @param statusIds
+   * @returns any Success
+   * @throws ApiError
+   */
+  public static syncJobImportProductsWithStatus(statusIds?: string): CancelablePromise<any> {
+    return __request(OpenAPI, {
+      method: 'POST',
+      url: '/api/SyncJob/syncProductsWithStatus',
+      query: {
+        statusIds: statusIds,
+      },
+    });
+  }
+  /**
    * @param productIds
    * @returns any Success
    * @throws ApiError

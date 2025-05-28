@@ -1,7 +1,7 @@
 import { EditingConfigMiddleware } from '@sitecore-jss/sitecore-jss-nextjs/editing';
 import { components } from 'temp/componentBuilder';
 import metadata from 'temp/metadata.json';
-
+import { EditMode } from '@sitecore-jss/sitecore-jss-nextjs';
 /**
  * This Next.js API route is used by Sitecore editors (Pages) in XM Cloud
  * to determine feature compatibility and configuration.
@@ -10,6 +10,7 @@ import metadata from 'temp/metadata.json';
 const handler = new EditingConfigMiddleware({
   components,
   metadata,
+  pagesEditMode: EditMode.Metadata,
 }).getHandler();
 
 export default handler;

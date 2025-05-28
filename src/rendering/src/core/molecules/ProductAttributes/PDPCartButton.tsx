@@ -118,7 +118,7 @@ const PDPCartButton: React.FC<PDPCartButtonProps> = (props) => {
 
     const sampleDictionaryValue = t('PDPAttributes_AddSample');
     const finalSampleCost = isProUser
-      ? sampleDictionaryValue.replace(/(\{.*?\})/g, () => `$${0}`)
+      ? sampleDictionaryValue.replace(/(\{.*?\})/g, () => `$${sampleCost}`)
       : sampleDictionaryValue.replace(/(\{.*?\})/g, () => `$${sampleCost}`);
 
     return finalSampleCost;

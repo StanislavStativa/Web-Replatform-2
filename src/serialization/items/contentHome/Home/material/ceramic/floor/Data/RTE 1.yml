@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 class="extra-small-bottom-margin">Ceramic Floor Tiles: Durable and Versatile</h2>
-        
+        <h2>Ceramic Floor Tiles: Durable and Versatile</h2>
+        <br />
         <p>Ceramic tile is strong, easy to maintain and cost-effective—an excellent choice for virtually any room in your home. Available in a wide variety of colors, shapes and styles, ceramic floor tiles are endlessly versatile. </p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dec7fd0c-9251-4f09-ae18-b602cd5b61a0"
+      Value: "671f00b5-c4a2-4d0d-b1c0-c269acfcc08a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T124225Z
+      Value: 20240905T064247Z

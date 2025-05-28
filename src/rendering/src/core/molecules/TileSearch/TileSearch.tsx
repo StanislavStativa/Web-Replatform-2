@@ -21,8 +21,8 @@ import { ButtonVariant } from '@/core/atoms/Button/Button.type';
 import ProductAPI, { UUID } from '../ProductListing/ProductAPI';
 import { useQuery } from '@tanstack/react-query';
 import useImageFormat from '@/hooks/useImageFormat';
-import useLocalStorage from '@/utils/useLocalStorage';
 import { getPriceGroup } from '@/utils/getPriceGroup';
+import useLocalStorage from '@/utils/useLocalStorage';
 
 const TileSearch: React.FC<TileSearchProps> = (props) => {
   const {

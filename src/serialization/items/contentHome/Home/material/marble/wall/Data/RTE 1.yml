@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2 class="extra-small-bottom-margin">Marble Wall Tiles: A Timeless Choice</h2>
+        <h2>Marble Wall Tiles: A Timeless Choice</h2>
         <p><span>&nbsp;</span></p>
         <p><span>Choosing </span><a href="/application/wall" class="font-bold">wall tiles</a><span> is a big choice—after all, a room only has one floor, but it has four walls. It’s a highly visible surface in any space, so you want to feel confident in the tiles and design you choose. One question we hear a lot is how to strike a balance and choose a look that is timeless enough to look good in 10 or 20 years, but not so safe that it feels boring. For us, that means thinking about materials like marble; after all, homeowners have chosen marble tile for walls thousands of years, so it stands to reason it will still be appealing a few decades down the road. </span></p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e4a28399-9ca6-471a-a5b5-f732966ddbe1"
+      Value: "bb7a6f6b-2ab5-4ef3-a466-e4ff089820a2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T123201Z
+      Value: 20240905T064244Z

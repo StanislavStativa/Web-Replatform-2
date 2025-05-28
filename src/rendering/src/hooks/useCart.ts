@@ -155,6 +155,7 @@ const useCart = (isFetchEnabled: boolean = true) => {
     },
   });
 
+  const isUpdatePending = updateMutation?.isPending;
   // mutation to delete all cart items
   const removeAllMutation = useMutation({
     mutationFn: () => CartService.cartRemoveAllCartItems(),
@@ -174,6 +175,7 @@ const useCart = (isFetchEnabled: boolean = true) => {
       // queryClient.invalidateQueries({ queryKey: ['getCartData'] });
     },
   });
+  const isDeletePending = deleteMutation?.isPending;
 
   const getGuestCart = () => {
     if (!isAuthenticated) {
@@ -762,6 +764,8 @@ const useCart = (isFetchEnabled: boolean = true) => {
     refreshCart,
     isGuestCardPending,
     isAddToCartPending,
+    isUpdatePending,
+    isDeletePending,
     isRemoveAllPending,
     isPriceUpdated,
   };

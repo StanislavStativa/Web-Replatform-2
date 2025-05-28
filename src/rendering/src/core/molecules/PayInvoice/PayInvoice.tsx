@@ -412,7 +412,7 @@ const PayInvoice = ({
                         {row.authorizationRefCode}
                       </div>
                       <div className="w-40 pt-9 text-xs font-medium">{row.fiDocumentNumber}</div>
-                      <div className="w-40 pt-9 text-xs font-medium">{`$${row.amountAuthorized}`}</div>
+                      <div className="w-40 pt-9 text-xs font-medium">{`$${Number(row?.amountAuthorized || 0)?.toFixed(2)}`}</div>
                     </div>
                   ))}
                 </div>
@@ -468,7 +468,9 @@ const PayInvoice = ({
                       </div>
                       <div className="w-full flex flex-row justify-between">
                         <p className="text-xs font-bold">Amount Assigned</p>{' '}
-                        <p className="text-base font-extrabold">{`$${paymentInfo?.[0]?.amountAuthorized}`}</p>
+                        <p className="text-base font-extrabold">
+                          {`$${Number(paymentInfo?.[0]?.amountAuthorized || 0)?.toFixed(2)}`}
+                        </p>
                       </div>
                     </div>
                   </div>
