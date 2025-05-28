@@ -7,9 +7,7 @@
   "paths": {
     "/api/address/getAddresses": {
       "get": {
-        "tags": [
-          "Address"
-        ],
+        "tags": ["Address"],
         "operationId": "Address_GetAddresses",
         "parameters": [
           {
@@ -44,9 +42,7 @@
     },
     "/api/address/getAddressById": {
       "get": {
-        "tags": [
-          "Address"
-        ],
+        "tags": ["Address"],
         "operationId": "Address_GetAddresses2",
         "parameters": [
           {
@@ -66,9 +62,7 @@
     },
     "/api/address/addAddress": {
       "post": {
-        "tags": [
-          "Address"
-        ],
+        "tags": ["Address"],
         "operationId": "Address_AddAddress",
         "requestBody": {
           "content": {
@@ -103,9 +97,7 @@
     },
     "/api/address/updateAddress": {
       "patch": {
-        "tags": [
-          "Address"
-        ],
+        "tags": ["Address"],
         "operationId": "Address_UpdateAddress",
         "requestBody": {
           "content": {
@@ -140,9 +132,7 @@
     },
     "/api/address/deleteAddress": {
       "delete": {
-        "tags": [
-          "Address"
-        ],
+        "tags": ["Address"],
         "operationId": "Address_DeleteAddress",
         "parameters": [
           {
@@ -162,9 +152,7 @@
     },
     "/api/auth/GetWecoUser": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetWecoUser",
         "requestBody": {
           "content": {
@@ -199,9 +187,7 @@
     },
     "/api/auth/GetUserStatus": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetUserStatus",
         "requestBody": {
           "content": {
@@ -236,9 +222,7 @@
     },
     "/api/auth/UserAuthentication": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_UserAuthentication",
         "parameters": [
           {
@@ -258,9 +242,7 @@
     },
     "/api/auth/GetTokenData": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetTokenData",
         "parameters": [
           {
@@ -280,9 +262,7 @@
     },
     "/api/auth/GetDecryptedPassword": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetDecryptedPassword",
         "requestBody": {
           "content": {
@@ -317,9 +297,7 @@
     },
     "/api/auth/GetEncryptPassword": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetEncryptPassword",
         "requestBody": {
           "content": {
@@ -354,9 +332,7 @@
     },
     "/api/auth/signIn": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_SignIn",
         "parameters": [
           {
@@ -400,9 +376,7 @@
     },
     "/api/auth/WECOSignIn": {
       "get": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_WECOSignIn",
         "parameters": [
           {
@@ -429,9 +403,7 @@
     },
     "/api/auth/GetAuthToken": {
       "get": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetAuthToken",
         "parameters": [
           {
@@ -466,9 +438,7 @@
     },
     "/api/auth/GetCustomerSet": {
       "get": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_GetCustomerSet",
         "responses": {
           "200": {
@@ -479,9 +449,7 @@
     },
     "/api/auth/AccountActivation": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_AccountActivation",
         "requestBody": {
           "content": {
@@ -516,9 +484,7 @@
     },
     "/api/auth/ForgotPassword": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_ForgotPassword",
         "requestBody": {
           "content": {
@@ -553,9 +519,7 @@
     },
     "/api/auth/ResetPassword": {
       "post": {
-        "tags": [
-          "Authentication"
-        ],
+        "tags": ["Authentication"],
         "operationId": "Authentication_ResetPassword",
         "parameters": [
           {
@@ -599,9 +563,7 @@
     },
     "/api/Cart/AddToCart": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_AddToCart",
         "requestBody": {
           "content": {
@@ -636,9 +598,7 @@
     },
     "/api/Cart/WECOCreateBasket": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_WECOCreateBasket",
         "responses": {
           "200": {
@@ -649,9 +609,7 @@
     },
     "/api/Cart/GetWECOBasket": {
       "get": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_GetWECOBasket",
         "responses": {
           "200": {
@@ -662,9 +620,7 @@
     },
     "/api/Cart/GetCart": {
       "get": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_GetCart",
         "responses": {
           "200": {
@@ -675,9 +631,7 @@
     },
     "/api/Cart/GetOrderSummary": {
       "get": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_GetOrderSummary",
         "responses": {
           "200": {
@@ -688,9 +642,7 @@
     },
     "/api/Cart/GetCartListItems": {
       "get": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_GetCartListItems",
         "responses": {
           "200": {
@@ -701,9 +653,7 @@
     },
     "/api/Cart/GuestCartListItems": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_GetGuestCartListItems",
         "requestBody": {
           "content": {
@@ -738,9 +688,7 @@
     },
     "/api/Cart/RemoveAllCartItems": {
       "delete": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_RemoveAllCartItems",
         "responses": {
           "200": {
@@ -751,9 +699,7 @@
     },
     "/api/Cart/RemoveCartLineItem": {
       "delete": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_RemoveCartLineItem",
         "parameters": [
           {
@@ -773,9 +719,7 @@
     },
     "/api/Cart/UpdateCartItemQuantity": {
       "patch": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_UpdateCartItemQuantity",
         "parameters": [
           {
@@ -803,9 +747,7 @@
     },
     "/api/Cart/ValidatePartnerAddress": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_ValidatePartnerAddress",
         "requestBody": {
           "content": {
@@ -840,9 +782,7 @@
     },
     "/api/Cart/SetBillingAddress": {
       "put": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_SetBillingAddress",
         "requestBody": {
           "content": {
@@ -877,9 +817,7 @@
     },
     "/api/Cart/SetShippingAddress": {
       "put": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_SetShippingAddress",
         "requestBody": {
           "content": {
@@ -914,9 +852,7 @@
     },
     "/api/Cart/UpdateWecoPartnerShippingAddress": {
       "put": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_UpdateWecoPartnerShippingAddress",
         "requestBody": {
           "content": {
@@ -951,9 +887,7 @@
     },
     "/api/Cart/ProcessCart": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_ProcessCart",
         "requestBody": {
           "content": {
@@ -988,9 +922,7 @@
     },
     "/api/Cart/SubmitCart": {
       "post": {
-        "tags": [
-          "Cart"
-        ],
+        "tags": ["Cart"],
         "operationId": "Cart_SubmitCart",
         "responses": {
           "200": {
@@ -1001,9 +933,7 @@
     },
     "/api/order/{orderID}/card-payment": {
       "put": {
-        "tags": [
-          "Checkout"
-        ],
+        "tags": ["Checkout"],
         "operationId": "Checkout_SetCreditCardPayment",
         "parameters": [
           {
@@ -1098,9 +1028,7 @@
     },
     "/api/order/{orderID}/submit": {
       "post": {
-        "tags": [
-          "Checkout"
-        ],
+        "tags": ["Checkout"],
         "operationId": "Checkout_SubmitOrder",
         "parameters": [
           {
@@ -1128,9 +1056,7 @@
     },
     "/api/me/credit-cards": {
       "get": {
-        "tags": [
-          "CreditCard"
-        ],
+        "tags": ["CreditCard"],
         "operationId": "CreditCard_ListSavedCreditCards",
         "responses": {
           "200": {
@@ -1149,9 +1075,7 @@
         }
       },
       "post": {
-        "tags": [
-          "CreditCard"
-        ],
+        "tags": ["CreditCard"],
         "operationId": "CreditCard_CreateSavedCard",
         "requestBody": {
           "content": {
@@ -1193,9 +1117,7 @@
     },
     "/api/me/credit-cards/{cardID}": {
       "get": {
-        "tags": [
-          "CreditCard"
-        ],
+        "tags": ["CreditCard"],
         "operationId": "CreditCard_GetSavedCard",
         "parameters": [
           {
@@ -1221,9 +1143,7 @@
         }
       },
       "delete": {
-        "tags": [
-          "CreditCard"
-        ],
+        "tags": ["CreditCard"],
         "operationId": "CreditCard_DeleteSavedCardASync",
         "parameters": [
           {
@@ -1244,9 +1164,7 @@
     },
     "/api/Discover/ExportFeeds": {
       "get": {
-        "tags": [
-          "Discover"
-        ],
+        "tags": ["Discover"],
         "operationId": "Discover_ExportFeeds",
         "responses": {
           "200": {
@@ -1257,9 +1175,7 @@
     },
     "/api/Discover/ExportCustomFeed": {
       "get": {
-        "tags": [
-          "Discover"
-        ],
+        "tags": ["Discover"],
         "operationId": "Discover_ExportCustomFeed",
         "parameters": [
           {
@@ -1279,9 +1195,7 @@
     },
     "/api/Discover/status/{jobId}": {
       "get": {
-        "tags": [
-          "Discover"
-        ],
+        "tags": ["Discover"],
         "operationId": "Discover_GetJobStatus",
         "parameters": [
           {
@@ -1302,9 +1216,7 @@
     },
     "/api/emarsys/contactusform": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_ContactUsForm",
         "requestBody": {
           "content": {
@@ -1339,9 +1251,7 @@
     },
     "/api/emarsys/emailsignupform": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_SignUpForm",
         "requestBody": {
           "content": {
@@ -1376,9 +1286,7 @@
     },
     "/api/emarsys/unsubscribeform": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_UnSubscribeForm",
         "requestBody": {
           "content": {
@@ -1413,9 +1321,7 @@
     },
     "/api/emarsys/scheduleconsultationform": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_ScheduleConsultationForm",
         "requestBody": {
           "content": {
@@ -1450,9 +1356,7 @@
     },
     "/api/emarsys/paymentWorksFormEmail": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_PaymentWorksFormEmail",
         "requestBody": {
           "content": {
@@ -1487,9 +1391,7 @@
     },
     "/api/emarsys/paymentWorksform": {
       "post": {
-        "tags": [
-          "Emarsys"
-        ],
+        "tags": ["Emarsys"],
         "operationId": "Emarsys_PaymentWorksform",
         "requestBody": {
           "content": {
@@ -1524,9 +1426,7 @@
     },
     "/api/EmarsysProductExport/ExportFeeds": {
       "get": {
-        "tags": [
-          "EmarsysProductExport"
-        ],
+        "tags": ["EmarsysProductExport"],
         "operationId": "EmarsysProductExport_ExportFeeds",
         "parameters": [
           {
@@ -1553,9 +1453,7 @@
     },
     "/api/env": {
       "get": {
-        "tags": [
-          "Env"
-        ],
+        "tags": ["Env"],
         "operationId": "Env_GetEnvironment",
         "responses": {
           "200": {
@@ -1566,9 +1464,7 @@
     },
     "/api/Feedonomics/ExportFeeds": {
       "get": {
-        "tags": [
-          "Feedonomics"
-        ],
+        "tags": ["Feedonomics"],
         "operationId": "Feedonomics_ExportFeeds",
         "parameters": [
           {
@@ -1619,9 +1515,7 @@
     },
     "/api/generic/getalttext": {
       "post": {
-        "tags": [
-          "Generic"
-        ],
+        "tags": ["Generic"],
         "operationId": "Generic_GetImageAltText",
         "parameters": [
           {
@@ -1641,9 +1535,7 @@
     },
     "/api/generic/getsitesettings": {
       "get": {
-        "tags": [
-          "Generic"
-        ],
+        "tags": ["Generic"],
         "operationId": "Generic_GetSiteSettings",
         "responses": {
           "200": {
@@ -1654,9 +1546,7 @@
     },
     "/api/generic/getRedirects": {
       "get": {
-        "tags": [
-          "Generic"
-        ],
+        "tags": ["Generic"],
         "operationId": "Generic_GetRedirects",
         "responses": {
           "200": {
@@ -1667,9 +1557,7 @@
     },
     "/api/generic/getProductRedirect": {
       "get": {
-        "tags": [
-          "Generic"
-        ],
+        "tags": ["Generic"],
         "operationId": "Generic_GetProductRedirect",
         "parameters": [
           {
@@ -1689,9 +1577,7 @@
     },
     "/api/generic/getStaticData": {
       "get": {
-        "tags": [
-          "Generic"
-        ],
+        "tags": ["Generic"],
         "operationId": "Generic_GetStaticData",
         "responses": {
           "200": {
@@ -1702,9 +1588,7 @@
     },
     "/api/index/addUpdateXpIndices": {
       "post": {
-        "tags": [
-          "Index"
-        ],
+        "tags": ["Index"],
         "operationId": "Index_AddUpdateXpIndices",
         "parameters": [
           {
@@ -1724,9 +1608,7 @@
     },
     "/api/index/deleteXpIndices": {
       "delete": {
-        "tags": [
-          "Index"
-        ],
+        "tags": ["Index"],
         "operationId": "Index_DeleteXpIndices",
         "parameters": [
           {
@@ -1746,9 +1628,7 @@
     },
     "/api/integrationevent/addtocart": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_GetProductWithUnitPrice",
         "requestBody": {
           "content": {
@@ -1790,9 +1670,7 @@
     },
     "/api/integrationevent/openidconnect/createuser": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_CreateUserFromSSO",
         "requestBody": {
           "content": {
@@ -1834,9 +1712,7 @@
     },
     "/api/integrationevent/openidconnect/syncuser": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_UpdateUserFromSSO",
         "requestBody": {
           "content": {
@@ -1878,9 +1754,7 @@
     },
     "/api/integrationevent/orderreturn/calculateorderreturn": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_CalculateOrderReturnRefund",
         "requestBody": {
           "content": {
@@ -1922,9 +1796,7 @@
     },
     "/api/integrationevent/ordercheckout/shippingrates": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_EstimateShippingCosts",
         "requestBody": {
           "content": {
@@ -1966,9 +1838,7 @@
     },
     "/api/integrationevent/ordercheckout/ordercalculate": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_RecalculatePricesAndTax",
         "requestBody": {
           "content": {
@@ -2010,9 +1880,7 @@
     },
     "/api/integrationevent/ordercheckout/ordersubmit": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_PostSubmitProcessing",
         "requestBody": {
           "content": {
@@ -2054,9 +1922,7 @@
     },
     "/api/integrationevent/ordercheckout/orderapproved": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_PostApprovalProcessing",
         "requestBody": {
           "content": {
@@ -2098,9 +1964,7 @@
     },
     "/api/integrationevent/ordercheckout/ordersubmitforapproval": {
       "post": {
-        "tags": [
-          "IntegrationEvent"
-        ],
+        "tags": ["IntegrationEvent"],
         "operationId": "IntegrationEvent_PostSubmitForApprovalProcessing",
         "requestBody": {
           "content": {
@@ -2142,9 +2006,7 @@
     },
     "/api/messagesender/NewUserInvitation": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_NewUserInvitation",
         "requestBody": {
           "content": {
@@ -2179,9 +2041,7 @@
     },
     "/api/messagesender/ForgottenPassword": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_NewUserInvitation2",
         "requestBody": {
           "content": {
@@ -2216,9 +2076,7 @@
     },
     "/api/messagesender/OrderSubmitted": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted",
         "requestBody": {
           "content": {
@@ -2253,9 +2111,7 @@
     },
     "/api/messagesender/OrderSubmittedForApproval": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted2",
         "requestBody": {
           "content": {
@@ -2290,9 +2146,7 @@
     },
     "/api/messagesender/OrderApproved": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted3",
         "requestBody": {
           "content": {
@@ -2327,9 +2181,7 @@
     },
     "/api/messagesender/OrderDeclined": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted4",
         "requestBody": {
           "content": {
@@ -2364,9 +2216,7 @@
     },
     "/api/messagesender/OrderSubmittedForYourApproval": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted5",
         "requestBody": {
           "content": {
@@ -2401,9 +2251,7 @@
     },
     "/api/messagesender/OrderSubmittedForYourApprovalHasBeenApproved": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted6",
         "requestBody": {
           "content": {
@@ -2438,9 +2286,7 @@
     },
     "/api/messagesender/OrderSubmittedForYourApprovalHasBeenDeclined": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderSubmitted7",
         "requestBody": {
           "content": {
@@ -2475,9 +2321,7 @@
     },
     "/api/messagesender/ShipmentCreated": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_ShipmentCreated",
         "requestBody": {
           "content": {
@@ -2512,9 +2356,7 @@
     },
     "/api/messagesender/OrderReturnSubmitted": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted",
         "requestBody": {
           "content": {
@@ -2549,9 +2391,7 @@
     },
     "/api/messagesender/OrderReturnSubmittedForApproval": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted2",
         "requestBody": {
           "content": {
@@ -2586,9 +2426,7 @@
     },
     "/api/messagesender/OrderReturnApproved": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted3",
         "requestBody": {
           "content": {
@@ -2623,9 +2461,7 @@
     },
     "/api/messagesender/OrderReturnDeclined": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted4",
         "requestBody": {
           "content": {
@@ -2660,9 +2496,7 @@
     },
     "/api/messagesender/OrderReturnSubmittedForYourApproval": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted5",
         "requestBody": {
           "content": {
@@ -2697,9 +2531,7 @@
     },
     "/api/messagesender/OrderReturnSubmittedForYourApprovalHasBeenApproved": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted6",
         "requestBody": {
           "content": {
@@ -2734,9 +2566,7 @@
     },
     "/api/messagesender/OrderReturnSubmittedForYourApprovalHasBeenDeclined": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted7",
         "requestBody": {
           "content": {
@@ -2771,9 +2601,7 @@
     },
     "/api/messagesender/OrderReturnCompleted": {
       "post": {
-        "tags": [
-          "MessageSender"
-        ],
+        "tags": ["MessageSender"],
         "operationId": "MessageSender_OrderReturnSubmitted8",
         "requestBody": {
           "content": {
@@ -2808,9 +2636,7 @@
     },
     "/api/myaccount/GetOrders": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetOrders",
         "requestBody": {
           "content": {
@@ -2845,9 +2671,7 @@
     },
     "/api/myaccount/GetOrderDetail": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetOrderDetail",
         "parameters": [
           {
@@ -2867,9 +2691,7 @@
     },
     "/api/myaccount/GetQuotes": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetQuotes",
         "requestBody": {
           "content": {
@@ -2904,9 +2726,7 @@
     },
     "/api/myaccount/GetQuoteDetail": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetQuoteDetail",
         "parameters": [
           {
@@ -2926,9 +2746,7 @@
     },
     "/api/myaccount/GetSelectionSheets": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetSelectionSheets",
         "requestBody": {
           "content": {
@@ -2963,9 +2781,7 @@
     },
     "/api/myaccount/GetSelectionSheetDetail": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetSelectionSheetDetail",
         "parameters": [
           {
@@ -2985,9 +2801,7 @@
     },
     "/api/myaccount/GetRewardSummary": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetRewardSummary",
         "responses": {
           "200": {
@@ -2998,9 +2812,7 @@
     },
     "/api/myaccount/GetRewardStatements": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetRewardStatements",
         "responses": {
           "200": {
@@ -3011,9 +2823,7 @@
     },
     "/api/myaccount/GetRewardDetails": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetRewardDetails",
         "parameters": [
           {
@@ -3033,9 +2843,7 @@
     },
     "/api/myaccount/GetMyProjects": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetMyProjects",
         "responses": {
           "200": {
@@ -3046,9 +2854,7 @@
     },
     "/api/myaccount/GetProjectDetail": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetProjectDetail",
         "parameters": [
           {
@@ -3068,9 +2874,7 @@
     },
     "/api/myaccount/SearchForInvoices": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_SearchForInvoices",
         "requestBody": {
           "content": {
@@ -3105,9 +2909,7 @@
     },
     "/api/myaccount/PayOpenInvoiceBySnapPay": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_PayOpenInvoiceBySnapPay",
         "requestBody": {
           "content": {
@@ -3142,9 +2944,7 @@
     },
     "/api/myaccount/GetBillingHistory": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetBillingHistory",
         "requestBody": {
           "content": {
@@ -3179,9 +2979,7 @@
     },
     "/api/myaccount/PaymentCreditStatements": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_PaymentCreditMemoHistory",
         "parameters": [
           {
@@ -3225,9 +3023,7 @@
     },
     "/api/myaccount/GetStatements": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetStatements",
         "responses": {
           "200": {
@@ -3238,9 +3034,7 @@
     },
     "/api/myaccount/GetDocumentHeaderPartner": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetDocumentHeaderPartner",
         "parameters": [
           {
@@ -3267,9 +3061,7 @@
     },
     "/api/myaccount/DownloadDoc": {
       "post": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_DownloadDoc",
         "requestBody": {
           "content": {
@@ -3304,9 +3096,7 @@
     },
     "/api/myaccount/GetDocumentFilters": {
       "get": {
-        "tags": [
-          "MyAccount"
-        ],
+        "tags": ["MyAccount"],
         "operationId": "MyAccount_GetDocumentFilters",
         "parameters": [
           {
@@ -3326,9 +3116,7 @@
     },
     "/api/orderSummary/getOrderDetails": {
       "get": {
-        "tags": [
-          "OrderSummary"
-        ],
+        "tags": ["OrderSummary"],
         "operationId": "OrderSummary_GetOrderDetails",
         "parameters": [
           {
@@ -3348,9 +3136,7 @@
     },
     "/api/payment/initiatepayment": {
       "post": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_InitiatePayment",
         "requestBody": {
           "content": {
@@ -3385,9 +3171,7 @@
     },
     "/api/payment/getrequestid": {
       "get": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_GetRequestID",
         "responses": {
           "200": {
@@ -3398,9 +3182,7 @@
     },
     "/api/payment/gettokenize": {
       "post": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_GetTokenize",
         "requestBody": {
           "content": {
@@ -3435,9 +3217,7 @@
     },
     "/api/payment/getauthorize": {
       "post": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_GetAuthorize",
         "parameters": [
           {
@@ -3481,9 +3261,7 @@
     },
     "/api/payment/getpaymentdetails": {
       "post": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_GetPaymentDetails",
         "requestBody": {
           "content": {
@@ -3518,9 +3296,7 @@
     },
     "/api/payment/checkaccountstatus": {
       "get": {
-        "tags": [
-          "Payment"
-        ],
+        "tags": ["Payment"],
         "operationId": "Payment_CheckAccountStatus",
         "parameters": [
           {
@@ -3540,9 +3316,7 @@
     },
     "/api/Product/GetSitecoreItem": {
       "get": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetSitecoreItem",
         "parameters": [
           {
@@ -3562,9 +3336,7 @@
     },
     "/api/Product/GetPaymentOptions": {
       "get": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetPaymentOptions",
         "responses": {
           "200": {
@@ -3575,9 +3347,7 @@
     },
     "/api/Product/GetProductAttributes": {
       "get": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetProductAttributes",
         "parameters": [
           {
@@ -3597,9 +3367,7 @@
     },
     "/api/Product/GetProductBreadcrum": {
       "get": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetProductBreadcrum",
         "parameters": [
           {
@@ -3619,9 +3387,7 @@
     },
     "/api/Product/GetProductItemDetails": {
       "post": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetProductItemDetails",
         "parameters": [
           {
@@ -3641,9 +3407,7 @@
     },
     "/api/Product/GetProductSitemaps": {
       "get": {
-        "tags": [
-          "Product"
-        ],
+        "tags": ["Product"],
         "operationId": "Product_GetProductSitemaps",
         "responses": {
           "200": {
@@ -3654,9 +3418,7 @@
     },
     "/api/product/createupdateProduct": {
       "post": {
-        "tags": [
-          "ProductSync"
-        ],
+        "tags": ["ProductSync"],
         "operationId": "ProductSync_CreateUpdateProduct",
         "requestBody": {
           "content": {
@@ -3691,9 +3453,7 @@
     },
     "/api/product/status/{jobId}": {
       "get": {
-        "tags": [
-          "ProductSync"
-        ],
+        "tags": ["ProductSync"],
         "operationId": "ProductSync_GetJobStatus",
         "parameters": [
           {
@@ -3714,9 +3474,7 @@
     },
     "/api/project/CreateNewProject": {
       "post": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_CreateNewProject",
         "responses": {
           "200": {
@@ -3727,9 +3485,7 @@
     },
     "/api/project/AddProjectName": {
       "put": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_AddProjectName",
         "parameters": [
           {
@@ -3763,9 +3519,7 @@
     },
     "/api/project/UpdateProject": {
       "post": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_UpdateProject",
         "requestBody": {
           "content": {
@@ -3800,9 +3554,7 @@
     },
     "/api/project/AddItemToProject": {
       "post": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_AddItemToProject",
         "requestBody": {
           "content": {
@@ -3837,9 +3589,7 @@
     },
     "/api/project/GetProjectItemDetails": {
       "get": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_GetProjectItemDetails",
         "parameters": [
           {
@@ -3859,9 +3609,7 @@
     },
     "/api/project/EditProjectItems": {
       "put": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_EditProjectItems",
         "requestBody": {
           "content": {
@@ -3896,9 +3644,7 @@
     },
     "/api/project/DeleteProjectItems": {
       "delete": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_DeleteProjectItems",
         "parameters": [
           {
@@ -3925,9 +3671,7 @@
     },
     "/api/project/SaveProject": {
       "post": {
-        "tags": [
-          "Project"
-        ],
+        "tags": ["Project"],
         "operationId": "Project_SaveProject",
         "parameters": [
           {
@@ -3947,9 +3691,7 @@
     },
     "/api/proxy/orders/for/my/location": {
       "get": {
-        "tags": [
-          "ProxyListOrders"
-        ],
+        "tags": ["ProxyListOrders"],
         "operationId": "ProxyListOrders_ListOrdersForBillingAddress",
         "parameters": [
           {
@@ -4019,9 +3761,7 @@
     },
     "/api/Stores/Nearest": {
       "get": {
-        "tags": [
-          "Stores"
-        ],
+        "tags": ["Stores"],
         "operationId": "Stores_Nearest",
         "parameters": [
           {
@@ -4041,9 +3781,7 @@
     },
     "/api/Stores/getmerchantId": {
       "get": {
-        "tags": [
-          "Stores"
-        ],
+        "tags": ["Stores"],
         "operationId": "Stores_GetMerchantId",
         "parameters": [
           {
@@ -4063,9 +3801,7 @@
     },
     "/api/SyncJob/syncStores": {
       "post": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_ImportStores",
         "responses": {
           "200": {
@@ -4076,9 +3812,7 @@
     },
     "/api/SyncJob/syncAttributes": {
       "post": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_ImportAttributes",
         "responses": {
           "200": {
@@ -4089,9 +3823,7 @@
     },
     "/api/SyncJob/syncProducts": {
       "post": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_ImportProducts",
         "parameters": [
           {
@@ -4111,9 +3843,7 @@
     },
     "/api/SyncJob/syncProductsWithStatus": {
       "post": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_ImportProductsWithStatus",
         "parameters": [
           {
@@ -4133,9 +3863,7 @@
     },
     "/api/SyncJob/syncProductPrices": {
       "post": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_ImportProductPrices",
         "parameters": [
           {
@@ -4155,9 +3883,7 @@
     },
     "/api/SyncJob/status/{jobId}": {
       "get": {
-        "tags": [
-          "SyncJob"
-        ],
+        "tags": ["SyncJob"],
         "operationId": "SyncJob_GetJobStatus",
         "parameters": [
           {
@@ -4178,9 +3904,7 @@
     },
     "/api/user/createCustomer": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_CreateCustomer",
         "requestBody": {
           "content": {
@@ -4215,9 +3939,7 @@
     },
     "/api/user/GetPersonalData": {
       "get": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_GetPersonalData",
         "responses": {
           "200": {
@@ -4228,9 +3950,7 @@
     },
     "/api/user/ChangePersonalData": {
       "patch": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_ChangePersonalData",
         "requestBody": {
           "content": {
@@ -4265,9 +3985,7 @@
     },
     "/api/user/CreateNewUser": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_CreateNewUser",
         "requestBody": {
           "content": {
@@ -4302,9 +4020,7 @@
     },
     "/api/user/GetCustomerUserList": {
       "get": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_GetCustomerUserList",
         "responses": {
           "200": {
@@ -4315,9 +4031,7 @@
     },
     "/api/user/UpdateCustomerData": {
       "put": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_UpdateCustomerData",
         "requestBody": {
           "content": {
@@ -4352,9 +4066,7 @@
     },
     "/api/user/DeleteUser": {
       "delete": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_DeleteUser",
         "parameters": [
           {
@@ -4374,9 +4086,7 @@
     },
     "/api/user/LockUser": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_LockUser",
         "parameters": [
           {
@@ -4396,9 +4106,7 @@
     },
     "/api/user/UnlockUser": {
       "delete": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_UnlockUser",
         "parameters": [
           {
@@ -4418,9 +4126,7 @@
     },
     "/api/user/IsPhoneAlreadyExist": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_IsPhoneAlreadyExist",
         "requestBody": {
           "content": {
@@ -4455,9 +4161,7 @@
     },
     "/api/user/IsEmailAlreadyExist": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_IsEmailAlreadyExist",
         "requestBody": {
           "content": {
@@ -4492,9 +4196,7 @@
     },
     "/api/user/DeleteMeCreditCardForAllUser": {
       "post": {
-        "tags": [
-          "User"
-        ],
+        "tags": ["User"],
         "operationId": "User_DeleteMeCreditCardForAllUser",
         "parameters": [
           {
@@ -4523,9 +4225,7 @@
     },
     "/api/webhook/orderapproved": {
       "post": {
-        "tags": [
-          "Webhook"
-        ],
+        "tags": ["Webhook"],
         "operationId": "Webhook_HandleOrderApprove",
         "requestBody": {
           "content": {
@@ -4560,9 +4260,7 @@
     },
     "/api/webhook/createaddress": {
       "post": {
-        "tags": [
-          "Webhook"
-        ],
+        "tags": ["Webhook"],
         "operationId": "Webhook_HandleAddressCreate",
         "requestBody": {
           "content": {
@@ -4604,9 +4302,7 @@
     },
     "/api/webhook/savebasket": {
       "post": {
-        "tags": [
-          "Webhook"
-        ],
+        "tags": ["Webhook"],
         "operationId": "Webhook_HandleCartSubmit",
         "requestBody": {
           "content": {
@@ -4966,94 +4662,16 @@
       },
       "ApiRole": {
         "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17,
-          18,
-          19,
-          20,
-          21,
-          22,
-          23,
-          24,
-          25,
-          26,
-          27,
-          28,
-          29,
-          30,
-          31,
-          32,
-          33,
-          34,
-          35,
-          36,
-          37,
-          38,
-          39,
-          40,
-          41,
-          42,
-          43,
-          44,
-          45,
-          46,
-          47,
-          48,
-          49,
-          50,
-          51,
-          52,
-          53,
-          54,
-          55,
-          56,
-          57,
-          58,
-          59,
-          60,
-          61,
-          62,
-          63,
-          64,
-          65,
-          66,
-          67,
-          68,
-          69,
-          70,
-          71,
-          72,
-          73,
-          74,
-          75,
-          76,
-          77
+          0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
+          25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+          47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68,
+          69, 70, 71, 72, 73, 74, 75, 76, 77
         ],
         "type": "integer",
         "format": "int32"
       },
       "ApprovalStatus": {
-        "enum": [
-          0,
-          1,
-          2
-        ],
+        "enum": [0, 1, 2],
         "type": "integer",
         "format": "int32"
       },
@@ -5568,10 +5186,7 @@
         "additionalProperties": false
       },
       "CustomsNonDeliveryOption": {
-        "enum": [
-          0,
-          1
-        ],
+        "enum": [0, 1],
         "type": "integer",
         "format": "int32"
       },
@@ -6447,14 +6062,7 @@
         "additionalProperties": false
       },
       "ListFilterOperator": {
-        "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
+        "enum": [0, 1, 2, 3, 4, 5],
         "type": "integer",
         "format": "int32"
       },
@@ -6553,26 +6161,7 @@
         "additionalProperties": false
       },
       "MessageType": {
-        "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10,
-          11,
-          12,
-          13,
-          14,
-          15,
-          16,
-          17
-        ],
+        "enum": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
         "type": "integer",
         "format": "int32"
       },
@@ -7265,11 +6854,7 @@
         "additionalProperties": false
       },
       "OrderDirection": {
-        "enum": [
-          0,
-          1,
-          2
-        ],
+        "enum": [0, 1, 2],
         "type": "integer",
         "format": "int32"
       },
@@ -7746,14 +7331,7 @@
         "additionalProperties": false
       },
       "OrderStatus": {
-        "enum": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
+        "enum": [0, 1, 2, 3, 4, 5],
         "type": "integer",
         "format": "int32"
       },
@@ -8555,11 +8133,7 @@
         "additionalProperties": false
       },
       "PaymentType": {
-        "enum": [
-          0,
-          1,
-          2
-        ],
+        "enum": [0, 1, 2],
         "type": "integer",
         "format": "int32"
       },
@@ -8784,12 +8358,7 @@
         "additionalProperties": false
       },
       "PriceMarkupType": {
-        "enum": [
-          0,
-          1,
-          2,
-          3
-        ],
+        "enum": [0, 1, 2, 3],
         "type": "integer",
         "format": "int32"
       },

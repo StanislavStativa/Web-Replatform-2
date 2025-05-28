@@ -1261,7 +1261,7 @@ select option:hover {
   visibility: hidden;
 }
 .videoFull video {
- object-fit: cover;
+  object-fit: cover;
 }
 /* .hover-carousel .react-multi-carousel-dot-list{
   bottom:64px
