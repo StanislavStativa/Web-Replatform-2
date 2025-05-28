@@ -18,7 +18,7 @@ export const ImageBanner = (props: ImageBannerProps): JSX.Element => {
     MobileImage: MobileImageBanner,
     CTA,
     Video: ImageBannerVideo,
-  } = props?.rendering?.fields;
+  } = props?.rendering?.fields || {};
   const desktopImage = getAdobeImageURL({
     imageName: ImageBanner?.value,
   });
@@ -39,7 +39,6 @@ export const ImageBanner = (props: ImageBannerProps): JSX.Element => {
     const proUserCookie = Cookies.get(PRICE_GP);
     if (proUserCookie !== undefined) setIsProUser(proUserCookie);
   }, [Pricing_group_tier]);
-
   const Wrapper = ({ children }: { children: ReactElement }) => {
     return isClickable && isEditing === false ? (
       <NextLink

@@ -26,7 +26,7 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>The Natural Beauty of Genuine Marble Tiles</h2>
+        <h2 class="extra-small-bottom-margin">The Natural Beauty of Genuine Marble Tiles</h2>
         <p><span>&nbsp;</span></p>
         <p>
         <span>Whether you prefer your luxury to be quiet or loud, there’s nothing quite like marble for achieving a stunning space that’s truly one of a kind. Marble has been used to create beautiful interiors for thousands of years, yet today’s tile options prove this classic material is as modern as ever.&nbsp;</span>
@@ -34,11 +34,11 @@ Languages:
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0de58ae6-be40-4d97-9ced-540f490dc563"
+      Value: "4c11c8d5-7930-41c7-9865-612a64e82d64"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064244Z
+      Value: 20240905T123201Z

@@ -26,27 +26,27 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>Glass Mosaic Tiles: All About Variety</h2>
-        <br />
+        <h2 class="extra-small-bottom-margin">Glass Mosaic Tiles: All About Variety</h2>
+        
         <p>When you shop for glass mosaic tiles at The Tile Shop, the options are (practically) endless. The wide variety of colors, shapes and sizes makes them a gorgeous addition to any style of home décor.</p>
-        <br />
+        
         <p>Here are a few of our favorite ways to help narrow your search and find the perfect fit for your project:</p>
-        <br />
-        <p><h4>Shop by color</h4><br />
+        
+        <p><h4 class="extra-small-bottom-margin">Shop by color</h4>
         Sometimes “a rainbow of colors” is just a figure of speech, but glass mosaic tiles are available in a literal ROYGBIV assortment. Stick to a single color or, if the style you choose comes in multiple colorways, swap out individual mosaic pieces to create a one-of-a-kind installation.</p>
-        <br />
-        <p><h4>Shop by finish</h4><br />
+        
+        <p><h4 class="extra-small-bottom-margin">Shop by finish</h4>
         Glass comes in multiple finishes. Our collection of glass mosaic tiles includes designs with a single finish, as well as one that offer a combination of gloss, metallic, matte, frosted and more.</p>
-        <br />
-        <p><h4>Shop by shape</h4><br />
+        
+        <p><h4 class="extra-small-bottom-margin">Shop by shape</h4>
         From classic subway tile and trendy hexagons to unique shapes and specialty mosaics, glass tile offers something for everyone.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "497952e2-7ab2-458c-9f6d-3f048af1e7e0"
+      Value: "07ef8323-73fc-40bf-bea0-2bfc49a13774"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064248Z
+      Value: 20240905T124227Z

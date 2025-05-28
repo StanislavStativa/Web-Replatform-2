@@ -137,76 +137,72 @@ const ProductImageGallery = () => {
   }
   return (
     <>
-      <div className="w-full h-full">
-        <div className="block md:hidden">
-          {colorCode.color && (
-            <div className="mt-6">
-              <span
-                className={`inline-block ${colorCode.color} text-sm font-latoBold uppercase py-1.5 px-3  rounded-full tracking-custom`}
-              >
-                {colorCode?.text}
-              </span>
+      {productImageGallery ? (
+        <div className="w-full h-full">
+          <div className="block md:hidden">
+            {colorCode.color && (
+              <div className="mt-6">
+                <span
+                  className={`inline-block ${colorCode.color} text-sm font-latoBold uppercase py-1.5 px-3  rounded-full tracking-custom`}
+                >
+                  {colorCode.text}
+                </span>
+              </div>
+            )}
+            <PDPMainTitle
+              ProductName={data?.ProductName}
+              ProductCode={data?.ProductCode}
+              CoveragePerBox={data?.CoveragePerBox}
+              SellingUOM={data?.SellingUOM}
+            />
+          </div>
+          <div className="flex flex-col-reverse lg:gap-8 items-center lg:flex-row w-full sticky left-0 right-0 top-0 lg:pb-9">
+            <ProductImageRightCarousel
+              data={productImageGallery ?? []}
+              setActiveSlick={setActiveSlick}
+              activeSlick={activeSlick}
+              thumbnailRef={thumbnailRef}
+              mainRef={mainRef}
+              className="w-full h-full"
+              isMainImageDragged={isMainImageDragged}
+              setisMainImageDragged={setisMainImageDragged}
+            />
+            <div className="w-full flex justify-center mb-4.5 h-full">
+              <ProductImageLeftCarousel
+                data={productImageGallery ?? []}
+                setActiveSlick={setActiveSlick}
+                activeSlick={activeSlick}
+                openModal={openModal}
+                mainRef={mainRef}
+                thumbnailRef={thumbnailRef}
+                className="w-full h-full"
+                isMainImageDragged={isMainImageDragged}
+                setisMainImageDragged={setisMainImageDragged}
+              />
             </div>
+          </div>
+          {isModalOpen && (
+            <CarouselView
+              closeModal={closeModal}
+              setActiveSlick={setActiveSlick}
+              activeSlick={activeSlick}
+              mainRef={mainRef}
+              data={productImageGallery ?? []}
+              className="w-full h-full"
+              setisMainImageDragged={setisMainImageDragged}
+            />
           )}
-          <PDPMainTitle
-            ProductName={data?.ProductName}
-            ProductCode={data?.ProductCode}
-            CoveragePerBox={data?.CoveragePerBox}
-            SellingUOM={data?.SellingUOM}
-          />
         </div>
-        <>
-          {productImageGallery ? (
-            <>
-              <div className="flex flex-col-reverse lg:gap-8 items-center lg:flex-row w-full sticky left-0 right-0 top-0 lg:pb-9">
-                <ProductImageRightCarousel
-                  data={productImageGallery ?? []}
-                  setActiveSlick={setActiveSlick}
-                  activeSlick={activeSlick}
-                  thumbnailRef={thumbnailRef}
-                  mainRef={mainRef}
-                  className="w-full h-full"
-                  isMainImageDragged={isMainImageDragged}
-                  setisMainImageDragged={setisMainImageDragged}
-                />
-                <div className="w-full flex justify-center mb-4.5 h-full min-h-96 md:min-h-112">
-                  <ProductImageLeftCarousel
-                    data={productImageGallery ?? []}
-                    setActiveSlick={setActiveSlick}
-                    activeSlick={activeSlick}
-                    openModal={openModal}
-                    mainRef={mainRef}
-                    thumbnailRef={thumbnailRef}
-                    className="w-full h-full"
-                    isMainImageDragged={isMainImageDragged}
-                    setisMainImageDragged={setisMainImageDragged}
-                  />
-                </div>
-              </div>
-              {isModalOpen && (
-                <CarouselView
-                  closeModal={closeModal}
-                  setActiveSlick={setActiveSlick}
-                  activeSlick={activeSlick}
-                  mainRef={mainRef}
-                  data={productImageGallery ?? []}
-                  className="w-full h-full"
-                  setisMainImageDragged={setisMainImageDragged}
-                />
-              )}
-            </>
-          ) : (
-            <div className="w-full h-full">
-              <div className="flex flex-col-reverse lg:gap-8 items-center lg:flex-row w-full sticky left-0 right-0 top-0 lg:pb-9">
-                <ProductImageRightCarouselSkeleton />
-                <div className="w-full flex justify-center mb-4.5 h-full">
-                  <ProductImageLeftCarouselSkeleton />
-                </div>
-              </div>
+      ) : (
+        <div className="w-full h-full">
+          <div className="flex flex-col-reverse lg:gap-8 items-center lg:flex-row w-full sticky left-0 right-0 top-0 lg:pb-9">
+            <ProductImageRightCarouselSkeleton />
+            <div className="w-full flex justify-center mb-4.5 h-full">
+              <ProductImageLeftCarouselSkeleton />
             </div>
-          )}
-        </>
-      </div>
+          </div>
+        </div>
+      )}
     </>
   );
 };

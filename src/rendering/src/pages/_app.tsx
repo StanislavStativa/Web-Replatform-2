@@ -17,6 +17,7 @@ import { useRouter } from 'next/router';
 import LoaderSpinner from '@/core/atoms/LoaderSpinner/LoaderSpinner';
 import useLocalStorage from '@/utils/useLocalStorage';
 import LogRocket from 'logrocket';
+import CustomErrorBoundary from '@/components/ErrorBoundary';
 OpenAPI.BASE = process.env.NEXT_PUBLIC_MIDDLEWARE_API_URL as string;
 
 const bemboFont = localFont({
@@ -141,33 +142,35 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
 
   return (
     <div className={fontClasses}>
-      <Script
-        async
-        defer
-        id="pinterest"
-        strategy="lazyOnload"
-        src="https://assets.pinterest.com/js/pinit.js"
-        data-pin-hover="true"
-      />
+      <CustomErrorBoundary>
+        <Script
+          async
+          defer
+          id="pinterest"
+          strategy="lazyOnload"
+          src="https://assets.pinterest.com/js/pinit.js"
+          data-pin-hover="true"
+        />
 
-      {/*
+        {/*
         // Use the next-localization (w/ rosetta) library to provide our translation dictionary to the app.
         // Note Next.js does not (currently) provide anything for translation, only i18n routing.
         // If your app is not multilingual, next-localization and references to it can be removed.
       */}
-      <QueryClientProvider client={queryClient}>
-        <div className="print:hidden">
-          <ReactQueryDevtools initialIsOpen={false} />
-        </div>
-        <HydrationBoundary state={pageProps.dehydratedState}>
-          <I18nProvider lngDict={dictionary} locale={pageProps.locale}>
-            <Provider>
-              {isLoading && <LoaderSpinner />}
-              <Component {...rest} />
-            </Provider>
-          </I18nProvider>
-        </HydrationBoundary>
-      </QueryClientProvider>
+        <QueryClientProvider client={queryClient}>
+          <div className="print:hidden">
+            <ReactQueryDevtools initialIsOpen={false} />
+          </div>
+          <HydrationBoundary state={pageProps.dehydratedState}>
+            <I18nProvider lngDict={dictionary} locale={pageProps.locale}>
+              <Provider>
+                {isLoading && <LoaderSpinner />}
+                <Component {...rest} />
+              </Provider>
+            </I18nProvider>
+          </HydrationBoundary>
+        </QueryClientProvider>
+      </CustomErrorBoundary>
     </div>
   );
 }

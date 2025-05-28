@@ -71,12 +71,9 @@ const RegisterProUser: React.FC<RegisterProUserProps> = ({ rendering }) => {
         if (RegistrationConfirmationLink?.jsonValue?.value?.target !== '') {
           window.open(RegistrationConfirmationLink?.jsonValue?.value?.href as string, '_blank');
         } else {
-          // eslint-disable-next-line @typescript-eslint/no-unused-vars
-          const { path, ...filteredQuery } = router?.query; // Remove 'path' from the query
           router.push({
             pathname: RegistrationConfirmationLink?.jsonValue?.value?.href as string,
             query: {
-              ...filteredQuery,
               id: data?.ID,
             },
           });

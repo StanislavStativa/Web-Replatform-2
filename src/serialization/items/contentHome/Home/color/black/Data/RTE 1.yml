@@ -25,16 +25,16 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="richText-max richText "><p />
-        <h2><span class="h2-style" style="color: #323338;">Create Memorable Spaces with Black Tiles</span></h2>
-        <p><span style="color: #323338;">Elevate any room in your house with the understated boldness of black tile. From natural stone like marble and slate to manmade materials like black porcelain tile and ceramic tile, our wide selection showcases the beauty and variety of this bold hue. Additional materials include glass, limestone, cement and vinyl, with many versatile options that work equally well as black floor tiles or wall tiles.</span></p><p /></div>
+        <div class="richText-max richText ">
+        <h2 class="extra-small-bottom-margin"><span class="h2-style" style="color: #323338;">Create Memorable Spaces with Black Tiles</span></h2>
+        <p><span style="color: #323338;">Elevate any room in your house with the understated boldness of black tile. From natural stone like marble and slate to manmade materials like black porcelain tile and ceramic tile, our wide selection showcases the beauty and variety of this bold hue. Additional materials include glass, limestone, cement and vinyl, with many versatile options that work equally well as black floor tiles or wall tiles.</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28818f87-7793-45de-afa5-a615d61e6f68"
+      Value: "e7650488-5e1b-46a5-a5f9-f66470edb5f6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064249Z
+      Value: 20240905T124229Z

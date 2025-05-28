@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>All About Stylish Slate Tile</h2>
+        <h2 class="extra-small-bottom-margin">All About Stylish Slate Tile</h2>
         <p><span>&nbsp;</span></p>
         <p>If you want to create a timeless space that’s truly one of a kind, slate tiles may be just the material for your next project. The Tile Shop offers a wide selection of slate tiles in a variety of colors, sizes and shapes, so you can find the perfect combination of this time-tested material and your own personal style.</p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "537f7bbc-8803-455f-8207-9e6929dfa164"
+      Value: "78eddb4b-b567-4d38-948f-02b7418cfb7a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064246Z
+      Value: 20240905T123202Z

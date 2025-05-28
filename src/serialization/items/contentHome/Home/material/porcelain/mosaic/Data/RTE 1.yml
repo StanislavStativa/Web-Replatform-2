@@ -26,7 +26,7 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>About Porcelain Mosaic Tile</h2>
+        <h2 class="extra-small-bottom-margin">About Porcelain Mosaic Tile</h2>
         <p><span>&nbsp;</span></p>
         <p><span>Porcelain mosaic tile is a perennial designer favorite, and with good reason. The near-endless variety of sizes, shapes, colors and finishes means that whatever project is on your list, you’re guaranteed to find one that perfectly suits your space and style. Here are some characteristics to consider: </span></p>
         <p><span>&nbsp;</span></p>
@@ -34,14 +34,14 @@ Languages:
         <p><span>&nbsp;</span></p>
         <p>• <strong>Layout</strong>: Herringbone, basketweave and simple track stack patterns are proof that even standard rectangle and <a href="/shape/square" class="font-bold">square tiles</a> feel special when they’re arranged this beautifully.</p>
         <p><span>&nbsp;</span></p>
-        <p>• <strong>Color and Finish</strong>: Porcelain tiles just keep getting better and better—from matte to gloss and every finish in between, and every color of the rainbow.</p><p /><p /></div>
+        <p>• <strong>Color and Finish</strong>: Porcelain tiles just keep getting better and better—from matte to gloss and every finish in between, and every color of the rainbow.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5f6937f5-041b-417e-a5dd-8bca4a9b33d1"
+      Value: "37393b24-6558-4fcc-8e48-c26c4f29d265"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064247Z
+      Value: 20240905T124224Z

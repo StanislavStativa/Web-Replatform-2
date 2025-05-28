@@ -20,7 +20,6 @@ export class DictionaryServiceFactory {
       ? new GraphQLDictionaryService({
           siteName,
           clientFactory,
-          useSiteQuery: true,
           /*
             The Dictionary Service needs a root item ID in order to fetch dictionary phrases for the current app. 
             When not provided, the service will attempt to figure out the root item for the current JSS App using GraphQL and app name.
@@ -40,6 +39,7 @@ export class DictionaryServiceFactory {
           */
           retries: (process.env.GRAPH_QL_SERVICE_RETRIES &&
             parseInt(process.env.GRAPH_QL_SERVICE_RETRIES, 10)) as number,
+          useSiteQuery: true,
         })
       : new RestDictionaryService({
           apiHost: config.sitecoreApiHost,

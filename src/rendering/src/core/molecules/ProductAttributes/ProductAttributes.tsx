@@ -62,6 +62,7 @@ export const ProductAttributes: React.FC<ProductAttributesProps> = (props) => {
   const { productAttributesData, isLoading } = useProductAttributes(true, data?.ProductCode);
 
   const [pdpEventData, setPdpEventData] = useState<PDPEventData>(null);
+
   useEffect(() => {
     if (data) {
       setProductImageGallery(data);
@@ -278,18 +279,15 @@ export const ProductAttributes: React.FC<ProductAttributesProps> = (props) => {
             <div className="h-6 w-full skeleton rounded mt-5"></div>
           ) : (
             <>
-              {productAtrributes &&
-                fields?.PDPCalculator &&
-                productAtrributes?.HideCalculatorSection === false &&
-                productAtrributes.IsSample === false && (
-                  <PDPCalculator
-                    fields={fields}
-                    rendering={rendering}
-                    params={params}
-                    data={productAtrributes}
-                    onTotalUnitsChange={handleTotalUnitsChange}
-                  />
-                )}
+              {productAtrributes && productAtrributes.IsSample === false && (
+                <PDPCalculator
+                  fields={fields}
+                  rendering={rendering}
+                  params={params}
+                  data={productAtrributes}
+                  onTotalUnitsChange={handleTotalUnitsChange}
+                />
+              )}
             </>
           )}
 

@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text  ">
-        <h2>Create a Focal Point With Fireplace Tile</h2><br />
+        <h2 class="extra-small-bottom-margin">Create a Focal Point With Fireplace Tile</h2>
         <p>A well-designed fireplace serves as the centerpiece of the room, radiating warmth and charm. With so many materials and styles to choose from, it can be difficult to know where to start, but the right tile for your fireplace will seamlessly blend design and functionality.    </p>
         
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "03aab86d-0322-48dc-8222-2ad665e4bd15"
+      Value: "364e7c6a-73ed-48e0-a141-16e77e8069a7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064242Z
+      Value: 20240905T124218Z

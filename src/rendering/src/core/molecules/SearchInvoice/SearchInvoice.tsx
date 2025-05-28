@@ -89,6 +89,7 @@ const SearchInvoice = (props: ITypesSearchInvoice) => {
                   item?.zzcustom?.orderNumber === ''
                     ? item?.id + index
                     : item?.zzcustom?.orderNumber + index,
+
                 invoice:
                   item?.financeDocumentType === 'Z3' && item?.referenceNumber?.trim()
                     ? item.referenceNumber
@@ -403,7 +404,7 @@ const SearchInvoice = (props: ITypesSearchInvoice) => {
                           </div>
                         </div>
                         <div className="order-1 md:order-2 col-span-2">
-                          <p className="text-base font-medium lg:whitespace-pre-wrap">
+                          <p className="text-base font-medium whitespace-pre-wrap md:whitespace-pre-wrap">
                             {t('pay_open_invoice_message')?.replace('.', '.\n')}
                           </p>
                         </div>

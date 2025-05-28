@@ -26,29 +26,29 @@ Languages:
       Hint: Description
       Value: |
         <div class="richText-max richText ">
-        <h2><span class="h2-style">Functional Elegance</span></h2>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">Functional Elegance</span></h2>
         <p>From an earthy brown tile bathroom to a dramatic dark brown tile backsplash, brown tiles come in a range of looks.</p>
         <p>&nbsp;</p>
-        <h3 style="margin-left: 40px;"><span class="h3-style">Ceramic Tile</span></h3>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Ceramic Tile</span></h3>
         <p style="margin-left: 40px;">Brown ceramic tiles offer an unexpected plethora of looks. Whether it's a neat honeycomb pattern or a smoother approach to the wood grain look, ceramics bring style and durability.</p>
         <p style="margin-left: 40px;">&nbsp;</p>
-        <h3 style="margin-left: 40px;"><span class="h3-style">Luxury Vinyl Flooring</span></h3>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Luxury Vinyl Flooring</span></h3>
         <p style="margin-left: 40px;"><a href="https://www.tileshop.com/material/luxury-vinyl"><strong><span style="text-decoration: underline;">Luxury vinyl planks</span></strong></a> are a stylish and easy to maintain way to add a look of warmth and comfort of wood flooring that stands up to heavy wear and tear. This style of flooring is easy to install and makes a great weekend DIY home renovation project.</p>
         <p style="margin-left: 40px;">&nbsp;</p>
-        <h3 style="margin-left: 40px;"><span class="h3-style">Porcelain Tile</span></h3>
+        <h3 style="margin-left: 40px;" class="extra-small-bottom-margin"><span class="h3-style">Porcelain Tile</span></h3>
         <p style="margin-left: 40px;">Porcelain makes for an ideal brown floor tile. This material boasts a sweeping selection of styles that can mimic the look of stone, wood, or <a href="https://www.tileshop.com/material/marble/floor"><strong><span style="text-decoration: underline;">marble</span></strong></a><strong>.</strong> Porcelain also stands on its own with unique and playful designs such as Terrazzo and <a href="https://www.tileshop.com/featured/mosaics"><strong><span style="text-decoration: underline;">intricate mosaics</span></strong></a><strong>.</strong></p>
         <p style="margin-left: 40px;">&nbsp;</p>
-        <h2><span class="h2-style">We Have the Brown Tile for You</span></h2>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style">We Have the Brown Tile for You</span></h2>
         <p>Whether your idea for brown tiles is casual and rustic or understated elegance, our friendly and knowledgeable staff can help you find the right material and look for your home. If you already have a tile in mind, see how it looks in your home by ordering a sample. You can also compare each one of our dozens of brown tile varieties at <a href="https://www.tileshop.com/store-locator/"><strong><span style="text-decoration: underline;">one of our showrooms</span></strong></a><strong>.</strong></p>
         <p>&nbsp;</p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "691f26fa-255a-46d7-bb2b-9fa96c6d50c3"
+      Value: "9491a102-c078-4fe1-9458-d504327996d7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064250Z
+      Value: 20240905T123205Z

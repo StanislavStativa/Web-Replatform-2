@@ -85,7 +85,7 @@ const SearchInvoiceTable = ({
             </div> */}
             <div className="flex flex-row gap-7 items-center">
               <p className="text-xs font-medium">{t('Invoice_AmountAssigned')}</p>{' '}
-              {selectedColumns?.length !== 0 && (
+              {amountAssigned !== 0 && (
                 <p className="text-xs font-bold">{`$${amountAssigned?.toFixed(2)}`}</p>
               )}
             </div>
@@ -138,9 +138,9 @@ const SearchInvoiceTable = ({
             </div> */}
             <div className="flex flex-row gap-7 items-center">
               <p className="text-xs font-medium">{t('Invoice_AmountAssigned')}</p>{' '}
-              {selectedColumns?.length !== 0 && (
-                <p className="text-xs font-bold">{`$${amountAssigned?.toFixed(2)}`}</p>
-              )}
+              {/* {amountAssigned !== 0 && ( */}
+              <p className="text-xs font-bold">{`$${amountAssigned?.toFixed(2)}`}</p>
+              {/* )} */}
             </div>
           </div>
         </div>

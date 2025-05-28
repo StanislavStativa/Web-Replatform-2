@@ -25,14 +25,14 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text "><h3><span class="h3-style">Shop Cement Tiles in Person&nbsp;</span></h3><p>There’s just no substitute for seeing our cement tiles in real life, and we offer two ways to do just that. Shop in person at <a class="font-bold" href="/store-locator/">one of our beautiful showrooms</a>, or <a class="font-bold" href="/samples">order samples</a> of your favorite tiles for just $3 each, including shipping.</p></div>
+        <div class="rich-text "><h3 class="extra-small-bottom-margin"><span class="h3-style">Shop Cement Tiles in Person&nbsp;</span></h3><p>There’s just no substitute for seeing our cement tiles in real life, and we offer two ways to do just that. Shop in person at <a class="font-bold" href="/store-locator/">one of our beautiful showrooms</a>, or <a class="font-bold" href="/samples">order samples</a> of your favorite tiles for just $3 each, including shipping.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f341832a-39ca-4505-a6f5-36e6a4a33bb5"
+      Value: "34b67e8b-77bb-434e-bd45-b0b72eacc89b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064248Z
+      Value: 20240905T123204Z

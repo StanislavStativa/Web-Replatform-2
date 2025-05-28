@@ -77,7 +77,6 @@ export interface ProductProps {
   ProductHierarchy1: string;
   ProductNotAvailableDescText: string;
   ProductName: string;
-  HideCalculatorSection: boolean;
   SamplePriceSchedule: {
     xp: {
       ProductId: string;
@@ -85,11 +84,9 @@ export interface ProductProps {
     PriceBreaks: ProductPriceBreaksProps[];
   };
   SampleName?: string | null;
-  ActualLengthIN: number;
 }
 export interface ProductAttributesColor {
   ProductUrl: string;
-  ProductFallbackImage: string;
   ProductImage: string;
   ProductTitle: string;
   ProductSubTitle: string;

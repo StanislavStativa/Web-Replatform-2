@@ -25,15 +25,15 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text"><p /><h2 style="font-weight: 300; margin-bottom:0.67em;">The Versatility of Brick Look Tile</h2>
-        <p style="margin-bottom:0.67em;">Brick look tiles add texture and depth to any surface, providing a tactile quality that can make a space feel more visually interesting. The slight irregularities and variations in color and texture of these tiles mimic real brick, adding character and warmth to a room.</p><p /></div>
+        <div class="rich-text"><h2 style="font-weight: 300; margin-bottom:0.67em;" class="extra-small-bottom-margin">The Versatility of Brick Look Tile</h2>
+        <p style="margin-bottom:0.67em;">Brick look tiles add texture and depth to any surface, providing a tactile quality that can make a space feel more visually interesting. The slight irregularities and variations in color and texture of these tiles mimic real brick, adding character and warmth to a room.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5070f6e6-f2ce-4fc2-8b19-6d93db7d42f3"
+      Value: "87c01120-b420-4028-b599-67b376eeac5e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwani.kumar@altudo.co
+        sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240809T135802Z
+      Value: 20240905T124230Z

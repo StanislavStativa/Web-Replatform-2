@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>Our Experts Can Help</h2>
+        <h2 class="extra-small-bottom-margin">Our Experts Can Help</h2>
         <p><span>We know there&rsquo;s a lot to consider when selecting tiles. When you </span><a href="/store-locator/" class="font-bold"><strong><span style="text-decoration: underline;">visit one of our showrooms</span></strong></a><span>, our friendly sales associates can help you consider all the design possibilities with green tile and create the space you&rsquo;ve been dreaming of. </span></p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cd10622e-c3a7-4c19-9839-82e8c38f19e6"
+      Value: "a13bf947-5808-449e-994b-a158667b2492"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064250Z
+      Value: 20240905T123206Z

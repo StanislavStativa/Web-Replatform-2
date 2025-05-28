@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>We're the Place for Metallic Tile</h2>
+        <h2 class="extra-small-bottom-margin">We're the Place for Metallic Tile</h2>
         <p>The Tile Shop has a beautifully curated selection of metallic tile, trim pieces and accessories to suit just about every taste. From well-worn to highly polished, you can find the right look for your space at <a href="/store-locator/" class="font-bold"><strong><span style="text-decoration: underline;">one of our showrooms</span></strong></a>.</p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d6dd87c2-6bcd-4844-9592-204b4ff84ea3"
+      Value: "f875a21d-e76e-4b2f-ae9c-ff65d8ec5140"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064251Z
+      Value: 20240905T123207Z

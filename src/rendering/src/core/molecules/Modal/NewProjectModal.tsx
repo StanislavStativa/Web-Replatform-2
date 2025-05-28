@@ -226,8 +226,8 @@ const NewProjectModal = () => {
             <div className="flex items-start">
               {projectDetails && (
                 <Image
-                  desktopSrc={`${process.env.NEXT_PUBLIC_IMAGE_URL}${Number(productId)}?$PDPThumbnail$`}
-                  mobileSrc={`${process.env.NEXT_PUBLIC_IMAGE_URL}${Number(productId)}?$PDPThumbnail$`}
+                  desktopSrc={projectDetails[0]?.image as string}
+                  mobileSrc={projectDetails[0]?.image as string}
                   className="float-left w-122 object-cover"
                   alt={projectDetails[0]?.description}
                 />

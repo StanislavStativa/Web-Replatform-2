@@ -21,7 +21,6 @@ import Confirmation from '../../Modal/Confirmation';
 import { ClickType } from '../../Modal/modal.type';
 import useCart from '@/hooks/useCart';
 import Image from '@/core/atoms/Image/Image';
-import LoaderSpinner from '@/core/atoms/LoaderSpinner/LoaderSpinner';
 
 export type EventItemData = {
   currency: string;
@@ -43,7 +42,7 @@ export type EventItemData = {
 
 const CartItemCard: React.FC<CardItemProps> = ({ productId, type, returnUrl, productUrl }) => {
   const { t } = useI18n();
-  const { increaseQuantity, decreaseQuantity, isUpdatePending } = useCart(false);
+  const { increaseQuantity, decreaseQuantity } = useCart(false);
 
   const [cartDetailState] = useAtom<CartItemDetails | null>(cartDetailAtom);
   const [isModalOpen, setIsModalOpen] = useAtom(modalOpen);
@@ -133,7 +132,6 @@ const CartItemCard: React.FC<CardItemProps> = ({ productId, type, returnUrl, pro
 
   return (
     <>
-      {isUpdatePending && <LoaderSpinner />}
       <section
         id="items"
         className={cn('flex items-start ', {

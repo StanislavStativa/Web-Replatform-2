@@ -180,21 +180,6 @@ export default async function middleware(
   debug.common('next middleware start');
   const url = req.nextUrl.clone();
   url.pathname = url.pathname.replace(/\/+/g, '/');
-  // Normalize the URL path to lowercase
-  // This is important for SEO and to avoid duplicate content issues
-  const normalizedPath = url.pathname.toLowerCase();
-  // You can optionally ignore some static files or paths
-  const isStaticAsset = normalizedPath.match(
-    /\.(png|jpg|jpeg|gif|svg|css|js|woff2?|ttf|eot|ico|map)$/i
-  );
-  const isApiRoute = normalizedPath.startsWith('/api');
-
-  // Only redirect if path is not already lowercase and not a static or API route
-  if (url.pathname !== normalizedPath && !isStaticAsset && !isApiRoute) {
-    const url = req.nextUrl.clone();
-    url.pathname = normalizedPath;
-    return NextResponse.redirect(url, 301);
-  }
   // Check if the user visits the /blog/sitemap.xml
   if (url.pathname === '/blog/sitemap.xml') {
     try {
@@ -264,6 +249,7 @@ export default async function middleware(
     const splitDomains = process.env.BLOG_DOMAINS_URL?.split(',') || [];
     const modifiedHtml = replaceBlogUrls(fetchHTML, splitDomains, updateBlogURL);
     const nextURL = req.nextUrl.origin || 'https://www.tileshop.com';
+
     const env = process.env.NEXT_PUBLIC_ENV;
     const updatedHTML = modifiedHtml
       .replace(
@@ -307,42 +293,34 @@ export default async function middleware(
     .sort((p1, p2) => p1.order - p2.order)
     .reduce((p, plugin) => p.then((res) => plugin.exec(req, res, ev)), Promise.resolve(response));
 
-  // console.log('MIDDLEWARE NEXT URL PATHNAME', req.nextUrl.pathname, 'search', req.nextUrl.search);
-  // console.log('req.heads>>', req.nextUrl.pathname.includes('/api'));
-  // //rewrite to /tileshop if the request is not for an API or static file
-  // // and the response is not a redirect (301 or 302)
-  // if (req.nextUrl.pathname === '/tileshop') {
-  //   const newUrl = `${req.nextUrl.pathname}/${req.nextUrl.search}`;
-  //   const nextUrl = new URL(newUrl, req.url);
+  console.log('MIDDLEWARE NEXT URL PATHNAME', req.nextUrl.pathname, 'search', req.nextUrl.search);
+  console.log('req.heads>>', req.nextUrl.pathname.includes('/api'));
+  if (req.nextUrl.pathname === '/tileshop') {
+    return NextResponse.redirect(new URL('/', req.url));
+  }
+  // If the request is for an XML file, return the response as is
+  if (req?.nextUrl?.pathname?.endsWith('.xml') || req?.nextUrl?.pathname?.endsWith('.json')) {
+    return finalRes;
+  }
+  // Exclude .json, .xml, and API requests from being rewritten
+  if (
+    req.nextUrl.pathname.includes('.json') ||
+    req.nextUrl.pathname.includes('.xml') ||
+    req.nextUrl.pathname.includes('/api') ||
+    req.nextUrl.pathname.includes('/assets') ||
+    req.nextUrl.pathname.includes('.map')
+  ) {
+    return finalRes;
+  }
+  if (!req.headers.has('x-Routed') && finalRes.status !== 301) {
+    const newUrl = `/tileshop${req.nextUrl.pathname}${req.nextUrl.search}`;
+    const nextUrl = new URL(newUrl, req.url);
 
-  //   const _response = NextResponse.rewrite(nextUrl, { request: req });
-  //   _response.headers.set('x-Routed', 'true');
-  //   console.log('MIDDLEWARE REWRITING_TO', newUrl);
-  //   return _response;
-  // }
-  // // If the request is for an XML file, return the response as is
-  // if (req?.nextUrl?.pathname?.endsWith('.xml') || req?.nextUrl?.pathname?.endsWith('.json')) {
-  //   return finalRes;
-  // }
-  // // Exclude .json, .xml, and API requests from being rewritten
-  // if (
-  //   req.nextUrl.pathname.includes('.json') ||
-  //   req.nextUrl.pathname.includes('.xml') ||
-  //   req.nextUrl.pathname.includes('/api') ||
-  //   req.nextUrl.pathname.includes('/assets') ||
-  //   req.nextUrl.pathname.includes('.map')
-  // ) {
-  //   return finalRes;
-  // }
-  // if (!req.headers.has('x-Routed') && finalRes.status !== 301) {
-  //   const newUrl = `/tileshop${req.nextUrl.pathname}${req.nextUrl.search}`;
-  //   const nextUrl = new URL(newUrl, req.url);
-
-  //   const _response = NextResponse.rewrite(nextUrl, { request: req });
-  //   _response.headers.set('x-Routed', 'true');
-  //   console.log('MIDDLEWARE REWRITING_TO', newUrl);
-  //   return _response;
-  // }
+    const _response = NextResponse.rewrite(nextUrl, { request: req });
+    _response.headers.set('x-Routed', 'true');
+    console.log('MIDDLEWARE REWRITING_TO', newUrl);
+    return _response;
+  }
 
   debug.common('next middleware end in %dms', Date.now() - start);
 

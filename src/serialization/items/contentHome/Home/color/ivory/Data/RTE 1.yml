@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="richText-max richText ">
-        <h2><span>The Perfect Foundation for Any Room</span></h2>
+        <h2 class="extra-small-bottom-margin"><span>The Perfect Foundation for Any Room</span></h2>
         <p>Create a stunning and versatile backdrop that will highlight your room's style with the elegant simplicity of ivory tiles.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7192af4c-a89e-4681-b0ce-ff0e7cc46921"
+      Value: "a7371a71-570f-4390-a29f-3f16025408ef"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064250Z
+      Value: 20240905T123205Z

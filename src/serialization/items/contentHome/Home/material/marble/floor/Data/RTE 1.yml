@@ -26,17 +26,17 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>Elegant Marble Floor Tiles</h2>
+        <h2 class="extra-small-bottom-margin">Elegant Marble Floor Tiles</h2>
         <p><span>&nbsp;</span></p>
         <p><span>Rich and luxurious, if you’re looking for a truly one-of-a-kind look, there’s nothing quite like marble. It’s available at The Tile Shop in a variety of colors and contrasting veins so you can achieve a look that matches your style. Marble floor tile can have multiple finishes, from polished to honed and brushed to tumbled. Whether for a kitchen, entryway or </span><span></span><a href="/room/bathroom/floor" class="font-bold">bathroom floor</a><span>, </span><span></span><span>marble tile is sure to impress.  </span></p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a3f8dd87-2259-4077-8bf5-673b245550d2"
+      Value: "6ab58eea-d739-44e8-a00a-fcdcd1ae5ada"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064244Z
+      Value: 20240905T123200Z

@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
-import NotFound from 'src/NotFound';
+// import NotFound from 'src/NotFound';
 import Layout from 'src/Layout';
 import {
   SitecoreContext,
@@ -14,29 +14,29 @@ import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
 import { QUERY_CONFIG } from '@/constants/react-query';
 import { GenericService, ProductService } from '@/api';
-import { authorizationAtom } from '@/data/atoms/authorization';
-import { useAtom } from 'jotai';
-import { anonymousSignIn } from '@/data/order-cloud/auth.service';
+// import { authorizationAtom } from '@/data/atoms/authorization';
+// import { useAtom } from 'jotai';
+// import { anonymousSignIn } from '@/data/order-cloud/auth.service';
 
 const SitecorePage = ({
-  notFound,
+  // notFound,
   componentProps,
   layoutData,
   headLinks,
 }: SitecorePageProps): JSX.Element => {
-  const [{ isAuthenticated }] = useAtom(authorizationAtom);
+  //const [{ isAuthenticated }] = useAtom(authorizationAtom);
   useEffect(() => {
     handleEditorFastRefresh();
   }, []);
 
-  useEffect(() => {
-    if (!isAuthenticated) {
-      anonymousSignIn();
-    }
-  }, [isAuthenticated]);
-  if (notFound || !layoutData?.sitecore?.route) {
-    return <NotFound />;
-  }
+  // useEffect(() => {
+  //   if (!isAuthenticated) {
+  //     anonymousSignIn();
+  //   }
+  // }, [isAuthenticated]);
+  // if (notFound || !layoutData?.sitecore?.route) {
+  //   return <NotFound />;
+  // }
 
   const isEditing = layoutData.sitecore.context.pageEditing;
 
@@ -133,7 +133,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
       productData,
     };
   } else {
-    console.log('ERR productData not found', productsPath, productData, props);
     props.notFound = true;
   }
   return {
@@ -141,7 +140,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
       ...props,
       dehydratedState: JSON.parse(JSON.stringify(dehydrate(queryClient))),
     },
-    revalidate: parseInt(process.env.NEXT_PUBLIC_ISR_REVALIDATE_TIMEOUT || '1800', 10), // In seconds
+    revalidate: 1800, // In seconds
     notFound: props.notFound, // Returns custom 404 page with a status code of 404 when true
   };
 };

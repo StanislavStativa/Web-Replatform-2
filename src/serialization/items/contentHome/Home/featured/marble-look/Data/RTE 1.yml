@@ -25,15 +25,15 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text"><p /><h2 style="margin-bottom:0.67em;"><span class="h2" style="color: #323338;">Marble-Look Tile Combines Luxury, Accessibility and Durability</span></h2>
-        <p style="margin-bottom:0.67em;"><span style="color: #323338;">Marble has been used to create memorable spaces for thousands of years, and today’s marble-look tile options make the beauty of marble more widely accessible than ever. Available in multiple shapes, materials and colors, marble-look tile expands your options for achieving the look you want in every area of your home. In addition to easy maintenance and durability, marble-look tile can bring timeless appeal to exterior areas and other spaces where natural stone isn’t typically an option.&nbsp;</span></p><p /></div>
+        <div class="rich-text"><h2 style="margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2" style="color: #323338;">Marble-Look Tile Combines Luxury, Accessibility and Durability</span></h2>
+        <p style="margin-bottom:0.67em;"><span style="color: #323338;">Marble has been used to create memorable spaces for thousands of years, and today’s marble-look tile options make the beauty of marble more widely accessible than ever. Available in multiple shapes, materials and colors, marble-look tile expands your options for achieving the look you want in every area of your home. In addition to easy maintenance and durability, marble-look tile can bring timeless appeal to exterior areas and other spaces where natural stone isn’t typically an option.&nbsp;</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a88db02-51b2-42cb-a337-8480dcbb7f72"
+      Value: "f52386f3-6456-4a42-adec-35e6cd6afadb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwani.kumar@altudo.co
+        sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240809T140714Z
+      Value: 20240905T124233Z

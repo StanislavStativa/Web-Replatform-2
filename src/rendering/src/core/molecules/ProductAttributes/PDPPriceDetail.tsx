@@ -44,25 +44,22 @@ const PDPPriceDetail: React.FC<ProductAttributesProps> = (data) => {
           ))}
         </div>
       </div>
-      {data?.data?.SellingUOM !== 'EA' && (
-        <div className="price-container flex flex-col sm:flex-row sm:items-center sm:gap-4">
-          <>
-            {data?.data?.PriceSchedule?.xp?.Price > data?.data?.PriceSchedule?.xp?.SalePrice && (
-              <span className="text-xl font-latoRegular leading-8 text-dark-gray text-decoration-line: line-through">
-                ${data?.data?.PriceSchedule?.xp?.Price?.toFixed(2)?.toString()}/
-                {t('PDPCalculator_SqFt')}
-              </span>
-            )}
-            {data?.data?.PriceSchedule?.xp?.SalePrice > 0 && (
-              <span className="text-xl font-latoRegular leading-8 text-dark-gray">
-                ${data?.data?.PriceSchedule?.xp?.SalePrice?.toFixed(2)?.toString()}/
-                {t('PDPCalculator_SqFt')}
-              </span>
-            )}
-          </>
-        </div>
-      )}
-
+      <div className="price-container flex flex-col sm:flex-row sm:items-center sm:gap-4">
+        <>
+          {data?.data?.PriceSchedule?.xp?.Price > data?.data?.PriceSchedule?.xp?.SalePrice && (
+            <span className="text-xl font-latoRegular leading-8 text-dark-gray text-decoration-line: line-through">
+              ${data?.data?.PriceSchedule?.xp?.Price?.toFixed(2)?.toString()}/
+              {t('PDPCalculator_SqFt')}
+            </span>
+          )}
+          {data?.data?.PriceSchedule?.xp?.SalePrice > 0 && (
+            <span className="text-xl font-latoRegular leading-8 text-dark-gray">
+              ${data?.data?.PriceSchedule?.xp?.SalePrice?.toFixed(2)?.toString()}/
+              {t('PDPCalculator_SqFt')}
+            </span>
+          )}
+        </>
+      </div>
       {!(
         (data?.data?.IsOnlinePurchasableRetail === true && !isProUser) ||
         (data?.data?.IsOnlinePurchasablePro === true && isProUser)

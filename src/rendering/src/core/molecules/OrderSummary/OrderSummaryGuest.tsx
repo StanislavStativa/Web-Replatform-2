@@ -31,6 +31,7 @@ const OrderSummaryGuest = (props: OrderSummaryGuestProps) => {
   const isItemNotReadyForDisplay = cartDetailState?.CartItems?.CartItem?.some(
     (item) => item?.ReadyForDisplay === false
   );
+
   useEffect(() => {
     if (cartDetailState && localCart && localCart?.length > 0) {
       const productTotal =

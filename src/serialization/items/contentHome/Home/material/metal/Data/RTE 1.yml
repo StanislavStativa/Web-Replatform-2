@@ -26,18 +26,18 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>Metal Tiles Are an Enduring Favorite</h2>
+        <h2 class="extra-small-bottom-margin">Metal Tiles Are an Enduring Favorite</h2>
         <p><span>&nbsp;</span></p>
         <p>Are you looking for a design idea that is both totally unexpected and super stylish? Metal tiles may be the key to achieving your interior design goals. These tiles are at once totally different from other tile materials while also blending perfectly with a myriad of design styles.</p>
         <p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
-        <h2><span class="h2">Why Our Customers Love Metal Tiles</span></h2></div>
+        <h2 class="extra-small-bottom-margin"><span class="h2">Why Our Customers Love Metal Tiles</span></h2></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9438ecb8-b3d8-475d-b22f-e8bf36c39ace"
+      Value: "85a3ab7a-2b62-499f-ad42-56b0442c8c74"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064249Z
+      Value: 20240905T123204Z

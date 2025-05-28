@@ -6,13 +6,12 @@ import cartAtom, { cartDetailAtom } from '@/core/cartStore/cartState';
 import LoaderSpinner from '@/core/atoms/LoaderSpinner/LoaderSpinner';
 import { loaderAddItem } from '../Modal/atom';
 import { useRouter } from 'next/router';
-import { triggerEvent } from '@/utils/eventTracking';
 import useCart from '@/hooks/useCart';
+import { triggerEvent } from '@/utils/eventTracking';
 import { event, USR_EMAIL } from '@/config';
 import useLocalStorage from '@/utils/useLocalStorage';
 import { CartItemDetails } from '@/core/cartStore/CartStoreType';
 import { transformItems } from '../EmersaysTracking/EmersaysTracking';
-import { cn } from '@/utils/cn';
 type PLPEventData = {
   item_list_id: string;
   item_list_name: string;
@@ -32,13 +31,6 @@ type PLPEventData = {
 } | null;
 
 const ProductListing: React.FC<ProductListingPageProps> = (props) => {
-  const btnText =
-    props?.rendering?.fields?.ButtonText?.value ?? props?.btnText?.jsonValue?.value ?? '';
-  const btnFunctionality =
-    props?.rendering?.fields?.ButtonFunctionality?.value ??
-    props?.btnFunctionality?.jsonValue?.value ??
-    '';
-  const isExtended = props?.extendedStyling ?? false;
   const [localCart] = useAtom(cartAtom);
   const [loaderItem] = useAtom(loaderAddItem);
   const [plpEventData, setPlpEventData] = useState<PLPEventData>(null);
@@ -119,13 +111,7 @@ const ProductListing: React.FC<ProductListingPageProps> = (props) => {
   }, [localCart]);
   return (
     <div
-      id={props?.id}
-      className={cn(
-        `component grid grid-cols-2 md:grid-cols-4 mx-8 mt-5 gap-5 md:gap-6 ${props?.params?.styles} ${props?.products?.content?.product?.n_item < 24 ? 'mb-10' : ''}`,
-        {
-          'grid-cols-1 md:grid-cols-3': isExtended,
-        }
-      )}
+      className={`component grid grid-cols-2 md:grid-cols-4 mx-8 mt-5 gap-5 md:gap-6 ${props?.params?.styles} ${props?.products?.content?.product?.n_item < 24 ? 'mb-10' : ''}`}
     >
       {loaderItem && <LoaderSpinner />}
       {props?.products?.content?.product?.value
@@ -142,9 +128,6 @@ const ProductListing: React.FC<ProductListingPageProps> = (props) => {
               key={product.id}
               cartItem={localCart}
               discoverRfkId={props?.rendering?.fields?.DiscoverRfkId?.value}
-              btnText={btnText}
-              btnFunctionality={btnFunctionality}
-              isExtendedStyle={isExtended}
             />
           );
         })}

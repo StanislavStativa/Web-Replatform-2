@@ -167,6 +167,7 @@ const EmarsysTracking = (): JSX.Element => {
     pdpPage,
     cartDetailState,
     isEmarysReady,
+    isRouteChanged,
   ]);
   // Define the CustomQueue class
   class CustomQueue<T> {

@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3>Our Experts Can Help</h3>
-        <br />
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
+        
         We know there’s a lot to consider when selecting your floor tile, but we have a wide selection and all the tools and materials you need for installation and care. <a class="font-bold" href="/store-locator/" class="font-bold">Visit your local Tile Shop showroom</a><span> and let one of our friendly sales associates help you find the right ceramic floor tile for your project. </span></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c16d958a-4bda-402c-b652-b327d9737eb3"
+      Value: "2fa390dd-5c0d-42e4-b061-b00abc19285c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064248Z
+      Value: 20240905T124225Z

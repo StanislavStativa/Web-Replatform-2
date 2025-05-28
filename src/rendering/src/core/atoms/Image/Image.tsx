@@ -63,6 +63,7 @@ const Image: React.FC<ImageProps> = ({ className, ...props }) => {
           alt={alt}
           className={className}
           title={alt}
+          aria-label={alt || 'Image description'}
           data-pin-no-hover={hidePinterest ? 'true' : undefined}
           // @ts-expect-error nextjs issue
           fetchpriority={priority ? 'high' : 'auto'}

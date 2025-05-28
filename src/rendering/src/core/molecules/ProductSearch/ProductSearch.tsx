@@ -15,14 +15,14 @@ const ProductSearch = (props: SearchResultProps) => {
   const queryText: JSX.Element = <span className="font-bold">{search}</span>;
   const { t } = useI18n();
   if (typeof window !== 'undefined' && 'rfk' in window) {
-    window?.rfk?.push({
+    window.rfk.push({
       value: {
         context: {
           page: {
             uri: `/Search?search=${search}`,
           },
         },
-        rfkid: props?.rendering ? props?.rendering?.fields?.DiscoverRfkId?.value?.toString() : '',
+        rfkid: props?.rendering ? props?.rendering?.fields?.DiscoverRfkId?.value.toString() : '',
         f: 'sp',
       },
       type: 'widget',

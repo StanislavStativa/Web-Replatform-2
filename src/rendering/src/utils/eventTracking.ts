@@ -29,13 +29,6 @@ declare global {
   interface Window {
     dataLayer: EventTrackingType[];
     eventHashes: Set<string>;
-    olapicCheckout?: {
-      init: (token: string) => void;
-      addProduct: (id: string, price: number) => void;
-      addAttribute: (key: string, value: string) => void;
-      addSegment: (key: string, value: string) => void;
-      execute: () => void;
-    };
   }
 }
 
@@ -94,52 +87,4 @@ export const renderGCROptIn = (
       }
     };
   }
-};
-
-export const renderOlapicCheckout = (
-  products: { id: string; price: number }[],
-  transactionId: string,
-  currencyCode: string,
-  segments?: { key: string; value: string }[]
-): void => {
-  if (typeof window === 'undefined') return;
-
-  const loadScript = (): Promise<void> => {
-    return new Promise((resolve, reject) => {
-      const existingScript = document.querySelector(
-        `script[src="${process.env.NEXT_PUBLIC_OLAPIC_CHECKOUT}"]`
-      );
-      if (existingScript) {
-        resolve();
-        return;
-      }
-
-      const script = document.createElement('script');
-      script.src = `${process.env.NEXT_PUBLIC_OLAPIC_CHECKOUT}`;
-      script.async = true;
-      script.onload = () => resolve();
-      script.onerror = () => reject(new URIError('Olapic checkout script could not be loaded'));
-      document.body.appendChild(script);
-    });
-  };
-
-  loadScript().then(() => {
-    if (typeof window !== 'undefined' && window.olapicCheckout) {
-      const olapic = window.olapicCheckout;
-      olapic.init(`${process.env.NEXT_PUBLIC_OLAPIC_CHECKOUT_ID}`);
-
-      products.forEach((product) => {
-        olapic.addProduct(product.id, product.price);
-      });
-
-      olapic.addAttribute('transactionId', transactionId);
-      olapic.addAttribute('currencyCode', currencyCode);
-
-      segments?.forEach((segment) => {
-        olapic.addSegment(segment.key, segment.value);
-      });
-
-      olapic.execute();
-    }
-  });
 };

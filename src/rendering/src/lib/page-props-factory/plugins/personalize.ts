@@ -16,16 +16,12 @@ class PersonalizePlugin implements Plugin {
           ? context.params.path.join('/')
           : context.params.path ?? '/';
 
-    // Get variant(s) for personalization (from path)
+    // Get variant for personalization (from path)
     const personalizeData = getPersonalizedRewriteData(path);
 
-    // Modify layoutData to use specific variant(s) instead of default
+    // Modify layoutData to use specific variant instead of default
     // This will also set the variantId on the Sitecore context so that it is accessible here
-    personalizeLayout(
-      props.layoutData,
-      personalizeData.variantId,
-      personalizeData.componentVariantIds
-    );
+    personalizeLayout(props.layoutData, personalizeData.variantId);
 
     return props;
   }

@@ -22,8 +22,8 @@ import { useAtom } from 'jotai';
 import { CartItemDetails } from './core/cartStore/CartStoreType';
 import { cartDetailAtom } from './core/cartStore/cartState';
 import { EXCLUDED_TEMPLATES } from './utils/constants';
-import { authorizationAtom } from './data/atoms/authorization';
-import { ROUTES } from './utils/routes';
+// import { ROUTES } from './utils/routes';
+// import { authorizationAtom } from './data/atoms/authorization';
 const EmarsysTracking = dynamic(
   () => import('./core/molecules/EmersaysTracking/EmersaysTracking'),
   {
@@ -57,20 +57,19 @@ interface RouteFields {
   OGImage?: Field;
   CanonicalUrl?: Field;
   MetaKeywords?: Field;
-  PageSchema?: Field;
 }
-// interface ITypesArticleSchema {
-//   '@context': string;
-//   '@type': string[];
-//   headline: string;
-//   description: string;
-//   image: {
-//     '@type': string;
-//     url: string;
-//     height: number;
-//     width: number;
-//   };
-// }
+interface ITypesArticleSchema {
+  '@context': string;
+  '@type': string[];
+  headline: string;
+  description: string;
+  image: {
+    '@type': string;
+    url: string;
+    height: number;
+    width: number;
+  };
+}
 
 const Layout = ({
   layoutData,
@@ -80,10 +79,11 @@ const Layout = ({
   ogTitle,
   ogCanonical,
 }: LayoutProps): JSX.Element => {
-  const { route } = layoutData.sitecore;
+  console.log('---------------------------------------', layoutData);
+  const { route } = layoutData?.sitecore;
   const fields = route?.fields as RouteFields;
   const router = useRouter();
-  const [{ isAuthenticated }] = useAtom(authorizationAtom);
+  //const [{ isAuthenticated }] = useAtom(authorizationAtom);
   const isPageEditing = layoutData?.sitecore?.context?.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
   const googleTagManagerId = process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID;
@@ -105,10 +105,7 @@ const Layout = ({
   );
   const cartPage = layoutData?.sitecore?.route?.name?.includes('cart');
   const orderConfirm = layoutData?.sitecore?.route?.name?.includes('confirmation');
-  const pageSchema =
-    typeof fields?.PageSchema?.value === 'string' && fields?.PageSchema?.value.trim() !== ''
-      ? fields?.PageSchema?.value
-      : undefined;
+
   const title: string | undefined =
     typeof layoutData?.sitecore?.context?.productData?.PageTitle === 'string'
       ? layoutData?.sitecore?.context?.productData?.PageTitle
@@ -167,28 +164,22 @@ const Layout = ({
     queryFn: () => GenericService.genericGetSiteSettings(),
   });
 
-  // useEffect(() => {
-  //   router.events.on('routeChangeStart', () => {
-  //     window.dataLayer = [];
-  //   });
-  // }, [router.events]);
-
   const headerScript = data?.headerScript?.value || '';
   const scriptBlocks = headerScript.match(/<script[^>]*>[\s\S]*?<\/script>/gi) || [];
 
   //Article shcema JSON-LD
-  // const articleSchema: ITypesArticleSchema = {
-  //   '@context': 'http://schema.org',
-  //   '@type': ['Article'],
-  //   headline: title as string,
-  //   description: description as string,
-  //   image: {
-  //     '@type': 'ImageObject',
-  //     url: `${process.env.NEXT_PUBLIC_IMAGE_URL}${ogImage}?fmt=webp`, // use the imgUrl from articleImage
-  //     height: 313,
-  //     width: 470,
-  //   },
-  // };
+  const articleSchema: ITypesArticleSchema = {
+    '@context': 'http://schema.org',
+    '@type': ['Article'],
+    headline: title as string,
+    description: description as string,
+    image: {
+      '@type': 'ImageObject',
+      url: `${process.env.NEXT_PUBLIC_IMAGE_URL}${ogImage}?fmt=webp`, // use the imgUrl from articleImage
+      height: 313,
+      width: 470,
+    },
+  };
 
   // JSON-LD schema for SEO
   const jsonLDSchema = {
@@ -285,17 +276,19 @@ const Layout = ({
     userEmail,
     isEventTriggered,
   ]);
-  useEffect(() => {
-    const urlWithoutQuery = new URL(router?.asPath, location.origin).pathname.toLocaleLowerCase();
-    const registerPaths =
-      urlWithoutQuery.includes(ROUTES.REGISTERROUTE) ||
-      urlWithoutQuery.includes(ROUTES.REGISTERCONFIRM) ||
-      urlWithoutQuery.includes(ROUTES.FORGOTROUTE) ||
-      urlWithoutQuery.includes(ROUTES.EMAILSEARCH);
-    if (isAuthenticated && registerPaths) {
-      router.push(ROUTES.MYACCOUNT);
-    }
-  }, [isAuthenticated, router]);
+
+  // useEffect(() => {
+  //   const urlWithoutQuery = new URL(router?.asPath, location.origin).pathname.toLocaleLowerCase();
+  //   const registerPaths =
+  //     urlWithoutQuery.includes(ROUTES.REGISTERROUTE) ||
+  //     urlWithoutQuery.includes(ROUTES.REGISTERCONFIRM) ||
+  //     urlWithoutQuery.includes(ROUTES.FORGOTROUTE) ||
+  //     urlWithoutQuery.includes(ROUTES.EMAILSEARCH);
+  //   if (isAuthenticated && registerPaths) {
+  //     router.push(ROUTES.MYACCOUNT);
+  //   }
+  // }, [isAuthenticated, router]);
+
   if (customerId) {
     triggerEvent({
       userId: customerId,
@@ -432,7 +425,6 @@ const Layout = ({
             dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLDSchema) }}
           />
         )}
-        {/* 
         {layoutData?.sitecore?.context?.itemPath &&
           // eslint-disable-next-line @typescript-eslint/ban-ts-comment
           // @ts-ignore
@@ -444,11 +436,7 @@ const Layout = ({
               type="application/ld+json"
               dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
             />
-          )} */}
-        {pageSchema && pageSchema !== undefined && (
-          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: pageSchema }} />
-        )}
-
+          )}
         {layoutData?.sitecore?.context?.productData?.ImageLink && (
           <link
             rel="preload"
@@ -547,7 +535,6 @@ const Layout = ({
           href="/assets/Images/favicon/android-chrome-512x512.png"
           sizes="512x512"
         />
-        <link rel="manifest" href="/assets/Images/site.webmanifest.json" />
         <link rel="mask-icon" href="/assets/Images/safari-pinned-tab.svg" color="#950715" />
         <meta name="apple-mobile-web-app-title" content="The Tile Shop" />
         <meta name="application-name" content="The Tile Shop" />

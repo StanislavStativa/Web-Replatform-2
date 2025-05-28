@@ -11,7 +11,7 @@ import { createPortal } from 'react-dom';
 import SearchOverlay from './SearchOverlay';
 import { useQuery } from '@tanstack/react-query';
 import { useRouter } from 'next/router';
-import ProductAPI, { UUID } from '../ProductListing/ProductAPI';
+import ProductAPI, { productStoreId, UUID } from '../ProductListing/ProductAPI';
 import { ProductList_PAYLOAD_CONTENT, PRODUCTLIST_SORT } from '@/config';
 import { ProductFilterState, ProductSortState } from '../ProductListing/ProductListing.type';
 import {
@@ -22,7 +22,6 @@ import {
 } from '../ProductListingFilters/ProductFiltersState';
 import { SelectedFilterState } from '../ProductListingFilters/ProductFilter.type';
 import useNavigationClickOutside from '../SecondaryNavigation/useNavigationClickOutside';
-import { getPriceGroup } from '@/utils/getPriceGroup';
 
 export const isOverlayOpenState = atom<boolean>(false);
 
@@ -55,12 +54,11 @@ const SearchBar: React.FC<SearchBarProps> = (props) => {
   const defaultItems = isMobile ? DefaultItemsPerPageMobile : DefaultItemsPerPageDesktop;
 
   const inputRef = useRef<HTMLInputElement>(null);
-  const priceGroup = getPriceGroup();
 
   const payload = {
     context: {
       page: { uri: router?.asPath },
-      store: { id: priceGroup },
+      store: { id: productStoreId },
       user: { uuid: UUID },
     },
 

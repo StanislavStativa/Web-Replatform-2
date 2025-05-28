@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3>We're Here to Help</h3><br />
+        <h3 class="extra-small-bottom-margin">We're Here to Help</h3>
         <p>With our large selection of glass tile, you’re sure to find what you need at The Tile Shop. Stop by <a class="font-bold" href="/store-locator/" class="font-bold">one of our showrooms</a> to browse products in-person and let our friendly associates answer questions and help you plan your project.</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "68db0c51-541d-42ad-957c-f50033f86ff7"
+      Value: "0db39b39-a75a-4180-9bd9-d01b515ae43d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064248Z
+      Value: 20240905T124228Z

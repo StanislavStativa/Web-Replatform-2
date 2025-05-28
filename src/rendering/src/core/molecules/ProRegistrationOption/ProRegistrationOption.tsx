@@ -14,26 +14,20 @@ const ProRegistrationOption = (props: ProRegistrationOptionProps) => {
   const [isModalOpen, setModalOpen] = useAtom(checkProRegistrationOptionModal);
 
   const handleCTAButtonClick = () => {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const { path, ...filteredQuery } = router?.query; // Remove
-    router.push({
-      pathname: CTA?.value?.href as string,
-      query: {
-        ...filteredQuery,
-      },
-    });
+    if (CTA?.value?.target !== '') {
+      window.open(CTA?.value?.href as string, '_blank');
+    } else {
+      router.push(CTA?.value?.href as string);
+    }
     setModalOpen(false);
   };
 
   const handleSecondaryCTAClick = () => {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const { path, ...filteredQuery } = router?.query; // Remove
-    router.push({
-      pathname: SecondaryCTA?.value?.href as string,
-      query: {
-        ...filteredQuery,
-      },
-    });
+    if (SecondaryCTA?.value?.target !== '') {
+      window.open(SecondaryCTA?.value?.href as string, '_blank');
+    } else {
+      router.push(SecondaryCTA?.value?.href as string);
+    }
     setModalOpen(false);
   };
 

@@ -10,6 +10,4 @@ export interface ProductsCarouselProps {
 
 export interface ProductsCarouselFieldProps extends ProductListingFields {
   SectionTitle: Field<string>;
-  ButtonText: Field<string>;
-  ButtonFunctionality: Field<string>;
 }

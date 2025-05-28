@@ -26,16 +26,16 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3>Our Experts Can Help</h3>
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
         <p><span>&nbsp;</span></p>
         <p><span>We know there’s a lot to consider when selecting your floor tile, but we have a wide selection and all the tools and materials you need for installation and care. </span><a href="/store-locator/" class="font-bold">Visit your local Tile Shop showroom</a><span> and let one of our friendly sales associates help you find the right marble floor tile for your project.  </span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "120c2379-735a-49b7-95f3-35b74c433a45"
+      Value: "1bc92976-0226-4e61-9c8a-86f0cd38cfef"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064244Z
+      Value: 20240905T123200Z

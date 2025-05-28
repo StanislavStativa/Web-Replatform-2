@@ -20,7 +20,6 @@ import { createUserSchema } from './RegisterProUser.schema';
 import { OCUserRequest } from '@/api/models/OCUserRequest';
 import useLocalStorage from '@/utils/useLocalStorage';
 import { useRouter } from 'next/router';
-import { usePathname } from 'next/navigation';
 import { Control, FieldValues } from 'react-hook-form';
 import { formatPhoneNumber, removePhoneFormatting } from '@/utils/phoneUtils';
 import { UserService } from '@/api/services/UserService';
@@ -74,7 +73,7 @@ const RegisterProUserForm: React.FC<RegisterProUserFieldProps> = (props) => {
   const [isAddressError, setAddressError] = useState(false);
 
   const router = useRouter();
-  const routePath = usePathname();
+  const routePath = router.asPath;
   const { t } = useI18n();
   const { setData, removeData } = useLocalStorage();
 
@@ -144,12 +143,7 @@ const RegisterProUserForm: React.FC<RegisterProUserFieldProps> = (props) => {
 
         setData('storeRegion', storeRegion);
         setData('ttsTradeProfession', getStateProfessionName?.label);
-        // eslint-disable-next-line @typescript-eslint/no-unused-vars
-        const { path, ...filteredQuery } = router?.query; // Remove 'path' from the query
-        router.push({
-          pathname: routePath,
-          query: { ...filteredQuery, confirm: 'true' },
-        });
+        router.push(`${routePath}?confirm=${true}`);
       } else {
         setShowError(true);
       }

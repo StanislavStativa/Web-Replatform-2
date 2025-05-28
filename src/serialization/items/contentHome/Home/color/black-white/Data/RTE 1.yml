@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <p /><h2><span class="h2-style" style="color: #323338;">A Timeless Combination: Black and White Tile</span></h2>
-        <p><span style="color: #323338;">In home design, the high-contrast combination of black and white might be the ultimate color pairing. It combines two neutrals, so it’s easy to accessorize. And the popularity of both colors means you’ll have your pick from materials, shapes and design styles so you can create a space that’s perfectly you.&nbsp;</span></p><p /></div>
+        <h2 class="extra-small-bottom-margin"><span class="h2-style" style="color: #323338;">A Timeless Combination: Black and White Tile</span></h2>
+        <p><span style="color: #323338;">In home design, the high-contrast combination of black and white might be the ultimate color pairing. It combines two neutrals, so it’s easy to accessorize. And the popularity of both colors means you’ll have your pick from materials, shapes and design styles so you can create a space that’s perfectly you.&nbsp;</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f3d63c34-60a6-4b75-bd57-f5ca4097f87a"
+      Value: "c973dc36-3c8f-4ba8-9535-5513bbfd99f0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064249Z
+      Value: 20240905T124229Z

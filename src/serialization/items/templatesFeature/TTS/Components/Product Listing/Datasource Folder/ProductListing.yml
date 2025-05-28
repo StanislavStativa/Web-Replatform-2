@@ -13,7 +13,6 @@ SharedFields:
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {44A022DB-56D3-419A-B43B-E27E4D8E9C41}
     {43B205A6-BF74-4D64-AD88-AB4716C7BAAB}
-    {B67D9AF4-9053-4B88-9F96-68487BE7BB96}
     {05F746A1-2813-48D0-8A67-E0128AD65302}
     {76A37C80-7025-458A-8A19-2B212B55E273}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
@@ -66,14 +65,14 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f056ac32-37f5-455a-ba05-1b4ca371bc9e"
+      Value: "480dfdfa-3af0-444e-8d5e-028aa630a086"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\kWcqIa9tCD
+        sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250326T101008Z
+      Value: 20240611T065849Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

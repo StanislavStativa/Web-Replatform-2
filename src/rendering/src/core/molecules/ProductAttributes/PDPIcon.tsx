@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ProductAttributesProps } from './ProductAttributes.types';
-import { FaPinterestP, FaHouzz, FaPrint } from 'react-icons/fa';
+import { FaPinterestP, FaHouzz, FaHeart, FaPrint } from 'react-icons/fa';
 import { useI18n } from 'next-localization';
 import { useRouter } from 'next/router';
 import { useAtom } from 'jotai';
@@ -30,7 +30,9 @@ const PDPIcon: React.FC<ProductAttributesProps> = (props) => {
   const visualizerUrl = `https://visualizer.tileshop.com/?sku=${encodeURIComponent(props?.data?.PriceSchedule?.xp?.ProductId)}`;
   const { t } = useI18n();
   const [{ isAuthenticated }] = useAtom(authorizationAtom);
-
+  const toggleSignIn = () => {
+    setShowSignIn(!showSignIn);
+  };
   const [, setIsModalOpen] = useAtom(newProjectModalOpen);
   const [, setshowProjectItemn] = useAtom(showProjectItemSection);
   const [, setDescription] = useAtom(newProjectModelDescription);
@@ -155,11 +157,11 @@ const PDPIcon: React.FC<ProductAttributesProps> = (props) => {
             <FaPrint className="text-pdp-icon" />
           </a>
           <div className="relative">
-            {/* <FaHeart
+            <FaHeart
               onClick={toggleSignIn}
               className="text-pdp-icon cursor-pointer"
               title={t('PDPAttributes_SaveToProject')}
-            /> */}
+            />
             {showSignIn && (
               <div className="absolute  min-w-[200px] z-[1000] ">
                 {isAuthenticated ? (

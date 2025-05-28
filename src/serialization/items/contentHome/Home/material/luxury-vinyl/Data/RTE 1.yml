@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h2>Why Our Customers Choose Luxury Vinyl Flooring</h2><br />
+        <h2 class="extra-small-bottom-margin">Why Our Customers Choose Luxury Vinyl Flooring</h2>
         <p><span>Luxury vinyl flooring offers an affordable yet durable option for both homes and businesses. In addition to providing a wide variety of design choices, our selection of vinyl flooring is enhanced with features like 100% waterproofing, reinforced 12-20 MIL wear layers, and </span><a href="/installation-care/preparation/heated-floor" class="font-bold">in-floor radiant heat</a><span> compatibility to offer maximum utility and longevity in any space. Discover this compelling alternative to traditional flooring materials today. </span><span></span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1f9040b1-5512-4508-ba14-8a46d6d03dcd"
+      Value: "ef6469b8-aeee-490f-8b72-ac26ecd1bd7d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064247Z
+      Value: 20240905T124224Z

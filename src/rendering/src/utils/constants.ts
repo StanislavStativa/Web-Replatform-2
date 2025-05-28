@@ -177,6 +177,7 @@ export const blogSitemapUrls = [
     lastmod: '2025-01-10T16:41:02+00:00',
   },
 ];
+
 export const paymentDocType: Record<string, string> = {
   DG: 'Payment_Invoice_DG',
   DR: 'Payment_Invoice_DR',
@@ -189,8 +190,3 @@ export const paymentDocType: Record<string, string> = {
   ZG: 'Payment_Invoice_ZG',
   ZO: 'Payment_Invoice_ZO',
 };
-
-export const enum BTNFUNCTION {
-  ADDSAMPLE = 'ADD SAMPLE',
-  SHOPNOW = 'SHOP NOW',
-}

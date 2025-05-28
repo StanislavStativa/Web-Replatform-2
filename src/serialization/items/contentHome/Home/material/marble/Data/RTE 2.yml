@@ -26,18 +26,18 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text ">
-        <h3>Our Experts Can Help</h3>
+        <h3 class="extra-small-bottom-margin">Our Experts Can Help</h3>
         <p><span>&nbsp;</span></p>
         <p><span>We know there’s a lot to consider when shopping for marble tiles, and we want you to feel confident about your choice. We offer complimentary </span><a href="/DCA" class="font-bold">design consultations</a><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"><a href="/DCA" class="font-bold">,</a> and our friendly sales associates are here to help when you’re ready. </span><a href="/store-locator/" class="font-bold">Visit your local Tile Shop showroom</a><span> to learn more. </span>
         </p>
         </div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1c2cd2d9-ec05-4081-bd6c-1d0dd7ba55d8"
+      Value: "47ae5d90-2fff-4e88-b85e-571626370562"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064244Z
+      Value: 20240905T123201Z

@@ -5,10 +5,8 @@ import { cn } from '@/utils/cn';
 import Image from '@/core/atoms/Image/Image';
 import { useRouter } from 'next/router';
 import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
-import useLocalStorage from '@/utils/useLocalStorage';
 
 const SearchOverlay = (props: SearchProductProps) => {
-  const { setSessionData } = useLocalStorage();
   const regex = new RegExp(props?.searchValue, 'gi');
   const { t } = useI18n();
 
@@ -40,7 +38,6 @@ const SearchOverlay = (props: SearchProductProps) => {
   };
 
   const handleClick = (productItem: ProductListingCard) => {
-    setSessionData('isBreadCrumbsFromApi', true);
     router.push(productItem?.product_url ?? '/');
     props?.clearSearch();
   };

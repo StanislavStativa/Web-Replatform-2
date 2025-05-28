@@ -32,8 +32,6 @@ import { CartItemDetails } from '@/core/cartStore/CartStoreType';
 import { authorizationAtom } from '@/data/atoms/authorization';
 import { triggerEvent } from '@/utils/eventTracking';
 import { event } from '@/config';
-import useLocalStorage from '@/utils/useLocalStorage';
-import { BTNFUNCTION } from '@/utils/constants';
 
 const ProductListingCards: React.FC<ProductListingCard> = (props) => {
   const {
@@ -55,11 +53,7 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
     isProductDetails,
     discoverRfkId,
     final_price_purchase,
-    btnText,
-    btnFunctionality,
-    isExtendedStyle = false,
   } = props;
-
   const isProUser = Cookies.get(IS_PROUSER);
   const { t } = useI18n();
   const router = useRouter();
@@ -81,10 +75,8 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
   const [, setIsDisabled] = useState<boolean>(false);
   const { addToCart, getLocalNumberOfSamples, isProductInCart, isProductInLocalCart } = useCart();
   const [, setStopDataSync] = useAtom(stopDataSync);
-  const { setSessionData } = useLocalStorage();
 
   const handleViewItem = () => {
-    setSessionData('isBreadCrumbsFromApi', false);
     const pathSegments = navigation?.asPath
       .split('?')[0] // Remove query parameters
       .replace(/^\/+/, '') // Remove leading slashes
@@ -225,11 +217,7 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
           <span className="md:h-6 hidden lg:block ">
             <SampleCartSvg isDisabled={checkItemPresent() ? true : false} />
           </span>
-          {checkItemPresent()
-            ? t('Tag_SampleInCart')
-            : btnFunctionality === BTNFUNCTION?.ADDSAMPLE
-              ? btnText
-              : t('Tag_AddSample')}
+          {checkItemPresent() ? t('Tag_SampleInCart') : t('Tag_AddSample')}
         </>
       ) : (
         <></>
@@ -240,11 +228,7 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
           <span className="md:h-6 hidden lg:block ">
             <SampleCartSvg isDisabled={checkItemPresent() ? true : false} />
           </span>
-          {checkItemPresent()
-            ? t('Tag_SampleInCart')
-            : btnFunctionality === BTNFUNCTION?.ADDSAMPLE
-              ? btnText
-              : t('Tag_AddSample')}
+          {checkItemPresent() ? t('Tag_SampleInCart') : t('Tag_AddSample')}
           {!checkItemPresent() &&
             sample_price !== undefined &&
             sample_price > 0 &&
@@ -314,12 +298,9 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
         onClick={handleViewItem}
       >
         <div
-          className={cn(
-            `relative w-full ${isExtendedStyle ? 'md:max-h-64' : 'h-[45vw] max-h-64 md:h-[18vw]'} lg:flex flex items-center`,
-            {
-              'w-152 h-152 md:h-200 md:w-200 ': isProductDetails,
-            }
-          )}
+          className={cn('relative w-full h-[45vw] md:h-[18vw] max-h-64 lg:flex flex items-center', {
+            'w-152 h-152 md:h-200 md:w-200 ': isProductDetails,
+          })}
         >
           {sku_image_url && (
             <a
@@ -370,7 +351,7 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
               router.replace(props?.product_url);
               handleProductClick(props?.product_url);
             }}
-            className={cn('w-fit')}
+            className="w-fit"
           >
             <p
               className={cn(
@@ -421,52 +402,24 @@ const ProductListingCards: React.FC<ProductListingCard> = (props) => {
             </div>
           )}
         </div>
-        {btnFunctionality === BTNFUNCTION?.SHOPNOW && (
+        {isProductDetails ? (
           <Button
             variant={ButtonVariant.BLACK}
-            onClick={(e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
-              e.stopPropagation();
-              handleViewItem();
-              router.push(product_url ?? '');
-            }}
-            className={cn(
-              'w-full place-self-center bg-dark-gray rounded-md border border-dark-gray font-normal text-xs leading-4 py-2 px-4 hover:font-latoBold mt-3.5',
-              {
-                'w-full': isExtendedStyle,
-              }
-            )}
-          >
-            {btnText}
-          </Button>
-        )}
-
-        {isProductDetails && btnFunctionality !== BTNFUNCTION?.SHOPNOW ? (
-          <Button
-            variant={ButtonVariant.BLACK}
-            className={cn(
-              {
-                'w-full place-self-center bg-dark-gray rounded-md border border-dark-gray font-normal text-xs leading-4 py-2 px-4 hover:font-latoBold mt-3.5':
-                  isProductDetails,
-              },
-              {
-                'w-full': isExtendedStyle,
-              }
-            )}
+            className={cn({
+              'place-self-center bg-dark-gray rounded-md border border-dark-gray font-normal text-xs leading-4 py-2 px-4 hover:font-latoBold mt-3.5':
+                isProductDetails,
+            })}
           >
             {t('CTA_Text_Shop_Now')}
           </Button>
         ) : (
-          isSampleButton &&
-          btnFunctionality !== BTNFUNCTION?.SHOPNOW && (
+          isSampleButton && (
             <Button
               className={cn(
                 'w-full mt-2.5 text-center rounded-md text-sm xsm:text-sm md:text-xs lg:text-sm font-medium md:leading-4 md:py-4 md:px-2 md:gap-1.5 gap-2.5 h-10 px-0 hover:font-latoBold hover:shadow-button hover:drop-shadow-none',
                 {
                   'bg-white-smoke border-zinc-600 border-opacity-65 hover:border-zinc-600 hover:border-opacity-65 text-olive-gray hover:text-olive-gray  hover:font-normal hover:shadow-none':
                     checkItemPresent(),
-                },
-                {
-                  'w-full': isExtendedStyle,
                 }
               )}
               variant={ButtonVariant.OUTLINE}

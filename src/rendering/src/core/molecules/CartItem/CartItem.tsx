@@ -141,7 +141,7 @@ const CartItem: React.FC<CartItemProps> = (props) => {
         }) || [];
       const Sampleitem =
         cartData?.Samples?.CartItem?.map((product) => {
-          const price = Number(product?.LinePrice?.toFixed(2));
+          const price = Number(product?.LinePrice);
           return {
             discount: Number(product?.PromotionDiscount?.toFixed(2)),
             item_brand: product?.Brand || '',

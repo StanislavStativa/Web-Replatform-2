@@ -3,6 +3,7 @@ ID: "770b3aa4-0609-4978-a81b-4ba0e3642840"
 Parent: "41b64518-4eb6-4238-9315-e0086f8d626b"
 Template: "7f5ea2ca-13d7-40c9-bcff-64bfef5056d0"
 Path: /sitecore/content/TTS/TileShop/Settings
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "0129da3f-8c86-4591-ae32-6ec923413923"
   Hint: DictionaryDomain

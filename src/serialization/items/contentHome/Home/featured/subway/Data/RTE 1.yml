@@ -25,7 +25,7 @@ Languages:
     - ID: "6dc50bdd-7898-4310-afa5-7699ca94c8c1"
       Hint: Description
       Value: |
-        <div class="rich-text"><p /><h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span class="h2">The Timeless Look of Subway Tiles</span></h2>
+        <div class="rich-text"><h2 style="color: #333333; margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;" class="extra-small-bottom-margin"><span class="h2">The Timeless Look of Subway Tiles</span></h2>
         
         
         <p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;">Known for its frequent use throughout the New York City subway system, the term “subway tile” is traditionally used to describe rectangular tiles that are twice as wide as they are tall (such as the standard 3x6-inch size). As this type of tile gained in popularity, use of the term expanded to include additional sizes and height-to-width ratios.  </span></p>
@@ -33,14 +33,14 @@ Languages:
         <p style="margin: 0px; padding: 0px; border: 0px;margin-bottom:0.67em;"><span style="margin: 0px; padding: 0px; border: 0px; color: #323338;"></span><span style="color: #323338;">Subway tile may have come to prominence during the early 1900s, as NYC’s subway system was being constructed, but it remains one of the world’s most popular tile choices more than 100 years later. </span></p>
         <p style="margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;"> </span></p>
         <p style="margin: 0px; padding: 0px; border: 0px;"><span style="color: #323338;margin-bottom:0.67em;"></span><span style="color: #323338;">One of the best features of subway tiles is how the classic shape is constantly being used in new, innovative ways. Your space will benefit from any version of this beloved rectangular tile.   </span></p>
-        <p><span style="color: #323338;">Here are just a few of the ways to make the most of this versatile category:</span></p><p /></div>
+        <p><span style="color: #323338;">Here are just a few of the ways to make the most of this versatile category:</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cc9fd386-233f-4714-a476-25786bd7c3c8"
+      Value: "6a750f15-18bd-4cfc-810a-966a665788d9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ashwani.kumar@altudo.co
+        sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240809T140950Z
+      Value: 20240905T124234Z

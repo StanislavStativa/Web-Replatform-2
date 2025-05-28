@@ -136,5 +136,8 @@ export const getAdobeImageURL = ({
     imageName = applyMobileSmartCrops(imageName, smartCropFormat);
   }
 
-  return { url: rootURL + decodeURIComponent(imageName) + queryString, altText: altTextValue };
+  return {
+    url: rootURL + decodeURIComponent(imageName).replaceAll(' ', '%20') + queryString,
+    altText: altTextValue,
+  };
 };

@@ -213,7 +213,7 @@ const SignInForm: React.FC<SignInProps> = (props) => {
       }
       if (data) {
         if (typeof window !== 'undefined' && 'rfk' in window) {
-          window?.rfk?.push({
+          window.rfk.push({
             value: {
               context: {
                 user: {

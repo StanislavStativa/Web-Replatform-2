@@ -13,7 +13,7 @@ const NotificationMessage = ({
   return (
     <div
       className={cn(
-        `fixed left-1/2 transform -translate-x-1/2 z-100 top-12 md:top-17 lg:top-32 flex items-center gap-x-1 bg-pink-100 border-b border-red-500 md:border md:border-red-500 md:mx-1 p-3 md:mr-4 md:mb-2 md:mt-5 lg:mt-3 md:rounded-md w-full lg:w-auto max-w-740 ${className}`
+        `fixed left-1/2 transform -translate-x-1/2 z-100 top-12 md:top-17 lg:top-32 flex items-center gap-x-1 bg-pink-100 border-b border-red-500 lg:border lg:border-red-500 lg:mx-1 p-3 lg:mr-4 lg:mb-2 mt-2 lg:rounded-md w-full lg:w-auto max-w-740 ${className}`
       )}
     >
       <div className="w-5 h-5 mr-3">

@@ -26,15 +26,15 @@ Languages:
       Hint: Description
       Value: |
         <div class="rich-text  ">
-        <h2>Our Experts Can Help</h2><br />
+        <h2 class="extra-small-bottom-margin">Our Experts Can Help</h2>
         <p><span>&nbsp;for help from one of our friendly sales associates. However you envision your outdoor space, we have tile to help you achieve your ideal aesthetic, as well as the tools and products needed to install and care for it.&nbsp;</span></p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cfa62992-b7ba-4ead-97aa-f67d50904d93"
+      Value: "8387225b-ae89-4d20-bdd7-9b9fec7585ad"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240905T064243Z
+      Value: 20240905T124219Z

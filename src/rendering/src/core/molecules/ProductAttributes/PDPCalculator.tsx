@@ -44,29 +44,19 @@ const PDPCalculator: React.FC<PDPCalculatorProps> = (props) => {
   const calculateCoverage = () => {
     const needed = parseFloat(coverageNeeded) || 0;
     const overagePercentage = parseInt(overage) || 0;
-    const adjustedNeeded = needed + needed * (overagePercentage / 100);
+    const adjustedCoverage: number | undefined = needed + needed * (overagePercentage / 100);
+    const sizePerItem = calculatorMode === 'AREA' ? pdpCalculator.CoveragePerBox : 0; //pdpCalculator.Product?.xp?.ActualLengthIN / 12;
     const pricePerItem = pdpCalculator?.PriceSchedule?.PriceBreaks[0]?.SalePrice || 0;
 
-    let count = 0;
-    let adjustedCoverageNumber = 0;
-
-    if (calculatorMode === 'AREA') {
-      const sizePerItem = pdpCalculator?.CoveragePerBox || 0;
-      count = Math.ceil(adjustedNeeded / sizePerItem) || 0;
-      adjustedCoverageNumber = parseFloat(adjustedNeeded?.toFixed(0));
-    } else if (calculatorMode === 'LINEAR') {
-      const actualLengthIn = data?.ActualLengthIN || 0;
-      const adjustedInches = adjustedNeeded * 12;
-      count = Math.ceil(adjustedInches / actualLengthIn) || 0;
-      adjustedCoverageNumber = parseFloat(adjustedNeeded?.toFixed(0));
-    }
-
-    const cost = count * pricePerItem || 0;
-    const costNumber = parseFloat(cost.toFixed(2));
-
+    const count = Math.ceil(adjustedCoverage / sizePerItem) || 0;
+    const cost: number | undefined = count * pricePerItem || 0;
+    const adjustedCoverageNumber =
+      adjustedCoverage !== undefined ? parseFloat(adjustedCoverage?.toFixed(0)) : 0;
     setTotalCoverage(adjustedCoverageNumber);
-    setTotalUnits(count);
-    setTotalCost(costNumber);
+    setTotalUnits(isNaN(count) ? 0 : count);
+    setTotalUnits(isNaN(count) ? 0 : count);
+    const costNumber = cost !== undefined ? parseFloat(cost?.toFixed(2)) : 0;
+    setTotalCost(isNaN(costNumber) ? 0 : costNumber);
     onTotalUnitsChange(count);
     setErrorMsg(false);
   };
@@ -133,9 +123,7 @@ const PDPCalculator: React.FC<PDPCalculatorProps> = (props) => {
                 onChange={(e) => setCoverageNeeded(e?.target?.value)}
                 className="focus:outline-none focus:placeholder-transparent w-13 py-1 pl-2.5 pr-0.5 border-none text-black text-right"
               />
-              <label className="pl-1">
-                {calculatorMode === 'AREA' ? `${t('PDPCalculator_TotalSqFt')}` : ' Linear Ft.'}
-              </label>
+              <label className="pl-1">{t('PDPCalculator_SqFt')}</label>
             </div>
             <div className="border border-border-black text-border-black rounded-lg ">
               <Select

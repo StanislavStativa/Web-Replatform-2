@@ -6,6 +6,7 @@ export const useEditor = () => {
   const isEditing = checkIsNotNormal(sitecoreContext);
   return isEditing;
 };
+
 export const useOnlyEditor = () => {
   const { sitecoreContext } = useSitecoreContext();
   const isEditing = checkIsOnlyEdit(sitecoreContext);

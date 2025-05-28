@@ -1,27 +1,14 @@
-import {
-  ComponentParams,
-  ComponentRendering,
-  Field,
-  TextField,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentParams, ComponentRendering, Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ProductFilterData } from '../ProductListingFilters/ProductFilter.type';
 import { CartItem } from '@/core/cartStore/CartStoreType';
 
 export interface ProductListingProps {
   rendering: ComponentRendering & { params: ComponentParams } & { fields: ProductListingFields };
   params: ComponentParams;
-  btnText?: {
-    jsonValue: TextField;
-  };
-  btnFunctionality: {
-    jsonValue: Field<string>;
-  };
-  extendedStyling?: boolean;
 }
 
 export interface ProductListingPageProps extends ProductListingProps {
   products: ProductListingData;
-  id?: string;
 }
 export interface ProductFiltersPageProps extends ProductListingProps {
   filters: ProductFilterData;
@@ -34,11 +21,6 @@ export interface ProductListingFields {
   DefaultItemsPerPageMobile: Field<string>;
   DiscoverRfkId: Field<string>;
   NoResultText: Field<string>;
-  HideFilters: Field<boolean>;
-  HideSorting: Field<boolean>;
-  HidePagination: Field<boolean>;
-  ButtonText: Field<string>;
-  ButtonFunctionality: Field<string>;
 }
 export interface SearchResultProps extends ProductListingProps {
   searchResults: boolean;
@@ -82,9 +64,6 @@ export interface ProductListingCard {
   final_price_purchase?: number;
   price_purchase_retail?: number;
   discoverRfkId: string;
-  btnText?: string;
-  btnFunctionality?: string;
-  isExtendedStyle?: boolean;
 }
 
 export interface ProductPayloadProps {

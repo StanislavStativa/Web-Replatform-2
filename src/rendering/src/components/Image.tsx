@@ -1,14 +1,13 @@
-import type { CSSProperties } from 'react';
+import React, { CSSProperties } from 'react';
 import {
-  EditMode,
   Image as JssImage,
   Link as JssLink,
+  ImageField,
+  Field,
+  LinkField,
   Text,
   useSitecoreContext,
 } from '@sitecore-jss/sitecore-jss-nextjs';
-
-import type { Field, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
-import { cn } from '@/utils/cn';
 
 interface Fields {
   Image: ImageField;
@@ -19,51 +18,41 @@ interface Fields {
 type ImageProps = {
   params: { [key: string]: string };
   fields: Fields;
-  rendering?: {
-    componentName?: string;
-  };
 };
+
+const ImageDefault = (props: ImageProps): JSX.Element => (
+  <div className={`component image ${props.params.styles}`.trimEnd()}>
+    <div className="component-content">
+      <span className="is-empty-hint">Image</span>
+    </div>
+  </div>
+);
 
 export const Banner = (props: ImageProps): JSX.Element => {
   const { sitecoreContext } = useSitecoreContext();
   const isPageEditing = sitecoreContext.pageEditing;
-  const isMetadataMode = sitecoreContext?.editMode === EditMode.Metadata;
-
   const classHeroBannerEmpty =
     isPageEditing && props.fields?.Image?.value?.class === 'scEmptyImage'
       ? 'hero-banner-empty'
       : '';
-
-  const backgroundStyle = props?.fields?.Image?.value?.src
-    ? ({
-        backgroundImage: `url('${props.fields.Image.value.src}')`,
-      } as CSSProperties)
-    : {};
-
-  const modifyImageProps = !isMetadataMode
-    ? {
-        ...props.fields.Image,
-        editable: props?.fields?.Image?.editable
-          ?.replace(`width="${props.fields?.Image?.value?.width}"`, 'width="100%"')
-          ?.replace(`height="${props.fields?.Image?.value?.height}"`, 'height="100%"'),
-      }
-    : {
-        ...props.fields.Image,
-        value: {
-          ...props.fields.Image.value,
-          style: { width: '100%', height: '100%' },
-        },
-      };
-
-  const id = props?.params?.RenderingIdentifier || undefined;
+  const backgroundStyle = (props?.fields?.Image?.value?.src && {
+    backgroundImage: `url('${props.fields.Image.value.src}')`,
+  }) as CSSProperties;
+  const modifyImageProps = {
+    ...props.fields.Image,
+    editable: props?.fields?.Image?.editable
+      ?.replace(`width="${props?.fields?.Image?.value?.width}"`, 'width="100%"')
+      .replace(`height="${props?.fields?.Image?.value?.height}"`, 'height="100%"'),
+  };
+  const id = props.params.RenderingIdentifier;
 
   return (
     <div
-      className={cn('component hero-banner', props.params?.styles, classHeroBannerEmpty)}
-      id={id}
+      className={`component hero-banner ${props.params.styles} ${classHeroBannerEmpty}`}
+      id={id ? id : undefined}
     >
       <div className="component-content sc-sxa-image-hero-banner" style={backgroundStyle}>
-        {sitecoreContext.pageEditing ? <JssImage field={modifyImageProps} /> : null}
+        {sitecoreContext.pageEditing ? <JssImage field={modifyImageProps} /> : ''}
       </div>
     </div>
   );
@@ -72,26 +61,19 @@ export const Banner = (props: ImageProps): JSX.Element => {
 export const Default = (props: ImageProps): JSX.Element => {
   const { sitecoreContext } = useSitecoreContext();
 
-  const id = props?.params?.RenderingIdentifier || undefined;
-  const hasLink = !!props.fields?.TargetUrl?.value?.href;
-
   if (props.fields) {
-    const imageElement = <JssImage field={props.fields.Image} className="sc-image" />;
+    const Image = () => <JssImage field={props.fields.Image} />;
+    const id = props.params.RenderingIdentifier;
 
     return (
-      <div
-        className={cn(
-          'component image print:w-[175px] print:h-auto',
-          props?.params?.styles,
-          props?.rendering?.componentName
-        )}
-        id={id}
-      >
+      <div className={`component image ${props.params.styles}`} id={id ? id : undefined}>
         <div className="component-content">
-          {sitecoreContext.pageState === 'edit' || !hasLink ? (
-            imageElement
+          {sitecoreContext.pageState === 'edit' || !props.fields.TargetUrl?.value?.href ? (
+            <Image />
           ) : (
-            <JssLink field={props.fields.TargetUrl}>{imageElement}</JssLink>
+            <JssLink field={props.fields.TargetUrl}>
+              <Image />
+            </JssLink>
           )}
           <Text
             tag="span"
@@ -103,13 +85,5 @@ export const Default = (props: ImageProps): JSX.Element => {
     );
   }
 
-  return (
-    <div className={cn('component image', props?.params?.styles)} id={id}>
-      <div className="component-content">
-        <span className="is-empty-hint">Image</span>
-      </div>
-    </div>
-  );
+  return <ImageDefault {...props} />;
 };
-
-export default Default;
