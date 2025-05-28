@@ -161,6 +161,7 @@
     "jss": "jss",
     "lint": "eslint ./src/**/*.tsx ./src/**/*.ts ./scripts/**/*.ts",
     "next:build": "next build",
+    "next:lint": "next lint",
     "next:dev": "cross-env NODE_OPTIONS='--inspect' next dev --experimental-https",
     "next:start": "next start",
     "lintStaged": "node_modules/.bin/lint-staged",
