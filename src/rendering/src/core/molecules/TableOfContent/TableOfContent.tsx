@@ -44,7 +44,7 @@ const TableOfContent: React.FC<TableOfContentProps> = (props) => {
       const subTitleId: string[] = [];
       subAnchors?.map((subAnchor) => {
         const matches = subAnchor?.match(/(?<=").*?(?=")/)?.[0];
-        matches?.includes('Accordion') && subTitleId?.push(matches);
+        if (matches?.includes('Accordion')) subTitleId?.push(matches);
       });
 
       subTitle?.map((item, index) =>

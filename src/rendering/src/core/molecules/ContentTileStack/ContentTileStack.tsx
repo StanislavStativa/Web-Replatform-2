@@ -11,9 +11,11 @@ const ContentTileStack = (props: ContentTileStackProps) => {
   const IsImageOnRightCheck = (index: number) => {
     const myParams = { ...params };
     if (params.IsImageOnRight) {
-      index % 2 !== 0 ? delete myParams['IsImageOnRight'] : (myParams.IsImageOnRight = '1');
+      if (index % 2 !== 0) delete myParams['IsImageOnRight'];
+      else myParams.IsImageOnRight = '1';
     } else {
-      index % 2 !== 0 ? (myParams.IsImageOnRight = '1') : delete myParams['IsImageOnRight'];
+      if (index % 2 !== 0) myParams.IsImageOnRight = '1';
+      else delete myParams['IsImageOnRight'];
     }
     return myParams;
   };

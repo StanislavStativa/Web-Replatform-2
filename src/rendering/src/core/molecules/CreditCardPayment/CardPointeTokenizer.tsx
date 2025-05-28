@@ -28,7 +28,7 @@ const CardPointeTokenizer = (props: CardPointeTokenizerProps) => {
       props.tokenProps.userEmvData(emvData);
       event.preventDefault();
       setError(token.validationError);
-      props?.getCartError && props?.getCartError(token.validationError);
+      if (props?.getCartError) props?.getCartError(token.validationError);
     }
   };
 

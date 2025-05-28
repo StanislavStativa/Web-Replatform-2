@@ -82,9 +82,10 @@ export const SecondMobileNavigation = (props: MobilenavigationProps) => {
               <li key={item.id} className="flex">
                 <button
                   onClick={() => {
-                    item?.fields?.ChildMenu?.length
-                      ? (toggleThirdMenu(), setSecondListData(item))
-                      : setHamburgerMenu(false);
+                    if (item?.fields?.ChildMenu?.length) {
+                      toggleThirdMenu();
+                      setSecondListData(item);
+                    } else setHamburgerMenu(false);
                   }}
                   className="w-full flex flex-col items-center  font-normal text-dark-gray text-left pt-5 px-6"
                 >

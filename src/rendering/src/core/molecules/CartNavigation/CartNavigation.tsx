@@ -309,7 +309,7 @@ and selected is ship to new then pass false otherwise as per storeId presence
     },
     onSuccess: (_response) => {
       if (_response?.status === 'Y') {
-        _response?.cards && setData('cartTokenId', _response?.cards[0]?.tokenid);
+        if (_response?.cards) setData('cartTokenId', _response?.cards[0]?.tokenid);
 
         cartProcessMutation.mutate();
       }

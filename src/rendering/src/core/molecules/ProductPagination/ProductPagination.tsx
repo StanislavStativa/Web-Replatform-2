@@ -67,9 +67,9 @@ const ProductPagination = (props: ProductPaginationProps) => {
         else {
           pageNumbers?.push(1);
           pageNumbers?.push('...');
-          currentPage && pageNumbers?.push(currentPage - 1);
-          currentPage && pageNumbers?.push(currentPage);
-          currentPage && pageNumbers?.push(currentPage + 1);
+          if (currentPage) pageNumbers?.push(currentPage - 1);
+          if (currentPage) pageNumbers?.push(currentPage);
+          if (currentPage) pageNumbers?.push(currentPage + 1);
           pageNumbers?.push('...');
           pageNumbers?.push(pagination?.total_page);
         }
@@ -113,8 +113,10 @@ const ProductPagination = (props: ProductPaginationProps) => {
   useEffect(() => {
     const queryPageNumber = router.query['pageNumber'];
     const queryPageSize = router.query['pageSize'];
-    queryPageNumber ? setCurrentPage(Number(queryPageNumber)) : setCurrentPage(1);
-    queryPageSize === 'all' ? setViewAllProduct(true) : setViewAllProduct(false);
+    if (queryPageNumber) setCurrentPage(Number(queryPageNumber));
+    else setCurrentPage(1);
+    if (queryPageSize === 'all') setViewAllProduct(true);
+    else setViewAllProduct(false);
   }, [router.query]);
 
   const renderPageNumbers = () => {

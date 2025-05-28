@@ -68,7 +68,7 @@ const Card: React.FC<RegistrationCard> = ({ fields, params }) => {
           variant={params?.CTAColor as ButtonVariant}
           size={params?.CTASize as SIZE}
           onClick={() => {
-            emailSearchVal && setData('userInfo', { email: emailSearchVal });
+            if (emailSearchVal) setData('userInfo', { email: emailSearchVal });
             handleCTAButtonClick();
           }}
           isCTATextInCaps={params?.IsCTATextInCaps}

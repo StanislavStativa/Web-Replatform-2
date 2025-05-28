@@ -66,10 +66,6 @@ const ContactUsForm = (props: ContactUsFormProps) => {
 
   const watchMessage = formMethods.watch('message');
 
-  const onTopicSelect = (value: string) => {
-    formMethods.setValue('topic', value);
-  };
-
   const onMessageChange = (e: ChangeEvent<HTMLTextAreaElement>) => {
     formMethods.setValue('message', e.target.value);
   };
@@ -182,7 +178,6 @@ const ContactUsForm = (props: ContactUsFormProps) => {
                 selectDefaultValue={t('Labels_SelectaTopic')}
                 onChange={(event) => {
                   field.onChange(event);
-                  onTopicSelect;
                 }}
               />
             )}

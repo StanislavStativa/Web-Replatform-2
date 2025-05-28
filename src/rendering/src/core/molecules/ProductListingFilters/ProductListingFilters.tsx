@@ -42,11 +42,11 @@ const ProductListingFilters = (props: ProductFiltersPageProps) => {
 
   const handleClick = () => {
     setIsFilterOpen(!isFilterOpen);
-    !isFilterOpen && setOpenFacetName('');
+    if (!isFilterOpen) setOpenFacetName('');
   };
 
   useEffect(() => {
-    isMobile && setIsFilterOpen(false);
+    if (isMobile) setIsFilterOpen(false);
   }, [isMobile]);
 
   const deleteFilter = (data: SelectedFilterState, id: string) => {
@@ -64,7 +64,7 @@ const ProductListingFilters = (props: ProductFiltersPageProps) => {
     }
     if (currentPage === 1) {
       const baseUrl: string = path ?? '';
-      Object.keys(updatedFilter).length === 0 &&
+      if (Object.keys(updatedFilter).length === 0)
         router.push(`${baseUrl}?pageNumber=1&pageSize=${pageSize}`);
       setViewAllProduct(false);
     }
@@ -98,9 +98,8 @@ const ProductListingFilters = (props: ProductFiltersPageProps) => {
       (item: SelectedFilterState) => item?.text === facet_name
     );
 
-    existingFilterData
-      ? setFilterData(filterData?.filter((item) => item?.text !== facet_name))
-      : setFilterData([...filterData, { text: facet_name, id: id, facet_name: data }]);
+    if (existingFilterData) setFilterData(filterData?.filter((item) => item?.text !== facet_name));
+    else setFilterData([...filterData, { text: facet_name, id: id, facet_name: data }]);
 
     if (existingDataObj) {
       // If the data key already exists, update the value array
@@ -165,7 +164,7 @@ const ProductListingFilters = (props: ProductFiltersPageProps) => {
           ? router.query[key]
           : [router.query[key]];
 
-        Array.isArray(facetValues) &&
+        if (Array.isArray(facetValues))
           facetValues?.forEach((value) => {
             const facetItem = facet[facetName]?.value?.find(
               (item: ProductFilterFacetValue) => item.id === value

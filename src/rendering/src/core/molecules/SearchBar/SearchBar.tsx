@@ -119,9 +119,10 @@ const SearchBar: React.FC<SearchBarProps> = (props) => {
       setSortPayload([]);
       setFilterData([]);
       setCurrentPage(0);
-      searchData?.content?.product?.value?.length === 1
-        ? router?.push(searchData?.content?.product?.value[0]?.product_url)
-        : router?.push(`${ResultsPageLink?.value?.href}?search=${searchValue}`);
+      if (searchData?.content?.product?.value?.length === 1)
+        router?.push(searchData?.content?.product?.value[0]?.product_url);
+      else router?.push(`${ResultsPageLink?.value?.href}?search=${searchValue}`);
+
       handleClearSearch();
     } else {
       alert(RequiredMessage?.value);

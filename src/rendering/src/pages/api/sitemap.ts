@@ -4,30 +4,7 @@ import { siteResolver } from 'lib/site-resolver';
 import clientFactory from 'lib/graphql-client-factory';
 import config from '@/temp/config';
 
-interface ProductSitemap {
-  ProductCode: string;
-  Link: string;
-}
 const ABSOLUTE_URL_REGEXP = '^(?:[a-z]+:)?//';
-
-const escapeXml = (unsafe: string) => {
-  return unsafe.replace(/[&<>"']/g, (match) => {
-    switch (match) {
-      case '&':
-        return '&amp;';
-      case '<':
-        return '&lt;';
-      case '>':
-        return '&gt;';
-      case '"':
-        return '&quot;';
-      case "'":
-        return '&apos;';
-      default:
-        return match;
-    }
-  });
-};
 
 const sitemapApi = async (
   req: NextApiRequest,
@@ -55,7 +32,6 @@ const sitemapApi = async (
     const isAbsoluteUrl = sitemapPath.match(ABSOLUTE_URL_REGEXP);
     const sitemapUrl = isAbsoluteUrl ? sitemapPath : `${config.sitecoreApiHost}${sitemapPath}`;
     res.setHeader('Content-Type', 'text/xml;charset=utf-8');
-    let externalSitemaps = '';
     // Fetch product sitemaps from external API
     const productResponse = await fetch(
       `${process.env.NEXT_PUBLIC_MIDDLEWARE_API_URL}/api/Product/GetProductSitemaps`
@@ -64,17 +40,7 @@ const sitemapApi = async (
       throw new Error(`Failed to fetch product sitemap data: ${productResponse.status}`);
     }
 
-    const productData: { Results: ProductSitemap[] } = await productResponse.json();
-    const reqtHostProduct = req.headers.host;
-    const reqProtocolProduct = req.headers['x-forwarded-proto'] || 'https';
     res.setHeader('Content-Type', 'text/xml;charset=utf-8');
-    // Generate sitemap entries from the external API data
-    externalSitemaps =
-      productData?.Results?.map((item: ProductSitemap) => {
-        return `<url>
-        <loc>${escapeXml(`${reqProtocolProduct}://${reqtHostProduct}${item?.Link}`)}</loc>
-      </url>`;
-      }).join('') || '';
 
     try {
       const fetcher = new NativeDataFetcher();

@@ -118,11 +118,11 @@ const Table = <T,>({
 
   const handleFileView = (event: React.FormEvent, selectedFile: string) => {
     event.preventDefault();
-    onCellClick && onCellClick(selectedFile as string);
+    if (onCellClick) onCellClick(selectedFile as string);
   };
 
   const handleQuantityChange = (value: number, invoice: string) => {
-    getQuantityUpdate && getQuantityUpdate(value, invoice);
+    if (getQuantityUpdate) getQuantityUpdate(value, invoice);
   };
   useEffect(() => {
     if (isSelectAll === true) {
@@ -273,7 +273,7 @@ const Table = <T,>({
                       <button
                         className="mr-2 text-gray-500 hover:text-gray-700"
                         onClick={() => {
-                          onEdit && onEdit(item.id);
+                          if (onEdit) onEdit(item.id);
                         }}
                         aria-label="Edit"
                       >
@@ -284,7 +284,7 @@ const Table = <T,>({
                       <button
                         className="mr-2 text-gray-500 hover:text-gray-700"
                         onClick={() => {
-                          onEdit && onEdit(item.id, item?.isLocked);
+                          if (onEdit) onEdit(item.id, item?.isLocked);
                         }}
                         aria-label="Lock"
                       >
@@ -295,7 +295,7 @@ const Table = <T,>({
                       <button
                         className="text-gray-500"
                         onClick={() => {
-                          onDelete && onDelete(item.id);
+                          if (onDelete) onDelete(item.id);
                         }}
                         aria-label="Delete"
                       >
@@ -390,7 +390,7 @@ const Table = <T,>({
                   <button
                     className="mr-2 text-gray-500 hover:text-gray-700"
                     onClick={() => {
-                      onEdit && onEdit(item.id);
+                      if (onEdit) onEdit(item.id);
                     }}
                     aria-label="Edit"
                   >
@@ -401,7 +401,7 @@ const Table = <T,>({
                   <button
                     className="mr-2 text-gray-500 hover:text-gray-700"
                     onClick={() => {
-                      onEdit && onEdit(item.id);
+                      if (onEdit) onEdit(item.id);
                     }}
                     aria-label="Lock"
                   >
@@ -412,7 +412,7 @@ const Table = <T,>({
                   <button
                     className="text-gray-500"
                     onClick={() => {
-                      onDelete && onDelete(item.id);
+                      if (onDelete) onDelete(item.id);
                     }}
                     aria-label="Delete"
                   >

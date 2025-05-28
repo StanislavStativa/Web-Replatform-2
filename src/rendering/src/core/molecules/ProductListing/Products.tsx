@@ -197,10 +197,13 @@ const Products: React.FC<ProductListingProps> = (props) => {
   // initially set filter if present and remove atom after page unmount
   useEffect(() => {
     delete router.query.path;
-    Object.keys(router.query).length > 0 && updateFilterData();
+    if (Object.keys(router.query).length > 0) updateFilterData();
 
     return () => {
-      setFilterData([]), setFilterPayload({}), setSortPayload([]), setCurrentPage(1);
+      setFilterData([]);
+      setFilterPayload({});
+      setSortPayload([]);
+      setCurrentPage(1);
     };
   }, [router.isReady, router.asPath]);
 
@@ -212,10 +215,15 @@ const Products: React.FC<ProductListingProps> = (props) => {
   useEffect(() => {
     if (fromSearch === 'true') {
       setSitecorePath(path);
-      setFilterData([]), setSortPayload([]), setCurrentPage(1);
+      setFilterData([]);
+      setSortPayload([]);
+      setCurrentPage(1);
       removeSessionData('tts_fromSearch');
     } else if (sitecorePath && sitecorePath !== '' && sitecorePath !== path) {
-      setFilterData([]), setFilterPayload({}), setSortPayload([]), setCurrentPage(1);
+      setFilterData([]);
+      setFilterPayload({});
+      setSortPayload([]);
+      setCurrentPage(1);
     }
   }, [sitecorePath, fromSearch, path]);
 

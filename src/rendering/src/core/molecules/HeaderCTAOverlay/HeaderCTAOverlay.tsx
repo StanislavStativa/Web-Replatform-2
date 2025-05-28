@@ -29,19 +29,17 @@ const HeaderCTAOverlay = (props: IHeaderCTAOverlayProps) => {
   };
 
   const ValidateErrorMessage = () => {
-    !findAStore?.zipCode &&
-      !findAStore?.city &&
-      !findAStore?.state &&
+    if (!findAStore?.zipCode && !findAStore?.city && !findAStore?.state)
       alert(t('FindStore_RequiredMessage'));
-    !findAStore?.city && findAStore?.state && alert(t('Error_Please_Enter_City'));
-    findAStore?.city && !findAStore?.state && alert(t('Error_Please_Enter_State'));
+    if (!findAStore?.city && findAStore?.state) alert(t('Error_Please_Enter_City'));
+    if (findAStore?.city && !findAStore?.state) alert(t('Error_Please_Enter_State'));
   };
 
   const handleSubmit = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
     e.preventDefault();
     if (findAStore.zipCode) {
       {
-        OverlayCTA?.value?.href !== '' &&
+        if (OverlayCTA?.value?.href !== '')
           router
             .push(`${OverlayCTA?.value?.href}?near_location=${findAStore?.zipCode}`)
             .then(() => {
@@ -50,7 +48,7 @@ const HeaderCTAOverlay = (props: IHeaderCTAOverlayProps) => {
       }
     } else if (findAStore?.city && findAStore?.state) {
       {
-        OverlayCTA?.value?.href !== '' &&
+        if (OverlayCTA?.value?.href !== '')
           router
             .push(
               `${OverlayCTA?.value?.href}?near_location=${findAStore?.city}, ${findAStore?.state}`

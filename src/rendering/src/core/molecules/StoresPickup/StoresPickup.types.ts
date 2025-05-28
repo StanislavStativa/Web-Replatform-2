@@ -33,7 +33,6 @@ export interface IFullData {
   value: string;
   addressInfo: IFullAddressType;
 }
-[];
 
 export interface GroupedByState {
   [state: string]: {

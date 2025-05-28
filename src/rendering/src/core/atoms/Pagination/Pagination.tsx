@@ -43,10 +43,10 @@ const Pagination = ({
 
   const handlePageClick = (data: { selected: number }) => {
     setCurrentPage(data.selected);
-    onPageChange && onPageChange(data.selected);
+    if (onPageChange) onPageChange(data.selected);
   };
   const handleDownloadClick = () => {
-    onDownload && onDownload();
+    if (onDownload) onDownload();
   };
 
   return (
