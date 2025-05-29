@@ -4,7 +4,13 @@
 import React, { useEffect, useState } from 'react';
 import Head from 'next/head';
 import Script from 'next/script';
-import { Placeholder, Field, HTMLLink } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  Placeholder,
+  Field,
+  HTMLLink,
+  DesignLibrary,
+  RenderingType,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import config from 'temp/config';
 import Scripts from 'src/Scripts';
 import { useRouter } from 'next/router';
@@ -22,8 +28,8 @@ import { useAtom } from 'jotai';
 import { CartItemDetails } from './core/cartStore/CartStoreType';
 import { cartDetailAtom } from './core/cartStore/cartState';
 import { EXCLUDED_TEMPLATES } from './utils/constants';
-import { authorizationAtom } from './data/atoms/authorization';
 import { ROUTES } from './utils/routes';
+import { authorizationAtom } from './data/atoms/authorization';
 const EmarsysTracking = dynamic(
   () => import('./core/molecules/EmersaysTracking/EmersaysTracking'),
   {
@@ -86,6 +92,10 @@ const Layout = ({
   const [{ isAuthenticated }] = useAtom(authorizationAtom);
   const isPageEditing = layoutData?.sitecore?.context?.pageEditing;
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
+
+  const theme = layoutData.sitecore.context.theme as string;
+  const contextSiteClass = `site-${theme?.toLowerCase()}`;
+
   const googleTagManagerId = process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID;
   const sitName: string | undefined = process.env.NEXT_PUBLIC_OG_SITE_NAME; //layoutData?.sitecore?.context?.site?.name;
   const { getData } = useLocalStorage();
@@ -578,17 +588,29 @@ const Layout = ({
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}
-      <div className={mainClassPageEditing}>
-        <header>
-          <div id="header">{route && <Placeholder name="headless-header" rendering={route} />}</div>
-        </header>
-        <main className="mt-14 md:mt-24 lg:mt-32">
-          {children}
-          <div id="content">{route && <Placeholder name="headless-main" rendering={route} />}</div>
-        </main>
-        <footer>
-          <div id="footer">{route && <Placeholder name="headless-footer" rendering={route} />}</div>
-        </footer>
+      <div className={`${mainClassPageEditing} ${contextSiteClass} body`}>
+        {layoutData.sitecore.context.renderingType === RenderingType.Component ? (
+          <DesignLibrary {...layoutData} />
+        ) : (
+          <>
+            <header>
+              <div id="header">
+                {route && <Placeholder name="headless-header" rendering={route} />}
+              </div>
+            </header>
+            <main className="mt-14 md:mt-24 lg:mt-32">
+              {children}
+              <div id="content">
+                {route && <Placeholder name="headless-main" rendering={route} />}
+              </div>
+            </main>
+            <footer>
+              <div id="footer">
+                {route && <Placeholder name="headless-footer" rendering={route} />}
+              </div>
+            </footer>
+          </>
+        )}
       </div>
     </>
   );
