@@ -1,7 +1,7 @@
 import { AUTH_TOKEN } from '@/config';
 import { handleErrors } from '@/utils/request';
 import Cookies from 'js-cookie';
-import { Auth, OrderCloudError, Tokens } from 'ordercloud-javascript-sdk';
+import { Auth, OrderCloudError } from 'ordercloud-javascript-sdk';
 import { OpenAPI } from '@/api';
 // Add a flag to ensure the timer is only started once
 let timerStarted = false;
@@ -17,7 +17,6 @@ export const anonymousSignIn = async () => {
     OpenAPI.HEADERS = {
       Authorization: `Bearer ${token}`,
     };
-    Tokens.SetAccessToken(token);
     Cookies.set(AUTH_TOKEN, token);
 
     console.timeEnd('anonymousSignIn'); // End the timer
